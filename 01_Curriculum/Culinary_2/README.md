@@ -26,11 +26,18 @@ Start with these files:
 | `03_Semester_2_Module_Map.md` | Flexible Semester 2 module map |
 | `04_Bistro_Integration.md` | How Bistro prep and service connect to the course |
 | `05_CKC_Alignment.md` | How Certified Kitchen Cook work is embedded in labs and service |
-| `06_Line_Check_Cards.md` | Oral recall and scenario card set |
-| `07_Assessment_and_Rubrics.md` | Practical assessment philosophy and simple rubrics |
-| `08_Recipe_Use_Guidelines.md` | How recipes should be selected and used |
+| `../../03_Assessment/Culinary_2_Line_Check_Cards.md` | Oral recall and scenario card set |
+| `../../03_Assessment/Culinary_2_Assessment_and_Rubrics.md` | Practical assessment philosophy and simple rubrics |
+| `../../04_Recipes/Culinary_2_Recipe_Use_Guidelines.md` | How recipes should be selected and used |
 | `09_Annual_Adjustment_Process.md` | How to revise the curriculum each year |
 | `10_West_Ashley_25_Technique_Map.md` | How local dish vehicles connect to techniques |
+| `Culinary-2-Curriculum/` | Organized unit package shell for building Culinary 2 into a full teaching system |
+
+## Current Build-Out
+
+Culinary 2 is strong as a framework and pacing system. It is not yet as fully packaged as Culinary 1.
+
+Use `Culinary-2-Curriculum/` as the working location for unit packets, lab sheets, teacher notes, student-facing materials, slides, line checks, and delivery-ready exports as they are created.
 
 ## Working Rule
 

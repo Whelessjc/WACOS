@@ -2,6 +2,12 @@
 
 This folder contains current curriculum documents for West Ashley Culinary.
 
+## Start Here
+
+Use `Curriculum_Index.md` as the current map for Culinary 1, Culinary 2, and Hospitality Work-Based Learning.
+
+GitHub is the curriculum home of record. OneDrive, Desktop folders, and exported files may be source or delivery locations, but current curriculum organization should live here.
+
 ## Belongs Here
 
 - Culinary 1 curriculum.
@@ -32,3 +38,5 @@ Do not revive old ProStart-centered curriculum language as current policy unless
 ## Current Imports
 
 `Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source from the Desktop Culinary 1 curriculum folder. Generated delivery files such as ZIP, DOCX, PDF, and PPTX packages are intentionally excluded from GitHub unless later published as release assets.
+
+`Culinary_2/Culinary-2-Curriculum/` is the organized build-out package for Culinary 2. It currently provides the course-map and unit shell needed to expand Culinary 2 to match the classroom-ready depth of Culinary 1.

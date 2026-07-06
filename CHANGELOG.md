@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-07-06 - Add Curriculum Index and Culinary 2 Package Shell
+
+### Summary
+
+Added a curriculum index and organized Culinary 2 into a course package structure that can be expanded to match the classroom-ready depth of the imported Culinary 1 curriculum.
+
+### Added
+
+- `01_Curriculum/Curriculum_Index.md` as the current map for Culinary 1, Culinary 2, and Hospitality Work-Based Learning.
+- `01_Curriculum/Culinary_2/Culinary-2-Curriculum/` as the Culinary 2 build-out package.
+- Culinary 2 course map, unit overview folders, and a unit packet template.
+
+### Updated
+
+- `01_Curriculum/README.md` now points to the curriculum index and clarifies that GitHub is the curriculum home of record.
+- `01_Curriculum/Culinary_2/README.md` now points to the organized Culinary 2 package and corrected assessment and recipe document locations.
+
+### Confirmation
+
+This change did not rewrite Culinary 2 policy. It organized the existing Culinary 2 framework into a teaching-package structure and identified where fuller daily lesson materials should be built next.
+
 ## 2026-07-06 - Add Culinary 1 Curriculum Markdown
 
 ### Summary
