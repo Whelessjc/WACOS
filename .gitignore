@@ -1,0 +1,13 @@
+# Local and generated artifacts
+*.docx
+*.pdf
+*.zip
+*.lnk
+__pycache__/
+
+# Large historical source archives are kept locally unless explicitly published.
+99_Archive/WestAshleyCulinary_Research_Archive_v2_1/
+99_Archive/External_Culinary_2_Curriculum_Source_Copy/
+99_Archive/Culinary_2_Google_Docs_Upload_DOCX/
+99_Archive/External_Culinary_2_Build_Scripts/
+
