@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-07-06 - Add Culinary 1 Curriculum Markdown
+
+### Summary
+
+Imported the Desktop `Culinary-1-Curriculum` Markdown materials into the organized WACOS repository under `01_Curriculum/Culinary_1/Culinary-1-Curriculum/`.
+
+### Included
+
+- Canonical Culinary 1 curriculum Markdown source tree.
+- Top-level Culinary 1 Markdown notes.
+- Final-delivery Markdown materials under `FINAL-DELIVERY-Markdown/`.
+
+### Excluded From GitHub
+
+- ZIP packages.
+- DOCX exports.
+- PDF exports.
+- PPTX slide decks.
+
+These generated/binary delivery files remain local and are excluded by `.gitignore` unless intentionally published later as release assets.
+
+### Confirmation
+
+This import copied existing curriculum materials into the WACOS structure. It did not intentionally rewrite program policy.
+
 ## 2026-07-06 - Repository Structure Refactor
 
 ### Summary
@@ -55,4 +80,3 @@ No document meaning was intentionally changed. Files were moved or copied for or
 ### Confirmation
 
 This refactor reorganized files and added navigation documents. It did not intentionally rewrite program policy or change document meaning.
-

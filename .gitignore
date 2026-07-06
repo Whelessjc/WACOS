@@ -1,6 +1,7 @@
 # Local and generated artifacts
 *.docx
 *.pdf
+*.pptx
 *.zip
 *.lnk
 __pycache__/
@@ -10,4 +11,3 @@ __pycache__/
 99_Archive/External_Culinary_2_Curriculum_Source_Copy/
 99_Archive/Culinary_2_Google_Docs_Upload_DOCX/
 99_Archive/External_Culinary_2_Build_Scripts/
-

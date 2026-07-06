@@ -29,3 +29,6 @@ Curriculum must align with the Core Manual. Culinary 1 is foundation and explora
 
 Do not revive old ProStart-centered curriculum language as current policy unless explicitly reapproved.
 
+## Current Imports
+
+`Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source from the Desktop Culinary 1 curriculum folder. Generated delivery files such as ZIP, DOCX, PDF, and PPTX packages are intentionally excluded from GitHub unless later published as release assets.

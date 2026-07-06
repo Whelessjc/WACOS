@@ -145,3 +145,26 @@ The v2.1 changelog was archived as `99_Archive/WACOS_v2_1_Control_Reports/CHANGE
 5. Review `04_Recipes/` and identify the authoritative master recipe bank.
 6. Update internal links in moved documents if they will be used as clickable navigation documents.
 7. Use `00_Core/WACOS_Alignment_Checklist.md` before approving new documents as current.
+
+## 9. Follow-Up Import: Culinary 1 Desktop Curriculum
+
+Date: 2026-07-06
+
+After the initial refactor, a separate `Culinary-1-Curriculum` folder was identified on the Desktop. Its Markdown source materials were copied into:
+
+`01_Curriculum/Culinary_1/Culinary-1-Curriculum/`
+
+Included:
+
+- Canonical Culinary 1 curriculum Markdown source tree.
+- Top-level Culinary 1 Markdown notes.
+- Final-delivery Markdown materials in `FINAL-DELIVERY-Markdown/`.
+
+Excluded from GitHub:
+
+- ZIP files.
+- DOCX files.
+- PDF files.
+- PPTX files.
+
+These generated delivery/export files remain local and are excluded by `.gitignore`.
