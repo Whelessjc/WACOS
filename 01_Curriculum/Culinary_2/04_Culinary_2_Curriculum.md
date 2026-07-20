@@ -16,7 +16,7 @@ The working philosophy is **fundamentals under pressure**. Students enter with u
 | Real production time | Usually about 60 minutes on long blocks |
 | Shutdown | Flames off 15 minutes before bell |
 | Weekly rhythm | Monday-Wednesday new learning/labs, Thursday Bistro prep, Friday Bistro service |
-| Bistro launch | Readiness-based launch window around Week 4-6; early launch weeks focus on Bistro systems and training |
+| Bistro launch | Week 4 (Aug 31-Sep 4) begins Bistro systems and controlled soft-launch work; first normal public service is Friday, Sep 11 in Week 5, subject to readiness and safety |
 | Group size | Mostly groups of 3 |
 | Credential emphasis | CKC / Certified Kitchen Cook alignment, embedded early if reasonable |
 | Food Handler | Most students should already have it from Culinary 1; review/retake may be used at start |
@@ -41,7 +41,7 @@ The working philosophy is **fundamentals under pressure**. Students enter with u
 - Build product knowledge: proteins, grains, vegetables, spices, dairy.
 - Use Bistro menus as applied practice.
 - Introduce costing and menu math through actual Bistro items.
-- Rotate FOH and BOH roles.
+- Rotate through Dining, Kitchen, Support, and Barista roles.
 - Mentor newer students when appropriate.
 
 ## Culinary 2 Is Higher Standard, Not Looser Standard
@@ -57,4 +57,4 @@ Uniform, footwear, punctuality, station readiness, and sanitation expectations s
 - Reflection and portfolio.
 
 ## Related Decisions
-See [DECISION_REGISTER.md](DECISION_REGISTER.md) for credential, official title, Bistro launch, and semester sequence decisions.
+See [DECISION_REGISTER.md](../../00_Core/DECISION_REGISTER.md) for credential, official title, Bistro launch, and semester sequence decisions.

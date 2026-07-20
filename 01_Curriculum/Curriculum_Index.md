@@ -80,7 +80,7 @@ The package shell organizes Culinary 2 into teachable units that mirror the matu
 | --- | --- |
 | Program alignment | Strong. Culinary 1 and Culinary 2 now point toward the same program identity: Classroom to Table, High School, High Standards, Bistro-centered learning, and professional habits. |
 | Culinary 1 completeness | High. It is the most developed curriculum package in the repository. |
-| Culinary 2 completeness | Moderate-to-strong. Both semesters now have day-by-day working guides, but the course still needs consistent packaged teacher/student materials and confirmation of Semester 2 calendar/capstone details. |
+| Culinary 2 completeness | Moderate-to-strong. Both semesters have day-by-day working guides and adopted 2026-2027 calendar anchors. The course still needs consistent packaged teacher/student materials, the annual guest-chef roster, partner dates, and detailed testing/graduation adjustments. |
 | Bistro integration | Strong conceptually. Culinary 2 especially treats Thursday prep and Friday service as the instructional spine. |
 | Credential alignment | Current direction favors ServSafe Food Handler and Certified Kitchen Cook. ProStart Certificate of Achievement should not be treated as current policy. |
 | Organization | Improved. GitHub should now be treated as the single curriculum source of truth. |

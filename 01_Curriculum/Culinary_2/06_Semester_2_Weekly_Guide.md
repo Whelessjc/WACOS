@@ -4,10 +4,30 @@ This replaces the v1 draft. Same depth and format as `02_Semester_1_Weekly_Guide
 
 1. **Culinary 1 runs a spring cohort too**, and they need the same Week 1-4 Bistro training/readiness runway that fall CA1 students get. Since Bistro is shared, Culinary 2 does not return to a locked Thursday-prep/Friday-service rhythm until that runway is complete. That gives Culinary 2 full Monday-Friday instructional days for the first few weeks of the semester - a real opportunity, not a loss.
 2. **The capstone format is a five-course tasting menu for Explore Charleston guests**, with each course modeled on a real visiting chef's style - that part is confirmed and repeatable. The specific chef-to-course assignments below (Michelle Weaver, Kevin Mitchell, Lamont Ferebee, Marc Collins, Keyonna Bryant) were last year's actual guest chefs, not a fixed roster. This year's Explore Charleston visit dates and guest chef lineup aren't confirmed yet, and the roster will likely be different. Funding for proteins is confirmed. Ice cream machines and full baking/pastry equipment are available. This replaces the "lead a Bistro station" default from v1.
-3. **The real end of year is compressed and unpredictable.** Based on the most recent EOY testing calendar available (2024-25 pattern: roughly two weeks of AP exams, then underclassmen exam days plus makeup days, then graduation, then a half day/last-day-for-students), instructional time in the final stretch is not reliable. Week 36 specifically has no real work - it is graduation and exam makeup days, and students typically don't show up. The exact 2026-27 exam calendar isn't available yet; treat the week numbers below as a pattern to adjust once it is.
+3. **The real end of year is compressed and unpredictable.** The adopted academic calendar places Week 35 on May 3-7 and Week 36 on May 10-14, followed by two additional calendar blocks before the May 27 last student day. Keep Weeks 35-36 flexible, then use May 17-27 as the testing, make-up, portfolio, inventory, and shutdown buffer. The detailed 2026-27 testing and graduation calendars are still pending.
 4. **A Basic Tasks & Fundamentals scan (same one run against Culinary 1) found that Culinary 2 assumes these are fully retained from Culinary 1 without ever verifying it.** Week 19's diagnostic step now explicitly names Basic Tasks as a candidate category for "weakest retained skill," not just cooking technique. The equivalent fixes in Semester 1 (Week 1 Thursday, Week 2 scaling callback, Week 9 CKC practical push, fire-safety callbacks in Weeks 7 and 10) live in `02_Semester_1_Weekly_Guide.md` and `05_CKC_Alignment.md` directly.
 
-Working default for the capstone (format confirmed; roster open): each team designs, rehearses, and executes one course of a five-course tasting menu for Explore Charleston guests, using a real visiting chef's style as the creative constraint. Which chefs and which courses depends on who actually visits this year - see the Guest Chef Roster note at the start of the Tasting Menu Capstone phase below. The Final Bistro of the year is this event, landing around Week 33 (with Week 34 built in as an explicit buffer if it needs to move).
+Working default for the capstone (format confirmed; roster open): each team designs, rehearses, and executes one course of a five-course tasting menu for Explore Charleston guests, using a real visiting chef's style as the creative constraint. Which chefs and which courses depends on who actually visits this year - see the Guest Chef Roster note at the start of the Tasting Menu Capstone phase below. The preferred Final Bistro is Week 33, April 19-23. Week 34 is an emergency buffer, but Monday, April 26 has no students unless used as a weather make-up day.
+
+## 2026-2027 Calendar Anchors
+
+Use `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` as the date authority.
+
+| Week | Dates | Adjustment |
+| --- | --- | --- |
+| 19 | Jan 4-8 | Monday teacher workday; students return Tuesday. |
+| 21 | Jan 18-22 | Monday closed for MLK Day. |
+| 22 | Jan 25-29 | Preferred Bistro relaunch; full week. |
+| 23 | Feb 1-5 | Relaunch fallback; full week. |
+| 24 | Feb 8-12 | Friday early release. |
+| 25 | Feb 15-19 | Monday closed for Presidents' Day. |
+| 28 | Mar 8-12 | Friday early release. |
+| 29 | Mar 15-19 | Monday professional development; students begin capstone Tuesday. |
+| 32 | Apr 12-16 | Full rehearsal week. |
+| 33 | Apr 19-23 | Preferred tasting-menu execution; full week. |
+| 34 | Apr 26-30 | Monday no students unless weather make-up; emergency buffer only. |
+| 35 | May 3-7 | Flexible completion/testing/reset. |
+| 36 | May 10-14 | Flexible completion/testing/reset; not the final student week. |
 
 ## Standing Rules
 
@@ -24,7 +44,7 @@ Working default for the capstone (format confirmed; roster open): each team desi
 
 Purpose: rebuild habits after break, and use the fact that Bistro isn't fully open yet to get ahead on baking and pastry. Culinary 1's spring cohort is on their own Week 1-4 Bistro-readiness track during this window - Culinary 2 has full Monday-Friday days until it's done.
 
-## Week 19: Re-entry, Reset, and Rebuild
+## Week 19: Re-entry, Reset, and Rebuild (Jan 4-8; Students Return Tuesday)
 
 Core skill focus:
 
@@ -44,8 +64,8 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can reset my daily habits without being reminded. | Black coat expectations revisited. | Station setup drill, cleaning-role reassignment, knife-safety recheck. |
-| Tuesday | I can read a recipe and rebuild a mise list without prompting. | Quick recap: marking yield, time, equipment, hazards. | Mark a short recipe in groups of 3; rebuild a mise list from memory. |
+| Monday | No student instruction. | Teacher workday and Semester 2 setup. | Confirm stations, cleaning roles, diagnostic materials, and safety systems. |
+| Tuesday | I can reset my daily habits and rebuild a mise list without prompting. | Black coat expectations, station reset, and quick recipe-marking recap. | Station setup drill followed by a short recipe/mise-list task. |
 | Wednesday | I can execute a known dish cleanly, and name what my class still needs to rebuild. | Minimal demo - let students show what they retained. | Cook a Semester 1 anchor dish; teacher observes and identifies the class's weakest retained skill - explicitly consider Basic Tasks (hand sink/3-comp sink setup, sanitizer ppm, thermometer calibration, thawing, labeling, fire safety) as a candidate category alongside cooking technique, not just an assumed given. |
 | Thursday | I can apply extra practice to the skill our class needs most. | Targeted micro-lesson tied directly to Wednesday's gap. | Full class period used as a repetition lab on the identified gap - this is the extra day Bistro's closed status makes possible. |
 | Friday | I can combine the rebuilt skill into a full plate under light time pressure. | Minimal demo. | Composed plate using the rebuilt skill as the anchor; teacher scores against the real Semester 1 standard, not a soft-relaunch standard. |
@@ -121,7 +141,7 @@ Flex notes:
 
 - Cut the Friday peer-mentorship option first if scheduling doesn't line up; a second baking rep is a fine substitute.
 
-## Week 21: Baking Foundations Continue - Mixing Method (Biscuits)
+## Week 21: Baking Foundations Continue - Mixing Method (Biscuits) (Jan 18-22; Monday MLK Day)
 
 Core skill focus:
 
@@ -140,8 +160,8 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can explain how mixing affects texture. | Gluten development, cold fat, overmixing. | Biscuit dough, mixed correctly; compare texture before and after baking. |
-| Tuesday | I can identify overmixing by feel, not just by the clock. | What overmixed dough feels and looks like. | Two batches - correct vs. deliberately overmixed - baked and compared. |
+| Monday | No student instruction. | MLK Day; schools closed. | No lab or service work. |
+| Tuesday | I can explain how mixing affects texture and identify overmixing by feel. | Gluten development, cold fat, and the look/feel of correctly mixed versus overmixed dough. | Side-by-side correct and deliberately overmixed biscuit batches. |
 | Wednesday | I can produce a consistent batch under time pressure. | Quick demo; minimal talking. | Full batch production, timed, with a quality check. |
 | Thursday | I can prep Bistro systems are ready for the week Bistro reopens. | Storage, labels, dish flow, sanitizer - full recheck, not a first-time lesson this time. | Bistro readiness walkthrough: confirm par levels, station bins, and labels are set for next week's relaunch. |
 | Friday | I can run a mock Bistro service to prepare for real reopening. | Pre-service huddle language, reviewed. | Mock service (low volume, no real guests) - final rehearsal before Bistro reopens Week 22, ideally alongside Culinary 1's spring cohort's own mock-service week. |
@@ -175,7 +195,7 @@ Flex notes:
 
 Purpose: Bistro returns to full rhythm - matching Culinary 1's Week 4 opening - while the baking phase finishes out its remaining three skill areas at the normal Monday-Wednesday/Thursday-Friday pace.
 
-## Week 22: Bistro Reopens - Yeast Fermentation (Mixing and First Rise)
+## Week 22: Bistro Reopens - Yeast Fermentation (Mixing and First Rise) (Jan 25-29; Preferred Relaunch)
 
 Core skill focus:
 
@@ -222,7 +242,7 @@ Flex notes:
 
 - If Culinary 1 isn't fully ready by this week, push the relaunch to Week 23 and use this week's Thursday/Friday as one more mock-service/bonus baking day.
 
-## Week 23: Yeast Fermentation - Shaping and Baking
+## Week 23: Yeast Fermentation - Shaping and Baking (Feb 1-5; Relaunch Fallback if Needed)
 
 Core skill focus:
 
@@ -268,7 +288,7 @@ Flex notes:
 
 - Cut the topping variation first; protect the bake and honest evaluation step.
 
-## Week 24: Custards
+## Week 24: Custards (Feb 8-12; Friday Early Release)
 
 Core skill focus:
 
@@ -289,7 +309,7 @@ Suggested recipes or recipe types:
 | Tuesday | I can tell when a custard is properly thickened. | Coats-the-spoon test, temperature range. | Repeat the custard with attention to doneness cues. |
 | Wednesday | I can bake a custard without curdling it. | Water bath, oven temperature, doneness by jiggle. | Baked custard (toward sweet potato pie or banana pudding). |
 | Thursday | I can prep a custard-based item for Bistro with proper cooling and storage. | Cooling custard safely; storage temperature. | Bistro prep - custard-based dessert component. |
-| Friday | I can serve a dessert I built real technique into. | Brief hospitality note: desserts are often the last thing a guest remembers. | Bistro service, dessert component included. |
+| Friday | I can present and evaluate a dessert during an abbreviated service block. | Early-release hospitality and reset priorities. | Abbreviated Bistro service, dessert tasting, or product evaluation; protect cooling, storage, and reset. |
 
 Line Check prompts:
 
@@ -313,7 +333,7 @@ Flex notes:
 
 - Cut the baked custard if time is short; the stovetop version teaches the core skill faster.
 
-## Week 25: Frozen Dessert and Plated Dessert - Baking Phase Capstone
+## Week 25: Frozen Dessert and Plated Dessert - Baking Phase Capstone (Feb 15-19; Monday Presidents' Day)
 
 Core skill focus:
 
@@ -332,9 +352,9 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can explain what makes a frozen dessert base work. | Base composition, chilling, ice crystal control. | Mix and chill an ice cream or sorbet base. |
-| Tuesday | I can churn a base and evaluate the texture. | Churning method, using the ice cream machine. | Churn the base from Monday; taste and evaluate texture. |
-| Wednesday | I can plate a dessert with flavor, texture, and timing balance. | Composed plating: base, sauce, garnish, textural contrast. | Build a full plated dessert using this phase's skills. |
+| Monday | No student instruction. | Presidents' Day; schools closed. | No lab or service work. |
+| Tuesday | I can explain what makes a frozen dessert base work. | Base composition, chilling, and ice-crystal control. | Mix and rapidly chill an ice cream or sorbet base for Wednesday. |
+| Wednesday | I can churn, evaluate, and plate a frozen dessert with balance. | Churning method plus composed plating: base, sauce, garnish, and textural contrast. | Churn the base, evaluate texture, and build a focused plated dessert. |
 | Thursday | I can prep a dessert component for Bistro that requires real timing discipline. | Timing a frozen or plated dessert component for service. | Bistro prep - dessert component finished and staged. |
 | Friday | I can close out the baking phase by serving a dessert I am proud of. | Short debrief: what changed since Week 20. | Bistro service, dessert component included; short phase debrief. |
 
@@ -460,7 +480,7 @@ Flex notes:
 
 - If she-crab soup isn't feasible on a given day, macaroni and cheese alone still covers the full skill target.
 
-## Week 28: Full Station Ownership
+## Week 28: Full Station Ownership (Mar 8-12; Friday Early Release)
 
 Core skill focus:
 
@@ -481,7 +501,7 @@ Suggested recipes or recipe types:
 | Tuesday | I can write the full prep list and par plan for my proposed dish. | No new lesson - application of Weeks 26-27. | Build the prep list and par plan for the approved feature. |
 | Wednesday | I can rehearse my dish under real timing. | Minimal demo. | Full rehearsal of the feature dish, timed. |
 | Thursday | I can run my station's entire prep list with only a start/end teacher checkpoint. | Teacher checkpoint at open and close only. | Bistro prep, run almost entirely by students. |
-| Friday | I can run my station through a full service with minimal prompting. | Student-led huddle. | Bistro service; teacher scores station ownership specifically. |
+| Friday | I can demonstrate station ownership during an abbreviated service block. | Student-led early-release huddle and priority check. | Abbreviated Bistro service or station-ownership practical; teacher scores independence, communication, and reset. |
 
 Line Check prompts:
 
@@ -538,7 +558,7 @@ The table below is last year's actual roster, kept as a worked example of the pa
 
 Each team uses the Tasting Menu Team Worksheet (team members, course, assigned chef, dish name, chef's message, inspirations, plating choice, Monday prep, Tuesday prep) as the working document for the whole unit, regardless of which chefs end up on this year's roster.
 
-## Week 29: Kickoff and Team Formation
+## Week 29: Kickoff and Team Formation (Mar 15-19; Monday No Students)
 
 Core skill focus:
 
@@ -555,10 +575,10 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can explain the tasting menu capstone and what my team's course requires. | Full unit introduced; five courses assigned using this year's confirmed guest chef roster (or fallback themes where a visit didn't happen). | Teams formed; worksheets distributed; course and mentor confirmed per team. |
-| Tuesday | I can describe my assigned chef's real style, drawing on their actual visit (or, if no chef was assigned, on the fallback theme). | Brief review of the year's chef-visit log and what each visit actually covered. | Teams revisit notes from their assigned chef's real visit (or research the fallback theme); begin filling in "Chef's Message" and "Inspirations" on the worksheet. |
-| Wednesday | I can propose a dish concept that meets my course's specific requirements. | Review each course's hard requirements (component count, protein type, flavor direction) from the original course prompts. | Draft a dish name and initial concept; check it against the course's requirements. |
-| Thursday | I can propose a plating direction for my dish. | Plate shape, color, size - how plating choice supports the dish's message. | Draft "Plating" section of the worksheet; sketch or describe the plate. |
+| Monday | No student instruction. | Professional development day. | Instructor confirms teams, roster/fallback themes, worksheets, and product constraints. |
+| Tuesday | I can explain the capstone and describe my assigned chef's style or fallback theme. | Introduce the five courses, confirm teams, and review the year's chef-visit log. | Distribute worksheets; confirm course/mentor; begin "Chef's Message" and "Inspirations." |
+| Wednesday | I can propose a dish concept that meets my course's requirements. | Review protein, component, flavor, cost, and production constraints. | Draft a dish name and concept; check it against requirements and mentor/theme. |
+| Thursday | I can connect my dish concept to a purposeful plating direction. | Plate shape, color, scale, and how plating supports the message. | Finalize the initial concept and draft the worksheet's plating section. |
 | Friday | I can pitch my team's concept and take feedback. | What useful pitch feedback sounds like. | Teams pitch initial concepts to the class; teacher and peers give first-round feedback. |
 
 Line Check prompts:
@@ -676,7 +696,7 @@ Flex notes:
 
 - If a team's dish still isn't guest-ready, that's the information Week 32's final rehearsal needs - don't paper over it.
 
-## Week 32: Final Rehearsal
+## Week 32: Final Rehearsal (Apr 12-16; Full Week)
 
 Core skill focus:
 
@@ -722,7 +742,7 @@ Flex notes:
 
 - If a full dry run isn't possible, at minimum protect Tuesday's timed rehearsal and Thursday's final prep planning.
 
-## Week 33: Execution - Explore Charleston Tasting Menu (Final Bistro)
+## Week 33: Execution - Explore Charleston Tasting Menu (Final Bistro) (Apr 19-23; Preferred Execution)
 
 Core skill focus:
 
@@ -763,13 +783,13 @@ CKC alignment:
 
 Bistro prep/service notes:
 
-- This event is the Final Bistro of the year. If it needs to move to Week 34 instead (guest availability, calendar conflict), swap this week and next week's content - Week 32's final rehearsal still applies directly.
+- This event is the Final Bistro of the year. Week 33 is the preferred execution window because it is a full five-day week. If partner availability forces a move to Week 34, use the compressed Tuesday-Friday alternate plan below.
 
 Flex notes:
 
 - Protect Wednesday above everything else this week. If Monday or Tuesday prep is disrupted, condense but do not cancel.
 
-## Week 34: Debrief, or Alternate Execution Week
+## Week 34: Debrief, or Emergency Alternate Execution Week (Apr 26-30; Monday No Students Unless Weather Make-Up)
 
 Core skill focus:
 
@@ -786,7 +806,7 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can document my team's dish and process for a portfolio. | What's worth keeping: photos, final recipe, chef's message. | Portfolio documentation of the tasting menu course. |
+| Monday | No student instruction unless this becomes a weather make-up day. | Professional development/weather make-up boundary. | Instructor organizes event records or prepares the compressed alternate-execution plan. |
 | Tuesday | I can give specific feedback on another team's course. | What useful peer feedback sounds like, specific to this unit. | Structured cross-team feedback and sharing. |
 | Wednesday | I can return to regular Bistro rhythm after a specialized unit. | Brief recalibration - back to the normal standard. | Regular Bistro prep resumes if this was skipped during the tasting menu unit. |
 | Thursday | I can support regular Bistro prep at full standard. | No new lesson. | Bistro prep. |
@@ -813,20 +833,20 @@ Bistro prep/service notes:
 
 Flex notes:
 
-- If Week 33 was the alternate/rehearsal week and this week is the real event, use Week 33's daily plan directly.
+- If the event must run this week, use Tuesday and Wednesday for prep, Thursday for the tasting-menu event, and Friday for debrief/reset. Do not copy Week 33's Monday-Friday plan unchanged because Monday has no students unless it becomes a weather make-up day.
 
 ---
 
 ## Phase: Wind-Down (Weeks 35-36)
 
-Purpose: be honest about what these two weeks actually are, based on the real end-of-year testing pattern (AP exams, EOCs, underclassmen exam days, makeup days, and graduation all land in a roughly three-to-four-week window). Don't plan real new instruction against a calendar that won't hold it.
+Purpose: use the final two weeks of the 36-week curriculum spine for flexible completion, portfolio evidence, make-up assessments, inventory, and reset. Under the adopted calendar mapping, these are May 3-14—not the final two student weeks. Detailed testing schedules may still interrupt attendance.
 
-## Week 35: Wind-Down
+## Week 35: Flexible Completion and Wind-Down (May 3-7)
 
 Core skill focus:
 
 - whatever the class still needs, at low stakes
-- kitchen and inventory reset begun early, since attendance may already be thinning
+- portfolio, make-up, kitchen, and inventory work adjusted to actual testing interruptions
 
 Foodways/place connection:
 
@@ -861,60 +881,66 @@ CKC alignment:
 
 Bistro prep/service notes:
 
-- Do not count on reliable Bistro service this week. If it happens, treat it as a bonus.
+- Do not require Bistro service this week. If attendance and testing schedules support it, use service as optional evidence.
 
 Flex notes:
 
-- Start the deep clean early this week rather than waiting for Week 36 - Week 36 will not reliably have working days available.
+- Start the deep clean and inventory work early while preserving make-up assessments and portfolio completion.
 
-## Week 36: No New Work - Graduation and Exam Makeups
+## Week 36: Flexible Completion, Portfolio, and Reset (May 10-14)
 
 Core skill focus:
 
-- none - this week has no reliable instructional time
+- complete remaining required evidence without introducing a new unit
+- continue portfolio, inventory, and kitchen-reset work
 
 Foodways/place connection:
 
-- none planned
+- reflection on readiness for work, further training, or the next program stage
 
 Suggested recipes or recipe types:
 
-- none
+- teacher-selected make-up task, portfolio evidence, or no-cook reflection/reset work
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | (No new content planned.) | - | Kitchen open for deep clean/inventory if students are present; exam makeup days likely in progress. |
-| Tuesday | (No new content planned.) | - | Same as Monday. |
-| Wednesday | (No new content planned.) | - | Graduation and related activities typically fall in this window - do not plan instructional content. |
-| Thursday | (No new content planned.) | - | Half day / last day for students is typically in this window - confirm against the actual calendar once available. |
-| Friday | (No new content planned.) | - | Teacher workday - no students. |
+| Monday | I can identify and complete my highest-priority unfinished evidence. | Individual completion plan and safety boundary. | Make-up practical, portfolio evidence, inventory, or reset assignment. |
+| Tuesday | I can document a specific example of growth from this year. | Evidence-based reflection rather than general claims. | Portfolio completion or short conference. |
+| Wednesday | I can support the kitchen's inventory and reset accurately. | Inventory condition notes, storage, and reporting. | Inventory, labeling review, smallwares organization, or equipment-area reset. |
+| Thursday | I can complete a final assigned task without creating new work for others. | Closeout ownership and handoff. | Make-up work, deep clean, or documentation based on attendance/testing. |
+| Friday | I can leave a clear record of completed work and remaining needs. | Final weekly debrief. | Completion check, portfolio submission, and kitchen status handoff. |
 
 Line Check prompts:
 
-- None planned this week.
+- What evidence still needs completion?
+- What does the kitchen still need before shutdown?
+- What work can you complete independently and safely?
 
 Differentiation note:
 
-- None - there is no new instruction to differentiate.
+- Use individual task menus because testing schedules and remaining evidence will vary by student.
 
 CKC alignment:
 
-- none new; all CKC evidence should already be complete by this point in the year
+- no new CKC strand; use the week only to complete missing evidence where appropriate
 
 Bistro prep/service notes:
 
-- No Bistro service expected. Students typically don't show up.
+- No Bistro service is required. Schedule service only if attendance, testing, product, and reset needs support it.
 
 Flex notes:
 
-- The exact 2026-27 exam calendar isn't available yet. Once it is, confirm that Week 36 in this guide actually lines up with graduation/exam-makeup week, and shift the whole back half of this document earlier or later by the same number of weeks if it doesn't.
+- Do not treat Week 36 as the last student week. The curriculum spine ends May 14, with May 17-27 reserved as the post-guide calendar buffer.
+
+## Post-Guide Calendar Buffer: May 17-27
+
+The academic calendar continues for two additional blocks after Week 36. Use May 17-27 for testing interruptions, make-up work, portfolio completion, inventory, deep cleaning, equipment shutdown, graduation-related disruptions, and other year-end requirements. Thursday, May 27 is the early-release last day for students; Friday, May 28 is a teacher workday. Do not add a new required content unit in this buffer until the detailed testing and graduation calendars are known.
 
 ---
 
 ## Open Items for Confirmation
 
 - **Guest chef roster and Explore Charleston visit dates are unconfirmed.** This is bigger than a Week 29 detail - if the tasting menu depends on real visiting chefs, the roster needs to be built across the whole year (see the chef-visit log guidance at the start of the Tasting Menu Capstone phase), not assembled cold in Week 29. Worth adding a simple visit-log habit to the monthly Hospitality Scholars routine starting in Semester 1.
-- **Week 33 vs. Week 34 for the tasting menu event** - built as an explicit either/or. Confirm once the real calendar (including Explore Charleston's availability) is set.
-- **The 2026-27 exam calendar** isn't available yet. Everything in Weeks 35-36 is based on the 2024-25 pattern as a rough proxy - revisit once the real dates exist.
+- **Explore Charleston availability for the Week 33 tasting menu** remains unconfirmed. Week 33 is the preferred calendar window; Week 34 is an emergency compressed fallback.
+- **The detailed 2026-27 testing and graduation calendars** are not yet available. Adjust Weeks 35-36 and the May 17-27 buffer when those dates are released.
 - **Whether Culinary 1's spring cohort will actually be ready by Week 22** - if their training runs long, push the Bistro relaunch to Week 23 and treat Week 22 as a second mock-service/bonus-baking week.
-- **This guide still hasn't been checked against real 2026-27 calendar dates**, holidays, or half days the way the Semester 1 flex-mod calendars were - that would be the natural next build once the content above is confirmed.

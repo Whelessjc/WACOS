@@ -8,7 +8,7 @@ West Ashley Culinary is a working kitchen inside a school. The program is not bu
 
 The most stable public language from the source history is:
 - **West Ashley Culinary**
-- **Kitchen + Classroom**
+- **Classroom to Table**
 - Hands-on culinary arts and hospitality
 - Practice, service, teamwork, responsibility
 - Real kitchen experience

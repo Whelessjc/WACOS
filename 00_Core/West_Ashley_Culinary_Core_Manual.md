@@ -407,7 +407,7 @@ Readiness includes:
 - Mock service.
 - Closing and reset.
 
-The program uses a readiness-based launch model. For 2026-2027, Week 4 is the confirmed launch target. The instructor may modify or pause service when safety or readiness requires it.
+The program uses a readiness-based launch model. For 2026-2027, Week 4 (August 31-September 4) begins Bistro systems, mock service, and optional tightly controlled soft-opening work. Because Friday, September 4 is an early-release day, the first normal public Bistro service is Friday, September 11 in Week 5. The instructor may reduce, postpone, or pause service when safety or readiness requires it.
 
 ### Life of an Order
 
@@ -700,7 +700,7 @@ Current weekly rhythm:
 
 ### Bistro Launch
 
-For 2026-2027, the program uses Week 4 as the confirmed Bistro launch target. Launch remains readiness-based: the instructor may use a controlled soft opening, modify service, or pause launch when safety or student readiness requires it.
+For 2026-2027, the program uses Week 4 as the confirmed Bistro launch window and Week 5 as the first normal public-service target. The adopted calendar mapping is recorded in `2026-07-20_Calendar_Week_Mapping.md`. Launch remains readiness-based: the instructor may use a controlled soft opening, modify service, or pause launch when safety or student readiness requires it.
 
 ### Partner and Event Balance
 

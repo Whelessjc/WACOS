@@ -1,17 +1,12 @@
 # Lesson Sequence: Bistro Systems Reinforcement
 
-Rewritten 2026-07 using the real dining room operations training materials (Customer_Service.pptx). This unit picks up where Unit 4 left off - reinforcing systems after the soft opening rather than teaching them for the first time.
+Rewritten 2026-07 using the real dining room operations training materials (Customer_Service.pptx). This unit picks up where Unit 4 left off - reinforcing systems after the early-release rehearsal/soft opening and preparing for the first normal public service on Friday, September 11.
 
-## Day 1: Soft Opening Debrief and Restaurant Lingo
-- Opening routine: huddle with service reflection and guest-awareness question.
-- Demo or mini-lesson: debrief the soft opening with facts, not blame. Review restaurant lingo and terms covered in Unit 4 (86, expo, ticket, fire, all day, FOH/BOH). Reinforce "warm plates" and plating/garnish/service standards.
-- Student work: name one strength, one guest-impact issue, and one station problem from the soft opening.
-- Lab/application: station reset rehearsal using the soft-opening problems as the scenario.
-- Cleanup/reset: reset practice with dish, towel, counter, and floor check.
-- Exit check: one system to improve before the next service.
+## Day 1: Labor Day - No School
+- No student instruction. Move the Week 4 debrief into Day 2's opening huddle.
 
-## Day 2: Handling Problems - HEARD, Allergies, and Side Work
-- Opening routine: agenda check and role focus.
+## Day 2: Week 4 Debrief, HEARD, Allergies, and Side Work
+- Opening routine: debrief Week 4 with facts, not blame; name one strength, one guest-impact issue, and one station problem before moving into role focus.
 - Demo or mini-lesson: the HEARD method for guest complaints - Hear, Empathize, Apologize, Resolve, Diagnose. Walk through two real scenarios: a guest who received the wrong order after a long wait, and a guest who found a hair in their food. For each, work through what to say at each HEARD step. Cover dietary restrictions and allergies - flag to the kitchen immediately, never guess. Brief, direct note on pilfering (taking small amounts of food/supplies without permission) as a trust and integrity issue, not just a rule.
 - Student work: in pairs, script a HEARD response to each scenario; review the appropriate side-work checklist for your station (Server/Host, Cooks, Support Staff, or Barista) and identify one task you weren't already doing.
 - Lab/application: station setup, task rehearsal, and reset practice.
@@ -34,10 +29,10 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Cleanup/reset: label, store, clean, reset.
 - Exit check: what is one thing you said today that used suggestive-selling language on purpose?
 
-## Day 5: Bistro Timing and Final Readiness
+## Day 5: First Normal Public Bistro Service
 - Opening routine: readiness check, huddle, roles confirmed.
 - Demo or mini-lesson: walk through the real Bistro block timing schedule (start class, prep lists, take drink order, serve drinks and take food order, serve food, finish clearing, leave) so students understand the actual minute-by-minute rhythm of a service block. Review the four teams/rotations - Dining, Kitchen, Support, Barista - and confirm who is rotating where next.
 - Student work: complete assigned prep or service role under real timing.
-- Lab/application: service, dish flow, guest awareness, reset, debrief - Mock Service 2.0 with a reset pause halfway through if needed.
+- Lab/application: first normal public Bistro service, subject to instructor readiness and safety authority; service, dish flow, guest awareness, reset, and debrief under controlled menu volume.
 - Cleanup/reset: full room reset before reflection.
 - Exit check: one improvement from Unit 4 and one stewardship habit to keep.

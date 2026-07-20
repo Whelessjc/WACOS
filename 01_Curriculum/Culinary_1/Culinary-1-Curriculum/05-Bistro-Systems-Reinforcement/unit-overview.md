@@ -1,13 +1,13 @@
 # Unit 05: Bistro Systems Reinforcement
 
 ## Weeks Covered
-Week 5
+Week 5 (September 7-11, 2026; Monday closed for Labor Day)
 
 ## Focus
 Stabilize service before moving deeper into technical skills.
 
 ## Purpose
-Students debrief the soft opening, clarify roles, retrain stations, practice ticket flow and communication standards, complete mock service 2.0, and continue Bistro prep and service. The week also reinforces guest awareness, clean stations, dish flow, and shared stewardship so service feels calmer and more respectful.
+Students debrief the Week 4 rehearsal/soft opening, clarify roles, retrain stations, practice ticket flow and communication standards, complete a final service rehearsal, and prepare for the first normal public Bistro service on Friday, September 11. The week also reinforces guest awareness, clean stations, dish flow, and shared stewardship so service feels calmer and more respectful.
 
 ## Learning Targets
 - I can identify what worked and what needs improvement after service.
@@ -44,7 +44,7 @@ Students debrief the soft opening, clarify roles, retrain stations, practice tic
 - Bistro service
 
 ## Bistro Connection
-This unit keeps Bistro service from becoming chaotic by strengthening the systems students already tried in Week 4: clear roles, clean stations, guest awareness, dish flow, and calm communication.
+This unit keeps Bistro service from becoming chaotic by strengthening the systems students tried in Week 4 and carrying them into the first normal public service: clear roles, clean stations, guest awareness, dish flow, and calm communication.
 
 ## Assessment Ideas
 - Service debrief participation

@@ -6,6 +6,8 @@ The calendar will move. The process should not.
 
 The year is organized across 4 quarters and about 36 instructional weeks.
 
+For 2026-2027, use `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` to translate week labels into dates. The 36-week curriculum spine ends May 14, leaving May 17-27 as a testing, make-up, portfolio, inventory, and shutdown buffer. Shortened weeks still retain their week number; full no-instruction break weeks are skipped.
+
 The design is technique-first and place-embedded.
 
 Do not organize the course around cuisines or regions. Organize it around techniques and professional habits. Use Lowcountry, South Carolina, Southern, student-favorite, and occasional international dishes as vehicles where they fit naturally.
@@ -29,7 +31,7 @@ Flames off 15 minutes before the bell.
 | Module | Approx. Timing | Main Work | Non-Negotiables |
 | --- | --- | --- | --- |
 | 1. Re-establish the Baseline | Weeks 1-4 | Heat, seasoning, knife control, rice/grains, timing, workflow reset | stable daily routines, station setup, clean-as-you-go |
-| 2. Bistro Systems and Service Integration | Weeks 4-5 | Ticket flow, communication, station ownership, prep continuity | Thursday prep and Friday service rhythm begins |
+| 2. Bistro Systems and Service Integration | Weeks 4-5 | Ticket flow, communication, station ownership, prep continuity | Week 4 systems/controlled soft launch; first normal public service Friday, Sep 11 in Week 5 |
 | 3. Proteins, Heat, and Doneness | Weeks 6-9 | Chicken, shrimp, beef, thermometers, carryover, browning | doneness judgment, safe handling, simple sauces, CKC evidence |
 | 4. Sauces, Moist Heat, Rice Dishes, and Structure | Weeks 10-14 | Roux, reductions, emulsions, soups, braises, Lowcountry rice dishes | simmer control, sauce texture, seasoning correction |
 | 5. Eggs, Batter, Frying, and Baking Control | Weeks 15-18 | Eggs, batters, frying systems, baking control, practical skill check | clean frying, timing, station reset, semester culmination |

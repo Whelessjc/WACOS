@@ -66,14 +66,14 @@ Weeks covered: Week 4
 
 Focus: Understand the full flow of service.
 
-Students learn Life of an Order, guest arrival to farewell, station assignments, station training, mock service, Bistro prep, and soft opening.
+Students learn Life of an Order, guest arrival to farewell, station assignments, station training, mock service, Bistro prep, and soft opening. For 2026-2027, Week 4 is August 31-September 4; the early-release Friday is limited to a full mock or tightly controlled soft opening rather than normal public service.
 
 ### 05. Bistro Systems Reinforcement
 Weeks covered: Week 5
 
 Focus: Stabilize service before moving deeper into technical skills.
 
-Students debrief the soft opening, clarify roles, retrain stations, practice ticket flow and communication, complete mock service 2.0, and continue Bistro prep and service.
+Students debrief the Week 4 rehearsal/soft opening, clarify roles, retrain stations, practice ticket flow and communication, and prepare for the first normal public Bistro service on Friday, September 11, subject to readiness and safety.
 
 ### 06. Knife Skills Progression
 Weeks covered: Weeks 6 to 9

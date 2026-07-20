@@ -4,6 +4,20 @@ This guide covers Weeks 1-18.
 
 It is built for a real culinary lab. Use it as a planning spine, not a locked calendar.
 
+## 2026-2027 Calendar Anchors
+
+Use `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` as the date authority. Key Semester 1 interruptions are built into the affected daily plans below:
+
+| Week | Dates | Adjustment |
+| --- | --- | --- |
+| 1 | Aug 10-14 | Students begin Tuesday, Aug 11. |
+| 4 | Aug 31-Sep 4 | Friday early release; mock or tightly controlled soft opening only. |
+| 5 | Sep 7-11 | Monday closed for Labor Day; first normal public Bistro service Friday. |
+| 9 | Oct 5-9 | Friday half day. |
+| 10 | Oct 12-16 | Monday has no students. |
+| 13 | Nov 2-6 | Tuesday closed for Election Day. |
+| 18 | Dec 14-18 | Friday half day; practical completed before Friday. |
+
 The course stays technique-first. Lowcountry, Southern, student-favorite, and occasional international dishes are used as vehicles for skill practice and foodways/place connections.
 
 ## Standing Rules
@@ -31,7 +45,7 @@ Every class should have:
 - flames off and reset
 - short debrief
 
-## Week 1: Re-entry, Trust, and Baseline
+## Week 1: Re-entry, Trust, and Baseline (Aug 10-14; Students Begin Tuesday)
 
 Core skill focus:
 
@@ -54,8 +68,8 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can explain what Culinary 2 expects from me in the kitchen. | Black coat expectations, daily rhythm, flames off, station reset. | Uniform check, room/kitchen walk, cleaning role practice, station setup drill. |
-| Tuesday | I can read a recipe before I start cooking. | How to mark yield, time, equipment, hazards, and quality cues. | Mark a short recipe in groups of 3; build a basic mise list. If Hospitality Scholars occurs, move this to Wednesday. |
+| Monday | No student instruction. | Teacher preparation for the first student day. | Confirm stations, safety materials, cleaning roles, and baseline tasks. |
+| Tuesday | I can explain Culinary 2 expectations and read a recipe before cooking. | Black coat expectations, daily rhythm, flames off, station reset, then how to mark yield, time, equipment, hazards, and quality cues. | Room/kitchen walk, station setup drill, and a short recipe-marking/mise-list task. |
 | Wednesday | I can set up a safe board and make controlled cuts. | Board stability, claw, grip, scrap control, cut-size purpose. | Onion/carrot/celery baseline cuts; teacher observes control and station habits. |
 | Thursday | I can identify Bistro spaces, explain basic prep flow, and demonstrate the specific safety/sanitation procedures Culinary 1 taught. | Storage, labels, dish flow, sanitizer, towel use - named specifically this time: hand sink stocking, three-compartment sink wash/rinse/sanitize order, mixing sanitizer to ppm and reading a test strip, thermometer calibration via ice bath, thawing methods, and full labeling mechanics (prep vs. discard date, initials, FIFO). Quick fire-safety callback: grease fire response, extinguisher location. | Bistro orientation without service pressure; students walk stations and demonstrate - not just discuss - each item above before moving to the next. |
 | Friday | I can complete a simple lab and leave my station reset. | Saute pan heat, clean-as-you-go, tasting before service. | Simple sauteed vegetables or grain bowl; short station observation. |
@@ -192,7 +206,7 @@ Flex notes:
 - Cut the second cut style if time is short.
 - Protect safe board setup, prep sequencing, and label practice.
 
-## Week 4: Bistro Systems Week 1
+## Week 4: Bistro Systems Week 1 (Aug 31-Sep 4; Friday Early Release)
 
 Core skill focus:
 
@@ -220,7 +234,7 @@ Suggested recipes or recipe types:
 | Tuesday | I can communicate clearly when I am ready or not ready. | Short service phrases: heard, working, two minutes, I need help. | Role rotation and service recovery scenarios. If Hospitality Scholars occurs, connect it to guest communication. |
 | Wednesday | I can set a station and run a controlled mock service. | Opening checklist, product check, reset after pickup. | Timed station setup and mock service with low-volume items. |
 | Thursday | I can prep Bistro items with teacher checkpoints. | First product check before batch continues. | Real Bistro prep: labels, storage, sauces, cold items, simple batch work. |
-| Friday | I can participate in soft service or full mock service calmly. | Pre-service huddle and debrief language. | Limited Bistro menu, controlled ticket volume, teacher stops for safety/quality only. |
+| Friday | I can participate in a shortened soft service or full mock service calmly. | Early-release huddle, reduced menu, and debrief language. | Tightly controlled limited-guest soft opening or full mock service; this is not normal public service. |
 
 Line Check prompts:
 
@@ -239,14 +253,14 @@ CKC alignment:
 
 Bistro prep/service notes:
 
-- This is a training week. Soft service is fine. Full service is optional and should stay controlled.
+- This is a training week. The early-release Friday may be a full mock or tightly controlled soft opening. The first normal public service is Friday, September 11 in Week 5.
 
 Flex notes:
 
 - Cut menu complexity first.
 - Protect ticket language, station setup, labels, and reset.
 
-## Week 5: Bistro Systems Week 2
+## Week 5: Bistro Systems Week 2 (Sep 7-11; Monday Labor Day)
 
 Core skill focus:
 
@@ -270,11 +284,11 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can explain what carries safely into another day. | Cooling, labeling, covered storage, what should not be saved. | Prep continuity audit; students inspect sample labels and build Thursday prep plan. |
-| Tuesday | I can check food for service quality before it leaves the station. | Taste, texture, portion, temperature, garnish. | Quality-control tasting: compare under-seasoned, over-thick, poorly held, and service-ready samples. |
+| Monday | No student instruction. | Labor Day; schools closed. | No lab or service work. |
+| Tuesday | I can explain safe prep carryover and check food for service quality. | Cooling, labeling, storage, taste, texture, portion, temperature, and garnish. | Combined prep-continuity audit and focused quality-control tasting. |
 | Wednesday | I can run a station with fewer teacher prompts. | Timing board, call-backs, recovery language. | Service rehearsal with real prep and timed tickets. |
 | Thursday | I can complete a Bistro prep list and reset the station. | Student prep list check before starting. | Bistro prep with students carrying more of the setup and labels. |
-| Friday | I can support Bistro service and recover from small problems. | Pre-service huddle, post-service debrief. | Bistro service; teacher observes communication, timing, station reset. |
+| Friday | I can support the first normal public Bistro service and recover from small problems. | Pre-service huddle, controlled-menu expectations, and post-service debrief. | First normal public Bistro service, subject to readiness and safety; teacher observes communication, timing, and reset. |
 
 Line Check prompts:
 
@@ -462,7 +476,7 @@ Flex notes:
 - Cut either shrimp or steak, not both.
 - Protect quick-protein timing and sauce consistency.
 
-## Week 9: CKC Practical Push and Kitchen Usefulness
+## Week 9: CKC Practical Push and Kitchen Usefulness (Oct 5-9; Friday Half Day)
 
 Core skill focus:
 
@@ -489,7 +503,7 @@ Suggested recipes or recipe types:
 | Tuesday | I can answer CKC kitchen questions out loud and apply them. | Safety, sanitation, equipment, temperatures, workflow. | Line Check rotation; short station/equipment identification. |
 | Wednesday | I can complete a practical station check from setup to reset. | Practical check expectations and timing. | CKC-style practical: knife cut, simple cooking method, taste/adjust, clean reset. |
 | Thursday | I can apply CKC standards during real Bistro prep. | Teacher checks labels, safety, workflow, communication. | Bistro prep as credential evidence. |
-| Friday | I can show readiness during Bistro service. | Service evidence: communication, timing, sanitation, follow-through. | Bistro service; teacher records readiness notes. |
+| Friday | I can show readiness during an abbreviated service block or practical debrief. | Half-day evidence priorities: communication, sanitation, follow-through, and reset. | Abbreviated service evidence, make-up check, or practical debrief; do not depend on a normal service block. |
 
 Line Check prompts:
 
@@ -515,7 +529,7 @@ Flex notes:
 - If interrupted, move the formal CKC attempt.
 - Protect the practical check and station reset.
 
-## Week 10: Fish, Frying Setup, and Delicate Heat
+## Week 10: Fish, Frying Setup, and Delicate Heat (Oct 12-16; Monday No Students)
 
 Core skill focus:
 
@@ -540,9 +554,9 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can handle fish or seafood gently and safely. | Fish doneness, flake test, moisture control, and poaching liquid held below a boil. | Seared or gently poached fish sample with slaw or rice. |
-| Tuesday | I can set up a clean dredging or breading station. | Dry hand/wet hand, pan order, waste control. | Breading station practice; sauce or slaw prep if Hospitality Scholars does not meet. |
-| Wednesday | I can fry food with controlled oil temperature and clean station habits. | Oil temp, batch size, draining, seasoning immediately. Fire-safety callback (highest-risk station in the room): never use water on a grease fire, know the extinguisher location, keep a lid nearby to smother small flare-ups. | Fried fish, fried shrimp, or fried green tomato preview with sauce. |
+| Monday | No student instruction. | Family Data Conferences/teacher workday. | No lab or service work. |
+| Tuesday | I can handle fish or seafood gently and safely. | Fish doneness, flake test, moisture control, and poaching liquid held below a boil. | Seared or gently poached fish sample with slaw or rice. |
+| Wednesday | I can set up a clean breading station and fry with controlled oil temperature. | Dry hand/wet hand, pan order, oil temperature, batch size, draining, immediate seasoning, and grease-fire response. | Combined breading/frying application using fish, shrimp, or another approved vehicle. |
 | Thursday | I can prep Bistro items without creating cross-contamination. | Fry station mise and holding limits. | Bistro prep; cold sauce, slaw, portioning, station bins. |
 | Friday | I can keep service clean when the station gets busy. | Fry/service cleanup and recovery. | Bistro service; focus on clean station under pressure. |
 
@@ -678,7 +692,7 @@ Flex notes:
 - Cut either reduction or emulsion station if needed.
 - Protect sauce consistency and timing.
 
-## Week 13: Soup Structure and Simmer Control
+## Week 13: Soup Structure and Simmer Control (Nov 2-6; Tuesday Election Day)
 
 Core skill focus:
 
@@ -703,8 +717,8 @@ Suggested recipes or recipe types:
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
 | Monday | I can build a soup in the right order. | Sweat aromatics, add liquid, simmer, skim, season. | Broth-based soup or okra soup structure. |
-| Tuesday | I can control texture in a pureed or thickened soup. | Blending safety, viscosity, garnish. | Pureed soup station or teacher demo with student tasting. |
-| Wednesday | I can make a cream soup or chowder without scorching or breaking it. | Dairy control, simmer vs boil, final seasoning. | Cream soup, chowder, or she-crab-inspired soup if feasible. |
+| Tuesday | No student instruction. | Election Day; schools closed. | No lab or service work. |
+| Wednesday | I can control texture in a pureed, thickened, or cream soup without scorching or breaking it. | Blending safety, viscosity, dairy control, simmer vs. boil, and final seasoning. | Combined texture-control soup station or teacher demo with student tasting. |
 | Thursday | I can batch soup for Bistro with safe cooling and labels. | Cooling shallow, label, reheat plan. | Bistro prep; soup batch production or component prep. |
 | Friday | I can serve soup at the right temperature, texture, and portion. | Holding and garnish control. | Bistro service; soup service if on menu. |
 
@@ -949,7 +963,7 @@ Flex notes:
 - Cut banana pudding or dessert component.
 - Protect one baking-control rep and practical review.
 
-## Week 18: Semester Practical and Culmination
+## Week 18: Semester Practical and Culmination (Dec 14-18; Friday Half Day)
 
 Core skill focus:
 
@@ -976,7 +990,7 @@ Suggested recipes or recipe types:
 | Tuesday | I can answer line checks and make small corrections before the final practical. | Rapid recall: safety, heat, sauce, rice, service. | Line Check rotation or small station checks; Hospitality Scholars may replace this. |
 | Wednesday | I can complete a timed practical from setup to reset. | Minimal demo; clarify target and time. | Semester practical: teacher-selected task with tasting, sanitation, communication, and reset evidence. |
 | Thursday | I can support Bistro prep or semester kitchen reset responsibly. | What the kitchen needs before break. | Bistro prep if service is active; otherwise deep reset and inventory support. |
-| Friday | I can finish the semester with service, reset, and a short honest reflection. | Debrief: what improved, what still breaks under pressure. | Bistro service, final reset, or practical debrief depending on calendar. |
+| Friday | I can finish the semester with an abbreviated reset and honest reflection. | Half-day debrief: what improved and what still breaks under pressure. | Final reset, practical debrief, and reflection; do not schedule a normal Bistro service. |
 
 Line Check prompts:
 

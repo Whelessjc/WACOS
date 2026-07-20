@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-07-20 - Adopt 2026-2027 Academic Calendar Mapping
+
+### Decision
+
+Adopted the CCSD 2026-2027 Academic Calendar as the date authority for the current school year. Week 4 begins Bistro systems, mock service, and optional tightly controlled soft-opening work. Because Friday, September 4 is early release, the first normal public Bistro service is Friday, September 11 in Week 5, subject to readiness and safety.
+
+### Calendar Integration
+
+- Added `00_Core/2026-07-20_Calendar_Week_Mapping.md` with the approved week-numbering method, shortened-week adjustments, Semester 2 anchors, and May 17-27 post-guide buffer.
+- Mapped Culinary 2 Weeks 19, 22, 29, 32, 33, 34, 35, and 36 to real dates.
+- Corrected the Semester 2 assumption that Week 36 was the final student week; it is May 10-14, followed by two additional calendar blocks before the May 27 last student day.
+- Set Week 33, April 19-23, as the preferred Explore Charleston tasting-menu execution window and Week 34 as an emergency compressed fallback.
+- Embedded known closures, early releases, and shortened-week adjustments into the affected Culinary 1 and Culinary 2 daily plans.
+
+### Consistency Corrections
+
+- Replaced remaining current-facing `Kitchen + Classroom` references with `Classroom to Table`.
+- Replaced FOH/BOH as a current Bistro team structure with Dining, Kitchen, Support, and Barista while retaining FOH/BOH as industry vocabulary only.
+- Updated the Core Manual, Decision Register, source manifest, traceability, curriculum indexes, Bistro guidance, and administration references without overwriting newer WACOS content.
+
 ## 2026-07-20 - Add WACOS Return and Update Workflow
 
 ### Summary
