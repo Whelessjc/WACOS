@@ -1,5 +1,40 @@
 # Changelog
 
+## 2026-07-20 - Reconcile Claude Resource Intake
+
+### Summary
+
+Reviewed the supplied Claude-generated Markdown and Word resources, incorporated current source material, removed duplicate/superseded claims, and synchronized WACOS with the instructor decisions recorded July 19, 2026.
+
+### Current Decisions Applied
+
+- Grading: 20% Employability, 35% Labs, 45% Summative & Bistro.
+- Credentials: ServSafe Food Handler for Culinary 1 and CKC for Culinary 2; ServSafe Manager retired from Culinary 2.
+- Bistro launch: Week 4 target for 2026-2027, with instructor readiness/safety authority.
+- Uniforms: Culinary 1 white jacket with logo; Culinary 2 black jacket with name and logo.
+- Guest recovery: HEARD method.
+- Bistro teams: Dining, Kitchen, Support, and Barista.
+
+### Added or Updated
+
+- Added three Culinary 1 foundational vehicles: dried pasta with basic tomato sauce, basic vinaigrette with simple salad, and basic pan sauce.
+- Added whole-chicken breakdown to Culinary 2 Proteins, Heat, and Doneness, subject to supervision, sourcing, budget, and calendar confirmation.
+- Reviewed the photographed cookbook overview against both course foundations; added cookware sizing/care and substitution judgment to Culinary 1 Unit 03.
+- Confirmed and incorporated the four photo-review recommendations: tofu as the Culinary 1 plant-protein vehicle, same-day refrigerated quick pickling in Culinary 1 Flavor Systems, explicit poaching in Culinary 2 Proteins/Heat/Doneness, and gated broiler/grill fundamentals across Culinary 1 and 2.
+- Added firm safety boundaries: no canning or fermentation in the quick-pickle application, and no student broiler/grill operation without the equipment-specific SOP, safety readiness, instruction/demo, supervision, and individual authorization.
+- Recorded the instructor's final approval of the tofu, poaching, quick-pickle, and broiler/grill recommendations; remaining items are implementation-document tasks rather than open curriculum decisions.
+- Culinary 2 Semester 1 corrections and Semester 2 Weekly Guide.
+- Culinary 1 Units 4-5 service lesson updates and basic-tasks coverage map.
+- Bistro Life of an Order, service standards, and team SOPs.
+- WBL Readiness Bridge and Standard Recipe Format.
+- Intake report and instructor decision note.
+
+### Held Out
+
+- Generated DOCX planning/delivery copies remain excluded from GitHub.
+- Recipe-project instructions were not imported because the referenced archive and completed bank files were not supplied.
+- POS/payment and master recipe-bank completion remain open rather than being inferred.
+
 ## 2026-07-06 - Add Curriculum Index and Culinary 2 Package Shell
 
 ### Summary

@@ -57,7 +57,7 @@ Suggested recipes or recipe types:
 | Monday | I can explain what Culinary 2 expects from me in the kitchen. | Black coat expectations, daily rhythm, flames off, station reset. | Uniform check, room/kitchen walk, cleaning role practice, station setup drill. |
 | Tuesday | I can read a recipe before I start cooking. | How to mark yield, time, equipment, hazards, and quality cues. | Mark a short recipe in groups of 3; build a basic mise list. If Hospitality Scholars occurs, move this to Wednesday. |
 | Wednesday | I can set up a safe board and make controlled cuts. | Board stability, claw, grip, scrap control, cut-size purpose. | Onion/carrot/celery baseline cuts; teacher observes control and station habits. |
-| Thursday | I can identify Bistro spaces and explain basic prep flow. | Storage, labels, dish flow, sanitizer, towel use. | Bistro orientation without service pressure; students walk stations and practice label format. |
+| Thursday | I can identify Bistro spaces, explain basic prep flow, and demonstrate the specific safety/sanitation procedures Culinary 1 taught. | Storage, labels, dish flow, sanitizer, towel use - named specifically this time: hand sink stocking, three-compartment sink wash/rinse/sanitize order, mixing sanitizer to ppm and reading a test strip, thermometer calibration via ice bath, thawing methods, and full labeling mechanics (prep vs. discard date, initials, FIFO). Quick fire-safety callback: grease fire response, extinguisher location. | Bistro orientation without service pressure; students walk stations and demonstrate - not just discuss - each item above before moving to the next. |
 | Friday | I can complete a simple lab and leave my station reset. | Saute pan heat, clean-as-you-go, tasting before service. | Simple sauteed vegetables or grain bowl; short station observation. |
 
 Line Check prompts:
@@ -73,7 +73,7 @@ Differentiation note:
 
 CKC alignment:
 
-- sanitation, equipment identification, recipe reading, professional readiness
+- sanitation (named specifically Thursday: hand sink/3-comp sink setup, sanitizer ppm, thermometer calibration, thawing, labeling), equipment identification, recipe reading, professional readiness
 
 Bistro prep/service notes:
 
@@ -109,7 +109,7 @@ Suggested recipes or recipe types:
 | --- | --- | --- | --- |
 | Monday | I can tell the difference between sweating and sauteing. | Pan heat, moisture, color, sound, and when to lower heat. | Onion base two ways; students compare sweat vs saute and record one sensory cue orally. |
 | Tuesday | I can season in layers and taste with purpose. | Salt, acid, fat, heat; how to taste without guessing. | Taste plain rice or vegetables, then adjust with salt, acid, herbs, or pepper vinegar. |
-| Wednesday | I can cook rice or grains with controlled timing. | Rinse or no rinse, ratio, simmer, cover, rest, fluff. | Basic rice, Hoppin' John-style rice and peas, or red rice starter depending on supplies. |
+| Wednesday | I can cook rice or grains with controlled timing, and scale the ratio for a different batch size. | Rinse or no rinse, ratio, simmer, cover, rest, fluff. BASIC TASK CALLBACK: Scale the rice ratio from a 4-serving base to a 12-serving batch - direct application of the recipe-scaling skill Culinary 1 taught, now applied to a real production quantity instead of a worksheet. | Basic rice, Hoppin' John-style rice and peas, or red rice starter depending on supplies; at least one group scales their batch up or down and checks the math before cooking. |
 | Thursday | I can prep, label, and store items for later use. | Label format, covered storage, what carries safely. | Bistro prep practice: aromatics, rice/starch prep, simple sauces, or cold items. |
 | Friday | I can produce a simple composed item with clean timing. | Plate timing and final seasoning. | Vegetable and rice bowl, Hoppin' John variation, or simple red rice plate. |
 
@@ -378,7 +378,7 @@ Suggested recipes or recipe types:
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can create browning without burning the pan. | Preheat, dry protein, oil shimmer, do not crowd. | Seared chicken breast or pork cutlet; rest and slice. |
+| Monday | I can create browning without burning the pan. | Preheat, dry protein, oil shimmer, do not crowd. Quick fire-safety callback: what to do if oil starts smoking heavily or flames - lower heat, never add water, know where the extinguisher is. | Seared chicken breast or pork cutlet; rest and slice. |
 | Tuesday | I can explain what the pan is telling me. | Sound, steam, fond, sticking, smoke. | Short pan vocabulary check and line checks; Hospitality Scholars may replace lab. |
 | Wednesday | I can build a simple plate with protein, starch, and vegetable. | Timing multiple components, finishing seasoning. | Protein plate with rice/grain and vegetable. Optional quick pan jus. |
 | Thursday | I can prep Bistro items from a written prep list. | Student-built prep list before teacher approval. | Bistro prep; students track timing and station needs. |
@@ -534,14 +534,15 @@ Suggested recipes or recipe types:
 - fried whiting or flounder
 - fried shrimp
 - seared fish
+- gently poached fish
 - remoulade or comeback sauce
 - simple slaw
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
-| Monday | I can handle fish or seafood gently and safely. | Fish doneness, flake test, moisture control. | Seared or gently cooked fish sample with slaw or rice. |
+| Monday | I can handle fish or seafood gently and safely. | Fish doneness, flake test, moisture control, and poaching liquid held below a boil. | Seared or gently poached fish sample with slaw or rice. |
 | Tuesday | I can set up a clean dredging or breading station. | Dry hand/wet hand, pan order, waste control. | Breading station practice; sauce or slaw prep if Hospitality Scholars does not meet. |
-| Wednesday | I can fry food with controlled oil temperature and clean station habits. | Oil temp, batch size, draining, seasoning immediately. | Fried fish, fried shrimp, or fried green tomato preview with sauce. |
+| Wednesday | I can fry food with controlled oil temperature and clean station habits. | Oil temp, batch size, draining, seasoning immediately. Fire-safety callback (highest-risk station in the room): never use water on a grease fire, know the extinguisher location, keep a lid nearby to smother small flare-ups. | Fried fish, fried shrimp, or fried green tomato preview with sauce. |
 | Thursday | I can prep Bistro items without creating cross-contamination. | Fry station mise and holding limits. | Bistro prep; cold sauce, slaw, portioning, station bins. |
 | Friday | I can keep service clean when the station gets busy. | Fry/service cleanup and recovery. | Bistro service; focus on clean station under pressure. |
 

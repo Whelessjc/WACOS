@@ -19,6 +19,7 @@ Identify the source material used to reconstruct WACOS and preserve traceability
 | S011 | Certification development threads | Food Handler, CKC, and credential planning |
 | S012 | Migration / knowledge-base threads | AI knowledge base and repository migration planning |
 | S013 | `https://github.com/Whelessjc/WACOS` (live WACOS repository) | Current authoritative source for governing documents (`00_Core/`), the fully packaged Culinary 1 curriculum, the current Culinary 2 framework and build-out package, Bistro operations (`02_Bistro/`), assessment (`03_Assessment/`), recipes (`04_Recipes/`), AI workflows (`05_AI/`), templates (`06_Templates/`), administration (`07_Administration/`), and equipment/safety (`08_Equipment_and_Safety/`). Supersedes archived or copied materials where content differs; `99_Archive/` is historical only. |
+| S014 | Instructor-supplied photographs of the chapter overview and selected foundation pages from *The New Cooking School Cookbook: Fundamentals*, reviewed 2026-07-20 | Gap-analysis evidence only. No photographed pages or recipes were imported. Current instructor decisions and WACOS documents remain authoritative. |
 
 ## Evidence Location
 Detailed source packets, topic packets, and ranked extraction reports are preserved in `WestAshleyCulinary_Research_Archive_v2_1`.

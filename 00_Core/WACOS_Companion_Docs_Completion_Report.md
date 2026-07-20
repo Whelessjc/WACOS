@@ -1,6 +1,6 @@
 # WACOS Companion Docs Completion Report
 
-Current as of July 4, 2026
+Originally completed July 4, 2026; policy references reconciled July 20, 2026. Current governing decisions remain in the Core Manual and Decision Register.
 
 ## Files Created
 
@@ -17,7 +17,7 @@ The documents were checked against the WACOS Alignment Checklist for:
 
 - Authority alignment with the Core Manual.
 - Current program identity.
-- Current grading structure: 30% Employability, 30% Labs, 40% Summative.
+- Current grading structure: 20% Employability, 35% Labs, 45% Summative & Bistro.
 - Bistro centrality.
 - Current credential direction: ServSafe Food Handler and Certified Kitchen Cook.
 - ProStart Certificate of Achievement treated as historical, not current policy.
@@ -33,7 +33,7 @@ The following items still need instructor confirmation in future subordinate doc
 - Current POS, payment, reservation, customer, and cash-handling procedures for Bistro service.
 - Current equipment-specific SOPs, facility maps, shutoff locations, and emergency procedures.
 - Master recipe bank authority, deduplication, and approval process.
-- Certified Kitchen Cook implementation calendar and testing process.
+- Certified Kitchen Cook testing logistics beyond the current Weeks 1-9 embedded preparation and Week 9 practical push.
 - Work-Based Learning documentation, partner expectations, and evaluation process.
 
 ## Conflicts Noticed
@@ -43,21 +43,20 @@ No new conflicts were introduced.
 Known historical conflicts remain documented in the Core Manual and traceability file:
 
 - Older ProStart-centered language versus current credential direction.
-- Older grading structures versus current 30/30/40 model.
+- Older grading structures versus the current 20% Employability, 35% Labs, 45% Summative & Bistro model.
 - Older "advanced class" framing versus current Culinary 2 fundamentals-under-pressure framing.
 - Archive material that may be useful historically but should not govern current practice.
 
 ## Recommended Next Steps
 
-1. Create a `Bistro_Operations_Playbook.md` with current prep, service, closing, guest flow, and role systems.
-2. Create a `WACOS_Assessment_Guide.md` with simple employability, lab, and summative rubrics.
+1. Complete the remaining Bistro payment, queue/reservations, refund/comp, and cash/till decisions in D006.
+2. Build the remaining printable assessment forms and live grading sheets tracked in `TODO.md`.
 3. Create a `Kitchen_Mode_Routine.md` once the instructor confirms the exact student-facing routine.
-4. Create a `WACOS_SOP_Index.md` to list current SOPs, missing SOPs, and instructor-confirmation needs.
-5. Use `WACOS_Custom_Instructions_Draft.md` to configure the dedicated ChatGPT account, then test it with a lesson plan, Bistro prep plan, and rubric request.
+4. Complete the equipment-specific SOP cards, shutoff map, and student safety sign-offs.
+5. Finish master recipe-bank deduplication and approval.
 
 ## Core Manual Changes Recommended
 
 No Core Manual edits were made.
 
 Potential future addition: define "Kitchen Mode" in the Core Manual if the term becomes official program language rather than only a playbook routine label.
-

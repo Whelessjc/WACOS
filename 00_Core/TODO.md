@@ -1,11 +1,10 @@
 # WACOS TODO
 
 ## Highest Priority Instructor Decisions
-- Resolve grade weights and gradebook categories. See D001 in [DECISION_REGISTER.md](DECISION_REGISTER.md).
-- Confirm Culinary 1 and Culinary 2 Bistro launch timing. See D002.
 - Confirm Culinary 2 official and informal naming. See D003.
-- Confirm Food Handler, CKC / Certified Kitchen Cook, and ServSafe Manager sequence. See D004.
-- Confirm Bistro customer, order, payment, POS, and cash-handling procedures. See D006.
+- Confirm exact Employability point deductions within the current 100-point weekly scale. See D001.
+- Confirm Bistro payment types, queue/reservations interaction, refunds/comps, and cash/till procedures. See D006.
+- Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
 
 ## Missing Documentation
 - Official school/district course names and course codes.
@@ -25,3 +24,12 @@
 - Build Culinary 1 and Culinary 2 pacing calendars from the real school calendar.
 - Create a cleaned ChatGPT Edu upload bundle.
 - Decide which archive source packets can be public, private-instructor-only, or retired.
+
+## Foundation Implementation Details
+
+- Document the final Culinary 1 tofu recipe and allergen-control sequence before the lab.
+- Document the final Culinary 2 poaching recipe vehicle based on cost, scheduling, and available product.
+- Publish the approved Culinary 1 refrigerated quick-pickle formula, label format, and same-day discard procedure before the lab.
+- Publish the equipment-specific broiler/grill SOP, safety check, and student authorization record before any student operation.
+
+The instructor has approved all four curriculum additions. These are documentation and implementation tasks, not open curriculum decisions.

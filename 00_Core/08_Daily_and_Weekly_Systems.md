@@ -22,6 +22,8 @@ Document repeatable routines that keep instruction, production, cleaning, planni
 | Thursday | Bistro prep |
 | Friday | Bistro service and reflection |
 
+For 2026-2027, Week 4 is the confirmed Bistro launch target. The first service may be a controlled soft opening, particularly when Friday is shortened. Readiness and safety remain instructor-controlled gates.
+
 ## Interruption-Ready Planning
 The curriculum must assume interruptions: testing, field trips, guest speakers, weather, early release, pep rallies, school events, and monthly Hospitality Scholars. Plans should be modular rather than fragile.
 

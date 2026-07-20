@@ -22,4 +22,4 @@
 |---|---|
 | Advanced | Avoid as the main description for Culinary 2 unless explaining that the course is deeper, not simply fancier. |
 | Culinary 3 | Use only as informal shorthand; official language should be Hospitality Work-Based Learning until confirmed. |
-| ServSafe Manager | Treat as unresolved for Culinary 2 unless confirmed in the decision register. |
+| ServSafe Manager | Retired from the current Culinary 2 credential pathway; use CKC instead. |

@@ -51,7 +51,7 @@ Suggested structure:
 | --- | --- | --- |
 | Monday | Recipe reading and scaling | Marked recipe, scaled yield, mise list |
 | Tuesday | Oral recall and safety | Line check responses |
-| Wednesday | Practical station check | Knife, sanitation, cooking method, tasting, reset |
+| Wednesday | Practical station check | Knife, sanitation (hand sink/3-comp sink setup, sanitizer ppm, thermometer calibration and probe use, labeling/FIFO - named specifically, not just observed generally), cooking method, tasting, reset |
 | Thursday | Bistro prep | Embedded professional standards |
 | Friday | Bistro service | Communication, timing, safe service |
 
@@ -99,4 +99,3 @@ Avoid:
 - What does carryover cooking mean?
 - What is the difference between cleaning and sanitizing?
 - What is your next move if your station is falling behind?
-

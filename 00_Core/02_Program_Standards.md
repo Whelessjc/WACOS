@@ -20,6 +20,13 @@ Students are expected to be ready, clean, organized, safe, useful, and coachable
 | Quality | Follow recipes, taste thoughtfully, check doneness, plate intentionally, and correct errors |
 | Reflection | Identify what worked, what failed, and what changes next time |
 
+## Course Uniforms
+
+- Culinary 1: white chef jacket with program logo.
+- Culinary 2: black chef jacket with student name and program logo.
+
+These course colors were instructor-confirmed for 2026-2027 on July 19, 2026. Uniform readiness remains part of observable Employability evidence.
+
 ## Non-Negotiables
 - No unauthorized equipment use.
 - No unsafe knife handling.

@@ -40,3 +40,5 @@ Do not revive old ProStart-centered curriculum language as current policy unless
 `Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source from the Desktop Culinary 1 curriculum folder. Generated delivery files such as ZIP, DOCX, PDF, and PPTX packages are intentionally excluded from GitHub unless later published as release assets.
 
 `Culinary_2/Culinary-2-Curriculum/` is the organized build-out package for Culinary 2. It currently provides the course-map and unit shell needed to expand Culinary 2 to match the classroom-ready depth of Culinary 1.
+
+`Hospitality_WBL/WBL_Readiness_Bridge.md` connects existing Culinary 2 evidence to future Work-Based Learning readiness. District forms, hour tracking, placement rules, and partner agreements remain separate open work.

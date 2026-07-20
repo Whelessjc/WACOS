@@ -107,7 +107,7 @@ What did service reveal that needs to be retaught next week?
 
 ## Employability Grading in Practice
 
-Employability is 30% of the current grade structure.
+Employability is 20% of the current grade structure.
 
 Employability evidence should be observable. It may include:
 
@@ -130,7 +130,7 @@ Use a simple daily mark, short note, or four-level scale. Record exceptions and 
 
 ## Lab Grading in Practice
 
-Labs are 30% of the current grade structure.
+Labs are 35% of the current grade structure.
 
 Lab evidence may include:
 
@@ -153,7 +153,7 @@ Choose one or two focus criteria per lab. Rotate focus criteria across the week 
 
 ## Summative Assessment in Practice
 
-Summative evidence is 40% of the current grade structure.
+Summative & Bistro evidence is 45% of the current grade structure.
 
 Summative evidence may include:
 
@@ -275,4 +275,3 @@ Keep the weekly documentation light enough to maintain:
 - Reteach priority for next week.
 
 If the documentation is too complex to use during a school week, simplify it.
-

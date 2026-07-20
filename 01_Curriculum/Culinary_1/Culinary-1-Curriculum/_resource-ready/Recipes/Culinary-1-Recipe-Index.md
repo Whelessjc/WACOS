@@ -1,4 +1,4 @@
-# Culinary 1 Recipe and Lab Index
+﻿# Culinary 1 Recipe and Lab Index
 
 This index is a planning tool. It does not finalize recipes or formulas.
 Use placeholders until the teacher confirms ingredients, quantities, equipment, food-safety rules, budget, and available products.
@@ -72,6 +72,16 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Cleanup/reset concern:** oily pans, prep containers, floors
 - **Possible Bistro connection:** Connects prep lists to fast service timing
 - **Notes for future recipe development:** Exact ingredients flexible; use approved low-cost vegetables/protein if any.
+
+## Dried Pasta with Basic Tomato Sauce
+- **Unit connection:** Unit 03
+- **Skill focus:** liquid ratio, timing, doneness by feel, basic sauce construction, salting pasta water
+- **Approximate difficulty:** Beginner
+- **Equipment needed:** large pot, colander, tongs, saucepan, knife setup for aromatics
+- **Food safety concern:** boiling water burns, shared tools, gluten allergen awareness
+- **Cleanup/reset concern:** starchy pot, sauce splatter, colander/strainer flow
+- **Possible Bistro connection:** Direct Bistro menu item or side; sauce base reusable for other labs
+- **Notes for future recipe development:** Use a teacher-approved dried pasta shape and simple tomato sauce; exact formula and allergen substitution plan still need confirmation.
 
 ## Knife Practice Vegetable Applications
 - **Unit connection:** Unit 06
@@ -163,6 +173,26 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Possible Bistro connection:** Improves Bistro consistency and guest experience
 - **Notes for future recipe development:** Use teacher-selected tasting base and approved flavor set.
 
+## Basic Vinaigrette and Simple Green Salad
+- **Unit connection:** Unit 09
+- **Skill focus:** emulsion, acid/fat balance, seasoning to taste, knife cuts for salad components
+- **Approximate difficulty:** Beginner
+- **Equipment needed:** whisk or jar, measuring tools, knife/board for greens and add-ins
+- **Food safety concern:** produce washing; allergen awareness for any nuts or cheese
+- **Cleanup/reset concern:** oily bowls/jars, produce scraps, compost/trash flow
+- **Possible Bistro connection:** Direct Bistro side or starter; reinforces guest-facing plating standards
+- **Notes for future recipe development:** Confirm the base vinaigrette ratio and approved salad components, substitutions, and allergens.
+
+## Same-Day Refrigerated Quick Pickle
+- **Unit connection:** Unit 09
+- **Skill focus:** accurate measuring, acid balance, knife consistency, labeling, refrigerated storage
+- **Approximate difficulty:** Beginner
+- **Equipment needed:** nonreactive container, measuring tools, knife/board, label
+- **Food safety concern:** use only the teacher-approved acid formula; refrigerate, label, and use/discard within the approved same-day classroom window
+- **Cleanup/reset concern:** acidic spills, produce scraps, container and station sanitation
+- **Possible Bistro connection:** Same-day garnish or flavor component when approved
+- **Notes for future recipe development:** This is not canning, shelf-stable preservation, or fermentation. Document the formula, label format, refrigeration, and discard procedure before scheduling.
+
 ## Chicken Breast or Thigh
 - **Unit connection:** Unit 10
 - **Skill focus:** mise en place, searing, doneness, resting, slicing
@@ -172,6 +202,26 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Cleanup/reset concern:** raw station, pans, thermometers, storage
 - **Possible Bistro connection:** Bistro readiness through timing and doneness
 - **Notes for future recipe development:** Exact cut and temp language need local approval.
+
+## Teacher-Approved Tofu Application
+- **Unit connection:** Unit 10
+- **Skill focus:** pressing or moisture management, portioning, seasoning, browning, texture control
+- **Approximate difficulty:** Beginner/medium
+- **Equipment needed:** sheet pan or skillet, towels or press setup, knife/board, tongs or spatula
+- **Food safety concern:** soy allergen and cross-contact with shared tools or surfaces
+- **Cleanup/reset concern:** allergen-aware wash, rinse, sanitize sequence; towels and pressing setup
+- **Possible Bistro connection:** Plant-protein component for a bowl, salad, or plated application if approved
+- **Notes for future recipe development:** Select one teacher-approved formula and document the soy-allergen control sequence before scheduling.
+
+## Basic Pan Sauce
+- **Unit connection:** Unit 10
+- **Skill focus:** fond, deglazing, reduction, seasoning, timing during protein rest
+- **Approximate difficulty:** Beginner/medium
+- **Equipment needed:** skillet, tongs, whisk, approved deglazing liquid, thermometer
+- **Food safety concern:** hot pan/liquid splatter and raw-protein cross-contact
+- **Cleanup/reset concern:** hot-pan handling, sauce splatter, station-reset timing
+- **Possible Bistro connection:** Finishes existing chicken breast/thigh items with a simple sauce
+- **Notes for future recipe development:** Confirm the deglazing liquid and pairing with the existing Unit 10 protein lab.
 
 ## Ground Turkey Application
 - **Unit connection:** Unit 10

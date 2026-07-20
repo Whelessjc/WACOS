@@ -37,11 +37,11 @@ Date:
 
 ## 4. Current Operating Decisions
 
-- [ ] The grading structure uses 30% Employability, 30% Labs, and 40% Summative if grade weights are included.
+- [ ] The grading structure uses 20% Employability, 35% Labs, and 45% Summative & Bistro if grade weights are included.
 - [ ] The certification pathway emphasizes ServSafe Food Handler and Certified Kitchen Cook if credentials are mentioned.
 - [ ] The National ProStart Certificate of Achievement is not presented as current program policy.
 - [ ] Thursday Bistro Prep and Friday Bistro Service are reflected correctly if weekly rhythm is included.
-- [ ] Bistro launch is treated as readiness-based unless a current calendar decision says otherwise.
+- [ ] The 2026-2027 Week 4 Bistro launch target is reflected, while instructor safety/readiness authority remains explicit.
 
 ## 5. Curriculum and Assessment
 
@@ -87,4 +87,3 @@ Status:
 - [ ] Archive only / historical reference.
 
 Reviewer notes:
-

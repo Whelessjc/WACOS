@@ -29,7 +29,7 @@ This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` t
 | Professional Standards | `02_Program_Standards.md`, `10_Equipment_Facility_Safety.md`, `fundamentals-boot-camp-68ce8a12.md` | Consolidated readiness, safety, sanitation, mise en place, communication, awareness, teamwork, hospitality, quality, and reflection |
 | Kitchen Culture | `01_Program_Philosophy.md`, `02_Program_Standards.md`, `07_Leadership_and_Student_Roles.md`, `culinary-1-pacing-discussion-695c1863.md`, `acronym-ideas-for-bistro-68cf1805.md` | Synthesized calm urgency, respect for the room, recovery from mistakes, speaking practice, and guest recovery |
 | Bistro Operating Philosophy | `05_Bistro_Operations.md`, `08_Daily_and_Weekly_Systems.md`, `13_Templates_Checklists.md`, `reports/conversation_scores.csv` entry for "Weekly Bistro Meeting Context", user request | Elevated Bistro from operations document to central instructional model; retained Thursday prep and Friday service as current decisions |
-| Assessment Philosophy | `06_Assessment_System.md`, `culinary-grading-system-revision-673c7381.md`, `grading-policy-structure-e1164c77.md`, user request | Replaced unresolved/older grading percentages with current 30% Employability, 30% Labs, 40% Summative; kept performance-based assessment model |
+| Assessment Philosophy | `06_Assessment_System.md`, current orientation materials, instructor confirmation dated 2026-07-19 | Adopted current 20% Employability, 35% Labs, 45% Summative & Bistro; retained the performance-based assessment model |
 | Leadership Philosophy | `07_Leadership_and_Student_Roles.md`, `culinary-1-pacing-discussion-695c1863.md`, `05_Bistro_Operations.md` | Merged competence-based leadership, role boundaries, and speaking as leadership practice |
 | Instructor Operating Principles | `01_Program_Philosophy.md`, `04_Culinary_2_Curriculum.md`, `08_Daily_and_Weekly_Systems.md`, `15_Teacher_Assistant_Onboarding.md`, `16_Future_Development.md` | Consolidated instructor authority, protected skill time, interruption-ready planning, adult support boundaries, and documentation maintenance |
 | AI Operating Principles | `11_AI_Workflows.md`, `12_Prompt_Library.md`, `SOURCE_MANIFEST.md`, `16_Future_Development.md` | Preserved AI as support tool, not authority; added explicit source-of-truth hierarchy and must-never-replace guidance |
@@ -45,9 +45,9 @@ This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` t
 |---|---|---|
 | ProStart | Older syllabi and archive packets reference ProStart curriculum and the ProStart pathway | Marked historical; National ProStart Certificate of Achievement is no longer part of the program |
 | Certification | Sources reference Food Handler, ServSafe Manager, CKC, NOCTI, AAFCS, custom readiness credentials | Adopted current preferred pathway: ServSafe Food Handler and Certified Kitchen Cook |
-| Grading | Sources include 10/20/30/40, 25/35/40, Bistro 45%, and evidence-only models | Adopted current grading: 30% Employability, 30% Labs, 40% Summative |
+| Grading | Sources include 10/20/30/40, 25/35/40, 30/30/40, and the current orientation model | Adopted current grading confirmed 2026-07-19: 20% Employability, 35% Labs, 45% Summative & Bistro |
 | Culinary 2 identity | Older language sometimes frames Culinary 2 as advanced | Adopted current language: full-year depth and operations; fundamentals under pressure |
-| Bistro launch | Sources mention Week 4, Week 4-6, and readiness-based launch | Adopted readiness-based model with Week 4 as common current target and Week 4-6 as practical window |
+| Bistro launch | Sources mention Week 4, Week 4-6, and readiness-based launch | Adopted Week 4 as the 2026-2027 target, retaining instructor authority to modify or pause service for readiness and safety |
 | Recipe archive | Many generated and archived recipes exist | Did not establish a master recipe bank; flagged deduplication and approval as future work |
 | SOP detail | Safety and facility expectations exist, but equipment-specific details are incomplete | Set program-level safety principles; left equipment SOPs to subordinate current documents |
 

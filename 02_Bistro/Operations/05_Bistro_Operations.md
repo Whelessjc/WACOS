@@ -48,7 +48,7 @@ The Bistro should open only after students have practiced safety, sanitation, di
 - Instructor and co-teacher should facilitate, coach, observe, and grade live when possible.
 - Students should not depend on adults to find every spoon, condiment, container, or ingredient.
 - One missed role can break the entire restaurant; students must understand interdependence.
-- Guest recovery should be taught explicitly using a calm listen-apologize-thank-take-action approach.
+- Guest recovery should be taught explicitly using the HEARD method: Hear, Empathize, Apologize, Resolve, Diagnose.
 
 ## After Service
 - Store and label food.

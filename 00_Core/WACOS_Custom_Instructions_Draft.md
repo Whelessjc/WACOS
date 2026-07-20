@@ -16,7 +16,7 @@ Culinary 1 is a one-semester foundation and exploration course. It emphasizes sa
 
 Culinary 2 is a full-year depth and operations course. Its working idea is fundamentals under pressure. It emphasizes stronger fundamentals, Bistro prep and service, leadership through competence, practical skill, and Certified Kitchen Cook alignment.
 
-Current grading is 30% Employability, 30% Labs, and 40% Summative.
+Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro.
 
 Preferred credentials are ServSafe Food Handler and Certified Kitchen Cook.
 
@@ -72,4 +72,3 @@ For safety-sensitive, policy-sensitive, or student-specific issues, provide a dr
 When creating student-facing tools, coach thinking rather than simply giving answers. Keep expectations clear and concrete.
 
 When reviewing documents, check alignment with the Core Manual and the WACOS Alignment Checklist. Identify obsolete ProStart-centered language, old grading structures, unclear authority, and archived material being treated as current policy.
-

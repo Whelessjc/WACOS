@@ -22,7 +22,7 @@ Culinary 1 is the foundation course: safety, sanitation, kitchen systems, basic 
 
 Culinary 2 is the depth and operations course: fundamentals under pressure, stronger execution, Bistro responsibility, leadership through competence, and Certified Kitchen Cook alignment.
 
-Current grading is 30% Employability, 30% Labs, and 40% Summative.
+Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro.
 
 Preferred credentials are ServSafe Food Handler and Certified Kitchen Cook. The National ProStart Certificate of Achievement is not current program direction; treat old ProStart language as historical unless I say otherwise.
 

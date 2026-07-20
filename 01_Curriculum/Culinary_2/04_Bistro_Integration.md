@@ -4,6 +4,10 @@ Bistro is not an interruption to Culinary 2.
 
 Bistro is applied kitchen training.
 
+## Teams
+
+Bistro is organized into four teams: **Dining, Kitchen, Support, and Barista.** Culinary 2 students already know these roles from Culinary 1 - use the same names consistently rather than reintroducing new ones.
+
 ## Purpose
 
 Bistro gives students real practice with:
@@ -133,7 +137,7 @@ Examples:
 
 ## Service Recovery
 
-When something goes wrong, students should learn to:
+When something goes wrong in the kitchen or at a station, students should learn to:
 
 1. Say it early.
 2. Name the problem.
@@ -143,6 +147,18 @@ When something goes wrong, students should learn to:
 6. Reset and keep moving.
 
 Do not let students hide mistakes until the ticket fails.
+
+## Guest Complaint Recovery (HEARD)
+
+Service Recovery above is for internal kitchen/station problems. When a guest brings a complaint directly, students use HEARD instead:
+
+- **Hear** - listen to the guest's concern without interrupting.
+- **Empathize** - show genuine understanding for how the guest feels.
+- **Apologize** - offer a real apology, even if the issue wasn't the student's fault.
+- **Resolve** - take a concrete step to fix the issue.
+- **Diagnose** - identify what caused it so it doesn't happen again.
+
+Involve the instructor for anything beyond a simple fix (comps, refunds, anything the student isn't authorized to decide alone).
 
 ## What to Assess During Bistro
 
@@ -170,4 +186,3 @@ Ask:
 - What was one quality issue?
 - What communication helped?
 - What has to change next service?
-

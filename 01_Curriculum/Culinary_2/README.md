@@ -24,6 +24,7 @@ Start with these files:
 | `01_Modular_Pacing_Guide.md` | Full-year modular pacing that can flex around school realities |
 | `02_Semester_1_Weekly_Guide.md` | Week-by-week guide with daily breakdowns for Semester 1 |
 | `03_Semester_2_Module_Map.md` | Flexible Semester 2 module map |
+| `06_Semester_2_Weekly_Guide.md` | Day-by-day Semester 2 working guide, including the tasting-menu capstone and open calendar decisions |
 | `04_Bistro_Integration.md` | How Bistro prep and service connect to the course |
 | `05_CKC_Alignment.md` | How Certified Kitchen Cook work is embedded in labs and service |
 | `../../03_Assessment/Culinary_2_Line_Check_Cards.md` | Oral recall and scenario card set |

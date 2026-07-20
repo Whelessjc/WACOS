@@ -1,4 +1,4 @@
-# Unit 03: Recipe Reading and Mise en Place
+﻿# Unit 03: Recipe Reading and Mise en Place
 
 ## Weeks Covered
 Week 3
@@ -7,11 +7,13 @@ Week 3
 Read before cooking. Organize before acting.
 
 ## Purpose
-Students complete Food Handler review and assessment, then practice recipe reading, ingredient lists, equipment lists, step sequencing, prep lists, basic measuring, rice cookery, peanut butter bars, fried rice or stir fry, mise en place habits, clean station reset, and stewardship of shared ingredients and tools.
+Students complete Food Handler review and assessment, then practice recipe reading, ingredient lists, equipment lists, step sequencing, prep lists, basic measuring, rice cookery, dried pasta with a basic tomato sauce, peanut butter bars, fried rice or stir fry, mise en place habits, clean station reset, and stewardship of shared ingredients and tools.
 
 ## Learning Targets
 - I can read a recipe before starting work.
 - I can identify ingredients, equipment, yield, and steps.
+- I can choose an appropriate pan or pot size and explain why size matters.
+- I can identify when a substitution requires instructor approval.
 - I can put recipe steps in a useful order.
 - I can create a simple prep list.
 - I can set up mise en place before cooking.
@@ -24,6 +26,8 @@ Students complete Food Handler review and assessment, then practice recipe readi
 - Step sequencing
 - Prep lists
 - Measuring and basic kitchen math
+- Cookware selection, basic care, and storage
+- Substitution judgment and instructor approval
 - Mise en place
 - Team roles during cooking
 - Clean-as-you-go and station reset
@@ -44,6 +48,7 @@ Students complete Food Handler review and assessment, then practice recipe readi
 - Peanut butter bars
 - Rice cookery
 - Fried rice or stir fry
+- Dried pasta with a basic tomato sauce
 
 ## Bistro Connection
 Bistro work depends on students who can read, prep, measure, and organize before tickets or service pressure begin.
@@ -60,5 +65,5 @@ Students will want to touch food before reading. Make them prove they understand
 
 ## Resources Needed
 - Equipment: measuring tools, bowls, sheet pans, rice cooker or pots, saute pans or woks
-- Ingredients: peanut butter bar ingredients, rice, simple stir fry ingredients
+- Ingredients: peanut butter bar ingredients, rice, simple stir fry ingredients, teacher-approved dried pasta and tomato-sauce ingredients
 - Materials: sample recipes, prep list format, Food Handler review items

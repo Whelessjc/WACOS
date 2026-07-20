@@ -59,6 +59,7 @@ Primary planning files:
 - `Culinary_2/03_Semester_2_Module_Map.md`
 - `Culinary_2/04_Bistro_Integration.md`
 - `Culinary_2/05_CKC_Alignment.md`
+- `Culinary_2/06_Semester_2_Weekly_Guide.md`
 - `Culinary_2/10_West_Ashley_25_Technique_Map.md`
 
 Related functional files:
@@ -79,17 +80,21 @@ The package shell organizes Culinary 2 into teachable units that mirror the matu
 | --- | --- |
 | Program alignment | Strong. Culinary 1 and Culinary 2 now point toward the same program identity: Classroom to Table, High School, High Standards, Bistro-centered learning, and professional habits. |
 | Culinary 1 completeness | High. It is the most developed curriculum package in the repository. |
-| Culinary 2 completeness | Moderate. The framework is strong, but the course still needs the same level of packaged instructional materials as Culinary 1. |
+| Culinary 2 completeness | Moderate-to-strong. Both semesters now have day-by-day working guides, but the course still needs consistent packaged teacher/student materials and confirmation of Semester 2 calendar/capstone details. |
 | Bistro integration | Strong conceptually. Culinary 2 especially treats Thursday prep and Friday service as the instructional spine. |
 | Credential alignment | Current direction favors ServSafe Food Handler and Certified Kitchen Cook. ProStart Certificate of Achievement should not be treated as current policy. |
 | Organization | Improved. GitHub should now be treated as the single curriculum source of truth. |
+
+July 20, 2026 foundational additions are incorporated into the course packages: Culinary 1 adds dried pasta with basic tomato sauce, basic vinaigrette with simple salad, and basic pan sauce; Culinary 2 adds whole-chicken breakdown within Proteins, Heat, and Doneness, subject to supervision and budget confirmation.
+
+See `Foundation_Photo_Gap_Review_2026-07-20.md` for the broader cookbook-overview comparison, existing coverage, and four candidates still requiring instructor confirmation.
 
 ## Build Priorities
 
 1. Expand Culinary 2 unit folders into classroom-ready packets.
 2. Add daily agenda templates, lab sheets, and practical checks for each Culinary 2 unit.
 3. Create consistent teacher-facing and student-facing formats across both courses.
-4. Keep assessment tools tied to the current grading model: 30% Employability, 30% Labs, 40% Summative.
+4. Keep assessment tools tied to the current grading model: 20% Employability, 35% Labs, 45% Summative & Bistro.
 5. Keep Bistro prep and service documents connected to course units without duplicating SOPs.
 
 ## Storage Rule

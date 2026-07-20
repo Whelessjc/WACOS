@@ -48,5 +48,6 @@ Use a laminated grid, tablet form, or app if available. Station leaders and audi
 | 2 | Partially competent; needs frequent support or misses key steps |
 | 1 | Unsafe, unprepared, incomplete, or unable to demonstrate |
 
-## Known Conflict
-The export contains references to Bistro as a major project grade worth 45%, behavior-based weekly grades, pass/fail practical rubrics, checklist portfolios, and credential exams. Version 2.1 treats these as evidence types, not final grade weights. Final gradebook weights are centralized in [DECISION_REGISTER.md](DECISION_REGISTER.md).
+## Current Grade Structure
+
+For 2026-2027, the instructor-confirmed grade structure is 20% Employability, 35% Labs, and 45% Summative & Bistro. Employability is maintained as a 100-point weekly score using named deductions from the current orientation materials; the exact deduction table must be transferred and verified before it is reproduced here.

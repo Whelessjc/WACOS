@@ -142,6 +142,8 @@ Use:
 
 "Enter Kitchen Mode: uniform checked, hands washed, notebook out, station assigned."
 
+When course-specific uniform language is needed, use "white chef jacket with program logo" for Culinary 1 and "black chef jacket with student name and program logo" for Culinary 2.
+
 "Your station is not finished until it is reset for the next class."
 
 "Employability is how you show you can be trusted in a kitchen."
@@ -162,7 +164,7 @@ Use:
 
 "West Ashley Culinary uses the Bistro as a real instructional service model where students practice safety, sanitation, cooking, communication, hospitality, and responsibility."
 
-"The current grading model is 30% Employability, 30% Labs, and 40% Summative evidence."
+"The current grading model is 20% Employability, 35% Labs, and 45% Summative & Bistro evidence."
 
 Avoid:
 
@@ -216,4 +218,3 @@ Before approving a document, ask:
 - Does it avoid obsolete ProStart-centered language?
 - Does it make unclear items visible instead of inventing policy?
 - Would this help someone do the work tomorrow?
-

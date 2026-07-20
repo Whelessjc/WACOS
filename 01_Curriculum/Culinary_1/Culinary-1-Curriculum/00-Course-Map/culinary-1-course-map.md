@@ -1,4 +1,4 @@
-# Culinary Arts Management 1: Fundamentals
+﻿# Culinary Arts Management 1: Fundamentals
 
 ## Source of Truth
 This course map is based on the Culinary Arts 1 Printable Program Packet for the West Ashley Culinary Program.
@@ -59,7 +59,7 @@ Focus: Read before cooking. Organize before acting.
 
 Students complete Food Handler review and assessment, then practice recipe reading, ingredient lists, equipment lists, step sequencing, prep lists, and mise en place.
 
-Labs include peanut butter bars, rice cookery, fried rice, or stir fry.
+Labs include peanut butter bars, rice cookery, fried rice or stir fry, and dried pasta with a basic tomato sauce.
 
 ### 04. Customer Service and Bistro Soft Opening
 Weeks covered: Week 4
@@ -89,7 +89,7 @@ Weeks covered: Weeks 10 to 12
 
 Focus: Learn how cooking actually works.
 
-Students practice saut�, roasting, moist heat, grains, simmering, texture control, pan preheating, oil control, browning, spacing, oven control, and liquid ratios.
+Students practice sauté, roasting, moist heat, grains, simmering, texture control, pan preheating, oil control, browning, spacing, oven control, and liquid ratios. Broiler/grill fundamentals are introduced through instructor demonstration and heat-cue recognition; student use requires equipment-specific instruction, an approved SOP, and individual authorization.
 
 ### 08. Frying and Oil Management
 Weeks covered: Week 13
@@ -103,14 +103,14 @@ Weeks covered: Weeks 14 to 15
 
 Focus: Move beyond recipes and learn how flavor is built.
 
-Students explore salt, acid, fat, aromatics, herbs, spices, cultural flavor builds, balance, curiosity, and experimentation.
+Students explore salt, acid, fat, aromatics, herbs, spices, cultural flavor builds, balance, curiosity, and experimentation. A basic vinaigrette and simple green salad provide a direct emulsion and seasoning application. A teacher-approved, same-day refrigerated quick pickle adds an acid-balance application without introducing canning or fermentation.
 
 ### 10. Protein as Application
 Weeks covered: Weeks 16 to 17
 
 Focus: Protein tests fundamentals.
 
-Students apply knife control, heat management, doneness, resting, seasoning, slicing, and temperature checking to proteins such as chicken, ground turkey, or eggs.
+Students apply knife control, heat management, doneness, resting, seasoning, slicing, and temperature checking to proteins such as chicken, ground turkey, eggs, and tofu. Tofu provides the required plant-protein vehicle. A basic pan sauce extends the seared-chicken lab through fond, deglazing, reduction, and finishing.
 
 ### 11. Bridge to Culinary 2
 Weeks covered: Week 18

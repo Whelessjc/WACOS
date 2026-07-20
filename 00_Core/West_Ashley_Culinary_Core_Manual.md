@@ -70,7 +70,7 @@ The National ProStart Certificate of Achievement is no longer part of the progra
 
 The preferred certification pathway emphasizes ServSafe Food Handler and Certified Kitchen Cook.
 
-Current grading is 30% Employability, 30% Labs, and 40% Summative.
+Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro.
 
 Thursday Bistro Prep and Friday Bistro Service are current operating decisions.
 
@@ -233,6 +233,8 @@ Culinary 1 should prepare students to:
 - Practice kitchen math.
 - Use knives safely.
 - Cook simple food with increasing confidence.
+- Apply flavor balance through vinaigrette and a teacher-approved, same-day refrigerated quick pickle; this does not include canning or fermentation.
+- Practice both animal-protein and tofu applications with appropriate food-safety and allergen controls.
 - Understand dish, laundry, storage, labeling, and cleaning systems.
 - Participate appropriately in Bistro roles after readiness has been established.
 - Decide whether Culinary 2 is the right next step.
@@ -251,6 +253,7 @@ Culinary 2 should prepare students to:
 
 - Reconfirm Culinary 1 fundamentals.
 - Strengthen knife work, cooking methods, seasoning, tasting, and product awareness.
+- Use gentle poaching explicitly and apply broiler/grill methods only after equipment-specific safety instruction, SOP review, and individual authorization.
 - Execute Bistro prep and service with greater independence.
 - Rotate through front-of-house, back-of-house, support, and leadership roles.
 - Practice menu math, costing, inventory awareness, and production planning where appropriate.
@@ -358,7 +361,7 @@ Speaking is part of leadership because leadership requires articulation.
 
 ### Guest Recovery
 
-Guest issues should be handled calmly. The program may use simple service-recovery language such as listen, apologize, thank, and take action, but the deeper standard is consistent: students should respond with respect, communicate the issue, and involve the instructor when needed.
+Guest issues should be handled calmly using the HEARD method: Hear the concern without interrupting, Empathize with the guest's experience, Apologize genuinely even if the issue wasn't the student's fault, Resolve the issue quickly, and Diagnose the root cause so it doesn't happen again. The deeper standard is consistent: students should respond with respect, communicate the issue, and involve the instructor when needed.
 
 ---
 
@@ -404,7 +407,7 @@ Readiness includes:
 - Mock service.
 - Closing and reset.
 
-The program should use a readiness-based launch model. Historical and current documents point to a Week 4-6 launch window, and current practice identifies Week 4 as a common Bistro launch target. The launch week may shift based on calendar, course level, student readiness, safety, and instructor judgment.
+The program uses a readiness-based launch model. For 2026-2027, Week 4 is the confirmed launch target. The instructor may modify or pause service when safety or readiness requires it.
 
 ### Life of an Order
 
@@ -460,9 +463,9 @@ Written tests have a place, especially for safety, sanitation, vocabulary, kitch
 
 The current grade structure is:
 
-- 30% Employability.
-- 30% Labs.
-- 40% Summative.
+- 20% Employability.
+- 35% Labs.
+- 45% Summative & Bistro.
 
 This structure replaces older or conflicting grade-weight references in the archive.
 
@@ -681,11 +684,11 @@ ProStart-related materials may appear in historical documents, older syllabi, an
 
 Current grade structure:
 
-- 30% Employability.
-- 30% Labs.
-- 40% Summative.
+- 20% Employability.
+- 35% Labs.
+- 45% Summative & Bistro.
 
-Older references to 10/20/30/40, 25/35/40, Bistro as 45%, or other grade structures are historical unless specifically retained in a current course document approved after this manual.
+Older references to 10/20/30/40, 25/35/40, 30/30/40, or other grade structures are historical unless specifically retained in a current course document approved after this manual.
 
 ### Weekly Bistro Rhythm
 
@@ -697,7 +700,7 @@ Current weekly rhythm:
 
 ### Bistro Launch
 
-The program uses a readiness-based Bistro launch model. Week 4 is a common current target, with Week 4-6 preserved as a practical launch window depending on course, calendar, and student readiness.
+For 2026-2027, the program uses Week 4 as the confirmed Bistro launch target. Launch remains readiness-based: the instructor may use a controlled soft opening, modify service, or pause launch when safety or student readiness requires it.
 
 ### Partner and Event Balance
 
@@ -781,13 +784,13 @@ Resolution: ProStart references are historical unless a current instructor-appro
 
 Sources include ServSafe Food Handler, ServSafe Manager, CKC, NOCTI, AAFCS, and possible custom credential discussions.
 
-Resolution: The current preferred pathway is ServSafe Food Handler and Certified Kitchen Cook. Other credentials may be researched or used as references, but they do not govern the pathway unless formally adopted.
+Resolution: ServSafe Food Handler is the Culinary 1 credential and Certified Kitchen Cook is the Culinary 2 credential. ServSafe Manager is retired from the current Culinary 2 pathway. Other credentials may be researched or used as references, but they do not govern the pathway unless formally adopted.
 
 ### Grading Weights
 
 The archive includes several grading structures, including 10/20/30/40, 25/35/40, Bistro as a major percentage, and evidence-type models without percentages.
 
-Resolution: Current grading is 30% Employability, 30% Labs, and 40% Summative.
+Resolution: Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro, confirmed for 2026-2027 on July 19, 2026.
 
 ### Culinary 2 Identity
 

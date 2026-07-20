@@ -25,3 +25,4 @@ The Core Manual states that recipes are vehicles for skill practice, not the cur
 
 The master recipe bank still needs review, deduplication, source dating, and instructor approval before being treated as fully authoritative.
 
+`Standard_Recipe_Format.md` is the approved structural specification for future bank entries. The completed bank files referenced by the Claude recipe-project instructions were not included in the July 20 intake and are not yet part of this repository.

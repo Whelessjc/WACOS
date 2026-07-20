@@ -15,7 +15,7 @@ Can this student be dropped into a basic kitchen and be useful without supervisi
 | 1. Reestablish the Baseline | Weeks 1-3 | Re-entry, routines, heat, seasoning, rice, mise en place, station reset | Students move safely, cleanly, and with less teacher prompting |
 | 2. Bistro Systems and Soft Launch | Weeks 4-5 | Ticket flow, communication, prep continuity, mock service, station ownership | Students understand how Thursday prep and Friday service function |
 | 3. Knife Control and Production Prep | Weeks 1-6, then recurring | Production cuts, yield, speed, usable prep, labeling | Prep supports real production and service needs |
-| 4. Proteins, Heat, and Doneness | Weeks 6-10 | Chicken, beef, fish, shrimp, browning, carryover, thermometers | Students cook proteins safely and judge doneness with evidence |
+| 4. Proteins, Heat, and Doneness | Weeks 6-10 | Chicken, beef, fish, shrimp, browning, gentle poaching, carryover, thermometers, and authorized broiler/grill application | Students cook proteins safely, control both gentle and high heat, and judge doneness with evidence |
 | 5. Sauces, Moist Heat, and Rice Dishes | Weeks 10-14 | Roux, reductions, emulsions, soups, braises, rice dishes | Students control texture, liquid, seasoning, and simmering |
 | 6. Eggs, Batter, Frying, and Baking Control | Weeks 15-18 | Eggs, cold station, batter, breading, frying, biscuits, practical review | Students maintain order during messy, timing-sensitive work |
 | 7. Baking and Pastry Foundations | Semester 2 | Scaling, mixing, doughs, custards, temperature control | Students show precision, patience, and formula discipline |

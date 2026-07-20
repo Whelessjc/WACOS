@@ -30,3 +30,6 @@ The Bistro is the central instructional model for West Ashley Culinary. Bistro d
 
 POS, payment, reservation, customer, and cash-handling procedures require current instructor/admin confirmation before being treated as official.
 
+## Current SOP Set
+
+Use `SOPs/` for the current Life of an Order, service standards, and Dining, Kitchen, Support, and Barista team procedures. The four current team names are Dining, Kitchen, Support, and Barista.

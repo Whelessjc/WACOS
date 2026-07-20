@@ -11,6 +11,7 @@ Use repeated cooking applications to help students see how heat affects texture,
 - Roasting
 - Simmering
 - Liquid ratios
+- Broiler/grill heat-zone and safety-cue recognition through instructor demonstration only
 - Hot-station stewardship
 
 ## Ingredients or Materials
@@ -27,11 +28,13 @@ Use repeated cooking applications to help students see how heat affects texture,
 - Burners
 - Sheet pans
 - Ovens
+- Broiler/grill only when the instructor has confirmed equipment condition, ventilation, fire controls, and an approved equipment-specific SOP
 - Spoons and spatulas
 - Towels and sanitizer
 
 ## Setup
 - Review heat safety.
+- If demonstrating a broiler/grill, review heat zones, flare-up response, safe tools, ventilation, shutdown, and the boundary against unauthorized student use.
 - Stage ingredients by lab.
 - Keep oil amounts controlled.
 - Assign hot-station roles.
@@ -53,6 +56,7 @@ Use repeated cooking applications to help students see how heat affects texture,
 - Simmer maintained.
 - Texture checked before stopping.
 - Hot station is safe and clean before students leave.
+- Students can explain broiler/grill safety and shutdown cues without operating unauthorized equipment.
 
 ## Cleanup and Reset Expectations
 Burners and ovens off, hot pans handled safely, dishes routed, counters sanitized, floors checked, towels managed.
@@ -61,3 +65,4 @@ Burners and ovens off, hot pans handled safely, dishes routed, counters sanitize
 - Teacher-led oil demo for classes needing more control.
 - Use one vegetable across several heat methods.
 - Use rice only if beans/lentils need more time than schedule allows.
+- Keep broiler/grill work instructor-demonstration-only until every required equipment and student-authorization gate is complete.

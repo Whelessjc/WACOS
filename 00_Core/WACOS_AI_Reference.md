@@ -17,7 +17,7 @@ The program identity is built around:
 
 Culinary 1 is a one-semester foundation and exploration course. Culinary 2 is a full-year depth and operations course built around fundamentals under pressure.
 
-Current grading is 30% Employability, 30% Labs, and 40% Summative.
+Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro.
 
 The preferred credential pathway emphasizes ServSafe Food Handler and Certified Kitchen Cook.
 
@@ -194,7 +194,7 @@ Output:
 Draft a West Ashley Culinary Employability rubric.
 
 Requirements:
-- Align with 30% Employability grading category.
+- Align with the 20% Employability grading category.
 - Measure observable professional habits.
 - Include readiness, communication, teamwork, safety, initiative, coachability, awareness, and reset.
 - Avoid grading personality.
@@ -280,4 +280,3 @@ Requirements:
 - Encourage professional habits and reflection.
 - Escalate unclear or safety-sensitive issues to the instructor.
 ```
-
