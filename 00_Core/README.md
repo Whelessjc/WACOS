@@ -5,6 +5,7 @@ This folder contains the governing documents for WACOS.
 ## Belongs Here
 
 - Core Manual.
+- WACOS Update Workflow for returning, changing content, and publishing efficiently.
 - Playbook.
 - Style Guide.
 - Alignment Checklist.
@@ -29,7 +30,8 @@ This folder contains the governing documents for WACOS.
 
 The Core Manual governs the rest of the repository. When another document conflicts with this folder, use the Core Manual and current instructor-confirmed decisions first.
 
+For the practical add/change/remove and GitHub process, start with `WACOS_Update_Workflow.md`.
+
 ## Caution
 
 Do not change policy in this folder casually. Major edits should update traceability, decision records, and the changelog.
-

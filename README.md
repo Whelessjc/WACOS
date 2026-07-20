@@ -14,8 +14,11 @@ The repository is designed for practical use during the school year. A teacher s
 
 Begin in `00_Core/`.
 
+If you are returning after time away or want to add, change, or remove something, begin with [`00_Core/WACOS_Update_Workflow.md`](00_Core/WACOS_Update_Workflow.md). It provides the fast update lanes, copy-ready request language, approval shortcuts, and the return-status prompt.
+
 The Core Manual governs the rest of the repository. Current documents should align with:
 
+- `00_Core/WACOS_Update_Workflow.md`
 - `00_Core/West_Ashley_Culinary_Core_Manual.md`
 - `00_Core/WACOS_Playbook.md`
 - `00_Core/WACOS_Alignment_Checklist.md`
@@ -54,9 +57,9 @@ Archived material is historical unless explicitly reapproved. Old ProStart-cente
 
 When adding or revising a document:
 
-1. Check the Core Manual.
-2. Use the WACOS Alignment Checklist.
-3. Put the file in the correct folder.
-4. Mark historical or uncertain material clearly.
-5. Update traceability, changelog, or decision records when the change affects program direction.
-
+1. Choose the smallest lane in the WACOS Update Workflow.
+2. Check the Core Manual when the change affects program direction.
+3. Use the WACOS Alignment Checklist.
+4. Put the file in the correct folder.
+5. Mark historical or uncertain material clearly.
+6. Update traceability, changelog, or decision records when the change affects program direction.

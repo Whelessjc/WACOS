@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-07-20 - Add WACOS Return and Update Workflow
+
+### Summary
+
+Added a single refresher document for returning after time away and moving ideas into WACOS efficiently.
+
+### Added or Updated
+
+- Added `00_Core/WACOS_Update_Workflow.md` with Quick Edit, Program Decision, and Resource Intake lanes.
+- Added copy-ready prompts for adding, changing, removing, approving, and publishing work.
+- Defined when targeted validation is sufficient and when a full policy review is required.
+- Added a return-status prompt and a four-document refresher list.
+- Linked the workflow prominently from the root and Core README files.
+
 ## 2026-07-20 - Reconcile Claude Resource Intake
 
 ### Summary
