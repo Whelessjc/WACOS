@@ -55,7 +55,7 @@ Post the shutdown time. Unless the schedule requires an earlier close, stop cook
 - Place the food order.
 - Place the coffee order.
 - Review the previous Bistro manager's log and identify one or two feedback points.
-- Deposit prior Bistro money and complete required external records according to current district and bookkeeper procedures.
+- If Friday's Bistro deposit was deferred, complete the secured deposit and required external records Monday.
 - Prepare Tuesday completely.
 - Finish the day's lab grading.
 
@@ -115,6 +115,8 @@ Use current [Bistro Operations](../02_Bistro/Operations/05_Bistro_Operations.md)
 - Confirm labels, holding, recipes, and service supplies.
 - Print reservations or queue sheets as currently required.
 - Open Square and other approved external service systems.
+- Confirm cash and check payment types and the `PBIS Incentive` and `Bistro Coin` comp reasons are available.
+- Confirm the backup receipt system is ready.
 - Brief roles, menu, guest flow, standards, and escalation paths.
 
 ### During Service
@@ -128,15 +130,19 @@ Use current [Bistro Operations](../02_Bistro/Operations/05_Bistro_Operations.md)
 ### Close
 
 - Complete the full kitchen, dish-area, dining, support, and Barista close.
-- Close the register and secure funds.
-- Count money with the required controls.
-- Complete bookkeeper paperwork and organize receipts.
-- Complete the deposit according to current district and bookkeeper procedures.
+- Close all Square tickets and confirm payment and comp types.
+- Count and secure cash and checks; confirm checks are payable to WAHS.
+- Download the detailed Square transactions report.
+- Reconcile net sales and payment-method totals to cash and checks.
+- Review PBIS Incentive and Bistro Coin comps.
+- Reconcile any backup receipts.
+- Complete bookkeeper paperwork and attach the Square report and required supporting records.
+- Complete the deposit Friday when time permits; otherwise secure it for Monday completion.
 - Complete the manager's log.
 - Record grading evidence before details are lost.
 - Capture a short service reflection: wins, problems, safety concerns, inventory issues, and reteach needs.
 
-This workflow does not create cash-handling policy. Follow current district, Square, and bookkeeper requirements for payment types, reconciliation, paperwork, and deposits.
+Follow the [Bistro Payment and Deposit Workflow](../02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md). District and bookkeeper requirements continue to govern custody, verification, delivery, and retention.
 
 ## Weekend - Reflect and Reset the Plan
 

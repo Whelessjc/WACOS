@@ -41,11 +41,13 @@ Print or copy the section needed. These checks support instructor operations; th
 - [ ] Lab and Employability sheets printed or prepared.
 - [ ] Food and coffee inventory completed; orders placed.
 - [ ] Previous Bistro manager's log reviewed.
-- [ ] Prior Bistro deposit and required external paperwork completed.
+- [ ] Any Friday-deferred Bistro deposit and required external paperwork completed Monday.
 - [ ] Monday-Wednesday instruction protected and grading backlog cleared.
 - [ ] Thursday prep lists, recipes, station assignments, roles, equipment, and storage ready.
-- [ ] Friday reservations or queue materials, Square, service stations, and guest flow ready.
-- [ ] Bistro close, register close, receipts, bookkeeper paperwork, deposit, and manager's log completed.
+- [ ] Friday reservations or queue materials, Square payment/comp reasons, backup receipts, service stations, and guest flow ready.
+- [ ] Square tickets closed; cash and checks counted and secured; checks payable to WAHS.
+- [ ] Square transaction report downloaded; payment totals, comps, and backup receipts reconciled.
+- [ ] Bookkeeper paperwork, supporting records, Friday-or-Monday deposit, and manager's log completed.
 - [ ] Weekly reflection captured: wins, problems, safety, inventory, grading, and reteach.
 - [ ] Next week's learning, labs, resources, and risks identified.
 

@@ -47,6 +47,15 @@ Bistro roles are organized into four current teams: **Dining, Kitchen, Support, 
 - One missed role can break the entire restaurant; students must understand interdependence.
 - Guest recovery should be taught explicitly using the HEARD method: Hear, Empathize, Apologize, Resolve, Diagnose.
 
+## Payment and Redemption
+
+- The Bistro accepts cash and checks payable to **WAHS**.
+- Square records sales and produces kitchen tickets; it does not process the current cash/check payments.
+- Approved PBIS incentives and Bistro coins are noncash meal redemptions.
+- Ring the actual meal, send the kitchen ticket, and apply the approved `PBIS Incentive` or `Bistro Coin` comp reason.
+- Use the backup receipt system if Square is unavailable.
+- Follow the complete [Bistro Payment and Deposit Workflow](../SOPs/Bistro_Payment_and_Deposit_Workflow.md).
+
 ## After Service
 - Store and label food.
 - Record waste, shortages, and menu issues.
@@ -54,3 +63,5 @@ Bistro roles are organized into four current teams: **Dining, Kitchen, Support, 
 - Complete dish, laundry, trash, floors, equipment, and cooler reset.
 - Submit self-reflection/self-grade.
 - Record live grading notes before memory fades.
+- Download the detailed Square transactions report, reconcile cash and checks, review PBIS and Bistro coin comps, and assemble the deposit packet.
+- Complete the deposit Friday when time permits; otherwise secure it and complete the deposit Monday.

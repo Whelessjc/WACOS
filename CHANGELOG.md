@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-07-22 - Confirm Bistro Payment and Deposit Workflow
+
+### Decision
+
+Confirmed that the Bistro accepts cash and checks payable to WAHS. Square is used for transaction records and kitchen tickets. The detailed Square transactions report is attached to the deposit, which is completed Friday when time permits or Monday otherwise.
+
+### Payment and Redemption Controls
+
+- Added a Bistro Payment and Deposit Workflow SOP.
+- Replaced gift-card/other-tender treatment for approved PBIS incentives and Bistro coins with named Square comps so they produce kitchen tickets without appearing as collected payment.
+- Documented Bistro coins as classroom-management PBIS tokens redeemable for one meal.
+- Added the backup receipt workflow for Square outages.
+- Preserved district and bookkeeper authority over custody, verification, delivery, and retention.
+
+### Updated
+
+- Updated Bistro Operations, Program Administration, the Decision Register, SOP navigation, Weekly Teacher Workflow, and recurring instructor checklists.
+- Left reservation-versus-queue workflow, refund and guest-comp authorization, count verification, till variance rules, and final Square outage re-entry as open implementation decisions.
+
 ## 2026-07-22 - Add Instructor Workflow Documentation
 
 ### Decision

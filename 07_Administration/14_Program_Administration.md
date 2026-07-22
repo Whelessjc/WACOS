@@ -23,6 +23,19 @@ Document administrative systems that support program stability, compliance, fund
 | Work-Based Learning | On-campus/off-campus options, hours, documentation, expectations |
 | Public presence | Website accuracy, press page, recipe archive, contact information |
 
+## Bistro Payment and Deposit Administration
+
+Current instructor-confirmed practice:
+
+- Accept cash and checks payable to **WAHS**.
+- Use Square to record transactions and generate kitchen tickets.
+- Record approved PBIS incentives and Bistro coins as separate comps, not collected tender.
+- Use the backup receipt system when Square is unavailable.
+- Download the detailed Square transactions report and attach it to the deposit documentation.
+- Complete the deposit Friday when time permits; otherwise secure it and complete it Monday.
+
+See the [Bistro Payment and Deposit Workflow](../02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md). District and bookkeeper requirements continue to govern custody, verification, delivery, and retention.
+
 ## Hospitality Scholars
 The source history identifies High School Hospitality Scholars with Explore Charleston on the last Tuesday of each month. Curriculum plans should protect flexibility around those dates.
 
@@ -38,6 +51,7 @@ These practices support instruction; they do not replace school or district beha
 
 ## Version 3.0 Administrative Work
 - Confirm all partners and contacts.
-- Add budget and vendor process.
+- Add the remaining budget and vendor process.
+- Confirm refund and guest-comp authorization, count verification, till variance rules, and the final Square outage-recovery method.
 - Add certification calendar.
 - Add work-based learning forms.

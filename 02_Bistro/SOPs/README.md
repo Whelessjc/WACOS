@@ -12,6 +12,7 @@ Current as of July 2026. These documents consolidate real training materials and
 | `Kitchen_Team_SOP.md` | Cook station setup, menu production, and closing duties |
 | `Support_Team_SOP.md` | Dish room and stewarding procedures |
 | `Barista_Team_SOP.md` | Barista setup, service, close, and core drink builds |
+| `Bistro_Payment_and_Deposit_Workflow.md` | Cash/check payments, PBIS and Bistro coin comps, Square reporting, backup receipts, and deposit packet |
 
 ## Team Names
 
@@ -19,4 +20,4 @@ Use Dining, Kitchen, Support, and Barista consistently. Older Management Staff a
 
 ## Confirmation Boundary
 
-These SOPs document current training practice. Payment types, reservation-versus-queue workflow, refunds/comps, cash handling, and till reconciliation remain instructor/admin confirmation items before publication as final policy.
+These SOPs document current training practice. Cash/check payment types, PBIS and Bistro coin comp treatment, Square reporting, backup receipts, and Friday/Monday deposit timing are instructor-confirmed. Reservation-versus-queue workflow, refund and guest-comp authorization, count verification, till variance rules, and the final Square outage-recovery method remain instructor/admin confirmation items.
