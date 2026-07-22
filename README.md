@@ -6,7 +6,7 @@ West Ashley Culinary Operating System
 
 WACOS is the authoritative documentation home for the West Ashley High School Culinary Arts Program.
 
-It organizes the program's governing documents, curriculum, Bistro operations, assessment systems, recipes, AI guidance, templates, administration, equipment and safety materials, and historical archive.
+It organizes the program's governing documents, curriculum, Bistro operations, assessment systems, recipes, AI guidance, templates, administration, equipment and safety materials, instructor workflows, and historical archive.
 
 The repository is designed for practical use during the school year. A teacher should be able to find the current source of truth quickly, create new documents in the right place, and avoid mixing current practice with retired or historical material.
 
@@ -51,6 +51,7 @@ Archived material is historical unless explicitly reapproved. Old ProStart-cente
 | `06_Templates/` | Reusable forms, checklists, blank document starters, and repeatable tools |
 | `07_Administration/` | Program administration, onboarding, future development, partners, budget, and operations support |
 | `08_Equipment_and_Safety/` | Equipment, facility, safety, cleaning, sanitation, and emergency materials |
+| `09_Workflows/` | Instructor operating model, weekly workflow, recurring checklists, and current ChatGPT EDU capabilities |
 | `99_Archive/` | Historical, superseded, retired, duplicate, unclear-current-status, and raw source materials |
 
 ## Maintenance Rule

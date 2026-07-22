@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-07-22 - Add Instructor Workflow Documentation
+
+### Decision
+
+Created `09_Workflows/` as the instructor-only operating layer for weekly classroom practice, Bistro preparation and service, AI-supported work, repository maintenance, and external district systems. This layer documents current practice without creating curriculum or policy.
+
+### Added
+
+- Added the Teacher Cockpit operating model and source hierarchy.
+- Added the Monday-Friday and weekend teacher workflow.
+- Added concise daily, weekly, quarterly, and semester instructor checklists.
+- Confirmed one documented deep clean per quarter.
+- Added a dated ChatGPT EDU capability matrix that distinguishes available capabilities, blocked district connectors, and external systems.
+
+### Governance and Navigation
+
+- Added the instructor-supplied weekly agenda, checklist, and morning procedures to the Source Manifest as current-practice evidence without importing the raw Word files.
+- Recorded the approved workflow-layer decision in the Decision Register.
+- Added `09_Workflows/` to the root repository map.
+- Preserved existing Core Manual, Bistro, assessment, safety, district, and cash-handling authority through links instead of duplicated policy.
+
 ## 2026-07-20 - Adopt 2026-2027 Academic Calendar Mapping
 
 ### Decision
