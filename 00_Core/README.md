@@ -15,6 +15,7 @@ This folder contains the governing documents for WACOS.
 - Decision registers.
 - Source manifests.
 - Program philosophy and standards.
+- Professional Thinking Framework.
 - Completion reports that explain governing-document creation.
 
 ## Does Not Belong Here
@@ -28,7 +29,7 @@ This folder contains the governing documents for WACOS.
 
 ## Relationship to the Core Manual
 
-The Core Manual governs the rest of the repository. When another document conflicts with this folder, use the Core Manual and current instructor-confirmed decisions first.
+The Core Manual governs the rest of the repository. The `Professional_Thinking_Framework.md` defines the instructional philosophy behind future lessons, units, assessments, and AI-supported materials. When another document conflicts with this folder, use the Core Manual and current instructor-confirmed decisions first.
 
 For the practical add/change/remove and GitHub process, start with `WACOS_Update_Workflow.md`.
 

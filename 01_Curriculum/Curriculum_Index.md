@@ -94,7 +94,7 @@ See `Foundation_Photo_Gap_Review_2026-07-20.md` for the broader cookbook-overvie
 1. Expand Culinary 2 unit folders into classroom-ready packets.
 2. Add daily agenda templates, lab sheets, and practical checks for each Culinary 2 unit.
 3. Create consistent teacher-facing and student-facing formats across both courses.
-4. Keep assessment tools tied to the current grading model: 20% Employability, 35% Labs, 45% Summative & Bistro.
+4. Keep assessment tools tied to the current quarter grading model: 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; 20% Employability Skills.
 5. Keep Bistro prep and service documents connected to course units without duplicating SOPs.
 
 ## Storage Rule

@@ -17,7 +17,7 @@ The documents were checked against the WACOS Alignment Checklist for:
 
 - Authority alignment with the Core Manual.
 - Current program identity.
-- Current grading structure: 20% Employability, 35% Labs, 45% Summative & Bistro.
+- Current quarter grading structure: 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; 20% Employability Skills.
 - Bistro centrality.
 - Current credential direction: ServSafe Food Handler and Certified Kitchen Cook.
 - ProStart Certificate of Achievement treated as historical, not current policy.
@@ -43,7 +43,7 @@ No new conflicts were introduced.
 Known historical conflicts remain documented in the Core Manual and traceability file:
 
 - Older ProStart-centered language versus current credential direction.
-- Older grading structures versus the current 20% Employability, 35% Labs, 45% Summative & Bistro model.
+- Older grading structures versus the current 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; 20% Employability Skills model.
 - Older "advanced class" framing versus current Culinary 2 fundamentals-under-pressure framing.
 - Archive material that may be useful historically but should not govern current practice.
 

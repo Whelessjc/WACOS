@@ -7,6 +7,9 @@ Date:
 Course:
 Unit/Skill:
 Objective:
+Knowledge:
+Skill:
+Professional Thinking:
 Standards/Credential Alignment:
 Vocabulary:
 Materials/Equipment:

@@ -164,7 +164,7 @@ Use:
 
 "West Ashley Culinary uses the Bistro as a real instructional service model where students practice safety, sanitation, cooking, communication, hospitality, and responsibility."
 
-"The current grading model is 20% Employability, 35% Labs, and 45% Summative & Bistro evidence."
+"The current quarter grading model is 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills."
 
 Avoid:
 

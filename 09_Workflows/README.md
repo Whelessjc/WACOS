@@ -12,6 +12,7 @@ This folder is not curriculum, policy, a student handbook, or a replacement for 
 - [Weekly Teacher Workflow](Weekly_Teacher_Workflow.md) - recurring work organized by day.
 - [Instructor Recurring Checklists](Instructor_Recurring_Checklists.md) - printable daily, weekly, quarterly, and semester checks.
 - [ChatGPT EDU Capability Matrix](ChatGPT_EDU_Capability_Matrix.md) - current AI environment, boundaries, and external systems.
+- [WACOS ChatGPT Quick Reference](../05_AI/WACOS_ChatGPT_Quick_Reference.md) - compact Project Knowledge for fast answers to common WACOS questions.
 
 ## Operating Boundaries
 

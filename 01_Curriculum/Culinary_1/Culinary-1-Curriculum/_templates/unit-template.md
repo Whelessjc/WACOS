@@ -11,6 +11,11 @@ Estimated number of class periods:
 - I can...
 - I can...
 
+## Three Levels of Learning
+- Knowledge:
+- Skill:
+- Professional Thinking:
+
 ## Essential Skills
 - 
 - 

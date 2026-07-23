@@ -7,6 +7,8 @@ Record the current instructor-confirmed decisions extracted from the 2026-2027 N
 ## Confirmed Decisions
 
 1. The current grade structure is 20% Employability, 35% Labs, and 45% Summative & Bistro.
+
+   Terminology update confirmed July 23, 2026: the official quarter-grade category names are 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills. The weights did not change.
 2. Culinary 1 Unit 1 is compressed into the four actual instructional days of August 11-14, 2026.
 3. Culinary 2's Week 1-2 assessment is an informal, low-stakes diagnostic, not a graded summative assessment.
 4. ServSafe Manager is retired from Culinary 2; Certified Kitchen Cook is the Culinary 2 credential.

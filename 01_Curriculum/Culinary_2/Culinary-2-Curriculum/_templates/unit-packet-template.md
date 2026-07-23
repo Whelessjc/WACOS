@@ -20,6 +20,12 @@ By the end of this unit, students should be able to:
 
 Name the habits that must be visible during this unit.
 
+## Three Levels of Learning
+
+- Knowledge:
+- Skill:
+- Professional Thinking:
+
 ## Bistro Connection
 
 Explain how this unit supports Thursday prep, Friday service, station ownership, hospitality, or production readiness.
@@ -30,9 +36,9 @@ Identify any Certified Kitchen Cook evidence gathered in this unit.
 
 ## Lessons and Labs
 
-| Lesson or Lab | Main Skill | Product or Task | Evidence |
-| --- | --- | --- | --- |
-|  |  |  |  |
+| Lesson or Lab | Knowledge | Skill | Professional Thinking | Product or Task | Evidence |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
 ## Recipe Vehicles
 

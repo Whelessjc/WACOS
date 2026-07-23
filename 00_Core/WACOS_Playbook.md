@@ -153,7 +153,7 @@ Choose one or two focus criteria per lab. Rotate focus criteria across the week 
 
 ## Summative Assessment in Practice
 
-Summative & Bistro evidence is 45% of the current grade structure.
+Summative Assessments: Projects, Tests, and Bistro are 45% of the current quarter grade structure.
 
 Summative evidence may include:
 

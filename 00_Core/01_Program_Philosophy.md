@@ -23,6 +23,7 @@ The most stable public language from the source history is:
 See [GLOSSARY.md](GLOSSARY.md) for standard terminology and [DECISION_REGISTER.md](DECISION_REGISTER.md) for unresolved naming decisions.
 
 ## Learning Beliefs
+- Culinary is the vehicle; professional thinking is the destination. See [Professional_Thinking_Framework.md](Professional_Thinking_Framework.md).
 - Culinary education is both technical and behavioral.
 - Students are teenagers first; the system must account for mixed energy, sleep, motivation, confidence, and maturity.
 - Culinary 1 should not try to be restaurant school. It should give students durable life and employability skills.
@@ -34,3 +35,5 @@ See [GLOSSARY.md](GLOSSARY.md) for standard terminology and [DECISION_REGISTER.m
 
 ## Professional Philosophy
 The program should teach students how to enter a kitchen calmly, observe what needs doing, communicate clearly, prepare carefully, work cleanly, recover from mistakes, and leave the room better than they found it.
+
+The governing statement is: **We are not training chefs. We are training students to think like chefs.** New and substantively revised instructional materials should connect knowledge, skill, and professional thinking.

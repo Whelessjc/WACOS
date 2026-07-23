@@ -14,10 +14,13 @@ The program identity is built around:
 - Classroom to Table.
 - High School, High Standards.
 - The Bistro as the central instructional model.
+- "We are not training chefs. We are training students to think like chefs."
+
+The kitchen is the classroom. Culinary is the vehicle. Professional thinking is the destination. Use `Professional_Thinking_Framework.md` as the governing instructional lens.
 
 Culinary 1 is a one-semester foundation and exploration course. Culinary 2 is a full-year depth and operations course built around fundamentals under pressure.
 
-Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro.
+Current quarter grading is 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills.
 
 The preferred credential pathway emphasizes ServSafe Food Handler and Certified Kitchen Cook.
 
@@ -41,6 +44,7 @@ Flag conflicts instead of inventing policy.
 ## Core Operating Assumptions
 
 - The Bistro is central, not an add-on.
+- Meaningful lessons connect knowledge, skill, and professional thinking.
 - Recipes are vehicles for skill practice, not the curriculum itself.
 - Employability is observable professional behavior.
 - Fundamentals matter at every level.
@@ -139,6 +143,7 @@ Inputs:
 
 Requirements:
 - Protect fundamentals.
+- Identify the knowledge target, skill target, and professional-thinking habit.
 - Use practical language.
 - Include entry, briefing, Kitchen Mode, work period, reset, and reflection.
 - Flag any policy, safety, grading, or calendar assumptions needing instructor confirmation.
@@ -194,7 +199,7 @@ Output:
 Draft a West Ashley Culinary Employability rubric.
 
 Requirements:
-- Align with the 20% Employability grading category.
+- Align with the 20% Employability Skills grading category.
 - Measure observable professional habits.
 - Include readiness, communication, teamwork, safety, initiative, coachability, awareness, and reset.
 - Avoid grading personality.
@@ -215,6 +220,7 @@ Inputs:
 
 Requirements:
 - Align with current grading categories.
+- Identify the knowledge, skill, and professional-thinking evidence being assessed.
 - Include safety and sanitation where relevant.
 - Prefer practical evidence when appropriate.
 - Include a concise rubric.

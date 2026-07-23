@@ -47,6 +47,8 @@ The repository supplies current program context. ChatGPT supports working though
 
 - Serves as the working environment for program planning.
 - Uses Project Knowledge and Project Instructions to keep work aligned.
+- Uses [`WACOS_ChatGPT_Quick_Reference.md`](../05_AI/WACOS_ChatGPT_Quick_Reference.md) for fast answers to common program questions.
+- Uses the connected GitHub repository for detailed procedures, citations, recent changes, and questions not covered by the quick reference.
 - Supports drafting, brainstorming, lesson development, document generation, and reflection.
 - Produces drafts for instructor review, not automatic program decisions.
 

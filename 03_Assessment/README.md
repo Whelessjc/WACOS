@@ -24,7 +24,7 @@ This folder contains grading, rubric, checklist, reflection, and assessment docu
 
 ## Relationship to the Core Manual
 
-Assessment must use the current grading structure when weights are included: 20% Employability, 35% Labs, and 45% Summative & Bistro.
+Assessment must use the current quarter grade structure when weights are included: 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills.
 
 ## Caution
 

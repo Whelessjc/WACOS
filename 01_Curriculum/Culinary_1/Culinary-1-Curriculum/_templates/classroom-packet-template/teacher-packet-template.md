@@ -5,6 +5,11 @@
 
 [UNIT PURPOSE / SHORT DESCRIPTION]
 
+## Three Levels of Learning
+- Knowledge: [WHAT STUDENTS ARE LEARNING]
+- Skill: [WHAT STUDENTS ARE PRACTICING]
+- Professional Thinking: [HABIT OF MIND BEING STRENGTHENED]
+
 ## Week at a Glance
 | Day | Focus | Main Application |
 |---|---|---|
@@ -17,6 +22,7 @@
 ## Daily Lesson Flow
 
 ### [DAY 1]: [DAY 1 TITLE]
+- Professional Thinking: [DAILY HABIT]
 - Opening: [OPENING ROUTINE]
 - Mini-lesson/demo: [TEACHER DEMO POINTS]
 - Student work: [STUDENT WORK]
@@ -25,6 +31,7 @@
 - Reset: [CLEANUP AND RESET EXPECTATIONS]
 
 ### [DAY 2]: [DAY 2 TITLE]
+- Professional Thinking: [DAILY HABIT]
 - Opening: [OPENING ROUTINE]
 - Mini-lesson/demo: [TEACHER DEMO POINTS]
 - Student work: [STUDENT WORK]
@@ -33,6 +40,7 @@
 - Reset: [CLEANUP AND RESET EXPECTATIONS]
 
 ### [DAY 3]: [DAY 3 TITLE]
+- Professional Thinking: [DAILY HABIT]
 - Opening: [OPENING ROUTINE]
 - Mini-lesson/demo: [TEACHER DEMO POINTS]
 - Student work: [STUDENT WORK]
@@ -41,6 +49,7 @@
 - Reset: [CLEANUP AND RESET EXPECTATIONS]
 
 ### [DAY 4]: [DAY 4 TITLE]
+- Professional Thinking: [DAILY HABIT]
 - Opening: [OPENING ROUTINE]
 - Mini-lesson/demo: [TEACHER DEMO POINTS]
 - Student work: [STUDENT WORK]
@@ -49,6 +58,7 @@
 - Reset: [CLEANUP AND RESET EXPECTATIONS]
 
 ### [DAY 5]: [DAY 5 TITLE]
+- Professional Thinking: [DAILY HABIT]
 - Opening: [OPENING ROUTINE]
 - Mini-lesson/demo: [TEACHER DEMO POINTS]
 - Student work: [STUDENT WORK]

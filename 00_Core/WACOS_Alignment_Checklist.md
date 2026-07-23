@@ -28,6 +28,8 @@ Date:
 
 ## 3. Enduring Principles
 
+- [ ] The document aligns with `Professional_Thinking_Framework.md`.
+- [ ] Meaningful learning identifies knowledge, skill, and professional thinking when authentic opportunities exist.
 - [ ] Authentic work is connected to authentic learning.
 - [ ] Students learn through responsibility, not adult rescue.
 - [ ] Fundamentals are treated as the highest standard.
@@ -37,7 +39,7 @@ Date:
 
 ## 4. Current Operating Decisions
 
-- [ ] The grading structure uses 20% Employability, 35% Labs, and 45% Summative & Bistro if grade weights are included.
+- [ ] The quarter grading structure uses 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills if grade weights are included.
 - [ ] The certification pathway emphasizes ServSafe Food Handler and Certified Kitchen Cook if credentials are mentioned.
 - [ ] The National ProStart Certificate of Achievement is not presented as current program policy.
 - [ ] Thursday Bistro Prep and Friday Bistro Service are reflected correctly if weekly rhythm is included.
@@ -51,6 +53,7 @@ Date:
 - [ ] Assessment includes practical performance, visible habits, safety, cleanup, and reflection where appropriate.
 - [ ] Written tests support safety, credentials, vocabulary, kitchen math, or applied understanding.
 - [ ] Student reflection supports improvement rather than paperwork for its own sake.
+- [ ] Employability is treated as observable evidence of professional habits rather than a separate or personality-based concept.
 
 ## 6. Bistro and Kitchen Operations
 

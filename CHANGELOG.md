@@ -1,5 +1,49 @@
 # Changelog
 
+## 2026-07-23 - Adopt Professional Thinking Framework
+
+### Program Decision
+
+Adopted the WACOS Professional Thinking Framework as a core governing document. West Ashley Culinary uses culinary as the vehicle for developing transferable professional habits of mind: "We are not training chefs. We are training students to think like chefs."
+
+### Implementation
+
+- Established the three-level instructional model of Knowledge, Skill, and Professional Thinking.
+- Required new and substantively revised curriculum units, Daily Teaching Guides, assessments, instructor guidance, and AI prompts to identify these levels when authentic opportunities exist.
+- Defined Employability Skills as observable evidence of professional habits rather than a separate personality or attitude concept.
+- Preserved existing materials for continued use, with alignment occurring through normal revision cycles instead of an immediate full rewrite.
+- Updated the Core Manual, Program Philosophy, Decision Register, traceability, alignment checklist, AI reference, assessment philosophy, and curriculum and lesson templates.
+
+## 2026-07-23 - Confirm Official Quarter Grade Categories
+
+### Decision
+
+Confirmed the official quarter grade categories as:
+
+- 45% Summative Assessments: Projects, Tests, and Bistro.
+- 35% Formative Assessments and Labs.
+- 20% Employability Skills.
+
+The 45/35/20 weights did not change. This decision clarifies and expands the prior shorthand labels `Summative & Bistro`, `Labs`, and `Employability`.
+
+### Updated
+
+- Updated the Core Manual, Decision Register, assessment system, curriculum index, style and alignment guidance, AI instructions, personalization profile, Playbook, traceability records, and ChatGPT Quick Reference.
+- Preserved the July 19 weight decision and added the July 23 category-name confirmation to the decision trail.
+
+## 2026-07-23 - Add ChatGPT Project Quick Reference
+
+### Summary
+
+Added a compact Project Knowledge file so the WACOS ChatGPT Project can answer common program questions without performing a full GitHub connector search each time.
+
+### Added or Updated
+
+- Added `05_AI/WACOS_ChatGPT_Quick_Reference.md` with current high-frequency program facts, governing-file paths, fast-answer rules, and escalation boundaries.
+- Linked the quick reference from the AI folder, Teacher Cockpit, and instructor workflow navigation.
+- Established that detailed, sensitive, recent, or unresolved questions still require the connected GitHub repository.
+- Established that future permanent changes to high-frequency facts must update the governing document and quick reference together.
+
 ## 2026-07-22 - Confirm Bistro Payment and Deposit Workflow
 
 ### Decision

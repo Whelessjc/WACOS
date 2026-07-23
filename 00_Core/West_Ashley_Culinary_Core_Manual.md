@@ -70,7 +70,7 @@ The National ProStart Certificate of Achievement is no longer part of the progra
 
 The preferred certification pathway emphasizes ServSafe Food Handler and Certified Kitchen Cook.
 
-Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro.
+Current quarter grading is 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills.
 
 Thursday Bistro Prep and Friday Bistro Service are current operating decisions.
 
@@ -145,6 +145,8 @@ The program does not promise that every student will become a chef. It does inte
 
 Culinary education is technical and behavioral.
 
+The [Professional Thinking Framework](Professional_Thinking_Framework.md) states the program's governing instructional philosophy: **We are not training chefs. We are training students to think like chefs.** The kitchen is the classroom, culinary is the vehicle, and professional thinking is the destination. Students may or may not enter culinary careers, but every student should leave more prepared, organized, responsible, reflective, and capable.
+
 Students must learn knife safety, sanitation, equipment use, recipes, cooking methods, kitchen math, tasting, cleaning, and service. They must also learn punctuality, attention, follow-through, communication, emotional control, teamwork, and responsibility.
 
 Recipes are not the curriculum. Recipes are vehicles for skill practice. A pancake lab, a fried rice lab, a soup, a salad, a Bistro special, or a service station is valuable because it reveals whether students can prepare, execute, communicate, clean, reflect, and improve.
@@ -190,6 +192,8 @@ Knife safety, sanitation, mise en place, recipe reading, measuring, cooking meth
 ### Professional Habits Matter as Much as Technical Skill
 
 Talent does not cancel out poor safety, poor communication, unreliable work habits, or disrespect for the room. A student who can cook but cannot work cleanly, communicate clearly, or reset the station is not meeting the program standard.
+
+Meaningful learning should connect three levels when authentic opportunities exist: the knowledge students are learning, the skill they are practicing, and the professional-thinking habit they are strengthening. New and substantively revised units, Daily Teaching Guides, assessments, instructor guidance, and AI prompts should make these connections explicit.
 
 ### Hospitality Is a Mindset
 
@@ -459,29 +463,29 @@ Assessment should reflect how culinary learning actually happens: repeated pract
 
 Written tests have a place, especially for safety, sanitation, vocabulary, kitchen math, and credentials. The core of the program, however, is performance.
 
-### Current Grade Structure
+### Current Quarter Grade Structure
 
-The current grade structure is:
+The current quarter grade structure is:
 
-- 20% Employability.
-- 35% Labs.
-- 45% Summative & Bistro.
+- 45% Summative Assessments: Projects, Tests, and Bistro.
+- 35% Formative Assessments and Labs.
+- 20% Employability Skills.
 
 This structure replaces older or conflicting grade-weight references in the archive.
 
-### Employability
+### Employability Skills
 
-Employability grades measure professional behavior and readiness. Evidence may include punctuality, uniform, materials, participation, communication, teamwork, initiative, coachability, station responsibility, and closing habits.
+Employability Skills grades measure professional behavior and readiness. Evidence may include punctuality, uniform, materials, participation, communication, teamwork, initiative, coachability, station responsibility, and closing habits.
 
-Employability is not a soft extra. In culinary and hospitality work, employability is part of competence.
+Employability Skills are not a soft extra. In culinary and hospitality work, employability is part of competence.
 
-### Labs
+### Formative Assessments and Labs
 
-Lab grades measure process, safety, technique, product, station work, teamwork, cleanup, and reflection. Labs should reward how students work, not only how the final plate looks.
+Formative Assessments and Labs measure developing knowledge and performance through checks for understanding, practice, process, safety, technique, product, station work, teamwork, cleanup, and reflection. They should reward how students learn and work, not only how the final plate looks.
 
-### Summative
+### Summative Assessments: Projects, Tests, and Bistro
 
-Summative evidence measures demonstrated competence at a checkpoint. It may include practical exams, written checks, open-note assessments, credential checks, projects, portfolios, Bistro performance assessments, and major skill demonstrations.
+Summative evidence measures demonstrated competence at a checkpoint. It may include projects, tests, practical exams, credential checks, portfolios, Bistro performance assessments, and major skill demonstrations.
 
 Summative work should test readiness, not trivia. Students should be able to show what they can do, explain what they know, and apply standards under realistic conditions.
 
@@ -668,6 +672,9 @@ Current identity language:
 - Classroom to Table.
 - High School, High Standards.
 - The Bistro as the central instructional model.
+- "We are not training chefs. We are training students to think like chefs."
+
+The Professional Thinking Framework is the governing instructional lens for future revisions. Existing materials remain usable and should be aligned through normal revision cycles rather than an immediate full rewrite.
 
 ### Certification Pathway
 
@@ -684,9 +691,9 @@ ProStart-related materials may appear in historical documents, older syllabi, an
 
 Current grade structure:
 
-- 20% Employability.
-- 35% Labs.
-- 45% Summative & Bistro.
+- 45% Summative Assessments: Projects, Tests, and Bistro.
+- 35% Formative Assessments and Labs.
+- 20% Employability Skills.
 
 Older references to 10/20/30/40, 25/35/40, 30/30/40, or other grade structures are historical unless specifically retained in a current course document approved after this manual.
 
@@ -790,7 +797,7 @@ Resolution: ServSafe Food Handler is the Culinary 1 credential and Certified Kit
 
 The archive includes several grading structures, including 10/20/30/40, 25/35/40, Bistro as a major percentage, and evidence-type models without percentages.
 
-Resolution: Current grading is 20% Employability, 35% Labs, and 45% Summative & Bistro, confirmed for 2026-2027 on July 19, 2026.
+Resolution: Current quarter grading is 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills. The weights were confirmed for 2026-2027 on July 19, 2026, and the official category names were confirmed on July 23, 2026.
 
 ### Culinary 2 Identity
 
