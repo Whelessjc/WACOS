@@ -51,4 +51,10 @@ In Culinary 1, knife practice should become food whenever possible. Examples:
 - Onion and garlic become the base of simple dishes.
 
 ## Duplicate Recipe Review
-The export references recipe archives and many generated recipes, but the exact master recipe list still requires artifact-level review. Version 2.1 does not place unverified recipes into the core manual. Recipe deduplication is a Version 3.0 task tracked in [TODO.md](TODO.md).
+The standardized historical recipe bank was imported into
+[`Recipe_Bank/`](Recipe_Bank/) on 2026-07-23. The archive-processing pass consolidated
+duplicates and recategorized recipes into current category files. The bank remains
+provisional: instructor review is required for entries marked **Needs confirmation**
+and for unresolved items documented in
+[`Recipe_Bank/_OPEN_QUESTIONS.md`](Recipe_Bank/_OPEN_QUESTIONS.md). Unverified recipes
+remain outside the Core Manual.

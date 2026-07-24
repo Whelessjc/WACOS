@@ -2,6 +2,20 @@
 
 This folder contains recipe guidance and approved recipe-bank materials.
 
+## Recipe Bank
+
+The standardized historical recipe bank is stored in [`Recipe_Bank/`](Recipe_Bank/).
+It was imported from the West Ashley Culinary `Recipe_Archive` on 2026-07-23 and
+includes:
+
+- 14 current category files.
+- Editable Word exports, including a combined master bank.
+- The standardization references used to prepare the bank.
+- An open-questions log recording unresolved source gaps, exclusions, and review items.
+
+See [`Recipe_Bank/WACOS_IMPORT_NOTES.md`](Recipe_Bank/WACOS_IMPORT_NOTES.md) for
+provenance and review status.
+
 ## Belongs Here
 
 - Recipe standards.
@@ -23,6 +37,9 @@ The Core Manual states that recipes are vehicles for skill practice, not the cur
 
 ## Caution
 
-The master recipe bank still needs review, deduplication, source dating, and instructor approval before being treated as fully authoritative.
+The recipe bank has been standardized and deduplicated, but it is provisional rather
+than fully authoritative. Entries explicitly marked **Needs confirmation**, along
+with items in `_OPEN_QUESTIONS.md`, require instructor review before production use.
 
-`Standard_Recipe_Format.md` is the approved structural specification for future bank entries. The completed bank files referenced by the Claude recipe-project instructions were not included in the July 20 intake and are not yet part of this repository.
+`Standard_Recipe_Format.md` remains the approved structural specification for future
+bank entries.
