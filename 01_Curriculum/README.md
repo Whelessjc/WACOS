@@ -37,6 +37,8 @@ Do not revive old ProStart-centered curriculum language as current policy unless
 
 ## Current Imports
 
+`Culinary_1/Week_01_2026/` is the dated, classroom-ready source package for August 11-14, 2026. It contains four Daily Teaching Guides, practical student materials, and concise slide source.
+
 `Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source from the Desktop Culinary 1 curriculum folder. Generated delivery files such as ZIP, DOCX, PDF, and PPTX packages are intentionally excluded from GitHub unless later published as release assets.
 
 `Culinary_2/Culinary-2-Curriculum/` is the organized build-out package for Culinary 2. It currently provides the course-map and unit shell needed to expand Culinary 2 to match the classroom-ready depth of Culinary 1.

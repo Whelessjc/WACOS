@@ -29,6 +29,7 @@ Culinary 1 is currently the more complete curriculum package.
 Primary package:
 
 - `Culinary_1/Culinary-1-Curriculum/`
+- `Culinary_1/Week_01_2026/` - dated Week 1 teaching guides, student materials, and slide source for August 11-14, 2026
 
 Major folders include:
 

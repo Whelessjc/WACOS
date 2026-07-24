@@ -11,6 +11,7 @@ This folder is not curriculum, policy, a student handbook, or a replacement for 
 - [Teacher Cockpit](Teacher_Cockpit.md) - complete operating model and source hierarchy.
 - [Weekly Teacher Workflow](Weekly_Teacher_Workflow.md) - recurring work organized by day.
 - [Instructor Recurring Checklists](Instructor_Recurring_Checklists.md) - printable daily, weekly, quarterly, and semester checks.
+- [Daily Teaching Guide Standard](Daily_Teaching_Guide_Standard.md) - operational lesson-planning standard for flex-mod teaching and first-ten-day elasticity.
 - [ChatGPT EDU Capability Matrix](ChatGPT_EDU_Capability_Matrix.md) - current AI environment, boundaries, and external systems.
 - [WACOS ChatGPT Quick Reference](../05_AI/WACOS_ChatGPT_Quick_Reference.md) - compact Project Knowledge for fast answers to common WACOS questions.
 

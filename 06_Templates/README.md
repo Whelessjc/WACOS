@@ -2,6 +2,10 @@
 
 This folder contains reusable forms, blank templates, checklists, and document starters.
 
+## Current Templates
+
+- [Daily Teaching Guide Template](Daily_Teaching_Guide_Template.md) - reusable instructor guide aligned to the flex-mod and Professional Thinking standards.
+
 ## Belongs Here
 
 - Blank lesson plan templates.
@@ -25,4 +29,3 @@ Templates should make Core Manual expectations easier to use. They should not cr
 ## Caution
 
 When a template becomes an official assessment, SOP, or curriculum document, move or copy the completed version into the correct operating folder.
-

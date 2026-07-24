@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-07-24 - Adopt Daily Teaching Guide Standard and Publish Culinary 1 Week 1
+
+### Program Decision
+
+Adopted the instructor-facing Daily Teaching Guide standard as the operational layer between curriculum and classroom instruction. Flex-mod planning now explicitly targets equivalent weekly learning rather than identical daily pacing. Culinary 1 uses paths 1-4, Culinary 2 uses paths 5-8, and PACK remains the lunch advisory; the instructor uses the PACK window as planning time associated with paths 6-7.
+
+### Week 1 Package
+
+- Created four dated Culinary 1 Daily Teaching Guides for August 11-14, 2026.
+- Created practical student materials for kitchen orientation, Kitchen Mode, pancake recipe preparation, and the first pancake lab.
+- Created concise slide source for all four days.
+- Preserved first-ten-day elasticity and did not impose the normal Thursday/Friday Bistro rhythm before Bistro launches.
+- Marked unresolved policies for toppings, takeout containers, and food leaving the classroom for instructor confirmation.
+
 ## 2026-07-23 - Adopt Professional Thinking Framework
 
 ### Program Decision
