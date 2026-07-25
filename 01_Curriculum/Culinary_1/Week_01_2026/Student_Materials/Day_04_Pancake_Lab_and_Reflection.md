@@ -33,7 +33,11 @@ Read first. Prepare before acting. Cook with awareness. Present the work profess
 - Plate the group's pancakes professionally.
 - Display the plate as directed.
 - Do not eat until every group has finished and the instructor releases the class.
-- Follow instructor-confirmed directions for syrup, toppings, leftovers, containers, and food leaving the room.
+- No added toppings.
+- Taking food home is not recommended because of food-safety concerns. If an arrangement has been made, see the instructor.
+- Food leaving the classroom is not recommended because other classes generally do not allow food or drinks.
+- Takeout containers are not provided; purchase is required if the instructor approves food leaving the classroom.
+- Exceptions may occur at the instructor's discretion. Be responsible and respectful, do not be greedy, follow the receiving classroom's rules, and continue observing food safety.
 
 ## Reset
 

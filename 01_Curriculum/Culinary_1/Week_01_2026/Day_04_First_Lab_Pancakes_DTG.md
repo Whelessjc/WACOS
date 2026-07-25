@@ -41,7 +41,7 @@ With your group, state the first three actions before heat and name the person w
 - Bowls, whisks, measuring tools, spatulas, approved griddles/pans, oven, sheet pans or holding trays, plates, and forks.
 - Dish, sanitizer, towel, trash, and floor plan.
 - Confirm equipment condition, pilot-light/ignition procedure, oven setting, heat authorization, group size, allergens, and serving plan.
-- Confirm policies for toppings, take-home food, takeout containers, and food leaving the classroom before answering students.
+- Prepare students to follow the confirmed food-distribution guidance below and decide whether any exception has been arranged.
 
 ## Adult Roles
 
@@ -54,10 +54,11 @@ With your group, state the first three actions before heat and name the person w
 - **Can we eat now?** Not until all groups finish cooking, all work is displayed, and the instructor releases the class.
 - **How do we keep pancakes warm?** Place finished pancakes in the instructor-designated low oven using the approved holding setup.
 - **Where are the forks? / Is there syrup?** Follow the instructor's staged serving plan.
-- **Can we take food home?** Instructor confirmation required.
-- **Can we take food to the next class?** Instructor confirmation required.
-- **Can we add toppings?** Instructor confirmation required.
-- **Can we have a takeout box?** Instructor confirmation required.
+- **Can we take food home?** Taking food home is not recommended because of food-safety concerns. If an arrangement has been made, see the instructor and continue observing food-safety requirements.
+- **Can we take food to the next class?** Food leaving the classroom is not recommended because other classes generally do not allow food or drinks. Any exception requires an arrangement with the instructor.
+- **Can we add toppings?** No.
+- **Can we have a takeout box?** Takeout containers are not provided; students must purchase one if the instructor has approved food leaving the classroom.
+- **Are exceptions ever possible?** Yes, at the instructor's discretion. Be responsible and respectful, do not be greedy, follow the receiving classroom's rules, and continue observing food safety.
 
 ## Instructor Context
 
@@ -68,5 +69,5 @@ Students intentionally encounter griddles, pilot lights, ovens, heat control, di
 - What worked:
 - Heat/equipment issue:
 - Holding/presentation issue:
-- Policy decisions to record:
+- Food-distribution exception or concern to record:
 - Section continuation notes:

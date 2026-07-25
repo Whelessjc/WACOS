@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-07-24 - Confirm First-Lab Food-Distribution Guidance
+
+### Instructor Decision
+
+- Confirmed no added toppings.
+- Confirmed that takeout containers are not provided and must be purchased when an instructor-approved exception permits food to leave.
+- Established that taking food home is not recommended because of food-safety concerns.
+- Established that food leaving the classroom is not recommended because other classes generally prohibit food and drinks.
+- Preserved instructor discretion for exceptions while requiring responsibility, respect, moderation, compliance with the receiving classroom's rules, and continued food-safety awareness.
+
 ## 2026-07-24 - Adopt Daily Teaching Guide Standard and Publish Culinary 1 Week 1
 
 ### Program Decision
@@ -12,7 +22,7 @@ Adopted the instructor-facing Daily Teaching Guide standard as the operational l
 - Created practical student materials for kitchen orientation, Kitchen Mode, pancake recipe preparation, and the first pancake lab.
 - Created concise slide source for all four days.
 - Preserved first-ten-day elasticity and did not impose the normal Thursday/Friday Bistro rhythm before Bistro launches.
-- Marked unresolved policies for toppings, takeout containers, and food leaving the classroom for instructor confirmation.
+- Initially marked policies for toppings, takeout containers, and food leaving the classroom for instructor confirmation; the later July 24 entry above records their resolution.
 
 ## 2026-07-23 - Adopt Professional Thinking Framework
 

@@ -56,7 +56,7 @@ What will your group do before anyone turns on heat?
 - **Do we cook today?** No. Today protects Friday by preparing the plan and the measurement skills.
 - **What does mise en place mean?** Tools, ingredients, and the plan ready before cooking.
 - **Do we need to memorize the recipe?** No. You need to read it, understand it, and use it.
-- **Can we change the recipe or add toppings?** Only after instructor confirmation.
+- **Can we change the recipe or add toppings?** No added toppings. Do not change the recipe unless the instructor directs the change.
 
 ## Instructor Context
 
