@@ -45,7 +45,6 @@ Use these terms consistently:
 
 - West Ashley Culinary.
 - West Ashley High School Culinary Arts Program.
-- Classroom to Table.
 - High School, High Standards.
 - Kitchen Mode.
 - The Bistro or Bistro.
@@ -57,7 +56,6 @@ Use these terms consistently:
 | Use | Avoid | Notes |
 |---|---|---|
 | West Ashley Culinary | WA culinary, culinary class, the cooking class | Use full name in formal documents; shorter references are fine after first use |
-| Classroom to Table | farm-to-table unless literally meant | Program identity language |
 | High School, High Standards | college-level, professional chef school | Maintains rigor while honoring student reality |
 | Bistro | restaurant project, cafe activity, fundraiser | The Bistro is the central instructional model |
 | Employability | participation, attitude points | Employability includes observable professional habits |
@@ -212,7 +210,7 @@ AI writing should not:
 Before approving a document, ask:
 
 - Does it sound like West Ashley Culinary?
-- Does it support Classroom to Table and High School, High Standards?
+- Does it support West Ashley Culinary and High School, High Standards?
 - Does it treat the Bistro as central?
 - Does it use current grading and credential language?
 - Does it avoid obsolete ProStart-centered language?

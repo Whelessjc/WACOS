@@ -25,7 +25,7 @@ Do not use working chats, AI memory, generated documents, or archived files as t
 - Formal name: West Ashley High School Culinary Arts Program.
 - Common name: West Ashley Culinary.
 - Operating system: WACOS, the West Ashley Culinary Operating System.
-- Identity language: **Classroom to Table** and **High School, High Standards**.
+- Approved program language: **High School, High Standards**.
 - The Bistro is the central instructional model.
 - West Ashley Culinary is a working kitchen inside a high school.
 - Governing statement: **We are not training chefs. We are training students to think like chefs.**
@@ -95,10 +95,18 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 ### Launch for 2026-2027
 
 - Week 4: August 31-September 4, 2026.
-- Week 4 begins Bistro systems, mock service, and an optional tightly controlled soft opening.
+- Week 4 continues Bistro systems and mock service, with a tightly controlled soft opening near the end of the week if the instructor confirms readiness and safety.
 - Friday, September 4 is early release; it is not the first normal public service.
 - First normal public service target: Friday, September 11, 2026, in Week 5.
 - The instructor may reduce, postpone, modify, or pause service for readiness or safety.
+- Do not invent classroom jobs, rotation boards, teams, management roles, or student authority structures. The current teams remain Dining, Kitchen, Support, and Barista.
+
+### Annual Startup
+
+- Use `09_Workflows/Instructor_Recurring_Checklists.md#annual-startup-workflow` as the governing startup checklist.
+- Required Vector Solutions training is launch-critical and must be completed as soon as possible; verify the exact district deadline.
+- Student-name Anki cards are a Week 1 task, not a pre-arrival task, and student data stays in approved systems.
+- A Teacher Assistant supports the program in 2026-2027 within the boundaries in `07_Administration/15_Teacher_Assistant_Onboarding.md`; the role is not a co-teacher.
 
 ### Guest Recovery
 

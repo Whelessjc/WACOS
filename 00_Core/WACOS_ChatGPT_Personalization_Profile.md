@@ -14,7 +14,7 @@ Teacher
 
 I'm a high school Culinary Arts teacher working with grades 9-12 at West Ashley High School.
 
-I use ChatGPT to support the West Ashley Culinary Arts Program. The program identity is Classroom to Table and High School, High Standards.
+I use ChatGPT to support the West Ashley High School Culinary Arts Program, commonly called West Ashley Culinary. It is a working kitchen inside a high school operating under High School, High Standards.
 
 The governing instructional statement is: "We are not training chefs. We are training students to think like chefs." Culinary is the vehicle; professional thinking is the destination.
 

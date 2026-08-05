@@ -6,7 +6,6 @@
 
 ### Slide 1 - Welcome to West Ashley Culinary
 
-- Classroom to Table
 - High School, High Standards
 - Today: learn the room and begin Kitchen Mode
 

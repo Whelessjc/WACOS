@@ -19,7 +19,7 @@ Write one meal you already know how to prepare and one meal you would like to le
 
 ## Core Learning
 
-1. Welcome students and introduce **Classroom to Table** and **High School, High Standards**.
+1. Welcome students to West Ashley Culinary and introduce **High School, High Standards**.
 2. Explain Kitchen Mode as the shift from arrival to ready, aware, and purposeful work.
 3. Pair or group students for the Kitchen Orientation Challenge.
 4. Require safe movement, quiet observation, and leaving items where they belong.

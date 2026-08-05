@@ -21,9 +21,10 @@ Date:
 ## 2. Program Identity
 
 - [ ] The document supports West Ashley Culinary as a working kitchen inside a school.
-- [ ] The document reflects "Classroom to Table" where appropriate.
+- [ ] The document identifies the West Ashley High School Culinary Arts Program, commonly called West Ashley Culinary, where appropriate.
 - [ ] The document reflects "High School, High Standards" where appropriate.
 - [ ] The Bistro is treated as the central instructional model, not an add-on.
+- [ ] The document does not invent classroom jobs, rotation boards, teams, management roles, or student authority structures.
 - [ ] The tone is practical, professional, and clear.
 
 ## 3. Enduring Principles

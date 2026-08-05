@@ -62,7 +62,7 @@ Archived material may explain how the program developed. It does not automatical
 
 For Version 1.0 of this Core Manual, the following decisions are treated as current:
 
-West Ashley Culinary operates under the identity language "Classroom to Table" and "High School, High Standards."
+West Ashley Culinary is the West Ashley High School Culinary Arts Program, commonly called West Ashley Culinary. It operates under "High School, High Standards."
 
 The Bistro is the central instructional model, not an enrichment activity.
 
@@ -96,9 +96,7 @@ West Ashley Culinary is a working kitchen inside a high school.
 
 The program is not built around culinary spectacle, isolated recipe completion, or the appearance of being "advanced." It is built around practice, service, teamwork, responsibility, repetition, and professional habits.
 
-The program identity is expressed through two governing phrases:
-
-**Classroom to Table** means that learning becomes visible through preparation, service, hospitality, and shared work. Students do not only study culinary arts; they practice culinary work in a real instructional kitchen.
+The program's approved identity language is:
 
 **High School, High Standards** means that the program honors the reality that students are teenagers while still maintaining professional expectations. The standard is not lowered because the setting is a school. The standard is taught, practiced, reinforced, and assessed because the setting is a school.
 
@@ -107,7 +105,6 @@ The program identity is expressed through two governing phrases:
 The public identity of the program should remain clear and stable:
 
 - West Ashley Culinary.
-- Classroom to Table.
 - High School, High Standards.
 - Kitchen, classroom, and Bistro as one instructional ecosystem.
 - Hands-on culinary arts and hospitality education.
@@ -411,7 +408,7 @@ Readiness includes:
 - Mock service.
 - Closing and reset.
 
-The program uses a readiness-based launch model. For 2026-2027, Week 4 (August 31-September 4) begins Bistro systems, mock service, and optional tightly controlled soft-opening work. Because Friday, September 4 is an early-release day, the first normal public Bistro service is Friday, September 11 in Week 5. The instructor may reduce, postpone, or pause service when safety or readiness requires it.
+The program uses a readiness-based launch model. For 2026-2027, Weeks 1-3 build readiness through instruction, kitchen systems, safety, sanitation, Employability, and lab routines. Week 4 (August 31-September 4) continues Bistro systems and mock service, with a tightly controlled soft opening near the end of the week if readiness and safety permit. Because Friday, September 4 is an early-release day, it is not the first normal public service. The true opening and first normal public Bistro service target is Friday, September 11 in Week 5. The instructor may reduce, postpone, modify, or pause service when safety or readiness requires it.
 
 ### Life of an Order
 
@@ -669,7 +666,6 @@ Operational decisions describe the current implementation of the program. They m
 Current identity language:
 
 - West Ashley Culinary.
-- Classroom to Table.
 - High School, High Standards.
 - The Bistro as the central instructional model.
 - "We are not training chefs. We are training students to think like chefs."

@@ -4,6 +4,63 @@
 
 Print or copy the section needed. These checks support instructor operations; they do not replace current curriculum, Bistro SOPs, safety requirements, district procedures, or bookkeeper controls.
 
+## Annual Startup Workflow
+
+Use this as the single recurring startup checklist. Dated items below apply only to 2026-2027; remap future years to the adopted calendar. Link to governing documents instead of copying curriculum or detailed safety procedures here.
+
+### Before Teachers Return
+
+- [ ] Review district startup communications and record items requiring verification in the startup issue log.
+- [ ] Confirm the exact district deadline for required **Vector Solutions** training. The deadline is **district verification required** when not documented.
+- [ ] Complete required Vector Solutions videos as soon as possible. This is a **launch-critical compliance task**.
+- [ ] Review purchasing status, vendor access, available budget, inventory needs, and delivery constraints.
+- [ ] Review substitute continuity materials and identify updates requiring instructor review.
+
+### Before Students Arrive
+
+- [ ] Complete and document the equipment opening inspection; route equipment-specific issues through current safety and maintenance procedures.
+- [ ] Verify refrigeration and freezer temperatures and address exceptions under current food-safety requirements.
+- [ ] Confirm safety supplies, first-aid readiness, SDS/chemical documentation, labels, sanitizer systems, and required postings.
+- [ ] Complete initial food, coffee, disposables, uniform, cleaning, and smallwares inventory; place authorized orders.
+- [ ] Set up Canvas and the gradebook using current district and WACOS grading guidance.
+- [ ] Review student-support information only through approved district systems. Do not copy protected student information into WACOS or an unapproved AI system.
+- [ ] Prepare current family and student communication for instructor review before release.
+- [ ] Open a startup issue log for unresolved facilities, technology, compliance, purchasing, staffing, calendar, and Bistro-readiness items.
+- [ ] Begin Teacher Assistant onboarding using [`../07_Administration/15_Teacher_Assistant_Onboarding.md`](../07_Administration/15_Teacher_Assistant_Onboarding.md).
+
+### Week 1
+
+- [ ] Teach entry, Kitchen Mode, safety, sanitation, Employability, lab, shutdown, and reset routines.
+- [ ] Create and review student-name Anki cards during Week 1, allowing for roster changes. Keep student data in approved systems; do not place protected student information in WACOS or an unapproved AI system.
+- [ ] Orient the Teacher Assistant to program and kitchen systems, supervision boundaries, communication, confidentiality, equipment limits, and emergency/substitute procedures.
+- [ ] Review early readiness evidence and record instructor decisions in the startup issue log.
+
+### Weeks 2-3: Bistro Readiness
+
+- [ ] Continue instruction, kitchen systems, safety, sanitation, Employability, lab routines, and Bistro readiness.
+- [ ] Practice the normal weekly rhythm: Monday-Wednesday instruction, practice, assessment, grading, and planning; Thursday Bistro Prep; Friday Bistro Service and reflection only when readiness permits.
+- [ ] Train and assess the current Bistro teams: Dining, Kitchen, Support, and Barista.
+- [ ] Do not create classroom jobs, leadership boards, manager rotations, additional teams, or student authority structures without an instructor-approved Program Decision.
+
+### Week 4: August 31-September 4, 2026
+
+- [ ] Continue Bistro systems and conduct mock service.
+- [ ] Use a tightly controlled soft opening near the end of the week only if the instructor confirms readiness and safety.
+- [ ] Treat Friday, September 4 as an early-release day, not the first normal public service.
+- [ ] Confirm Week 5 purchasing, staffing, menu, equipment, safety, guest-flow, payment, and communication readiness.
+
+### Week 5: True Opening
+
+- [ ] Target Friday, September 11, 2026 for the first normal public Bistro service.
+- [ ] Instructor confirms final readiness and may reduce, postpone, modify, or pause service based on readiness or safety.
+- [ ] Preserve the normal rhythm: Monday-Wednesday instruction, practice, assessment, grading, and planning; Thursday Bistro Prep; Friday Bistro Service and reflection.
+
+### September After-Action Review
+
+- [ ] Review compliance, onboarding, equipment, temperatures, safety supplies, inventory, purchasing, Canvas/gradebook, substitute continuity, student-support access, communications, and Bistro launch.
+- [ ] Close resolved startup-log items and assign district-verification or instructor-review status to remaining items.
+- [ ] Submit durable changes through the WACOS Update Workflow; do not turn curriculum content into policy.
+
 ## Daily
 
 ### Before Students

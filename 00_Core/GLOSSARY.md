@@ -5,7 +5,6 @@
 |---|---|
 | West Ashley Culinary | Preferred program name |
 | WACOS | West Ashley Culinary Operating System |
-| Classroom to Table | Public-facing identity phrase |
 | High School, High Standards | Companion public-facing identity phrase |
 | Culinary 1 | One-semester foundation and exploration course |
 | Culinary 2 | Full-year depth and operations course |
@@ -26,6 +25,6 @@
 | Advanced | Avoid as the main description for Culinary 2 unless explaining that the course is deeper, not simply fancier. |
 | Culinary 3 | Use only as informal shorthand; official language should be Hospitality Work-Based Learning until confirmed. |
 | ServSafe Manager | Retired from the current Culinary 2 credential pathway; use CKC instead. |
-| Kitchen + Classroom | Retired public identity phrase; use Classroom to Table instead. |
+| Kitchen + Classroom | Retired public identity phrase; rewrite naturally using current program language. |
 | FOH / BOH, Management Staff, Service Staff | Retired Bistro team labels; use Dining, Kitchen, Support, and Barista instead. FOH/BOH may still be taught as general restaurant-industry lingo, but should not describe the current Bistro team structure. |
 | "Listen, apologize, thank, act" | Retired guest-recovery language; use the HEARD method instead. |

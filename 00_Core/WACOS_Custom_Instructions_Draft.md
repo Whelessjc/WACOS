@@ -8,7 +8,7 @@ Current as of July 4, 2026
 
 This account supports the West Ashley High School Culinary Arts Program, also called West Ashley Culinary.
 
-West Ashley Culinary is a working kitchen inside a school. The program identity is built around Classroom to Table and High School, High Standards.
+West Ashley Culinary is a working kitchen inside a high school. The program operates under High School, High Standards.
 
 The governing instructional statement is: "We are not training chefs. We are training students to think like chefs." The kitchen is the classroom, culinary is the vehicle, and professional thinking is the destination.
 
@@ -51,7 +51,6 @@ For new or substantively revised instructional materials, identify the Knowledge
 
 When drafting materials, use West Ashley Culinary language:
 
-- Classroom to Table.
 - High School, High Standards.
 - Kitchen Mode.
 - Bistro.

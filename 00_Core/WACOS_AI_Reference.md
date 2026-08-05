@@ -11,7 +11,6 @@ West Ashley Culinary is the West Ashley High School Culinary Arts Program. It is
 The program identity is built around:
 
 - West Ashley Culinary.
-- Classroom to Table.
 - High School, High Standards.
 - The Bistro as the central instructional model.
 - "We are not training chefs. We are training students to think like chefs."
@@ -51,6 +50,7 @@ Flag conflicts instead of inventing policy.
 - Culinary 2 means greater depth and responsibility, not just harder recipes.
 - Monday-Wednesday learning time should be protected when possible.
 - Thursday Bistro Prep and Friday Bistro Service are current operating decisions.
+- Dining, Kitchen, Support, and Barista are the current Bistro teams. Do not invent classroom jobs, rotation boards, teams, management roles, or student authority structures; structural changes require an instructor-approved Program Decision.
 - Safety, sanitation, allergens, equipment authorization, grading, discipline, and compliance require instructor authority.
 
 ## What AI May Do

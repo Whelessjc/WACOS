@@ -21,7 +21,7 @@ This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` t
 |---|---|---|
 | Preface | `00_README.md`, `INDEX.md`, `EXECUTIVE_SUMMARY.md`, user request | Synthesized purpose of the Core Manual as governing document rather than SOP, student handbook, or curriculum guide |
 | Source of Authority | `SOURCE_MANIFEST.md`, `DECISION_REGISTER.md`, `EXECUTIVE_SUMMARY.md`, user request | Consolidated source hierarchy and archive handling rules; added current decision layer from user request |
-| Program Identity | `01_Program_Philosophy.md`, `14_Program_Administration.md`, `culinary-program-website-design-6a118f6f.md`, instructor decisions | Adopted West Ashley Culinary, Classroom to Table, High School, High Standards, and Bistro-centered identity; retired Kitchen + Classroom |
+| Program Identity | `01_Program_Philosophy.md`, `14_Program_Administration.md`, `culinary-program-website-design-6a118f6f.md`, instructor decisions | Adopted West Ashley Culinary, High School, High Standards, and Bistro-centered identity; retired obsolete identity language |
 | Mission and Vision | `01_Program_Philosophy.md`, `05_Bistro_Operations.md`, `chef-bio-and-web-blurb-6849880c.md`, user request | Rewrote as concise governing mission and vision; avoided promotional language from archive |
 | Educational Philosophy | `01_Program_Philosophy.md`, `03_Culinary_1_Curriculum.md`, `04_Culinary_2_Curriculum.md`, `culinary-1-pacing-discussion-695c1863.md`, `culinary-2-pacing-guide-6991c083.md` | Consolidated depth over breadth, teenagers-first, fundamentals under pressure, and recipes-as-vehicles principles |
 | Professional Thinking Framework | `Professional_Thinking_Framework.md`, instructor-approved proposal dated 2026-07-23 | Established culinary as the vehicle for transferable professional thinking; adopted the Knowledge, Skill, and Professional Thinking model as a prospective revision standard |
@@ -63,7 +63,7 @@ This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` t
 | ProStart Certificate of Achievement is no longer part of the program | Source of Authority; Current Program Decisions; Appendix A | User request; archive conflict review |
 | Preferred credentials are ServSafe Food Handler and Certified Kitchen Cook | Curriculum Framework; Current Program Decisions; Appendix A | User request, `03_Culinary_1_Curriculum.md`, `04_Culinary_2_Curriculum.md`, `14_Program_Administration.md` |
 | Thursday Bistro Prep and Friday Bistro Service are current operations | Bistro Operating Philosophy; Current Program Decisions | User request, `04_Culinary_2_Curriculum.md`, `05_Bistro_Operations.md`, `08_Daily_and_Weekly_Systems.md` |
-| Classroom to Table and High School, High Standards define identity | Program Identity; Current Program Decisions | User request, public identity/archive context |
+| West Ashley Culinary and High School, High Standards define identity | Program Identity; Current Program Decisions | Instructor-confirmed decision, 2026-08-04 |
 
 ## Maintenance Recommendations
 

@@ -5,7 +5,7 @@ Document administrative systems that support program stability, compliance, fund
 
 ## Program Assets
 - West Ashley Culinary identity.
-- Classroom to Table public frame.
+- High School, High Standards public frame.
 - Bistro as student-led restaurant experience.
 - Culinary 1, Culinary 2, and Hospitality Work-Based Learning pathway.
 - Credential pathway including Food Handler and CKC planning.

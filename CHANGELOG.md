@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-08-04 - Update WACOS Identity and 2026-2027 Startup Operations
+
+### Program Decision
+
+- Recorded that "Classroom to Table" is the instructor's separate personal brand/project and is not official WACOS or West Ashley Culinary identity or operating language.
+- Retained "High School, High Standards" as approved program language.
+- Preserved Dining, Kitchen, Support, and Barista as the current Bistro teams and prohibited invented jobs, rotation boards, teams, management roles, and student authority structures without a separate Program Decision.
+
+### Startup Operations
+
+- Consolidated the permanent annual startup workflow into the instructor recurring checklists.
+- Marked Vector Solutions training launch-critical, placed student-name Anki cards in Week 1, and documented Teacher Assistant onboarding and authority boundaries.
+- Clarified Weeks 1-3 readiness, a tightly controlled soft opening near the end of Week 4, and the Week 5 true-opening target of Friday, September 11, 2026.
+
 ## 2026-07-24 - Confirm First-Lab Food-Distribution Guidance
 
 ### Instructor Decision
