@@ -2,6 +2,15 @@
 
 This folder contains grading, rubric, checklist, reflection, and assessment documents.
 
+## Current System
+
+- [`06_Assessment_System.md`](06_Assessment_System.md) governs Bistro, lab, Employability, and cross-tool consistency.
+- [`Tools/Bistro_Manager_Observation_Record.md`](Tools/Bistro_Manager_Observation_Record.md) is the print-friendly live-service record.
+- [`Tools/Bistro_Observer_Calibration_Guide.md`](Tools/Bistro_Observer_Calibration_Guide.md) aligns instructor and Teacher Assistant evidence collection.
+- [`Tools/Lab_Observation_Record.md`](Tools/Lab_Observation_Record.md) is the reusable Culinary 1 and Culinary 2 lab record.
+- [`Tools/Employability_Observation_Log.md`](Tools/Employability_Observation_Log.md) supports exception-based pattern evidence.
+- [`Tools/Student_Assessment_Quick_Guide.md`](Tools/Student_Assessment_Quick_Guide.md) requires instructor review before student use.
+
 ## Belongs Here
 
 - Employability rubrics.

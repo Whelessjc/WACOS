@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-08-06 - Add Minimalist Bistro, Lab, and Employability Assessment System
+
+### Program Decision
+
+- Adopted concise, evidence-based observation systems built for a working high-school kitchen.
+- Preserved 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; and 20% Employability Skills.
+- Established natural checkpoints, exception-based notes, repeated evidence, student improvement, and instructor judgment as the governing method.
+
+### Added or Updated
+
+- Rebuilt the governing Assessment System with Bistro holistic bands, reusable lab procedures, Employability pattern review, insufficient-evidence handling, and consistency rules.
+- Added print-friendly Bistro, lab, and Employability records, an observer calibration guide, and an instructor-review student quick guide.
+- Linked the Bistro record from Bistro Operations and the observer guide from Teacher Assistant onboarding.
+- Recorded exact conversions, entry frequency, Bistro grade frequency, observer configuration, deductions, and Canvas setup as unresolved instructor decisions.
+
 ## 2026-08-04 - Update WACOS Identity and 2026-2027 Startup Operations
 
 ### Program Decision

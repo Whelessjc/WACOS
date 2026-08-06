@@ -28,7 +28,14 @@ Bistro roles are organized into four current teams: **Dining, Kitchen, Support, 
 | Dining | Host, server, expo, runner, busser, customer service | `Dining_Team_SOP.md` |
 | Support | Stocking, labels, laundry, trash, sanitizer, dish room, smallwares | `Support_Team_SOP.md` |
 | Barista | Espresso/drink prep, station stocking, beverage service | `Barista_Team_SOP.md` |
-| Leadership | Bistro manager, station lead, sanitation lead, inventory assistant | `02_Bistro/Station_Guides/07_Leadership_and_Student_Roles.md` |
+
+Leadership development may occur within an assigned current team. It does not create a fifth Bistro team or grant student authority beyond the instructor-approved assignment.
+
+## Bistro Assessment
+
+Bistro performance remains in Summative Assessments: Projects, Tests, and Bistro. During live service, the instructor and Teacher Assistant may divide observation coverage by named student, current team, station, or service area. Evidence is gathered during opening/readiness, active service, and closing/reset using the concise [Bistro Manager Observation Record](../../03_Assessment/Tools/Bistro_Manager_Observation_Record.md). The [Assessment System](../../03_Assessment/06_Assessment_System.md) governs codes, insufficient evidence, combined observer records, holistic bands, and instructor authority.
+
+Observers record evidence. The instructor assigns the final grade. A serious safety, sanitation, allergen, or conduct concern requires immediate intervention and separate instructor review when needed.
 
 ## Before Service Checklist
 - Menu, sides, condiments, and specials reviewed.

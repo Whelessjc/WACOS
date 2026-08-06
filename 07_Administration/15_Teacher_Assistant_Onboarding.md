@@ -32,6 +32,7 @@ The Teacher Assistant helps the room function. The role supports routines, obser
 - Watch for safety and sanitation concerns.
 - Help students find the system before finding the answer for them.
 - Support live grading evidence collection if assigned.
+- When assigned to Bistro observation, use the [Bistro Observer Calibration Guide](../03_Assessment/Tools/Bistro_Observer_Calibration_Guide.md) and record only the area, students, or stations assigned by the instructor.
 - Help close and reset.
 - Report recurring issues to instructor.
 

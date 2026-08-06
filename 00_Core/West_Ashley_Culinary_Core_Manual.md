@@ -472,7 +472,7 @@ This structure replaces older or conflicting grade-weight references in the arch
 
 ### Employability Skills
 
-Employability Skills grades measure professional behavior and readiness. Evidence may include punctuality, uniform, materials, participation, communication, teamwork, initiative, coachability, station responsibility, and closing habits.
+Employability Skills grades measure observable professional behavior and readiness. Evidence may include punctuality, uniform, materials, communication, teamwork, initiative, coachability, station responsibility, productive use of time, stewardship, and closing habits. Employability is not a personality, attitude, or generic participation measure.
 
 Employability Skills are not a soft extra. In culinary and hospitality work, employability is part of competence.
 
@@ -485,6 +485,12 @@ Formative Assessments and Labs measure developing knowledge and performance thro
 Summative evidence measures demonstrated competence at a checkpoint. It may include projects, tests, practical exams, credential checks, portfolios, Bistro performance assessments, and major skill demonstrations.
 
 Summative work should test readiness, not trivia. Students should be able to show what they can do, explain what they know, and apply standards under realistic conditions.
+
+### Observation Evidence
+
+Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception-based notes, repeated evidence, and instructor judgment. A checklist code is evidence rather than an automatic grade. Not observed is not failure. Group performance does not automatically become each student's individual grade, and the same behavior should not be automatically penalized in more than one category. Serious safety, sanitation, allergen, or conduct concerns require immediate intervention and separate instructor review when necessary.
+
+The current procedures and printable records are maintained in `03_Assessment/06_Assessment_System.md` and `03_Assessment/Tools/`.
 
 ### Practical Evidence
 
