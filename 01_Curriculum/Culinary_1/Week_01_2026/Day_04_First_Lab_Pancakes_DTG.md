@@ -15,17 +15,17 @@
 
 ## Opening
 
-With your group, state the first three actions before heat and name the person who will read the directions aloud.
+Enter Kitchen Mode, get the group's marked recipe, wash hands, and begin mise en place.
 
 ## Core Learning
 
-1. Enter Kitchen Mode, wash hands, read the recipe, and assemble mise en place.
-2. Receive instructor approval before operating heat.
+1. Start immediately: wash hands, retrieve the marked recipe, and assemble mise en place.
+2. Give only the safety and equipment direction required at the moment students need it; receive instructor approval before operating heat.
 3. Cook while observing bubbles, set edges, color, and heat response.
 4. Hold finished pancakes in the instructor-designated low oven.
 5. Plate the group's work professionally and display it. Students do not eat until all groups have finished cooking and the instructor releases the class.
 6. Complete dishes, sanitation, tool return, towel/trash/floor checks, and full reset.
-7. Reflect briefly on one successful system and one improvement.
+7. Use a brief oral debrief during or after reset; no separate reflection sheet is required.
 
 ## Flexible Learning
 
@@ -37,7 +37,7 @@ With your group, state the first three actions before heat and name the person w
 
 ## Materials and Instructor Preparation
 
-- Instructor-approved pancake recipe and ingredients.
+- The same marked group copies of the instructor-approved pancake recipe used Thursday, plus ingredients.
 - Bowls, whisks, measuring tools, spatulas, approved griddles/pans, oven, sheet pans or holding trays, plates, and forks.
 - Dish, sanitizer, towel, trash, and floor plan.
 - Confirm equipment condition, pilot-light/ignition procedure, oven setting, heat authorization, group size, allergens, and serving plan.

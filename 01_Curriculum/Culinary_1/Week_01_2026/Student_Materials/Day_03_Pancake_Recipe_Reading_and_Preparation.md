@@ -1,20 +1,28 @@
-# Pancake Recipe Reading and Preparation
+# Pancake Recipe - Week 1 Group Copy
 
 **Culinary 1 - Day 3**
 
-> Drafted for instructor review before classroom use. The instructor inserts the approved pancake recipe below.
+Use this same marked group copy on Thursday and Friday.
 
-## Read First
+## Ingredients
 
-**Instructor-approved pancake recipe**
+- 5 cups self-rising flour
+- 1/2 cup sugar
+- 2 cups milk
+- 2 cups buttermilk
+- 4 eggs
+- 4 Tbsp vegetable oil
 
-____________________________________________________________________
+## Method
 
-____________________________________________________________________
-
-____________________________________________________________________
-
-____________________________________________________________________
+1. Preheat the griddle to medium.
+2. Whisk together the flour and sugar.
+3. In a separate bowl, whisk the milk, buttermilk, eggs, and oil.
+4. Add the wet ingredients to the dry and whisk for 10 seconds, or until the batter barely comes together. The batter will be lumpy.
+5. Use a #12 scoop (green) to portion batter onto the griddle.
+6. Cook until craters form.
+7. Do not add toppings for this Week 1 lab.
+8. When ready, flip the pancakes and cook until done.
 
 ## Mark the Plan
 
@@ -24,27 +32,4 @@ ____________________________________________________________________
 - Put a star beside each **action verb**.
 - Draw an arrow to each **heat or doneness cue**.
 
-## Mise en Place
-
-Before cooking, our group needs:
-
-**Ingredients:** ____________________________________________________
-
-**Equipment:** _____________________________________________________
-
-**Measuring tools:** ________________________________________________
-
-**First three actions:**
-
-1. _________________________________________________________________
-2. _________________________________________________________________
-3. _________________________________________________________________
-
-## Ready Check
-
-- [ ] We read the entire recipe.
-- [ ] We know the yield.
-- [ ] We selected the correct measuring tools.
-- [ ] We know where mise en place will sit.
-- [ ] We know who will read the directions aloud.
-- [ ] We know heat stays off until instructor approval.
+Keep this copy with the group. Heat stays off until instructor approval.

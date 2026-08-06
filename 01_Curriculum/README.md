@@ -37,7 +37,9 @@ Do not revive old ProStart-centered curriculum language as current policy unless
 
 ## Current Imports
 
-`Culinary_1/Week_01_2026/` is the dated, classroom-ready source package for August 11-14, 2026. It contains four Daily Teaching Guides, practical student materials, and concise slide source.
+`Culinary_1/01_Modular_Pacing_Guide.md` is the current 18-week pacing spine for both Culinary 1 semester cohorts.
+
+`Culinary_1/Week_01_2026/` is the dated, classroom-ready source package for August 11-14, 2026. It contains four Daily Teaching Guides and a minimal-print classroom plan.
 
 `Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source from the Desktop Culinary 1 curriculum folder. Generated delivery files such as ZIP, DOCX, PDF, and PPTX packages are intentionally excluded from GitHub unless later published as release assets.
 

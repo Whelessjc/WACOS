@@ -21,7 +21,7 @@ Write one meal you already know how to prepare and one meal you would like to le
 
 1. Welcome students to West Ashley Culinary and introduce **High School, High Standards**.
 2. Explain Kitchen Mode as the shift from arrival to ready, aware, and purposeful work.
-3. Pair or group students for the Kitchen Orientation Challenge.
+3. Take students into the kitchen for a guided orientation challenge; keep the group moving rather than stopping to complete a worksheet.
 4. Require safe movement, quiet observation, and leaving items where they belong.
 5. Debrief three locations every student needs to know today: hand sink, dish area, and emergency/exit information identified by the instructor.
 
@@ -40,7 +40,7 @@ Name one item or area you can now locate and one reason organization matters.
 
 ## Materials and Instructor Preparation
 
-- Print the Kitchen Orientation Challenge.
+- Use the Kitchen Orientation Challenge as an instructor prompt; no student copies are required.
 - Confirm which spaces students may enter and which are teacher-only.
 - Verify emergency information and identify any item students should point to rather than touch.
 - Decide how groups will return borrowed tools.

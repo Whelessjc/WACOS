@@ -9,15 +9,15 @@ Week 1 contains four instructional days. The package is designed for Culinary 1 
 - [Day 3 - Read Before You Cook](Day_03_Read_Before_You_Cook_DTG.md)
 - [Day 4 - First Lab: Pancakes](Day_04_First_Lab_Pancakes_DTG.md)
 
-## Student Materials
+## Student Materials and Printing
 
-- [Kitchen Orientation Challenge](Student_Materials/Day_01_Kitchen_Orientation_Challenge.md)
-- [Kitchen Mode Quick Practice](Student_Materials/Day_02_Kitchen_Mode_Quick_Practice.md)
-- [Pancake Recipe Reading and Preparation](Student_Materials/Day_03_Pancake_Recipe_Reading_and_Preparation.md)
-- [Pancake Lab and Reflection](Student_Materials/Day_04_Pancake_Lab_and_Reflection.md)
+- **Required print:** [Pancake Recipe - Week 1 Group Copy](Student_Materials/Day_03_Pancake_Recipe_Reading_and_Preparation.md), one copy per group for Thursday and Friday.
+- [Kitchen Orientation Challenge](Student_Materials/Day_01_Kitchen_Orientation_Challenge.md) is an instructor prompt for an in-kitchen walkthrough; student copies are not required.
+- [Kitchen Mode Quick Practice](Student_Materials/Day_02_Kitchen_Mode_Quick_Practice.md) is not planned for Week 1 use; communication is practiced live in the kitchen.
+- [Pancake Lab and Reflection](Student_Materials/Day_04_Pancake_Lab_and_Reflection.md) is optional reference material; the planned reflection is oral and no student copies are required.
 
-## Slides
+## Slides and Projection
 
-- [Week 1 Slide Source](Slides/Culinary_1_Week_01_Slide_Source.md)
+- No explanatory slide deck is required for Week 1. Post only the daily target or a very short agenda if useful. The archived [Week 1 Slide Source](Slides/Culinary_1_Week_01_Slide_Source.md) is not part of the school upload package.
 
 All student-facing materials are drafts for instructor review before classroom use.

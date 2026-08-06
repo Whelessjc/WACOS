@@ -7,28 +7,28 @@
 
 ## Learning
 
-- **Target:** I can enter Kitchen Mode and practice the basic routines that protect people and the room.
+- **Target:** I can move through the kitchen, communicate clearly, and help leave the room ready for the next group.
 - **Essential question:** What does readiness look and sound like in this kitchen?
 - **Knowledge:** Entry, handwashing, movement, communication, uniform/appearance, and initial reset expectations.
-- **Skill:** Entering, washing hands, moving safely, communicating, and completing a basic reset.
+- **Skill:** Moving safely, using kitchen callouts in context, washing hands, and completing a basic reset.
 - **Professional thinking:** Readiness, awareness, communication, and stewardship.
 
 ## Opening
 
-From memory, list the first three actions that should happen when class begins.
+Move directly to the kitchen starting area and be ready to practice.
 
 ## Core Learning
 
-1. Model and rehearse the entry routine: belongings placed correctly, agenda checked, readiness addressed, and starting place reached.
-2. Demonstrate the current handwashing routine and when students must wash.
-3. Practice safe movement and the words **behind**, **hot**, **sharp**, **corner**, and **excuse me** without carrying dangerous items.
-4. Review Culinary 1 appearance expectations: white chef jacket with program logo and instructor-confirmed daily requirements.
-5. Demonstrate a basic reset: tools returned, counters addressed, towels/dishes routed, trash and floor checked.
+1. Move into the kitchen with minimal front-loading and identify the starting area, belongings location, and handwashing expectation as students encounter them.
+2. Practice kitchen movement using the callouts **behind**, **hot pan**, **corner**, **sharp knife**, **heavy load**, **coming down the line**, and **oven open**.
+3. Use the callouts during actual movement and equipment-location practice rather than as a written exercise. Students do not carry hot or sharp items during this introductory rehearsal.
+4. Review only the appearance expectation needed for participation that day.
+5. Reset one practice area: tools returned, counters addressed, towels/dishes routed, trash checked, and floor checked.
 
 ## Flexible Learning
 
-- Run a slow-motion entry rehearsal and a second normal-speed attempt.
-- Use the Quick Practice scenarios.
+- Repeat a kitchen route at normal working speed.
+- Add a realistic movement scenario when students need another repetition.
 - Let groups identify what prevents a station from being ready for the next class.
 - Continue unfinished Orientation Challenge items for newly enrolled students.
 
@@ -36,26 +36,26 @@ From memory, list the first three actions that should happen when class begins.
 
 ## Closure
 
-Complete: “Kitchen Mode begins when I ___, and it protects the team by ___.”
+Ask two students to name a callout they used and when it mattered.
 
 ## Materials and Instructor Preparation
 
-- Display the entry sequence.
 - Prepare handwashing supplies.
 - Confirm current uniform/appearance details before presenting them.
 - Set one practice station with a few correctable reset issues.
+- No student worksheet is needed.
 
 ## Adult Roles
 
 **Instructor:** Model each routine, approve current expectations, and correct unsafe habits immediately.
 
-**TA when available:** Observe the entry route, prompt communication, and support the reset practice without creating a separate checklist.
+**TA when available:** Move with students, prompt callouts in context, and support the reset practice.
 
 ## Students Will Ask
 
 - **Do we wash our hands as soon as we enter?** Follow the instructor's posted entry sequence and wash when directed.
 - **What if I do not have my jacket yet?** Follow the instructor's current temporary-uniform direction.
-- **Do we say “behind” every time?** Use it when your movement could surprise or affect someone.
+- **Do we call out every movement?** Use a callout when your movement, load, equipment, or position could affect someone else.
 - **Are we learning all sanitation rules today?** No. Today establishes only the routines needed to participate safely; deeper instruction follows.
 
 ## Instructor Context

@@ -28,8 +28,9 @@ Culinary 1 is currently the more complete curriculum package.
 
 Primary package:
 
+- `Culinary_1/01_Modular_Pacing_Guide.md` - standalone 18-week pacing spine for both semester cohorts
 - `Culinary_1/Culinary-1-Curriculum/`
-- `Culinary_1/Week_01_2026/` - dated Week 1 teaching guides, student materials, and slide source for August 11-14, 2026
+- `Culinary_1/Week_01_2026/` - dated Week 1 teaching guides and minimal-print classroom materials for August 11-14, 2026
 
 Major folders include:
 

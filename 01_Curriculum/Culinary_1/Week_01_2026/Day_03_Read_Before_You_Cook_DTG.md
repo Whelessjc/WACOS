@@ -19,11 +19,11 @@ Without touching equipment, scan the pancake recipe and circle the first action 
 
 ## Core Learning
 
-1. Read the entire recipe before discussing individual steps.
+1. Give each group one copy of the pancake recipe and read it once from top to bottom.
 2. Identify ingredients, equipment, measurements, action verbs, heat cues, and the cleanup/reset expectation.
 3. Introduce **mise en place** as having tools, ingredients, and a plan ready before cooking.
 4. Demonstrate only the measuring skills required by the selected pancake recipe.
-5. Have groups build a no-cook practice setup and explain the first safe step for Friday.
+5. Have groups mark the recipe and stage a no-cook practice setup for Friday.
 
 ## Flexible Learning
 
@@ -40,7 +40,7 @@ What will your group do before anyone turns on heat?
 
 ## Materials and Instructor Preparation
 
-- Insert the instructor-selected pancake recipe into the student sheet.
+- Print one instructor-approved pancake recipe per group; students mark the recipe itself.
 - Confirm the recipe yield and number of groups.
 - Stage only the measuring tools used Friday.
 - Confirm Friday's griddle, pan, oven, holding, dish, and cleanup setup.
