@@ -11,6 +11,7 @@ Use this workflow to run the instructional week, protect Monday-Wednesday learni
 - Put away received groceries when needed.
 - Open the computer and review email and the day's external systems.
 - Review the instructor checklist and calendar.
+- Open accepted weekly materials from the current Google Drive course/week folder rather than regenerating them.
 - Prepare the lesson, agenda, learning targets, resources, and demonstration.
 - Complete instructor mise en place before students arrive.
 
@@ -152,4 +153,5 @@ Follow the [Bistro Payment and Deposit Workflow](../02_Bistro/SOPs/Bistro_Paymen
 - Review curriculum fit and missing resources.
 - Identify next week's learning, labs, and Bistro needs.
 - Identify any durable WACOS correction or improvement.
+- Publish newly accepted delivery artifacts to the appropriate Drive folder and update the lightweight artifact index when needed.
 - Use the [WACOS Update Workflow](../00_Core/WACOS_Update_Workflow.md) for permanent changes.

@@ -74,6 +74,12 @@ Codex should use two passes:
 
 Do not mix unrelated resource groups in one intake. A single topic folder or upload set is faster and easier to verify than many loosely related files.
 
+## Finished-Artifact Publishing
+
+Use the [Artifact Publishing Workflow](../09_Workflows/Artifact_Publishing_Workflow.md) when a WACOS source needs a reusable teacher or student delivery format. The normal lifecycle is: WACOS source, ChatGPT or artifact creation, instructor review, accepted delivery file or Google-native copy, publication to the Google Drive usable-materials library, and later reuse or revision.
+
+Formatting-only changes to a published artifact do not require a WACOS update. When an artifact reveals or introduces a durable curriculum, assessment, safety, Bistro, or operating change, use the appropriate Quick Edit or Program Decision lane before treating the change as governing. Do not add generated delivery copies to GitHub unless a documented exception requires it.
+
 ## Add, Change, and Remove Rules
 
 ### Add
@@ -116,6 +122,7 @@ For every published update:
 - Policy changes are recorded in the Decision Register.
 - Meaningful changes are recorded in the changelog.
 - No temporary files, source ZIPs, photographs, generated delivery copies, credentials, or unrelated changes are included.
+- Any affected published-artifact index entry identifies the governing source, Drive destination, review status, and review date.
 - Internal links and formatting checks pass.
 - The local branch and GitHub are synchronized after the push.
 

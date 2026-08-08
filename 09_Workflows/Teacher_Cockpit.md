@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Teacher Cockpit is the complete instructor operating model for West Ashley Culinary. It shows where durable information belongs, which tool handles each kind of work, and how a working idea becomes an approved repository update.
+The Teacher Cockpit is the complete instructor operating model for West Ashley Culinary. It shows where authoritative sources, working drafts, and published artifacts belong; which tool handles each kind of work; and how a working idea becomes either an approved repository update or a reusable school material.
 
 ## Source Hierarchy
 
@@ -27,12 +27,16 @@ WACOS GitHub Repository
           ↓
   Generated Documents
           ↓
-       Git Commit
-          ↓
-   Repository Update
+    Instructor Review
+       ↙         ↘
+Drive Artifact   WACOS Change
+                    ↓
+             Codex Validation
+                    ↓
+             GitHub Update
 ```
 
-The repository supplies current program context. ChatGPT supports working thought and document creation. The instructor reviews the result. Codex integrates approved permanent changes, validates them, commits them, and synchronizes GitHub.
+The repository supplies current program context. ChatGPT supports working thought and document creation. The instructor reviews the result. Accepted delivery artifacts are published to Google Drive for direct reuse. Codex integrates approved permanent changes, validates them, commits them, and synchronizes GitHub.
 
 ## What Each System Does
 
@@ -88,6 +92,16 @@ ChatGPT handles:
 
 Student-facing materials always require instructor review. Safety, allergens, grading, discipline, district requirements, and program policy remain instructor-controlled.
 
+### Google Drive Usable-Materials Library
+
+- Holds instructor-reviewed materials that should open, print, edit, or present without regeneration.
+- Uses course-and-week folders as the primary teaching entry point and shared folders for canonical cross-course resources.
+- Uses Drive shortcuts instead of duplicate copies when one artifact serves several weeks or areas.
+- Does not establish curriculum, policy, assessment architecture, safety rules, or Bistro procedure independently of WACOS.
+- Excludes student records, completed grades, credentials, restricted financial records, and other data assigned to protected district systems.
+
+Follow the [Artifact Publishing Workflow](Artifact_Publishing_Workflow.md) and record accepted artifacts in the [Published Artifact Index](Published_Artifact_Index.md).
+
 ## District Systems Remain External
 
 District and business systems remain outside WACOS unless an approved connection is available. Examples include:
@@ -100,7 +114,7 @@ District and business systems remain outside WACOS unless an approved connection
 - Bookkeeper forms.
 - Printing and copying systems.
 
-Use these systems for their assigned operational purpose. Record only durable program documentation in WACOS. Do not place student records, credentials, private financial information, or district-restricted data in the repository or an unapproved AI system.
+Use these systems for their assigned operational purpose. Google Drive may hold durable delivery artifacts without becoming the program authority. Record governing documentation and lightweight artifact metadata in WACOS. Do not place student records, credentials, private financial information, or district-restricted data in the repository, the general usable-materials library, or an unapproved AI system.
 
 ## Weekly Control Pattern
 

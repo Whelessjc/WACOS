@@ -13,6 +13,8 @@ This folder is not curriculum, policy, a student handbook, or a replacement for 
 - [Instructor Recurring Checklists](Instructor_Recurring_Checklists.md) - authoritative annual startup workflow plus printable daily, weekly, quarterly, and semester checks.
 - [Daily Teaching Guide Standard](Daily_Teaching_Guide_Standard.md) - operational lesson-planning standard for flex-mod teaching and first-ten-day elasticity.
 - [ChatGPT EDU Capability Matrix](ChatGPT_EDU_Capability_Matrix.md) - current AI environment, boundaries, and external systems.
+- [Artifact Publishing Workflow](Artifact_Publishing_Workflow.md) - moves reviewed WACOS-based materials into the durable Google Drive usable-materials library.
+- [Published Artifact Index](Published_Artifact_Index.md) - lightweight record of accepted artifacts, governing sources, destinations, and review status.
 - [WACOS ChatGPT Quick Reference](../05_AI/WACOS_ChatGPT_Quick_Reference.md) - compact Project Knowledge for fast answers to common WACOS questions.
 
 ## Operating Boundaries
@@ -22,6 +24,7 @@ This folder is not curriculum, policy, a student handbook, or a replacement for 
 - Thursday is Bistro Prep.
 - Friday is Bistro Service.
 - Student-facing materials require instructor review.
+- Accepted delivery artifacts belong in the district-approved Google Drive library; governing source documentation remains in GitHub.
 - District systems remain external unless a current, district-approved connection is available.
 - Permanent WACOS changes follow the [WACOS Update Workflow](../00_Core/WACOS_Update_Workflow.md).
 

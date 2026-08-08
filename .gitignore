@@ -1,6 +1,8 @@
 # Local and generated artifacts
 *.docx
 *.pdf
+*.xlsx
+*.xls
 *.pptx
 *.zip
 *.lnk

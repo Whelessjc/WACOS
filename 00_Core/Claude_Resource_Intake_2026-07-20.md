@@ -22,7 +22,7 @@
 
 ## Delivery Artifacts Not Added to GitHub
 
-The DOCX calendars and teacher/student copies remain delivery artifacts under the repository's existing `*.docx` exclusion. Their validated decisions and source content were incorporated into Markdown. Generated Word copies should be rebuilt or revised from current Markdown before classroom distribution.
+The DOCX calendars and teacher/student copies remain delivery artifacts under the repository's existing `*.docx` exclusion. Their validated decisions and source content were incorporated into Markdown. Unreviewed or outdated Word copies should be rebuilt or revised from current WACOS source before classroom distribution; an instructor-reviewed artifact already published to the Google Drive usable-materials library may be reused directly while it remains current.
 
 ## Out of Place or Incomplete
 

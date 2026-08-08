@@ -28,7 +28,7 @@ This matrix records the instructor's current ChatGPT EDU working environment. It
 
 | Connector | Current status | Operating approach |
 |---|---|---|
-| Google Drive | Blocked | Use district-approved Drive and Google Docs manually as external systems. |
+| Google Drive | Blocked | Use district-approved Drive and Google Docs manually as the usable-materials publishing library. Connector access is not required for Drive to serve this role. |
 | Gmail | Blocked | Use the approved email system directly. |
 | Google Calendar | Blocked | Review and update the approved calendar directly. |
 | Canvas connector | Blocked | Use Canvas directly for course publishing and grade-related work. |
@@ -37,7 +37,7 @@ District permissions may change. Retest a blocked connector only when a new dist
 
 ## External Systems
 
-Google Docs, email, calendars, Canvas, Square, bookkeeper forms, printing, and other district systems remain external even when ChatGPT helps draft content for them. The instructor completes final review, transfer, publication, and any required official action.
+Google Docs, email, calendars, Canvas, Square, bookkeeper forms, printing, and other district systems remain external even when ChatGPT helps draft content for them. The instructor completes final review, transfer, publication, and any required official action. Google Drive is the designated durable library for accepted delivery artifacts, but WACOS remains the authority for governing content and records only lightweight publication metadata.
 
 ## Review Rules
 

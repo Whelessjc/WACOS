@@ -743,6 +743,12 @@ Student-facing documents translate the program for students and families.
 
 Archived material preserves history and evidence.
 
+### Source, Draft, and Published Materials
+
+WACOS and GitHub are the authoritative permanent record for program decisions, curriculum architecture, operating systems, source documentation, and revision history. Working chats and unreviewed generated materials are drafts. Instructor-reviewed materials intended for direct teaching or operations may be published as durable delivery artifacts in the district-approved Google Drive library.
+
+Published artifacts translate WACOS into usable formats; they do not become independent policy. A Drive copy may be reused and revised without regeneration, but any change to curriculum, assessment architecture, safety, Bistro operations, or another governing rule must return through the WACOS Update Workflow. Generated PDF, DOCX, XLSX, PPTX, ZIP, and Google export copies do not normally belong in GitHub unless a specific preservation or release reason is documented.
+
 ### Revision Rules
 
 Any major revision should:
@@ -762,6 +768,7 @@ The Core Manual and WACOS should be reviewed after each semester. Review should 
 - Whether Bistro systems are supporting learning.
 - Whether certification plans remain current.
 - Whether AI tools are using current source material.
+- Whether published artifacts remain usable, reviewed, and aligned with their governing WACOS sources.
 - Whether archived material has been accidentally revived.
 
 ### Decision Records

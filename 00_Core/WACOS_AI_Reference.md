@@ -27,6 +27,8 @@ The National ProStart Certificate of Achievement is not current program directio
 
 AI supports the instructor. AI does not replace instructor judgment.
 
+GitHub/WACOS is the permanent authority; working chats and unreviewed generated materials are drafts; and the district-approved Google Drive is the durable library for accepted, ready-to-use delivery artifacts. AI may create or revise artifacts from current WACOS sources, but instructor review is required before publication or student use. A Drive artifact does not create policy, and durable changes discovered during artifact work must return through the WACOS Update Workflow.
+
 ## Source-of-Truth Hierarchy
 
 When sources conflict, use this order:
@@ -68,6 +70,7 @@ AI may draft, organize, compare, and generate options for:
 - AI tutor instructions.
 - Documentation updates.
 - Alignment checklist reviews.
+- Reviewed delivery artifacts for publication to the usable-materials library.
 
 ## What AI Must Not Do
 

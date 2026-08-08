@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-08-08 - Establish Durable Finished-Artifact Publishing Layer
+
+### Program Decision
+
+- Retained WACOS/GitHub as the authoritative permanent record for program governance, curriculum architecture, operating systems, decisions, sources, and revision history.
+- Designated the district-approved Google Drive as the durable usable-materials library for instructor-reviewed instructional and operational artifacts.
+- Confirmed ChatGPT as the planning, drafting, analysis, and artifact-creation workspace and Codex as the repository maintenance, consistency, validation, and publishing agent.
+- Required durable curriculum or operating changes discovered through artifact work to return through the WACOS Update Workflow rather than allowing Drive copies to become silent policy.
+
+### Publishing Workflow
+
+- Added a finished-artifact lifecycle and lightweight Published Artifact Index.
+- Adopted course-and-week Drive folders as the primary daily teaching entry point, with canonical shared resources linked by Drive shortcuts rather than duplicated.
+- Clarified that accepted artifacts should be reused directly and should not normally be regenerated each term.
+- Preserved the exclusion of generated DOCX, PDF, XLSX, PPTX, ZIP, and Google export copies from GitHub unless a specific documented reason requires them.
+
 ## 2026-08-06 - Add Minimalist Bistro, Lab, and Employability Assessment System
 
 ### Program Decision

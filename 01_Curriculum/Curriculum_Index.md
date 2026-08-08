@@ -4,7 +4,7 @@ Version 1.0
 
 This index is the working map for current West Ashley Culinary curriculum materials.
 
-GitHub is the curriculum home of record. OneDrive, Desktop folders, exported packets, and generated delivery files may be used as source or distribution locations, but they are not the governing workspace.
+GitHub is the curriculum home of record. The district-approved Google Drive is the durable distribution and reuse library for instructor-reviewed artifacts. OneDrive, Desktop folders, working exports, and generated drafts are not governing workspaces.
 
 ## Curriculum Sequence
 
@@ -47,7 +47,7 @@ Major folders include:
 - `10-Protein-as-Application`
 - `11-Bridge-to-Culinary-2`
 
-The imported Culinary 1 package also contains delivery, Canvas, print, slide, template, resource, and export folders. Those folders make Culinary 1 usable as a teaching system, not just a planning document.
+The imported Culinary 1 package also contains Markdown delivery, Canvas, print, slide, template, resource, and export sources. They support artifact creation, but accepted day-to-day delivery copies belong in the Drive usable-materials library.
 
 ## Culinary 2
 
@@ -85,7 +85,7 @@ The package shell organizes Culinary 2 into teachable units that mirror the matu
 | Culinary 2 completeness | Moderate-to-strong. Both semesters have day-by-day working guides and adopted 2026-2027 calendar anchors. The course still needs consistent packaged teacher/student materials, the annual guest-chef roster, partner dates, and detailed testing/graduation adjustments. |
 | Bistro integration | Strong conceptually. Culinary 2 especially treats Thursday prep and Friday service as the instructional spine. |
 | Credential alignment | Current direction favors ServSafe Food Handler and Certified Kitchen Cook. ProStart Certificate of Achievement should not be treated as current policy. |
-| Organization | Improved. GitHub should now be treated as the single curriculum source of truth. |
+| Organization | GitHub is the single curriculum source of truth; Google Drive is the library for accepted delivery artifacts. |
 
 July 20, 2026 foundational additions are incorporated into the course packages: Culinary 1 adds dried pasta with basic tomato sauce, basic vinaigrette with simple salad, and basic pan sauce; Culinary 2 adds whole-chicken breakdown within Proteins, Heat, and Doneness, subject to supervision and budget confirmation.
 
@@ -103,4 +103,4 @@ See `Foundation_Photo_Gap_Review_2026-07-20.md` for the broader cookbook-overvie
 
 Do not operate Culinary 1 from Desktop and Culinary 2 from OneDrive.
 
-Use this repository as the organized curriculum home. External folders may remain useful as working copies, backups, or source imports, but current curriculum decisions should be made in WACOS and pushed to GitHub.
+Use this repository as the governing curriculum home. Publish reviewed, ready-to-use artifacts to Google Drive through the [Artifact Publishing Workflow](../09_Workflows/Artifact_Publishing_Workflow.md). External working folders and drafts do not govern current curriculum.

@@ -10,7 +10,9 @@ The program is commonly called West Ashley Culinary. It is a working kitchen ins
 
 It organizes the program's governing documents, curriculum, Bistro operations, assessment systems, recipes, AI guidance, templates, administration, equipment and safety materials, instructor workflows, and historical archive.
 
-The repository is designed for practical use during the school year. A teacher should be able to find the current source of truth quickly, create new documents in the right place, and avoid mixing current practice with retired or historical material.
+The repository is designed to preserve and govern the program during the school year. A teacher should be able to find the current source of truth quickly, while instructor-reviewed DOCX, PDF, spreadsheet, slide, and Google-native delivery materials remain available for direct use in the district-approved Google Drive library.
+
+WACOS distinguishes three states: authoritative source documentation in GitHub, working or unreviewed drafts in approved creation tools, and published usable artifacts in Google Drive. Drive copies do not independently establish policy; durable changes return through the WACOS Update Workflow.
 
 ## Start Here
 

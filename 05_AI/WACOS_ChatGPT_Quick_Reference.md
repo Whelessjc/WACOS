@@ -167,6 +167,7 @@ Use ChatGPT for:
 - Drafting and revision.
 - Document generation.
 - Reflection and analysis.
+- Creation and revision of delivery artifacts from current WACOS sources.
 
 ### Codex
 
@@ -183,6 +184,13 @@ Use Codex for:
 - `Whelessjc/WACOS`, branch `main`, is the permanent documentation record.
 - Use GitHub for detailed procedures, citations, recent changes, and questions not answered here.
 - Do not claim GitHub was updated unless a commit and push were confirmed.
+
+### Google Drive
+
+- Use the district-approved Drive as the durable library for instructor-reviewed, ready-to-use materials.
+- Reuse accepted files directly rather than rebuilding them from Markdown each term.
+- Treat Drive copies as delivery artifacts, not independent program authority.
+- Return durable curriculum or operating changes to the WACOS Update Workflow.
 
 Permanent changes follow `00_Core/WACOS_Update_Workflow.md`:
 

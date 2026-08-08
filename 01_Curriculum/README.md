@@ -6,7 +6,7 @@ This folder contains current curriculum documents for West Ashley Culinary.
 
 Use `Curriculum_Index.md` as the current map for Culinary 1, Culinary 2, and Hospitality Work-Based Learning.
 
-GitHub is the curriculum home of record. OneDrive, Desktop folders, and exported files may be source or delivery locations, but current curriculum organization should live here.
+GitHub is the curriculum home of record. Current curriculum decisions, architecture, and source organization live here. The district-approved Google Drive is the primary library for instructor-reviewed, ready-to-use delivery materials; Desktop folders, exports, and other locations do not govern curriculum.
 
 ## Belongs Here
 
@@ -39,7 +39,7 @@ Do not revive old ProStart-centered curriculum language as current policy unless
 
 `Culinary_1/01_Modular_Pacing_Guide.md` is the current 18-week pacing spine for both Culinary 1 semester cohorts.
 
-`Culinary_1/Week_01_2026/` is the dated, classroom-ready source package for August 11-14, 2026. It contains four Daily Teaching Guides and a minimal-print classroom plan.
+`Culinary_1/Week_01_2026/` is the dated, classroom-ready source package for August 11-14, 2026. It contains four Daily Teaching Guides and a minimal-print classroom plan. Accepted printable and editable delivery copies belong in the corresponding Drive week folder.
 
 `Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source from the Desktop Culinary 1 curriculum folder. Generated delivery files such as ZIP, DOCX, PDF, and PPTX packages are intentionally excluded from GitHub unless later published as release assets.
 

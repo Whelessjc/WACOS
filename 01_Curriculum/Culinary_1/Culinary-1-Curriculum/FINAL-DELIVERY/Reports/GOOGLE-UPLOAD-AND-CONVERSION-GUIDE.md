@@ -2,9 +2,10 @@
 
 ## Uploading to Google Drive
 1. Open Google Drive.
-2. Create a folder named `Culinary Arts Management 1`.
-3. Upload the files from `FINAL-DELIVERY`.
-4. Keep the folder structure if possible.
+2. Open `West Ashley Culinary/Culinary 1/[school year]/Week NN/` for week-specific materials.
+3. Upload only instructor-reviewed files accepted for use; do not upload the entire `FINAL-DELIVERY` tree by default.
+4. Put canonical cross-week materials in `Shared Resources` and use Drive shortcuts from week folders.
+5. Update the WACOS Published Artifact Index.
 
 ## Opening DOCX as Google Docs
 1. Upload the `.docx` file to Google Drive.
@@ -25,12 +26,19 @@
 3. Check page breaks before sending to print.
 
 ## Recommended Google Drive Organization
-- `Student Use`
-- `Teacher Use`
-- `Lab Sheets`
-- `Reference Guides`
-- `Slides`
-- `Printer PDFs`
+- `00 Start Here`
+- `Culinary 1/[school year]/Week NN`
+- `Culinary 2/[school year]/Week NN`
+- `Bistro/Current Service Materials`
+- `Bistro/Forms and Checklists`
+- `Bistro/Menus and Production`
+- `Shared Resources/Assessments and Blank Rubrics`
+- `Shared Resources/Recipes`
+- `Shared Resources/Instructor Tools`
+- `Program Administration/Reusable Blank Materials`
+- `Prior Years/[school year]`
+
+Google Drive is the durable delivery library, not the governing source. Reuse accepted artifacts directly. Send durable curriculum or operating changes back through the WACOS Update Workflow.
 
 ## What To Give Students
 - Student packet
