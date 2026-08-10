@@ -8,6 +8,15 @@
 *.lnk
 __pycache__/
 
+# Reproducible delivery output and local QA workspaces
+/output/
+/tmp/
+/local_exports/
+/.codex-doc-update/
+
+# Contains local student roster data and machine-specific source paths.
+/tools/build_class_roster_anki.py
+
 # Large historical source archives are kept locally unless explicitly published.
 99_Archive/WestAshleyCulinary_Research_Archive_v2_1/
 99_Archive/External_Culinary_2_Curriculum_Source_Copy/
