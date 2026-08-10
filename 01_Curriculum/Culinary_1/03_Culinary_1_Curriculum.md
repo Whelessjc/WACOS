@@ -27,7 +27,7 @@ Students should not be treated as Bistro-ready until they can demonstrate:
 - Notebook and pen every day.
 - Station checklists every time.
 - Basic menu knowledge.
-- Flash card and vocabulary practice.
+- [Line-check card and vocabulary practice](../../03_Assessment/Culinary_1_Line_Check_Cards.md).
 - Kitchen math foundations: fractions, conversions, scaling.
 - Basic equipment identification and safe use.
 - Knife handling 101 and safe cutting posture.

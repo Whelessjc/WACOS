@@ -10,6 +10,8 @@ This folder contains grading, rubric, checklist, reflection, and assessment docu
 - [`Tools/Lab_Observation_Record.md`](Tools/Lab_Observation_Record.md) is the reusable Culinary 1 and Culinary 2 lab record.
 - [`Tools/Employability_Observation_Log.md`](Tools/Employability_Observation_Log.md) supports exception-based pattern evidence.
 - [`Tools/Student_Assessment_Quick_Guide.md`](Tools/Student_Assessment_Quick_Guide.md) requires instructor review before student use.
+- [`Culinary_1_Line_Check_Cards.md`](Culinary_1_Line_Check_Cards.md) provides oral, demonstration, and scenario prompts for reinforcing Culinary 1 fundamentals.
+- [`Culinary_2_Line_Check_Cards.md`](Culinary_2_Line_Check_Cards.md) provides oral recall and scenario prompts for Culinary 2.
 
 ## Belongs Here
 
