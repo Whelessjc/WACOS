@@ -16,7 +16,7 @@ The working philosophy is **fundamentals under pressure**. Students enter with u
 | Real production time | Usually about 60 minutes on long blocks |
 | Shutdown | Flames off 15 minutes before bell |
 | Weekly rhythm | Monday-Wednesday new learning/labs, Thursday Bistro prep, Friday Bistro service |
-| Bistro launch | Week 4 (Aug 31-Sep 4) begins Bistro systems and controlled soft-launch work; first normal public service is Friday, Sep 11 in Week 5, subject to readiness and safety |
+| Bistro launch | Week 4 (Aug 31-Sep 4) is Bistro systems, training, and mock service only, with no soft opening or public service; the Bistro opens Friday, Sep 11 in Week 5, subject to readiness and safety |
 | Group size | Mostly groups of 3 |
 | Credential emphasis | CKC / Certified Kitchen Cook alignment, embedded early if reasonable |
 | Food Handler | Most students should already have it from Culinary 1; review/retake may be used at start |
