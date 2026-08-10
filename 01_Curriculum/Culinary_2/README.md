@@ -23,6 +23,7 @@ Start with these files:
 | `00_Master_Framework.md` | Course identity, daily systems, habits, and outcomes |
 | `01_Modular_Pacing_Guide.md` | Full-year modular pacing that can flex around school realities |
 | `02_Semester_1_Weekly_Guide.md` | Week-by-week guide with daily breakdowns for Semester 1 |
+| `Week_01_2026/README.md` | Classroom-ready August 11-14 launch package with Daily Teaching Guides, projection source, group recipe, TA observation tools, and curriculum-capture prompts |
 | `03_Semester_2_Module_Map.md` | Flexible Semester 2 module map |
 | `06_Semester_2_Weekly_Guide.md` | Day-by-day Semester 2 working guide, mapped to the 2026-2027 academic calendar and including the tasting-menu capstone |
 | `04_Bistro_Integration.md` | How Bistro prep and service connect to the course |
@@ -36,7 +37,7 @@ Start with these files:
 
 ## Current Build-Out
 
-Culinary 2 is strong as a framework and pacing system. It is not yet as fully packaged as Culinary 1.
+Culinary 2 is strong as a framework and pacing system. The classroom-ready build-out begins with `Week_01_2026/`; later weeks are not yet as fully packaged as Culinary 1.
 
 Use `Culinary-2-Curriculum/` as the working location for unit packets, lab sheets, teacher notes, student-facing materials, slides, line checks, and delivery-ready exports as they are created.
 
@@ -91,7 +92,7 @@ The original framework is clear and useful. These are the places that needed tig
 | Area | Issue | Curriculum Decision |
 | --- | --- | --- |
 | Module overlap | Module 1 is listed as Weeks 1-4 and Module 2 as Weeks 4-5. Module 3 starts Week 6, while Module 4 starts Week 10. | Treat Weeks 4-5 as Bistro systems weeks layered over baseline skill review. Treat Weeks 10-12 as overlap where proteins continue while sauces and moist heat begin. |
-| Bistro timing | Week 4 ends on an early-release Friday in 2026-2027. | Week 4 starts controlled Bistro systems and permits only a full mock or tightly controlled soft opening. The first normal public service is Friday, September 11 in Week 5, subject to readiness and safety. |
+| Bistro timing | Week 4 ends on an early-release Friday in 2026-2027, when the instructor is out of town. | Week 4 is controlled Bistro systems, additional training, and mock service only, with no soft opening or public service. The Bistro opens Friday, September 11 in Week 5, subject to readiness and safety. |
 | CKC timing | CKC should happen early Semester 1 around Week 9, but the framework does not place it. | CKC is embedded Weeks 1-9 and scheduled as a practical credential push around Week 9 if the class is ready. |
 | Hospitality Scholars | Last Tuesday of each month can interrupt the weekly skill sequence. | Treat that Tuesday as a professional readiness day. Shift the Tuesday kitchen task to Monday or Wednesday when needed. |
 | Assessment | The framework rejects worksheet-heavy assessment but needs a usable system. | Use short practical rubrics, station checks, line checks, teacher observation, and service evidence. Written checks stay brief and kitchen-connected. |

@@ -31,7 +31,7 @@ Flames off 15 minutes before the bell.
 | Module | Approx. Timing | Main Work | Non-Negotiables |
 | --- | --- | --- | --- |
 | 1. Re-establish the Baseline | Weeks 1-4 | Heat, seasoning, knife control, rice/grains, timing, workflow reset | stable daily routines, station setup, clean-as-you-go |
-| 2. Bistro Systems and Service Integration | Weeks 4-5 | Ticket flow, communication, station ownership, prep continuity | Week 4 systems/controlled soft launch; first normal public service Friday, Sep 11 in Week 5 |
+| 2. Bistro Systems and Service Integration | Weeks 4-5 | Ticket flow, communication, station ownership, prep continuity | Week 4 training and mock service only, with no soft opening; Bistro opening Friday, Sep 11 in Week 5 |
 | 3. Proteins, Heat, and Doneness | Weeks 6-9 | Chicken, shrimp, beef, thermometers, carryover, browning | doneness judgment, safe handling, simple sauces, CKC evidence |
 | 4. Sauces, Moist Heat, Rice Dishes, and Structure | Weeks 10-14 | Roux, reductions, emulsions, soups, braises, Lowcountry rice dishes | simmer control, sauce texture, seasoning correction |
 | 5. Eggs, Batter, Frying, and Baking Control | Weeks 15-18 | Eggs, batters, frying systems, baking control, practical skill check | clean frying, timing, station reset, semester culmination |

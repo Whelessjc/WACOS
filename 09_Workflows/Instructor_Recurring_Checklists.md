@@ -45,13 +45,13 @@ Use this as the single recurring startup checklist. Dated items below apply only
 ### Week 4: August 31-September 4, 2026
 
 - [ ] Continue Bistro systems and conduct mock service.
-- [ ] Use a tightly controlled soft opening near the end of the week only if the instructor confirms readiness and safety.
-- [ ] Treat Friday, September 4 as an early-release day, not the first normal public service.
+- [ ] Conduct training and mock service only; do not hold a soft opening or public service this week.
+- [ ] Use the early-release Friday, September 4 for additional training while the instructor is out of town.
 - [ ] Confirm Week 5 purchasing, staffing, menu, equipment, safety, guest-flow, payment, and communication readiness.
 
-### Week 5: True Opening
+### Week 5: Bistro Opening
 
-- [ ] Target Friday, September 11, 2026 for the first normal public Bistro service.
+- [ ] Target Friday, September 11, 2026 for the Bistro opening and first public service.
 - [ ] Instructor confirms final readiness and may reduce, postpone, modify, or pause service based on readiness or safety.
 - [ ] Preserve the normal rhythm: Monday-Wednesday instruction, practice, assessment, grading, and planning; Thursday Bistro Prep; Friday Bistro Service and reflection.
 

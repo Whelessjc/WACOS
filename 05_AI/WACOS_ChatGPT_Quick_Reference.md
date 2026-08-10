@@ -95,9 +95,9 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 ### Launch for 2026-2027
 
 - Week 4: August 31-September 4, 2026.
-- Week 4 continues Bistro systems and mock service, with a tightly controlled soft opening near the end of the week if the instructor confirms readiness and safety.
-- Friday, September 4 is early release; it is not the first normal public service.
-- First normal public service target: Friday, September 11, 2026, in Week 5.
+- Week 4 continues Bistro systems, training, and mock service only; do not plan a soft opening or public service.
+- Friday, September 4 is early release and may be used for additional training while the instructor is out of town.
+- Bistro opening and first public service target: Friday, September 11, 2026, in Week 5.
 - The instructor may reduce, postpone, modify, or pause service for readiness or safety.
 - Do not invent classroom jobs, rotation boards, teams, management roles, or student authority structures. The current teams remain Dining, Kitchen, Support, and Barista.
 

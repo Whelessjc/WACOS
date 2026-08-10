@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-08-09 - Cancel Soft Opening and Move Bistro Opening to September 11
+
+### Program Decision
+
+- Canceled the planned Week 4 soft opening for the 2026-2027 Bistro launch.
+- Reserved August 31-September 4 for Bistro systems, additional training, and mock service only, with no guests or public service.
+- Designated the early-release Friday, September 4 for additional training while the instructor is out of town.
+- Confirmed Friday, September 11 as the Bistro opening and first public service, subject to existing readiness and safety authority.
+
 ## 2026-08-08 - Establish Durable Finished-Artifact Publishing Layer
 
 ### Program Decision

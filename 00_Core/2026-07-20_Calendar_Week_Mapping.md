@@ -21,8 +21,8 @@ Week 1 is the Monday-Friday block containing the first student day: August 10-14
 | --- | --- | --- | --- |
 | Week 1 | Aug 10-14, 2026 | Students begin Tuesday, Aug 11 | Course opening and baseline work begin Tuesday. |
 | Weeks 1-3 | Aug 10-28, 2026 | Launch-readiness period | Instruction, kitchen systems, safety, sanitation, Employability, lab routines, and Bistro readiness. Student-name Anki cards remain a Week 1 task in approved systems. |
-| Week 4 | Aug 31-Sep 4, 2026 | Friday, Sep 4 is early release | Bistro systems, mock service, and optional tightly controlled soft opening. No normal public service. |
-| Week 5 | Sep 7-11, 2026 | Monday, Sep 7 is Labor Day | First normal public Bistro service is Friday, Sep 11, subject to readiness and safety. |
+| Week 4 | Aug 31-Sep 4, 2026 | Friday, Sep 4 is early release; instructor is out of town | Bistro systems, additional training, and mock service only. No soft opening or public service. |
+| Week 5 | Sep 7-11, 2026 | Monday, Sep 7 is Labor Day | Bistro opening and first public service is Friday, Sep 11, subject to readiness and safety. |
 | Week 9 | Oct 5-9, 2026 | Friday, Oct 9 is a half day | Protect the CKC practical before Friday; use Friday for abbreviated evidence, reset, or debrief. |
 | Week 10 | Oct 12-16, 2026 | Monday, Oct 12 has no students | Begin the fish/delicate-heat sequence Tuesday and compress without dropping safety. |
 | Week 13 | Nov 2-6, 2026 | Tuesday, Nov 3 is Election Day; schools closed | Compress soup/simmer work around the closure. |
@@ -52,7 +52,7 @@ Use this period for testing interruptions, make-up work, portfolio completion, i
 
 ## Bistro Launch Decision
 
-Week 4 remains the confirmed Bistro systems and soft-opening window. Conduct mock service and, if the instructor confirms readiness and safety, a tightly controlled soft opening near the end of the week. Because September 4 is an early-release Friday, it is not the first normal public service. The true opening and first normal public Bistro service target is Friday, September 11 in Week 5. The instructor retains authority to reduce, postpone, modify, or pause service for readiness or safety.
+Week 4 is the confirmed Bistro systems, training, and mock-service window. The planned soft opening is canceled, and there will be no public service that week. Because the instructor is out of town on the early-release Friday, September 4, that day may be used for additional training. The Bistro opening and first public service target is Friday, September 11 in Week 5. The instructor retains authority to reduce, postpone, modify, or pause service for readiness or safety.
 
 ## Remaining Calendar Dependencies
 

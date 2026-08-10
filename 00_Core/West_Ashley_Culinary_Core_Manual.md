@@ -408,7 +408,7 @@ Readiness includes:
 - Mock service.
 - Closing and reset.
 
-The program uses a readiness-based launch model. For 2026-2027, Weeks 1-3 build readiness through instruction, kitchen systems, safety, sanitation, Employability, and lab routines. Week 4 (August 31-September 4) continues Bistro systems and mock service, with a tightly controlled soft opening near the end of the week if readiness and safety permit. Because Friday, September 4 is an early-release day, it is not the first normal public service. The true opening and first normal public Bistro service target is Friday, September 11 in Week 5. The instructor may reduce, postpone, modify, or pause service when safety or readiness requires it.
+The program uses a readiness-based launch model. For 2026-2027, Weeks 1-3 build readiness through instruction, kitchen systems, safety, sanitation, Employability, and lab routines. Week 4 (August 31-September 4) continues Bistro systems, training, and mock service; there will be no soft opening or public service that week. Friday, September 4 is an early-release day and will be used for additional training while the instructor is out of town. The Bistro opening and first public service target is Friday, September 11 in Week 5. The instructor may reduce, postpone, modify, or pause service when safety or readiness requires it.
 
 ### Life of an Order
 
@@ -709,7 +709,7 @@ Current weekly rhythm:
 
 ### Bistro Launch
 
-For 2026-2027, the program uses Week 4 as the confirmed Bistro launch window and Week 5 as the first normal public-service target. The adopted calendar mapping is recorded in `2026-07-20_Calendar_Week_Mapping.md`. Launch remains readiness-based: the instructor may use a controlled soft opening, modify service, or pause launch when safety or student readiness requires it.
+For 2026-2027, the program uses Week 4 for Bistro training and mock service and Week 5 as the opening and first public-service target. The adopted calendar mapping is recorded in `2026-07-20_Calendar_Week_Mapping.md`. There is no soft opening. Launch remains readiness-based: the instructor may modify or pause launch when safety or student readiness requires it.
 
 ### Partner and Event Balance
 

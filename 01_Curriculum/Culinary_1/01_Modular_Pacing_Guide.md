@@ -45,8 +45,8 @@ Culinary 1 runs as two one-semester cohorts. The spring cohort repeats the same 
 | 1 | Aug 10-14 | Jan 4-8 | Fall students begin Tuesday, Aug 11; spring students return Tuesday, Jan 5. |
 | 2 | Aug 17-21 | Jan 11-15 | Full week. |
 | 3 | Aug 24-28 | Jan 18-22 | Spring Monday is MLK Day. |
-| 4 | Aug 31-Sep 4 | Jan 25-29 | Fall Friday is early release; mock or tightly controlled soft opening only. Spring is the preferred Culinary 2 Bistro relaunch week, aligned to Culinary 1 readiness. |
-| 5 | Sep 7-11 | Feb 1-5 | Fall Monday is Labor Day. Fall first normal public service target is Friday, Sep 11. Spring is the readiness fallback for the Bistro relaunch. |
+| 4 | Aug 31-Sep 4 | Jan 25-29 | Fall Friday is early release; training and mock service only, with no soft opening or public service. Spring is the preferred Culinary 2 Bistro relaunch week, aligned to Culinary 1 readiness. |
+| 5 | Sep 7-11 | Feb 1-5 | Fall Monday is Labor Day. Fall Bistro opening and first public service target is Friday, Sep 11. Spring is the readiness fallback for the Bistro relaunch. |
 | 6 | Sep 14-18 | Feb 8-12 | Spring Friday is early release. |
 | 7 | Sep 21-25 | Feb 15-19 | Spring Monday is Presidents' Day. |
 | 8 | Sep 28-Oct 2 | Feb 22-26 | Full week. |
@@ -143,9 +143,9 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 - Basic Bistro language: FOH, BOH, expo, runner, all day, heard, 86, and call-back.
 - Allergen ticket awareness and verbal confirmation.
 - Station orientation, side work, stocking, menu awareness, and role practice.
-- Mock service; optional tightly controlled soft opening only if readiness and safety support it.
+- Training and mock service only; no soft opening or public service.
 
-**Calendar adjustment:** Fall Friday, Sep 4 is early release. It is not the first normal public service.
+**Calendar adjustment:** Fall Friday, Sep 4 is early release and may be used for additional training while the instructor is out of town.
 
 **Evidence:** Role rehearsal, ticket-flow check, menu/space awareness, and reset.
 
@@ -161,7 +161,7 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 - Practice suggestive selling and menu knowledge only to the depth required for the current menu.
 - Complete a final rehearsal before normal service.
 
-**Calendar adjustment:** Fall Monday is Labor Day. The first normal public service target is Friday, Sep 11, subject to instructor approval.
+**Calendar adjustment:** Fall Monday is Labor Day. The Bistro opening and first public service target is Friday, Sep 11, subject to instructor approval.
 
 **Evidence:** Role checklist, service observation, menu check, and post-service reset.
 

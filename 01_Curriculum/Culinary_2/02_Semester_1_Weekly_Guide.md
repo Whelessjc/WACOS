@@ -11,8 +11,8 @@ Use `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` as the date authority. K
 | Week | Dates | Adjustment |
 | --- | --- | --- |
 | 1 | Aug 10-14 | Students begin Tuesday, Aug 11. |
-| 4 | Aug 31-Sep 4 | Friday early release; mock or tightly controlled soft opening only. |
-| 5 | Sep 7-11 | Monday closed for Labor Day; first normal public Bistro service Friday. |
+| 4 | Aug 31-Sep 4 | Friday early release; training and mock service only, with no soft opening or public service. |
+| 5 | Sep 7-11 | Monday closed for Labor Day; Bistro opening and first public service Friday. |
 | 9 | Oct 5-9 | Friday half day. |
 | 10 | Oct 12-16 | Monday has no students. |
 | 13 | Nov 2-6 | Tuesday closed for Election Day. |
@@ -46,6 +46,8 @@ Every class should have:
 - short debrief
 
 ## Week 1: Re-entry, Trust, and Baseline (Aug 10-14; Students Begin Tuesday)
+
+**Classroom-ready package:** Use [`Week_01_2026/README.md`](Week_01_2026/README.md) for the four Daily Teaching Guides, active projection source, group recipe and mise plan, TA observation tools, reusable student supports, and end-of-day curriculum capture. This weekly section remains the pacing authority; the package is its operational layer.
 
 Core skill focus:
 
@@ -234,7 +236,7 @@ Suggested recipes or recipe types:
 | Tuesday | I can communicate clearly when I am ready or not ready. | Short service phrases: heard, working, two minutes, I need help. | Role rotation and service recovery scenarios. If Hospitality Scholars occurs, connect it to guest communication. |
 | Wednesday | I can set a station and run a controlled mock service. | Opening checklist, product check, reset after pickup. | Timed station setup and mock service with low-volume items. |
 | Thursday | I can prep Bistro items with teacher checkpoints. | First product check before batch continues. | Real Bistro prep: labels, storage, sauces, cold items, simple batch work. |
-| Friday | I can participate in a shortened soft service or full mock service calmly. | Early-release huddle, reduced menu, and debrief language. | Tightly controlled limited-guest soft opening or full mock service; this is not normal public service. |
+| Friday | I can participate in additional training and a full mock service calmly. | Early-release training huddle, mock-service expectations, and debrief language. | Additional training and full mock service only; no guests or public service while the instructor is out of town. |
 
 Line Check prompts:
 
@@ -253,7 +255,7 @@ CKC alignment:
 
 Bistro prep/service notes:
 
-- This is a training week. The early-release Friday may be a full mock or tightly controlled soft opening. The first normal public service is Friday, September 11 in Week 5.
+- This is a training week. The early-release Friday is for additional training and may include a full mock service; there is no soft opening or public service. The Bistro opens Friday, September 11 in Week 5.
 
 Flex notes:
 
@@ -288,7 +290,7 @@ Suggested recipes or recipe types:
 | Tuesday | I can explain safe prep carryover and check food for service quality. | Cooling, labeling, storage, taste, texture, portion, temperature, and garnish. | Combined prep-continuity audit and focused quality-control tasting. |
 | Wednesday | I can run a station with fewer teacher prompts. | Timing board, call-backs, recovery language. | Service rehearsal with real prep and timed tickets. |
 | Thursday | I can complete a Bistro prep list and reset the station. | Student prep list check before starting. | Bistro prep with students carrying more of the setup and labels. |
-| Friday | I can support the first normal public Bistro service and recover from small problems. | Pre-service huddle, controlled-menu expectations, and post-service debrief. | First normal public Bistro service, subject to readiness and safety; teacher observes communication, timing, and reset. |
+| Friday | I can support the Bistro opening and recover from small problems. | Pre-service huddle, controlled-menu expectations, and post-service debrief. | Bistro opening and first public service, subject to readiness and safety; teacher observes communication, timing, and reset. |
 
 Line Check prompts:
 

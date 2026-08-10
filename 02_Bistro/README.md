@@ -36,4 +36,4 @@ Use `SOPs/` for the current Life of an Order, service standards, and Dining, Kit
 
 ## 2026-2027 Launch Calendar
 
-Weeks 1-3 build readiness. Week 4 (August 31-September 4) continues Bistro systems and mock service, with a tightly controlled soft opening near the end of the week if readiness and safety permit. September 4 is an early-release Friday, not the first normal public service. The true opening and first normal public-service target is Friday, September 11 in Week 5. See `../00_Core/2026-07-20_Calendar_Week_Mapping.md`.
+Weeks 1-3 build readiness. Week 4 (August 31-September 4) continues Bistro systems, training, and mock service only; there is no soft opening or public service. September 4 is an early-release Friday and may be used for additional training while the instructor is out of town. The Bistro opening and first public-service target is Friday, September 11 in Week 5. See `../00_Core/2026-07-20_Calendar_Week_Mapping.md`.
