@@ -30,6 +30,19 @@ Use this workflow to run the instructional week, protect Monday-Wednesday learni
 
 Post the shutdown time. Unless the schedule requires an earlier close, stop cooking 15 minutes before the end of class and begin the [closing standard](../00_Core/08_Daily_and_Weekly_Systems.md#closing-standard).
 
+## End-of-Day Curriculum Debrief
+
+Use 20-30 minutes of the final planning period with the TA when available:
+
+1. Address immediate safety, student, facility, and operational concerns.
+2. Compare the intended learning with what students actually demonstrated.
+3. Record repeated questions, unclear directions, missing materials, transition problems, and successful instructional language.
+4. Prepare the next instructional day and note section continuation or reteaching needs.
+5. Classify any curriculum note as **tomorrow**, **next section**, **next year**, or **operational only**.
+6. Record one durable **keep, change, remove, or add** decision in the current Daily Teaching Guide when warranted.
+
+The TA offers evidence and may draft approved lesson components. The instructor retains final decisions about curriculum, safety, grading, discipline, allergens, equipment, and policy.
+
 ## Monday - Launch the Week
 
 ### Before Students

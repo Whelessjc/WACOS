@@ -1,8 +1,8 @@
 # Kitchen Mode Quick Practice
 
-**Culinary 1 - Day 2**
+**Culinary 1 - Day 2 | Optional support and re-entry tool**
 
-> Drafted for instructor review before classroom use.
+Use for reteaching, late enrollment, substitute continuity, or a section that benefits from a written rehearsal. Live practice remains the default.
 
 Kitchen Mode means you are ready, aware, and purposeful.
 

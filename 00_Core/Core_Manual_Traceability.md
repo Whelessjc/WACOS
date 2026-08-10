@@ -49,7 +49,7 @@ This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` t
 | Certification | Sources reference Food Handler, ServSafe Manager, CKC, NOCTI, AAFCS, custom readiness credentials | Adopted current preferred pathway: ServSafe Food Handler and Certified Kitchen Cook |
 | Grading | Sources include 10/20/30/40, 25/35/40, 30/30/40, and the current orientation model | Adopted 45/35/20 weights confirmed 2026-07-19 and official category names confirmed 2026-07-23: Summative Assessments: Projects, Tests, and Bistro; Formative Assessments and Labs; Employability Skills |
 | Culinary 2 identity | Older language sometimes frames Culinary 2 as advanced | Adopted current language: full-year depth and operations; fundamentals under pressure |
-| Bistro launch | Sources mention Week 4, Week 4-6, readiness-based launch, and the CCSD early-release calendar | Adopted Week 4 systems/soft-launch work and Friday, September 11 in Week 5 as the first normal public service, retaining instructor readiness/safety authority |
+| Bistro launch | Sources mention Week 4, Week 4-6, readiness-based launch, and the CCSD early-release calendar | Revised 2026-08-09: Week 4 is systems, training, and mock service only with no soft opening; the Bistro opens Friday, September 11 in Week 5, retaining instructor readiness/safety authority |
 | Recipe archive | Many generated and archived recipes exist | Did not establish a master recipe bank; flagged deduplication and approval as future work |
 | SOP detail | Safety and facility expectations exist, but equipment-specific details are incomplete | Set program-level safety principles; left equipment SOPs to subordinate current documents |
 

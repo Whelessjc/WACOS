@@ -26,6 +26,7 @@ Enter Kitchen Mode, get the group's marked recipe, wash hands, and begin mise en
 5. Plate the group's work professionally and display it. Students do not eat until all groups have finished cooking and the instructor releases the class.
 6. Complete dishes, sanitation, tool return, towel/trash/floor checks, and full reset.
 7. Use a brief oral debrief during or after reset; no separate reflection sheet is required.
+8. Have each group record its actual pancake yield on the marked recipe and briefly compare yield or portion consistency.
 
 ## Flexible Learning
 
@@ -38,10 +39,11 @@ Enter Kitchen Mode, get the group's marked recipe, wash hands, and begin mise en
 ## Materials and Instructor Preparation
 
 - The same marked group copies of the instructor-approved pancake recipe used Thursday, plus ingredients.
+- One reusable Pancake Lab Checklist and Reflection per group; use the checklist during the lab and complete the reflection orally unless written evidence is needed.
 - Bowls, whisks, measuring tools, spatulas, approved griddles/pans, oven, sheet pans or holding trays, plates, and forks.
 - Dish, sanitizer, towel, trash, and floor plan.
 - Confirm equipment condition, pilot-light/ignition procedure, oven setting, heat authorization, group size, allergens, and serving plan.
-- Prepare students to follow the confirmed food-distribution guidance below and decide whether any exception has been arranged.
+- Confirm and announce the school-approved rule for food remaining in or leaving the classroom before service.
 
 ## Adult Roles
 
@@ -49,16 +51,15 @@ Enter Kitchen Mode, get the group's marked recipe, wash hands, and begin mise en
 
 **TA when available:** Support mise en place and dish flow, monitor crowding and towels, prompt recipe reading, and report safety concerns immediately. The TA does not independently authorize equipment.
 
+The TA records recurring breakdowns in mise en place, communication, heat cues, presentation, and reset for the end-of-day curriculum debrief.
+
 ## Students Will Ask
 
 - **Can we eat now?** Not until all groups finish cooking, all work is displayed, and the instructor releases the class.
 - **How do we keep pancakes warm?** Place finished pancakes in the instructor-designated low oven using the approved holding setup.
 - **Where are the forks? / Is there syrup?** Follow the instructor's staged serving plan.
-- **Can we take food home?** Taking food home is not recommended because of food-safety concerns. If an arrangement has been made, see the instructor and continue observing food-safety requirements.
-- **Can we take food to the next class?** Food leaving the classroom is not recommended because other classes generally do not allow food or drinks. Any exception requires an arrangement with the instructor.
+- **Can we take food home or to another class?** Food remains in the classroom unless the instructor announces a school-approved exception before service.
 - **Can we add toppings?** No.
-- **Can we have a takeout box?** Takeout containers are not provided; students must purchase one if the instructor has approved food leaving the classroom.
-- **Are exceptions ever possible?** Yes, at the instructor's discretion. Be responsible and respectful, do not be greedy, follow the receiving classroom's rules, and continue observing food safety.
 
 ## Instructor Context
 
@@ -71,3 +72,5 @@ Students intentionally encounter griddles, pilot lights, ovens, heat control, di
 - Holding/presentation issue:
 - Food-distribution exception or concern to record:
 - Section continuation notes:
+- Repeated student question or missing support:
+- Keep/change/remove/add for next year:

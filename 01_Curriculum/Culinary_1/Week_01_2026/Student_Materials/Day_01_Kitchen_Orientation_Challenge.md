@@ -1,8 +1,8 @@
 # Kitchen Orientation Challenge
 
-**Culinary 1 - Day 1**
+**Culinary 1 - Day 1 | Instructor/TA observation tool or optional group reference**
 
-> Drafted for instructor review before classroom use.
+Use this checklist to protect the scope of the walkthrough. The instructor or TA may hold the master copy and record items that need reteaching; student copies are optional.
 
 Work with your group. Walk, observe, and communicate. Leave every item and area ready for the next group. Point to fixed or safety equipment; do not operate it.
 

@@ -24,6 +24,7 @@ Without touching equipment, scan the pancake recipe and circle the first action 
 3. Introduce **mise en place** as having tools, ingredients, and a plan ready before cooking.
 4. Demonstrate only the measuring skills required by the selected pancake recipe.
 5. Have groups mark the recipe and stage a no-cook practice setup for Friday.
+6. Explain that groups will record the actual pancake yield after Friday's lab; do not provide the yield in advance.
 
 ## Flexible Learning
 
@@ -51,6 +52,8 @@ What will your group do before anyone turns on heat?
 
 **TA when available:** Check recipe markings and question groups about sequence; do not introduce alternate procedures.
 
+The TA records recipe features, measurements, or action verbs that students consistently miss.
+
 ## Students Will Ask
 
 - **Do we cook today?** No. Today protects Friday by preparing the plan and the measurement skills.
@@ -68,3 +71,5 @@ Recipe reading and measurement receive deeper formal instruction later. Today pr
 - Measurement issue to reteach:
 - Recipe or yield adjustment:
 - Section continuation notes:
+- Repeated student question or missing support:
+- Keep/change/remove/add for next year:

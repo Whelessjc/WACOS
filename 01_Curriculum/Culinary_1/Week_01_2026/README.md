@@ -12,12 +12,21 @@ Week 1 contains four instructional days. The package is designed for Culinary 1 
 ## Student Materials and Printing
 
 - **Required print:** [Pancake Recipe - Week 1 Group Copy](Student_Materials/Day_03_Pancake_Recipe_Reading_and_Preparation.md), one copy per group for Thursday and Friday.
-- [Kitchen Orientation Challenge](Student_Materials/Day_01_Kitchen_Orientation_Challenge.md) is an instructor prompt for an in-kitchen walkthrough; student copies are not required.
-- [Kitchen Mode Quick Practice](Student_Materials/Day_02_Kitchen_Mode_Quick_Practice.md) is not planned for Week 1 use; communication is practiced live in the kitchen.
-- [Pancake Lab and Reflection](Student_Materials/Day_04_Pancake_Lab_and_Reflection.md) is optional reference material; the planned reflection is oral and no student copies are required.
+- **Instructor/TA observation tool:** [Kitchen Orientation Challenge](Student_Materials/Day_01_Kitchen_Orientation_Challenge.md). Use it to protect the scope of the walkthrough and record locations that need reteaching. Student copies are optional; a laminated group copy may be used when a section benefits from more structure.
+- **Optional support and re-entry tool:** [Kitchen Mode Quick Practice](Student_Materials/Day_02_Kitchen_Mode_Quick_Practice.md). Use it for reteaching, late enrollment, substitute continuity, or a section that needs a more explicit routine rehearsal.
+- **Reusable group reference:** [Pancake Lab Checklist and Reflection](Student_Materials/Day_04_Pancake_Lab_and_Reflection.md). Use one reusable checklist per group during Friday's lab. The written reflection is optional; the default reflection may remain oral.
 
 ## Slides and Projection
 
-- No explanatory slide deck is required for Week 1. Post only the daily target or a very short agenda if useful. The archived [Week 1 Slide Source](Slides/Culinary_1_Week_01_Slide_Source.md) is not part of the school upload package.
+- **Active projection source:** [Week 1 Slide Source](Slides/Culinary_1_Week_01_Slide_Source.md). Project or adapt the daily bellringer, target, critical language, and closure. A designed slide deck is optional; the source preserves the instructional language across sections and for future use.
 
-All student-facing materials are drafts for instructor review before classroom use.
+## End-of-Day Curriculum Capture
+
+During the final planning period, the instructor and TA use the notes section in each Daily Teaching Guide to record:
+
+- what students learned and where directions broke down;
+- repeated student questions or missing supports;
+- section continuation needs and the next day's adjustment; and
+- one durable keep, change, remove, or add decision when the lesson should change next year.
+
+The instructor retains final approval for student-facing materials, safety, allergens, grading, discipline, and equipment use.

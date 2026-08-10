@@ -1,8 +1,8 @@
-# First Lab: Pancakes
+# First Lab: Pancake Checklist and Reflection
 
-**Culinary 1 - Day 4**
+**Culinary 1 - Day 4 | Reusable group reference**
 
-> Drafted for instructor review before classroom use.
+Use one reusable copy per group during the lab. The short written reflection is optional; the instructor may conduct it orally.
 
 ## Purpose
 
@@ -34,10 +34,7 @@ Read first. Prepare before acting. Cook with awareness. Present the work profess
 - Display the plate as directed.
 - Do not eat until every group has finished and the instructor releases the class.
 - No added toppings.
-- Taking food home is not recommended because of food-safety concerns. If an arrangement has been made, see the instructor.
-- Food leaving the classroom is not recommended because other classes generally do not allow food or drinks.
-- Takeout containers are not provided; purchase is required if the instructor approves food leaving the classroom.
-- Exceptions may occur at the instructor's discretion. Be responsible and respectful, do not be greedy, follow the receiving classroom's rules, and continue observing food safety.
+- Food remains in the classroom unless the instructor announces a school-approved exception before service.
 
 ## Reset
 
@@ -51,6 +48,8 @@ Read first. Prepare before acting. Cook with awareness. Present the work profess
 - [ ] Station ready for the next group
 
 ## Short Reflection
+
+Complete orally unless the instructor requests a written response.
 
 1. One system that helped our group: _________________________________
 2. One heat cue we noticed: _________________________________________

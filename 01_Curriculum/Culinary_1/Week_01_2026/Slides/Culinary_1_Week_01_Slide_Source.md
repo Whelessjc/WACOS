@@ -1,6 +1,6 @@
-# Culinary 1 Week 1 Slide Source
+# Culinary 1 Week 1 Active Projection Source
 
-> Concise classroom slide content. Drafted for instructor review before classroom use.
+> Canonical Week 1 projection language. Project directly or adapt into slides while preserving the daily bellringer, learning target, critical language, and closure.
 
 ## Day 1 - Welcome and Kitchen Orientation
 

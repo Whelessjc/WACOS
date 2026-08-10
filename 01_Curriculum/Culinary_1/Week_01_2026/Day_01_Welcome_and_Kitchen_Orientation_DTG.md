@@ -40,7 +40,7 @@ Name one item or area you can now locate and one reason organization matters.
 
 ## Materials and Instructor Preparation
 
-- Use the Kitchen Orientation Challenge as an instructor prompt; no student copies are required.
+- Use the Kitchen Orientation Challenge as the instructor/TA observation tool. Student copies are optional; a laminated group copy may support sections that need more structure.
 - Confirm which spaces students may enter and which are teacher-only.
 - Verify emergency information and identify any item students should point to rather than touch.
 - Decide how groups will return borrowed tools.
@@ -50,6 +50,8 @@ Name one item or area you can now locate and one reason organization matters.
 **Instructor:** Welcome, set movement boundaries, circulate, correct names, and lead the debrief.
 
 **TA when available:** Learn student names, monitor one zone, redirect unsafe movement, and help return items.
+
+The TA records locations, terms, or directions that repeatedly confuse students for the end-of-day curriculum debrief.
 
 ## Students Will Ask
 
@@ -68,3 +70,5 @@ Students are learning locations before formal equipment and safety units. Naming
 - Items to add/remove:
 - Students added after Day 1:
 - Section continuation notes:
+- Repeated student question or missing support:
+- Keep/change/remove/add for next year:

@@ -1,8 +1,10 @@
 # Pancake Recipe - Week 1 Group Copy
 
-**Culinary 1 - Day 3**
+**Culinary 1 - Thursday preparation and Friday lab**
 
 Use this same marked group copy on Thursday and Friday.
+
+**Actual yield:** __________ pancakes
 
 ## Ingredients
 

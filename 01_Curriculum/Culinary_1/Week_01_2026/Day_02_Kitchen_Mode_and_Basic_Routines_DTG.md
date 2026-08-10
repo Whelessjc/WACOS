@@ -43,13 +43,15 @@ Ask two students to name a callout they used and when it mattered.
 - Prepare handwashing supplies.
 - Confirm current uniform/appearance details before presenting them.
 - Set one practice station with a few correctable reset issues.
-- No student worksheet is needed.
+- Live practice is the default. Keep the Kitchen Mode Quick Practice available for reteaching, late enrollment, substitute continuity, or sections needing a written rehearsal.
 
 ## Adult Roles
 
 **Instructor:** Model each routine, approve current expectations, and correct unsafe habits immediately.
 
 **TA when available:** Move with students, prompt callouts in context, and support the reset practice.
+
+The TA records which entry, communication, or reset routines need another repetition.
 
 ## Students Will Ask
 
@@ -68,3 +70,5 @@ This lesson introduces only the routines students need now. Formal sanitation, d
 - Routine needing reteach:
 - Students added after Day 2:
 - Section continuation notes:
+- Repeated student question or missing support:
+- Keep/change/remove/add for next year:
