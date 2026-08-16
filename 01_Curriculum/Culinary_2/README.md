@@ -23,7 +23,7 @@ Start with these files:
 | `00_Master_Framework.md` | Course identity, daily systems, habits, and outcomes |
 | `01_Modular_Pacing_Guide.md` | Full-year modular pacing that can flex around school realities |
 | `02_Semester_1_Weekly_Guide.md` | Week-by-week guide with daily breakdowns for Semester 1 |
-| `Week_01_2026/README.md` | Classroom-ready August 11-14 launch package with Daily Teaching Guides, projection source, group recipe, TA observation tools, and curriculum-capture prompts |
+| `Week_01_2026/README.md` | Classroom-ready August 11-14 package with one canonical weekly teaching guide, actual implementation record, supporting historical daily plans, group recipe, and TA observation tools |
 | `03_Semester_2_Module_Map.md` | Flexible Semester 2 module map |
 | `06_Semester_2_Weekly_Guide.md` | Day-by-day Semester 2 working guide, mapped to the 2026-2027 academic calendar and including the tasting-menu capstone |
 | `04_Bistro_Integration.md` | How Bistro prep and service connect to the course |

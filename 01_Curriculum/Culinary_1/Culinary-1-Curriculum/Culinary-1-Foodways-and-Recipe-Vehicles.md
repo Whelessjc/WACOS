@@ -94,8 +94,8 @@ Why it fits: Stir fry reinforces prep lists, sequencing, cut size, heat readines
 
 ---
 
-## Week 4: Customer Service and Bistro Soft Opening
-**Skill Focus:** Understand the full flow of service: greeting, order taking, ticket flow, cooking, expo, food running, check back, clearing, dish, reset, farewell, station roles, mock service, and soft opening.
+## Week 4: Customer Service and Bistro Readiness
+**Skill Focus:** Understand the full flow of service: greeting, order taking, ticket flow, cooking, expo, food running, check back, clearing, dish, reset, farewell, station roles, and mock service. Week 4 has no public service.
 
 ### Possible Lowcountry Vehicles
 **Small red rice tasting service**
@@ -477,4 +477,3 @@ Why it fits: Students can reflect on how the same foundational skills show up in
 - Use international vehicles as respectful comparisons, not as claims of authenticity.
 - Keep cleanup and reset equal to cooking in importance.
 - Keep Bistro/service connections practical: prep lists, timing, communication, consistency, guest safety, dish flow, and reset.
-

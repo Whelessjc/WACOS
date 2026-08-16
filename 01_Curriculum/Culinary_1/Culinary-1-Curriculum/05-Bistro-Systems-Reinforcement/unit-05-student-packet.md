@@ -29,7 +29,7 @@ Service gets better when the team studies what happened, fixes the system, and p
 - Use call-backs and "heard."
 - Keep your station useful for the next person.
 - Help dish and reset during service.
-- Improve one habit from the soft opening.
+- Improve one habit from the mock service.
 
 ## Kitchen Communication
 - "Heard"
@@ -81,7 +81,7 @@ Your station should be clear before service:
 This unit is about making Bistro systems stronger. A station that is clear, clean, and ready helps tickets move and helps the team serve guests with more confidence.
 
 ## Student Reflection Questions
-1. What improved from the soft opening?
+1. What improved from the mock service?
 2. What is your station responsible for?
 3. What communication helped your team?
 4. What reset habit did you practice?

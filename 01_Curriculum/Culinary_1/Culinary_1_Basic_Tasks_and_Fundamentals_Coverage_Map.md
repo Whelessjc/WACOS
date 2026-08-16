@@ -17,7 +17,7 @@ That matches exactly what you described: these are the tasks most likely to be p
 | Temperature control | Thermometer use and danger zone referenced | Calibration method, probe sanitizing, where to probe, temp logging not explicit | Unit 2, reinforced in Unit 10 (Protein) | Add a thermometer calibration lab (ice bath method) in Unit 2; reinforce probe placement and logging during Unit 10 protein labs. |
 | Ice bath & cooling | Not covered | Real gap | Unit 2, reinforced in Unit 10 | New micro-lesson: ice bath setup, shallow containers, stirring, monitoring cooling timeline, when to move to walk-in, covering and labeling after cooling. |
 | Thawing | Not covered | Real gap | Unit 2 | New micro-lesson: walk-in thawing, running-water thawing, microwave-and-cook-immediately, never room temp, labeling thaw date. |
-| Labeling | "Label" is common throughout, but the mechanics (prep date vs. discard date, initials, tape technique, removing old labels, FIFO by name, what must be date-marked) aren't explicit | Partial gap | Unit 2, reinforced in Unit 5 (Bistro Systems Reinforcement) | Teach the full label format explicitly once in Unit 2; check it for real during Unit 5's storage/label checks before Bistro soft opening. |
+| Labeling | "Label" is common throughout, but the mechanics (prep date vs. discard date, initials, tape technique, removing old labels, FIFO by name, what must be date-marked) aren't explicit | Partial gap | Unit 2, reinforced in Unit 5 (Bistro Systems Reinforcement) | Teach the full label format explicitly once in Unit 2; check it during authentic production before public Bistro service. |
 | Wrapping & covering | Not explicit | Real gap | Unit 3 (Recipe Reading and Mise en Place) | Fold into mise en place instruction: proper covering/wrap technique as part of "station is ready before you start cooking." |
 | Storage | Walk-in referenced often; specifics (6" off floor, chemical separation, gasket checks, dry storage organization) not explicit | Partial gap | Unit 2, reinforced in Unit 5 | Add a storage walkthrough covering top-to-bottom protein order, raw/RTE separation, chemical separation, and gasket/door checks. |
 | Receiving | Thin (receive/delivery mentioned, not procedural) | Partial gap | Unit 5 | Add a short receiving-awareness lesson (checking temps, packaging, dates, rejecting damaged product) - even if students don't receive deliveries directly, they should recognize what correct receiving looks like before Bistro relies on it. |
@@ -27,7 +27,7 @@ That matches exactly what you described: these are the tasks most likely to be p
 | Equipment habits | Ovens/stovetops covered by unit design (Heat Control, Frying units) | Slicers, mixers, smallwares storage, cord checks, reporting broken equipment not explicit | Unit 1 (general equipment habits) + Unit 7/8 (Heat Control, Frying) | Add a general equipment-care lesson in Unit 1 (smallwares, cords, reporting), reinforced by unit-specific equipment habits already built into Heat Control and Frying. |
 | End-of-lab reset | Strong - every unit checklist already includes a cleaning/reset section | No real gap | Existing units | No new content needed. |
 | Soft skills tied to safety | Kitchen calls ("behind," "hot," "sharp," "corner," "heard") already in Unit 1 and reinforced through Bistro units | Minor gap: "asking for help," "owning mistakes," "reading the room" are more implicit than explicit | Unit 1, reinforced throughout | Name these explicitly alongside the kitchen calls already taught, rather than leaving them as an assumed byproduct of culture. |
-| Guest & Bistro lingo (86, FOH/BOH, all day, runner) | "Expo" is well covered; "86," FOH/BOH as acronyms, "all day," and "runner" are thin or absent | Real gap | Unit 4/5 | Add a short lingo glossary lesson before Bistro soft opening - these are quick to teach and easy to skip if left implicit. |
+| Guest & Bistro lingo (86, FOH/BOH, all day, runner) | "Expo" is well covered; "86," FOH/BOH as industry vocabulary, "all day," and "runner" are thin or absent | Real gap | Unit 4/5 | Add a short lingo glossary lesson during Bistro readiness before public service. Dining, Kitchen, Support, and Barista remain the current teams. |
 
 ## Recommended Mechanism: A Basic Tasks Sign-Off Card
 
@@ -37,7 +37,7 @@ This does three things the current unit checklists don't:
 
 1. Makes coverage auditable. You can look at a stack of cards partway through the semester and see exactly which tasks are lagging class-wide, instead of assuming they've been absorbed.
 2. Separates "discussed" from "demonstrated." A student can nod along to a sanitizer-ppm mini-lesson without ever actually mixing sanitizer and checking it with a test strip themselves - the card only gets initialed for the second one.
-3. Gives Bistro readiness a real gate. Before Unit 4 (Customer Service and Bistro Soft Opening), the card should show every Unit 1-3 item initialed. That's a concrete readiness check, not a calendar date.
+3. Gives Bistro readiness a real gate. Before Unit 4 (Customer Service and Bistro Readiness), the card should show every Unit 1-3 item initialed. That's a concrete readiness check, not a calendar date.
 
 I can build this card as an actual student-facing artifact (one page, organized by unit, checkbox format) if that's useful alongside the flex-mod calendars.
 

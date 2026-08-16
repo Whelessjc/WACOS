@@ -1,7 +1,7 @@
-# Unit 04 Slide Outline: Customer Service and Bistro Soft Opening
+# Unit 04 Slide Outline: Customer Service and Bistro Readiness
 
 ## Slide 1: Unit 04
-- Customer Service and Bistro Soft Opening
+- Customer Service and Bistro Readiness
 - Understand the full flow of service
 - Real service is a team system
 
@@ -76,7 +76,7 @@
 - Protect kitchen spaces
 - Do not leave reset for one person
 
-## Slide 13: Soft Opening
+## Slide 13: Mock Service
 - Small and controlled
 - Roles confirmed
 - Simple menu or task

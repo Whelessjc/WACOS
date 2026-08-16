@@ -30,7 +30,7 @@ Primary package:
 
 - `Culinary_1/01_Modular_Pacing_Guide.md` - standalone 18-week pacing spine for both semester cohorts
 - `Culinary_1/Culinary-1-Curriculum/`
-- `Culinary_1/Week_01_2026/` - dated Week 1 teaching guides and minimal-print classroom materials for August 11-14, 2026
+- `Culinary_1/Week_01_2026/` - one canonical Week 1 teaching guide, supporting historical daily plans, and minimal-print classroom materials for August 11-14, 2026
 
 Major folders include:
 
@@ -38,7 +38,7 @@ Major folders include:
 - `01-Orientation-and-Systems`
 - `02-Food-Handler-and-Stewardship`
 - `03-Recipe-Reading-and-Mise-en-Place`
-- `04-Customer-Service-and-Bistro-Soft-Opening`
+- `04-Customer-Service-and-Bistro-Readiness`
 - `05-Bistro-Systems-Reinforcement`
 - `06-Knife-Skills-Progression`
 - `07-Heat-Control`
@@ -47,7 +47,7 @@ Major folders include:
 - `10-Protein-as-Application`
 - `11-Bridge-to-Culinary-2`
 
-The imported Culinary 1 package also contains Markdown delivery, Canvas, print, slide, template, resource, and export sources. They support artifact creation, but accepted day-to-day delivery copies belong in the Drive usable-materials library.
+The imported Culinary 1 package also contains Markdown delivery, Canvas, print, slide, template, resource, and export derivatives. Generated derivative folders are stale/de-indexed until regenerated from current canonical sources. Accepted day-to-day delivery copies belong in the Drive usable-materials library.
 
 ## Culinary 2
 

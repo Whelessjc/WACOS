@@ -16,6 +16,8 @@ includes:
 See [`Recipe_Bank/WACOS_IMPORT_NOTES.md`](Recipe_Bank/WACOS_IMPORT_NOTES.md) for
 provenance and review status.
 
+For daily retrieval, begin with the [Recipe Bank category map and retrieval path](Recipe_Bank/README.md). A zero-result repository-wide search is not proof that a recipe is missing; inspect plausible category files and recipe headings before making that determination.
+
 ## Belongs Here
 
 - Recipe standards.

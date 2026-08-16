@@ -35,6 +35,26 @@ For Bistro or larger labs, attach:
 - Service handoff.
 - Cleanup responsibilities.
 
+## Group Recipe to Production and Purchasing
+
+Keep three layers distinct:
+
+1. **Student Group Recipe:** normally one student group's ingredients, yield, portions, equipment, controls, and actual yield unless clearly labeled otherwise.
+2. **Teacher Production Requirement:** the group recipe multiplied by the actual scheduled groups and sections completing the production.
+3. **Purchasing Requirement:** production need minus usable verified inventory, converted to the vendor's package or order unit.
+
+Use:
+
+`per-group quantity × scheduled groups = instructional production need`
+
+`instructional production need − usable inventory = net purchasing need`
+
+`net purchasing need ÷ package size = order quantity`
+
+Round only at the appropriate purchasing unit and record the assumption. Four groups in each of two Culinary 1 sections normally produces eight group batches, but do not hard-code `×8`: enrollment, grouping, sections, production plans, and inventory can change.
+
+The production worksheet or order note should identify the date, course/sections, scheduled groups, per-group yield, calculated total, usable inventory, net need, package size, and final order quantity. Never use scaling to invent a missing yield, quantity, allergen, safety control, or storage requirement.
+
 ## Kitchen Math
 Students should repeatedly practice:
 - Fractions and decimals.

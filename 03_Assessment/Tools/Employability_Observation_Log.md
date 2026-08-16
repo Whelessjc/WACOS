@@ -32,4 +32,4 @@ Normal expectations do not require daily notation. Record observable exceptions 
 
 **Bands:** exceeds expectations · consistently meets · inconsistently meets · does not yet meet · insufficient evidence
 
-Exact automatic deductions and numeric conversions require instructor confirmation. Serious incidents may require separate school procedures.
+The prior weekly 100-point automatic-deduction model is retired. Numeric conversions still require instructor confirmation. Serious incidents may require separate school procedures.

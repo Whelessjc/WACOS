@@ -1,4 +1,4 @@
-# Student Overview: Customer Service and Bistro Soft Opening
+# Student Overview: Customer Service and Bistro Readiness
 
 ## What You Are Learning
 This week you learn how service works from the moment a guest arrives until the space is reset after they leave.
@@ -19,7 +19,7 @@ Good food is not enough. A kitchen also needs communication, timing, clean stati
 - Station training
 - Mock service
 - Bistro prep
-- Soft opening
+- Full mock service; no public service
 
 ## Bottom Line
 Service is a team system. Everyone has a job, and every job affects the guest.

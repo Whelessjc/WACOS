@@ -30,16 +30,17 @@ Use this workflow to run the instructional week, protect Monday-Wednesday learni
 
 Post the shutdown time. Unless the schedule requires an earlier close, stop cooking 15 minutes before the end of class and begin the [closing standard](../00_Core/08_Daily_and_Weekly_Systems.md#closing-standard).
 
-## End-of-Day Curriculum Debrief
+## Brief Teacher + TA Debrief
 
-Use 20-30 minutes of the final planning period with the TA when available:
+When sustainable, briefly compare evidence with the TA. Do not require a set duration or a new form:
 
 1. Address immediate safety, student, facility, and operational concerns.
 2. Compare the intended learning with what students actually demonstrated.
 3. Record repeated questions, unclear directions, missing materials, transition problems, and successful instructional language.
 4. Prepare the next instructional day and note section continuation or reteaching needs.
-5. Classify any curriculum note as **tomorrow**, **next section**, **next year**, or **operational only**.
-6. Record one durable **keep, change, remove, or add** decision in the current Daily Teaching Guide when warranted.
+5. Route an actionable item to **Tomorrow, Purchase, Work Order, Curriculum, Bistro, Drive, WACOS,** or **Later**.
+6. Give it an owner, next action, and confirmation point.
+7. Record one durable **keep, change, remove, or add** decision in the current weekly teaching guide when warranted.
 
 The TA offers evidence and may draft approved lesson components. The instructor retains final decisions about curriculum, safety, grading, discipline, allergens, equipment, and policy.
 
@@ -65,6 +66,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ### Planning and Administration
 
+- Reconcile the 86 Board, Order Guide or Purchasing List, Brainstorming Clipboard, Manager Log, and unresolved work orders.
 - Complete food inventory.
 - Place the food order.
 - Place the coffee order.
@@ -154,7 +156,8 @@ Use current [Bistro Operations](../02_Bistro/Operations/05_Bistro_Operations.md)
 - Complete the deposit Friday when time permits; otherwise secure it for Monday completion.
 - Complete the manager's log.
 - Record grading evidence before details are lost.
-- Capture a short service reflection: wins, problems, safety concerns, inventory issues, and reteach needs.
+- Capture shortages, equipment problems, service issues, curriculum observations, purchasing needs, and a short service reflection before details are lost.
+- Route actionable items to an owner and destination; capture alone does not close the issue.
 
 Follow the [Bistro Payment and Deposit Workflow](../02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md). District and bookkeeper requirements continue to govern custody, verification, delivery, and retention.
 

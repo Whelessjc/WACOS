@@ -1,4 +1,4 @@
-# Lab Plan: Bistro Soft Opening
+# Lab Plan: Bistro Readiness
 
 ## Lab Purpose
 Practice the full service flow in a controlled way so students understand roles, tickets, hospitality, and reset.

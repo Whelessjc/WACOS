@@ -1,4 +1,4 @@
-# Unit 04 Lab Teacher Guide: Bistro Soft Opening
+# Unit 04 Lab Teacher Guide: Bistro Readiness
 
 ## Setup Before Class
 - Choose one or two simple service items or practice tasks.
@@ -58,7 +58,7 @@
 - Are students noticing stewardship needs without being chased?
 
 ## Bistro Connection
-Name the connection clearly: Bistro service is cooking plus hospitality, communication, dish flow, and reset. The soft opening should be small enough for students to see the whole system.
+Name the connection clearly: Bistro service is cooking plus hospitality, communication, dish flow, and reset. The mock service should be small enough for students to see the whole system.
 
 ## Quick Debrief Prompts
 - Where did the order move smoothly?

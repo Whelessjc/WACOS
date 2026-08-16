@@ -1,4 +1,4 @@
-# Assessment Notes: Customer Service and Bistro Soft Opening
+# Assessment Notes: Customer Service and Bistro Readiness
 
 ## Formative Assessment Ideas
 - Life of an Order explanation
@@ -9,7 +9,7 @@
 - Mock service debrief
 
 ## Performance Assessment Ideas
-Students demonstrate readiness by completing an assigned station role during mock service or soft opening while communicating, maintaining sanitation, and helping reset.
+Students demonstrate readiness by completing an assigned station role during mock service or mock service while communicating, maintaining sanitation, and helping reset.
 
 ## Observation Points
 - Does the student know the role?

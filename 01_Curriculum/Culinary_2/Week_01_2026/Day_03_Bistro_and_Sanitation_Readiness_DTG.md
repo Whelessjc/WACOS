@@ -1,5 +1,7 @@
 # Day 3 Daily Teaching Guide: Bistro and Sanitation Readiness
 
+> **Planned but not completed.** Preserve this file as historical planning evidence only. The standalone readiness circuit did not occur; active guidance embeds useful checks into authentic production.
+
 - **Course:** Culinary 2
 - **Unit:** Re-entry, Trust, and Baseline
 - **Week/day:** Week 1, Day 3 - Thursday, August 13, 2026

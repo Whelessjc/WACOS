@@ -1,5 +1,7 @@
 # Day 1 Daily Teaching Guide: Welcome and Kitchen Orientation
 
+> **Supporting source.** Active navigation now uses `Culinary_1_Week_1_Teaching_Guide.md` as the canonical live guide.
+
 - **Course:** Culinary 1
 - **Unit:** Orientation and Systems
 - **Week/day:** Week 1, Day 1 - Tuesday, August 11, 2026

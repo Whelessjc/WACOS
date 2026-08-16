@@ -48,6 +48,10 @@ West Ashley Culinary/
 
 Course/week folders are the primary daily entry point. Keep one canonical copy of a shared resource and use Drive shortcuts where several weeks or areas need it.
 
+## Artifact Naming
+
+Use **Course or Operation -> Week or Unit -> Plain-language artifact name**. Examples: `Culinary 1 - Week 1 Teaching Guide`, `Culinary 2 - Week 1 Recipes`, and `Bistro - Week 5 Prep List`. These human-facing names do not require stable GitHub source filenames to be renamed unless a source name is actively misleading.
+
 ## Indexing Rule
 
 Index accepted packets, bundles, reusable forms, slide decks, spreadsheets, recipes, and other materials whose durable location or review state would otherwise be unclear. Do not create a separate row for every minor component when a packet-level entry is sufficient. Routine printing, sharing, shortcut creation, and formatting-only edits do not require a Git commit.

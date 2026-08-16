@@ -388,6 +388,8 @@ The current operating rhythm is:
 
 This rhythm is an operational decision, not an enduring principle. The enduring principle is that authentic service must be prepared for, executed, closed, and reflected on with professional standards.
 
+The opening readiness period is an explicit exception. Weeks 1-4 are Monday-Friday instructional and readiness weeks. Thursday prep and Friday service do not govern those weeks; the normal Bistro rhythm begins only when Bistro operations begin. First-ten-day plans must remain especially elastic for homeroom, enrollment and accountability work, schedule corrections, Chromebooks, IDs, late enrollment, and students moving between sections.
+
 ### Readiness Before Launch
 
 The Bistro should open only after students have practiced the systems needed to operate safely and usefully.
@@ -475,6 +477,8 @@ This structure replaces older or conflicting grade-weight references in the arch
 Employability Skills grades measure observable professional behavior and readiness. Evidence may include punctuality, uniform, materials, communication, teamwork, initiative, coachability, station responsibility, productive use of time, stewardship, and closing habits. Employability is not a personality, attitude, or generic participation measure.
 
 Employability Skills are not a soft extra. In culinary and hospitality work, employability is part of competence.
+
+Employability evidence uses meaningful exceptions, repeated patterns, improvement, and instructor judgment. Normal performance does not require constant notation. Coaching is formative and is not automatically a deduction. The previously recorded weekly 100-point automatic-deduction model is retired; this does not change the approved 20% Employability Skills weight.
 
 ### Formative Assessments and Labs
 
@@ -707,6 +711,8 @@ Current weekly rhythm:
 - Thursday: Bistro prep.
 - Friday: Bistro service.
 
+Weeks 1-4 are Monday-Friday instructional and readiness weeks. The Thursday/Friday Bistro rhythm begins only when Bistro operations begin. Different sections may move at different daily speeds while completing equivalent weekly learning.
+
 ### Bistro Launch
 
 For 2026-2027, the program uses Week 4 for Bistro training and mock service and Week 5 as the opening and first public-service target. The adopted calendar mapping is recorded in `2026-07-20_Calendar_Week_Mapping.md`. There is no soft opening. Launch remains readiness-based: the instructor may modify or pause launch when safety or student readiness requires it.
@@ -717,7 +723,9 @@ Partners, guest speakers, field trips, and Hospitality Scholars experiences are 
 
 ### Recipe Bank
 
-No unverified master recipe bank is established by this manual. Recipe archives must be reviewed, deduplicated, dated, and aligned to standard recipe format before being treated as authoritative.
+The Markdown category files in `04_Recipes/Recipe_Bank/` are WACOS's provisional working Recipe Bank and the factual starting point for recipe retrieval. Provisional does not mean production-approved: entries marked **Needs confirmation** and items in `_OPEN_QUESTIONS.md` require instructor review. Missing yields, portions, allergens, safety controls, storage, reheating, sources, equipment permissions, quantities, or procedures must never be silently filled.
+
+Student production recipes normally represent one student group unless clearly labeled otherwise. Teacher production and purchasing calculations remain separate and use the actual scheduled group count and usable inventory rather than a permanent multiplier.
 
 ### Equipment and Facility SOPs
 

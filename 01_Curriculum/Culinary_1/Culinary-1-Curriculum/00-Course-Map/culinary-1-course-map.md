@@ -61,19 +61,19 @@ Students complete Food Handler review and assessment, then practice recipe readi
 
 Labs include peanut butter bars, rice cookery, fried rice or stir fry, and dried pasta with a basic tomato sauce.
 
-### 04. Customer Service and Bistro Soft Opening
+### 04. Customer Service and Bistro Readiness
 Weeks covered: Week 4
 
 Focus: Understand the full flow of service.
 
-Students learn Life of an Order, guest arrival to farewell, station assignments, station training, mock service, Bistro prep, and soft opening. For 2026-2027, Week 4 is August 31-September 4; the early-release Friday is limited to a full mock or tightly controlled soft opening rather than normal public service.
+Students learn Life of an Order, guest arrival to farewell, station assignments, station training, and mock service. For 2026-2027, Week 4 is August 31-September 4 and remains Monday-Friday readiness work; the early-release Friday is training and full mock service only, with no public service.
 
 ### 05. Bistro Systems Reinforcement
 Weeks covered: Week 5
 
 Focus: Stabilize service before moving deeper into technical skills.
 
-Students debrief the Week 4 rehearsal/soft opening, clarify roles, retrain stations, practice ticket flow and communication, and prepare for the first normal public Bistro service on Friday, September 11, subject to readiness and safety.
+Students debrief Week 4 training/mock service, clarify roles, retrain stations, practice ticket flow and communication, and prepare for the first public Bistro service on Friday, September 11, subject to readiness and safety.
 
 ### 06. Knife Skills Progression
 Weeks covered: Weeks 6 to 9

@@ -1,7 +1,7 @@
 # Unit 05 Lab Student Handout: Bistro Systems Practice
 
 ## Purpose of the Lab
-The purpose of this lab is to improve Bistro systems after the soft opening. You will practice station roles, ticket flow, communication, prep, service, and reset.
+The purpose of this lab is to improve Bistro systems after the mock service. You will practice station roles, ticket flow, communication, prep, service, and reset.
 
 ## Skills Practiced
 - Service debrief
@@ -36,7 +36,7 @@ Your teacher will choose the simple Bistro prep or service items.
 
 ## Procedure
 1. Complete the entry routine and huddle.
-2. Review what happened during the soft opening.
+2. Review what happened during the mock service.
 3. Confirm station roles and communication expectations.
 4. Practice ticket flow or run mock service 2.0.
 5. Complete assigned Bistro prep or service task.

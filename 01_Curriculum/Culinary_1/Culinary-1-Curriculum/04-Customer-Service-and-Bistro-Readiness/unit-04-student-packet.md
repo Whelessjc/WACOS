@@ -1,4 +1,4 @@
-# Unit 04 Student Packet: Customer Service and Bistro Soft Opening
+# Unit 04 Student Packet: Customer Service and Bistro Readiness
 
 ## What We Are Learning
 This week we are learning how service works from the moment a guest arrives until the space is reset. You will practice greeting, order taking, ticket flow, station roles, expo, food running, clearing, dish, reset, and farewell.
@@ -63,8 +63,8 @@ Bistro service is not just cooking. It is a team system. Guests notice how we co
 11. Space is reset.
 12. Guest leaves with a farewell.
 
-## Soft Opening Expectations
-Soft opening is practice, but it is still real work.
+## Mock Service Expectations
+Mock service is practice, but it still uses real standards. Week 4 is not public service.
 
 - Know your role.
 - Listen during the huddle.

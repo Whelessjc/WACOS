@@ -4,7 +4,7 @@ This folder contains reusable forms, blank templates, checklists, and document s
 
 ## Current Templates
 
-- [Daily Teaching Guide Template](Daily_Teaching_Guide_Template.md) - reusable instructor guide aligned to the flex-mod and Professional Thinking standards.
+- [Weekly Teaching Guide Template](Daily_Teaching_Guide_Template.md) - reusable weekly sequence guide aligned to the flex-mod and Professional Thinking standards. The source filename remains stable for existing links.
 
 ## Belongs Here
 

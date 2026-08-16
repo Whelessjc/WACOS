@@ -1,5 +1,7 @@
 # Day 1 Daily Teaching Guide: Re-entry, Expectations, and Recipe Planning
 
+> **Supporting historical plan.** Active navigation now uses `Culinary_2_Week_1_Teaching_Guide.md`. Actual implementation included re-entry followed by a knowledge baseline; do not treat every planned step below as completed.
+
 - **Course:** Culinary 2
 - **Unit:** Re-entry, Trust, and Baseline
 - **Week/day:** Week 1, Day 1 - Tuesday, August 11, 2026

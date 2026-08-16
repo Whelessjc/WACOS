@@ -1,4 +1,4 @@
-# Checklist: Customer Service and Bistro Soft Opening
+# Checklist: Customer Service and Bistro Readiness
 
 ## Readiness Checklist
 - [ ] I know my station role.

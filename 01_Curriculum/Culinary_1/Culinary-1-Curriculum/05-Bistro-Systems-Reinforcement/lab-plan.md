@@ -25,13 +25,13 @@ Use service practice to strengthen roles, ticket flow, communication, prep, and 
 - Dish area
 
 ## Setup
-- Review soft opening notes.
+- Review mock service notes.
 - Confirm station assignments.
 - Prepare tickets for mock service 2.0.
 - Post or review prep list.
 
 ## Procedure
-1. Debrief soft opening.
+1. Debrief mock service.
 2. Retrain station expectations.
 3. Practice ticket flow.
 4. Run mock service 2.0.

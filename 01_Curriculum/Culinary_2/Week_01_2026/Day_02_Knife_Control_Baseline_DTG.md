@@ -1,5 +1,7 @@
 # Day 2 Daily Teaching Guide: Knife Control Baseline
 
+> **Supporting historical plan.** Active navigation now uses `Culinary_2_Week_1_Teaching_Guide.md`. Actual implementation required an instructor knife demonstration/reteach before independent baseline work.
+
 - **Course:** Culinary 2
 - **Unit:** Re-entry, Trust, and Baseline
 - **Week/day:** Week 1, Day 2 - Wednesday, August 12, 2026

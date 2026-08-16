@@ -1,6 +1,6 @@
-# Vegetable Rice Bowl - Week 1 Group Recipe and Mise Plan
+# Sautéed Vegetables over Rice - Week 1 Group Recipe and Mise Plan
 
-**Culinary 2 | Tuesday planning and Friday baseline lab**
+**Culinary 2 | One student group**
 
 **Planned yield:** 3 portions  
 **Actual yield:** __________ portions

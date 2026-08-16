@@ -2,7 +2,6 @@
 
 ## Highest Priority Instructor Decisions
 - Confirm Culinary 2 official and informal naming. See D003.
-- Confirm exact Employability point deductions within the current 100-point weekly scale. See D001.
 - Confirm Bistro payment types, queue/reservations interaction, refunds/comps, and cash/till procedures. See D006.
 - Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
 
@@ -15,7 +14,7 @@
 - Vendor, ordering, receiving, and budget workflow.
 - Partnership contacts, competition calendar, and field trip process.
 - Work-Based Learning forms and hour tracking.
-- Master recipe bank with yields, allergens, revision dates, and duplicates removed.
+- Complete instructor review of Recipe Bank entries marked **Needs confirmation** and the unresolved items in `_OPEN_QUESTIONS.md`.
 - Equipment-specific SOP cards and student safety sign-offs.
 
 ## Version 3.0 Build Tasks

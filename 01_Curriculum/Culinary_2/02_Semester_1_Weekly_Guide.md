@@ -47,12 +47,16 @@ Every class should have:
 
 ## Week 1: Re-entry, Trust, and Baseline (Aug 10-14; Students Begin Tuesday)
 
-**Classroom-ready package:** Use [`Week_01_2026/README.md`](Week_01_2026/README.md) for the four Daily Teaching Guides, active projection source, group recipe and mise plan, TA observation tools, reusable student supports, and end-of-day curriculum capture. This weekly section remains the pacing authority; the package is its operational layer.
+**Classroom-ready package and actual implementation record:** Use [`Week_01_2026/README.md`](Week_01_2026/README.md) and the canonical weekly teaching guide. The original day-labeled DTGs preserve planning context but do not prove completion.
+
+**Actual sequence:** re-entry -> knowledge baseline -> knife demonstration/reteach and baseline -> sautéed vegetables over rice.
+
+**Implementation finding:** students needed a knife demonstration/reteach before independent work. Do not assume retained Culinary 1 technique. The planned standalone Bistro/sanitation readiness circuit did not occur; embed sanitizer verification, labels/FIFO, thermometer calibration, dish flow, storage, towels, and reset into authentic production instead.
 
 Core skill focus:
 
 - daily systems
-- recipe reading
+- knowledge baseline and recipe reasoning
 - station setup
 - sanitation reset
 - baseline knife control
@@ -63,18 +67,16 @@ Foodways/place connection:
 
 Suggested recipes or recipe types:
 
-- no-cook recipe marking
-- simple sauteed vegetables
-- basic rice or grain bowl
+- sautéed vegetables over rice
 - vinaigrette tasting if time allows
 
 | Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
 | --- | --- | --- | --- |
 | Monday | No student instruction. | Teacher preparation for the first student day. | Confirm stations, safety materials, cleaning roles, and baseline tasks. |
-| Tuesday | I can explain Culinary 2 expectations and read a recipe before cooking. | Black coat expectations, daily rhythm, flames off, station reset, then how to mark yield, time, equipment, hazards, and quality cues. | Room/kitchen walk, station setup drill, and a short recipe-marking/mise-list task. |
-| Wednesday | I can set up a safe board and make controlled cuts. | Board stability, claw, grip, scrap control, cut-size purpose. | Onion/carrot/celery baseline cuts; teacher observes control and station habits. |
-| Thursday | I can identify Bistro spaces, explain basic prep flow, and demonstrate the specific safety/sanitation procedures Culinary 1 taught. | Storage, labels, dish flow, sanitizer, towel use - named specifically this time: hand sink stocking, three-compartment sink wash/rinse/sanitize order, mixing sanitizer to ppm and reading a test strip, thermometer calibration via ice bath, thawing methods, and full labeling mechanics (prep vs. discard date, initials, FIFO). Quick fire-safety callback: grease fire response, extinguisher location. | Bistro orientation without service pressure; students walk stations and demonstrate - not just discuss - each item above before moving to the next. |
-| Friday | I can complete a simple lab and leave my station reset. | Saute pan heat, clean-as-you-go, tasting before service. | Simple sauteed vegetables or grain bowl; short station observation. |
+| Tuesday | I can re-enter Culinary 2 expectations and show what I currently know. | Course re-entry and knowledge-baseline directions. | Re-entry followed by a low-stakes knowledge baseline. |
+| Wednesday | I can rebuild a safe knife station and make controlled cuts after demonstration and coaching. | Explicit knife demonstration/reteach: board stability, claw, grip, cut path, pace, scrap control, and cut-size purpose. | Controlled baseline cuts after authorization; teacher observes current control and response to coaching. |
+| Thursday | Continue the weekly sequence according to section readiness. | Address baseline gaps and prepare the named production work. | Read, plan, and prepare for sautéed vegetables over rice; embed only the sanitation checks authentically encountered. The planned standalone readiness circuit did not occur. |
+| Friday | I can produce sautéed vegetables over rice and leave my station reset. | Rice sequence, sauté pan heat, clean-as-you-go, tasting, and shutdown. | Sautéed vegetables over rice; short station observation and full reset. |
 
 Line Check prompts:
 

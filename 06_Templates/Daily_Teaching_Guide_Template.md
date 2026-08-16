@@ -1,15 +1,14 @@
-# Daily Teaching Guide
+# Weekly Teaching Guide
 
-> Instructor working document. Adjust the flexible learning to the available block. Student-facing materials require instructor review before use.
+> Instructor/TA working document. Follow the learning sequence, adjust to the available block, and record where each section stops. Student-facing materials require instructor review before use.
 
-## Lesson Identification
+## Weekly Destination
 
 - **Course:**
 - **Unit:**
 - **Week:**
-- **Day/date:**
-- **Lesson title:**
 - **Weekly Anchor:**
+- **Learning sequence:**
 
 ## Learning
 
@@ -19,19 +18,28 @@
 - **Skill:**
 - **Professional thinking:**
 
-## Opening
+## Show / Students Do
 
-**Bellringer or opening task**
+| Instructor shows or explains | Students do |
+|---|---|
+|  |  |
 
-## Core Learning
+## Must Happen - Core Learning
 
-The essential learning that must occur even when time is reduced.
+Include required safety, shutdown, cleaning, and reset.
 
-## Flexible Learning
+## If Time Remains - Flexible Learning
 
-Activities that may expand, compress, continue, or move. Include a clean stopping point.
+Continue into the next logical part of the weekly sequence when students are ready.
 
-## Closure
+## If Time Is Lost
+
+Name what may move without damaging the Weekly Anchor.
+
+## Clean Stopping Points
+
+- **Stop point:**
+- **Secure/reset before leaving:**
 
 ## Materials and Instructor Preparation
 
@@ -41,17 +49,16 @@ Activities that may expand, compress, continue, or move. Include a clean stoppin
 
 **Teaching assistant, when available**
 
-## Students Will Ask
+## Supporting Notes - Only When Useful
 
-- **Question:**
-  - **Response or instructor decision needed:**
+- Predictable student question or confirmed response:
+- Instructor context for early equipment/procedure encounters:
+- Opening or closure prompt:
 
-## Instructor Context
+## Section Continuation and Future Revision
 
-Explain intentional early use of equipment or procedures that receive formal instruction later. Provide only what students need for safe and successful participation.
+| Section/path | Stopped after | Next move / reteach |
+|---|---|---|
+|  |  |  |
 
-## Notes for Future Revision
-
-- What worked:
-- What needs adjustment:
-- Section continuation notes:
+- **Keep / Change / Remove / Add:**

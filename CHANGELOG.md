@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-08-16 - Simplify Weekly Teaching and Retrieval Workflows
+
+### Program Decisions
+
+- Retained `E/M/C/N/NO` as Bistro-only observation language and retained the existing lab and Employability codes.
+- Retired the weekly 100-point automatic-deduction model while retaining the 20% Employability Skills weight and instructor-reviewed exception-and-pattern evidence.
+- Adopted plain-language names for teacher-facing Drive artifacts and navigation while preserving stable source filenames when they remain accurate.
+- Confirmed the Recipe Bank Markdown as the maintained working source and the existing Word exports as preservation snapshots.
+
+### Teaching and Operations
+
+- Replaced separate daily-guide planning with one canonical weekly teaching guide organized by sequence, must-happen outcomes, time checks, stopping points, and continuation markers.
+- Added canonical Culinary 1 and Culinary 2 Week 1 guides and marked the earlier daily guides as supporting historical records.
+- Recorded the actual Culinary 2 Week 1 sequence and retired the uncompleted standalone Bistro and sanitation readiness circuit from active navigation.
+- Added a lightweight teacher-and-TA capture, routing, reconciliation, and debrief workflow without a required new form or duration.
+
+### Curriculum and Retrieval
+
+- Renamed the maintained Culinary 1 Unit 04 source to Customer Service and Bistro Readiness and aligned Unit 05 with the confirmed Week 5 public opening.
+- Marked generated curriculum exports and delivery folders stale and de-indexed until regenerated from the corrected numbered-unit sources.
+- Added Recipe Bank category navigation, retrieval cautions, and group-to-production-to-purchasing scaling guidance.
+
 ## 2026-08-09 - Cancel Soft Opening and Move Bistro Opening to September 11
 
 ### Program Decision

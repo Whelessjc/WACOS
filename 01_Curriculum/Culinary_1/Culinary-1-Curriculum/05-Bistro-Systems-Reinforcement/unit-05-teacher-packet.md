@@ -3,12 +3,12 @@
 ## Unit Overview
 Week 5 focus: stabilize service before moving deeper into technical skills.
 
-Students debrief the soft opening, retrain stations, clarify roles, practice ticket flow and communication standards, run mock service 2.0, complete Bistro prep, and run a controlled Bistro service with stronger reset habits.
+Students debrief the mock service, retrain stations, clarify roles, practice ticket flow and communication standards, run mock service 2.0, complete Bistro prep, and run a controlled Bistro service with stronger reset habits.
 
 ## Week at a Glance
 | Day | Focus | Main Application |
 |---|---|---|
-| Monday | Soft opening debrief | Facts, fixes, station reset rehearsal |
+| Monday | Week 4 mock-service debrief | Facts, fixes, station reset rehearsal |
 | Tuesday | Station retraining | Role clarity and station setup/reset |
 | Wednesday | Ticket flow | Mock service 2.0 and communication standards |
 | Thursday | Bistro prep | Prep list, labeling, storage, reset |
@@ -16,11 +16,11 @@ Students debrief the soft opening, retrain stations, clarify roles, practice tic
 
 ## Daily Lesson Flow
 
-### Monday: Soft Opening Debrief
+### Monday: Mock Service Debrief
 - Opening: huddle with service reflection.
 - Mini-lesson/demo: debrief with facts, not blame.
 - Student work: name one strength, one guest-impact issue, and one station problem.
-- Application: station reset rehearsal using soft opening problems.
+- Application: station reset rehearsal using mock service problems.
 - Prompt: "Which system needs to improve before the next service?"
 - Reset: dish, towels, counters, floors, and station reset practice.
 
@@ -53,11 +53,11 @@ Students debrief the soft opening, retrain stations, clarify roles, practice tic
 - Mini-lesson/demo: final reminders for hospitality, timing, communication, and clean-as-you-go.
 - Student work: run controlled service in assigned roles.
 - Application: service, dish flow, guest awareness, reset, debrief.
-- Prompt: "What improved from the soft opening?"
+- Prompt: "What improved from the mock service?"
 - Reset: full room reset before reflection.
 
 ## Setup Notes
-- Review Unit 04 soft opening notes.
+- Review Unit 04 mock service notes.
 - Keep station assignments visible.
 - Prepare tickets for mock service 2.0.
 - Post or review communication expectations.

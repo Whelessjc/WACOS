@@ -1,13 +1,12 @@
 # Culinary 1 Week 1 - August 11-14, 2026
 
-Week 1 contains four instructional days. The package is designed for Culinary 1 paths 1-2 and 3-4 and follows the Daily Teaching Guide standard.
+Week 1 contains four instructional days. The package is designed for Culinary 1 paths 1-2 and 3-4 and follows the weekly teaching-guide standard.
 
-## Instructor Guides
+## Canonical Teaching Guide
 
-- [Day 1 - Welcome and Kitchen Orientation](Day_01_Welcome_and_Kitchen_Orientation_DTG.md)
-- [Day 2 - Kitchen Mode and Basic Routines](Day_02_Kitchen_Mode_and_Basic_Routines_DTG.md)
-- [Day 3 - Read Before You Cook](Day_03_Read_Before_You_Cook_DTG.md)
-- [Day 4 - First Lab: Pancakes](Day_04_First_Lab_Pancakes_DTG.md)
+- [Culinary 1 - Week 1 Teaching Guide](Culinary_1_Week_1_Teaching_Guide.md) - primary live document; daily labels are suggested starting points, not fixed boundaries.
+
+The four original day-labeled DTGs remain supporting source records for detailed context. They are not the primary live navigation layer.
 
 ## Student Materials and Printing
 

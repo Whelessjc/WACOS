@@ -35,6 +35,4 @@ Before using a recipe in production:
 
 ## Preservation
 
-The imported category files, Word exports, and `_reference/` files preserve the
-curated source bank as received. Future WACOS edits should keep the Markdown and Word
-versions synchronized when both are intended for distribution.
+The imported category files, Word exports, and `_reference/` files preserve the curated source bank as received. The existing Word exports remain as a documented preservation snapshot. Markdown is the maintained WACOS source; the preserved Word snapshot is not expected to remain synchronized with later Markdown revisions. New delivery binaries are not added to GitHub by default.

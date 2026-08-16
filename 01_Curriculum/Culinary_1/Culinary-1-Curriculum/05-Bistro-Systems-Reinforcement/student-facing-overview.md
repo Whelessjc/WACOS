@@ -1,7 +1,7 @@
 # Student Overview: Bistro Systems Reinforcement
 
 ## What You Are Learning
-This week you strengthen the Bistro systems from soft opening. You will debrief, retrain stations, practice ticket flow, improve communication, prep, serve, clean as you go, and reset.
+This week you strengthen the Bistro systems from mock service. You will debrief, retrain stations, practice ticket flow, improve communication, prep, serve, clean as you go, and reset.
 
 ## Why It Matters
 Service gets better when the team studies what happened and practices the parts that were weak. Guests may not see every job, but they feel the result when stations are clean, communication is clear, and the team is ready.
@@ -15,7 +15,7 @@ Service gets better when the team studies what happened and practices the parts 
 - I improve one service habit from last week.
 
 ## This Week's Applications
-- Soft opening debrief
+- Week 4 mock-service debrief
 - Station retraining
 - Mock service 2.0
 - Bistro prep

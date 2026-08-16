@@ -1,9 +1,9 @@
-# Unit 04 Teacher Packet: Customer Service and Bistro Soft Opening
+# Unit 04 Teacher Packet: Customer Service and Bistro Readiness
 
 ## Unit Overview
 Week 4 focus: understand the full flow of service.
 
-Students learn the Life of an Order from guest arrival to farewell. The week is about hospitality, ticket flow, station roles, expo, food running, clearing, dish, reset, mock service, Bistro prep, and a controlled soft opening.
+Students learn the Life of an Order from guest arrival to farewell. The week is about hospitality, ticket flow, station roles, expo, food running, clearing, dish, reset, Bistro readiness, and repeated mock service. Week 4 has no public service.
 
 ## Week at a Glance
 | Day | Focus | Main Application |
@@ -12,7 +12,7 @@ Students learn the Life of an Order from guest arrival to farewell. The week is 
 | Tuesday | Station assignments | Station setup, duties, and reset practice |
 | Wednesday | Ticket flow and expo | Mock service with simple tickets |
 | Thursday | Bistro prep | Prep list, station readiness, storage, reset |
-| Friday | Soft opening | Controlled service, debrief, full reset |
+| Friday | Full mock service | Training, debrief, full reset; no public service |
 
 ## Daily Lesson Flow
 
@@ -48,16 +48,16 @@ Students learn the Life of an Order from guest arrival to farewell. The week is 
 - Prompt: "What prep task supports tomorrow's service?"
 - Reset: label, store, clean, dish, and reset for the next service.
 
-### Friday: Soft Opening
+### Friday: Mock Service
 - Opening: readiness check, huddle, roles confirmed.
 - Mini-lesson/demo: final reminders for hospitality, ticket flow, expo, safety, and reset.
-- Student work: run controlled soft opening.
+- Student work: run controlled mock service.
 - Application: guest service, ticket flow, cooking, expo, running, clearing, dish, reset, farewell.
 - Prompt: "What worked, and what system needs practice?"
 - Reset: full service reset before debrief.
 
 ## Setup Notes
-- Keep the first soft opening small and controlled.
+- Keep the first mock service small and controlled.
 - Post or review station assignments.
 - Prepare sample tickets or order slips.
 - Limit menu or service items.
@@ -71,7 +71,7 @@ Students learn the Life of an Order from guest arrival to farewell. The week is 
 - "Expo stays calm when communication stays clear."
 - "Dish and reset are part of service."
 - "Front and back of house are one team."
-- "Soft opening is practice with real expectations."
+- "Mock service is practice with real expectations."
 
 ## Safety Reminders
 - Watch movement during service.

@@ -1,4 +1,4 @@
-# Teacher Notes: Customer Service and Bistro Soft Opening
+# Teacher Notes: Customer Service and Bistro Readiness
 
 ## What to Emphasize
 - Hospitality is a skill.
@@ -18,7 +18,7 @@
 - Forgetting that dirty tables, full dish areas, and messy stations slow service.
 
 ## Classroom Management Notes
-- Keep the soft opening limited.
+- Keep the mock service limited.
 - Assign roles clearly and visibly.
 - Stop service practice to fix ticket flow if needed.
 - Debrief with facts, not blame.

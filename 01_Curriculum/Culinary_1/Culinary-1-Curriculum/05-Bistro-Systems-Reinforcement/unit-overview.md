@@ -7,7 +7,7 @@ Week 5 (September 7-11, 2026; Monday closed for Labor Day)
 Stabilize service before moving deeper into technical skills.
 
 ## Purpose
-Students debrief the Week 4 rehearsal/soft opening, clarify roles, retrain stations, practice ticket flow and communication standards, complete a final service rehearsal, and prepare for the first normal public Bistro service on Friday, September 11. The week also reinforces guest awareness, clean stations, dish flow, and shared stewardship so service feels calmer and more respectful.
+Students debrief the Week 4 training and mock service, clarify roles, retrain stations, practice ticket flow and communication standards, complete a final service rehearsal, and prepare for the first public Bistro service on Friday, September 11. The week also reinforces guest awareness, clean stations, dish flow, and shared stewardship so service feels calmer and more respectful.
 
 ## Learning Targets
 - I can identify what worked and what needs improvement after service.
@@ -37,7 +37,7 @@ Students debrief the Week 4 rehearsal/soft opening, clarify roles, retrain stati
 | Service standard | The expected way to complete a service task. |
 
 ## Lab Applications
-- Soft opening debrief
+- Week 4 mock-service debrief
 - Station retraining
 - Mock service 2.0
 - Bistro prep

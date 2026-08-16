@@ -22,4 +22,6 @@ Recipes are vehicles for skill practice. The curriculum is the skill, habit, and
 - Scaling notes.
 - Skill focus.
 
+Student production recipes normally represent one student group unless clearly labeled otherwise. Teacher production totals and purchasing calculations belong in the production packet or order workflow, not as a permanent multiplier embedded into the student recipe.
+
 Fully worked reference entries were named in the separate Claude recipe-standardization project but were not included in the July 20, 2026 WACOS intake. Add them only after the source files are supplied and reviewed.

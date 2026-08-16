@@ -1,5 +1,7 @@
 # Day 4 Daily Teaching Guide: Vegetable Rice Bowl Baseline Lab
 
+> **Supporting historical plan.** Active navigation now uses `Culinary_2_Week_1_Teaching_Guide.md`, which records the actual dish as sautéed vegetables over rice.
+
 - **Course:** Culinary 2
 - **Unit:** Re-entry, Trust, and Baseline
 - **Week/day:** Week 1, Day 4 - Friday, August 14, 2026

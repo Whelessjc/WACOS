@@ -1,37 +1,27 @@
-# Daily Teaching Guide Standard
+# Weekly Teaching Guide Standard
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
 
 ## Purpose
 
-A Daily Teaching Guide (DTG) is the operational layer between the curriculum and classroom instruction. It gives the instructor enough direction to teach confidently while preserving judgment when time, enrollment, equipment, or student readiness changes.
+A Weekly Teaching Guide is the primary operational layer between the curriculum and classroom instruction. It gives the instructor and TA enough direction to teach confidently while preserving judgment when time, enrollment, equipment, or student readiness changes. Older Daily Teaching Guides may remain as supporting or historical sources, but active navigation should point to one canonical weekly guide per course/week.
 
-A DTG should reduce decisions and paperwork. It is not a script, a formal observation tool, or a minute-by-minute pacing mandate.
+A working guide should reduce decisions and paperwork. It is not a script, a formal observation tool, or a minute-by-minute pacing mandate. Daily labels identify likely starting points; they do not require a section to stop when the next logical learning is ready.
 
-## Required Components
+## Live Teaching Structure
 
-Every DTG contains:
+Every active weekly guide makes these items immediately visible:
 
-1. Course, unit, week, day/date, and lesson title.
-2. Learning target.
-3. Essential question when it improves the lesson.
-4. Bellringer or opening task.
-5. **Core Learning:** the learning that must occur even when time is reduced.
-6. **Flexible Learning:** work that may expand, compress, continue, or move.
-7. Closure or exit reflection.
-8. **Weekly Anchor:** what all sections should know or be able to do by the end of the instructional cycle.
-9. Materials and instructor preparation.
-10. Instructor and teaching-assistant roles when a TA is available.
-11. **Students Will Ask:** predictable practical questions and instructor-confirmed answers or clearly marked decisions.
-12. **Instructor Context:** concise explanation when students encounter equipment or procedures before the formal unit that teaches them in depth.
-13. Notes for revision after teaching.
+1. **Weekly destination:** course, week/unit, Weekly Anchor, and the ordered learning sequence.
+2. **Show / Students do:** what the instructor demonstrates or explains and what students do next.
+3. **Must happen:** Core Learning plus required safety, shutdown, cleaning, and reset.
+4. **If time remains:** Flexible Learning and the next logical sequence element.
+5. **If time is lost:** work that may move without damaging the Weekly Anchor.
+6. **Clean stopping points:** where a section may pause and what must be secured before leaving.
+7. **Section continuation:** a compact record of where each section stopped and what comes next.
 
-New and substantially revised DTGs also identify:
-
-- **Knowledge:** what students are learning.
-- **Skill:** what students are practicing.
-- **Professional thinking:** the professional habit being strengthened.
+The weekly guide also identifies Knowledge, Skill, Professional Thinking, materials/preparation, and adult roles. Essential questions, predictable student questions, detailed instructor context, and extended notes belong in compact supporting notes when they materially help instruction; they do not receive equal visual priority by default.
 
 ## Flex-Mod Operating Standard
 
@@ -41,11 +31,11 @@ Different class periods may receive different instructional minutes on the same 
 - Culinary 2 meets in paths 5-8.
 - PACK is the advisory/lunch period each day. The instructor does not teach a PACK advisory and uses this window for planning; the planning assignment is associated with paths 6-7.
 - The instructor stretches or tightens Monday-Wednesday learning so sections are generally aligned by Wednesday.
-- Thursday is normally Bistro Prep.
-- Friday is normally Bistro Service and reflection.
+- Thursday is normally Bistro Prep after Bistro operations begin.
+- Friday is normally Bistro Service and reflection after Bistro operations begin.
 - Weekly accumulated instructional time is generally equivalent even when daily blocks differ.
 
-Core Learning protects the weekly anchor in short periods. Flexible Learning absorbs the variation in longer periods. A continuation note should tell the instructor where a section can stop cleanly and resume.
+Core Learning protects the weekly anchor in short periods. Flexible Learning absorbs variation in longer periods. If essential learning is secure and time remains, continue to the next logical part of the sequence. A continuation note tells the instructor where each section stopped and resumes.
 
 ## First Ten School Days
 
@@ -59,14 +49,17 @@ During this period:
 - Avoid essential learning that depends on every section completing the same activity on the same day.
 - Record which sections need continuation, not a separate lesson plan for each path.
 
+Weeks 1-4 are Monday-Friday instructional/readiness weeks. Do not impose the post-launch Thursday prep/Friday service rhythm during this opening period.
+
 ## Weekly Planning Use
 
-1. Set the Weekly Anchor.
-2. Identify the Core Learning for each day.
-3. Add Flexible Learning that can expand or move.
-4. Mark safe stopping points.
-5. Review section alignment by Wednesday.
-6. Preserve Thursday prep and Friday service after Bistro launches, unless readiness, safety, or the calendar requires a change.
+1. Set the Weekly Anchor and ordered learning sequence.
+2. Identify the Core Learning that protects the destination.
+3. Add Flexible Learning that can expand, continue, or move.
+4. Mark safe stopping points and required reset.
+5. Record section continuation instead of building separate plans for each path.
+6. Review section alignment by Wednesday.
+7. Preserve Thursday prep and Friday service after Bistro launches, unless readiness, safety, or the calendar requires a change.
 
 ## Instructor Review
 

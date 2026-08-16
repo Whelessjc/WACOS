@@ -39,9 +39,9 @@ Do not revive old ProStart-centered curriculum language as current policy unless
 
 `Culinary_1/01_Modular_Pacing_Guide.md` is the current 18-week pacing spine for both Culinary 1 semester cohorts.
 
-`Culinary_1/Week_01_2026/` is the dated, classroom-ready source package for August 11-14, 2026. It contains four Daily Teaching Guides and a minimal-print classroom plan. Accepted printable and editable delivery copies belong in the corresponding Drive week folder.
+`Culinary_1/Week_01_2026/` is the dated, classroom-ready source package for August 11-14, 2026. It contains one canonical weekly teaching guide, supporting historical day-labeled DTGs, and a minimal-print classroom plan. Accepted printable and editable delivery copies belong in the corresponding Drive week folder.
 
-`Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source from the Desktop Culinary 1 curriculum folder. Generated delivery files such as ZIP, DOCX, PDF, and PPTX packages are intentionally excluded from GitHub unless later published as release assets.
+`Culinary_1/Culinary-1-Curriculum/` contains the imported Markdown source. Start with its README: numbered unit folders are canonical, while generated Markdown derivative folders are stale/de-indexed until regenerated from current sources. Generated delivery binaries remain excluded unless a documented exception applies.
 
 `Culinary_2/Culinary-2-Curriculum/` is the organized build-out package for Culinary 2. It currently provides the course-map and unit shell needed to expand Culinary 2 to match the classroom-ready depth of Culinary 1.
 

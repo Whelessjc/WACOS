@@ -84,12 +84,16 @@ Avoid "AI says" as a source of authority. Use "drafted with AI and reviewed by t
 
 ## Naming Conventions
 
-Use clear file names with underscores:
+Use plain-language names for finished Google Drive artifacts and visible navigation labels:
 
-- `Culinary_1_Pacing_Guide.md`
-- `Bistro_Prep_Checklist.md`
-- `Friday_Service_Reflection.md`
-- `Knife_Safety_SOP.md`
+- `Culinary 1 - Week 1 Teaching Guide`
+- `Culinary 1 - Week 1 Student Packet`
+- `Culinary 2 - Week 1 Recipes`
+- `Bistro - Week 5 Prep List`
+
+Use this order when applicable: **Course or Operation -> Week or Unit -> Plain-language artifact name**.
+
+Stable governing and repository-source filenames may retain underscores or established technical names when changing them would create link churn without improving daily retrieval. Rename a repository source when its name is actively misleading, not merely inconsistent. Historical filenames may remain when they preserve evidence, but current navigation must label them as historical.
 
 Use title case for document titles:
 

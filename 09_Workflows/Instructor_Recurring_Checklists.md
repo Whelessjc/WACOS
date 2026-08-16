@@ -38,7 +38,7 @@ Use this as the single recurring startup checklist. Dated items below apply only
 ### Weeks 2-3: Bistro Readiness
 
 - [ ] Continue instruction, kitchen systems, safety, sanitation, Employability, lab routines, and Bistro readiness.
-- [ ] Practice the normal weekly rhythm: Monday-Wednesday instruction, practice, assessment, grading, and planning; Thursday Bistro Prep; Friday Bistro Service and reflection only when readiness permits.
+- [ ] Use Monday-Friday instruction and readiness. Do not impose the post-launch Thursday prep/Friday service rhythm.
 - [ ] Train and assess the current Bistro teams: Dining, Kitchen, Support, and Barista.
 - [ ] Do not create classroom jobs, leadership boards, manager rotations, additional teams, or student authority structures without an instructor-approved Program Decision.
 
@@ -48,6 +48,7 @@ Use this as the single recurring startup checklist. Dated items below apply only
 - [ ] Conduct training and mock service only; do not hold a soft opening or public service this week.
 - [ ] Use the early-release Friday, September 4 for additional training while the instructor is out of town.
 - [ ] Confirm Week 5 purchasing, staffing, menu, equipment, safety, guest-flow, payment, and communication readiness.
+- [ ] Continue treating all five days as instruction/readiness; Week 4 does not establish the normal Bistro rhythm.
 
 ### Week 5: Bistro Opening
 
@@ -98,6 +99,7 @@ Use this as the single recurring startup checklist. Dated items below apply only
 - [ ] Lab and Employability sheets printed or prepared.
 - [ ] Food and coffee inventory completed; orders placed.
 - [ ] Previous Bistro manager's log reviewed.
+- [ ] Monday reconciliation completed: 86 Board, Order Guide/Purchasing List, Brainstorming Clipboard, Manager Log, and unresolved work orders.
 - [ ] Any Friday-deferred Bistro deposit and required external paperwork completed Monday.
 - [ ] Monday-Wednesday instruction protected and grading backlog cleared.
 - [ ] Thursday prep lists, recipes, station assignments, roles, equipment, and storage ready.
@@ -106,6 +108,7 @@ Use this as the single recurring startup checklist. Dated items below apply only
 - [ ] Square transaction report downloaded; payment totals, comps, and backup receipts reconciled.
 - [ ] Bookkeeper paperwork, supporting records, Friday-or-Monday deposit, and manager's log completed.
 - [ ] Weekly reflection captured: wins, problems, safety, inventory, grading, and reteach.
+- [ ] Friday capture routed: shortages, equipment problems, service issues, curriculum observations, and purchasing needs have a destination, owner, next action, and confirmation point.
 - [ ] Next week's learning, labs, resources, and risks identified.
 
 ## Quarterly

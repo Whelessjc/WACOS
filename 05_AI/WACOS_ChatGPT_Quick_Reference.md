@@ -61,7 +61,7 @@ When creating or substantively revising a lesson, unit, assessment, instructor g
 
 Employability Skills means observable professional habits such as readiness, punctuality, uniform, communication, teamwork, initiative, coachability, station responsibility, and reset habits. Do not substitute vague participation or attitude language.
 
-Exact Employability point deductions remain an implementation detail requiring current orientation materials and instructor confirmation.
+The prior weekly 100-point automatic-deduction model is retired. Employability uses meaningful exceptions, repeated patterns, improvement, and instructor judgment while retaining its 20% weight.
 
 ## Weekly Operating Rhythm
 

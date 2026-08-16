@@ -1,6 +1,6 @@
 # Lesson Sequence: Bistro Systems Reinforcement
 
-Rewritten 2026-07 using the real dining room operations training materials (Customer_Service.pptx). This unit picks up where Unit 4 left off - reinforcing systems after the early-release rehearsal/soft opening and preparing for the first normal public service on Friday, September 11.
+Rewritten 2026-07 using the real dining room operations training materials (Customer_Service.pptx). Updated 2026-08-15 to follow Week 4 training and mock service, with no soft opening, and prepare for the first public service on Friday, September 11.
 
 ## Day 1: Labor Day - No School
 - No student instruction. Move the Week 4 debrief into Day 2's opening huddle.

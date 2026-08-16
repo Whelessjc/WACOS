@@ -1,4 +1,4 @@
-# Unit 04: Customer Service and Bistro Soft Opening
+# Unit 04: Customer Service and Bistro Readiness
 
 ## Weeks Covered
 Week 4 (August 31-September 4, 2026)
@@ -7,7 +7,7 @@ Week 4 (August 31-September 4, 2026)
 Understand the full flow of service.
 
 ## Purpose
-Students learn Life of an Order from guest arrival to farewell: greeting, order taking, ticket flow, cooking, expo, food running, check back, clearing, dish, reset, station assignments, station training, mock service, Bistro prep, soft opening, and stewardship of the guest and work spaces. Friday, September 4 is an early-release day, so the Week 4 endpoint is a full mock service or tightly controlled soft opening—not normal public service.
+Students learn Life of an Order from guest arrival to farewell: greeting, order taking, ticket flow, cooking, expo, food running, check back, clearing, dish, reset, station assignments, station training, mock service, Bistro readiness, and stewardship of guest and work spaces. Friday, September 4 is an early-release day. The Week 4 endpoint is training and mock service only; there is no public service.
 
 ## Learning Targets
 - I can explain how an order moves through service.
@@ -34,13 +34,13 @@ Students learn Life of an Order from guest arrival to farewell: greeting, order 
 | Ticket | The order information the team uses to prepare food. |
 | Expo | The place or person organizing food before it goes out. |
 | Food runner | Person who delivers food to the guest or service point. |
-| Soft opening | A controlled first service used for practice and feedback. |
+| Mock service | A practice service without public-service claims or pressure. |
 
 ## Lab Applications
 - Station training
 - Mock service
 - Bistro prep
-- Soft opening
+- Full mock service
 
 ## Bistro Connection
 This is the first full service connection. Students see how kitchen skills, sanitation, communication, and hospitality work together before the first normal public service in Week 5.
@@ -49,7 +49,7 @@ This is the first full service connection. Students see how kitchen skills, sani
 - Life of an Order explanation
 - Station role observation
 - Mock service communication check
-- Soft opening debrief
+- Mock-service debrief
 - Reset inspection
 
 ## Teacher Notes

@@ -1,5 +1,7 @@
 # Phase 3 Final Readiness Report
 
+> **Historical export report:** This report records the Phase 3 export state when it was produced. The numbered unit folders are the maintained curriculum sources. Generated export/delivery folders are stale and de-indexed until regenerated from those sources; Unit 04 is now `04-Customer-Service-and-Bistro-Readiness/`.
+
 ## 1. Units Completed
 Phase 3 classroom-ready Markdown exports are complete for:
 - Unit 01: Orientation and Systems

@@ -22,7 +22,11 @@ Document repeatable routines that keep instruction, production, cleaning, planni
 | Thursday | Bistro prep |
 | Friday | Bistro service and reflection |
 
-For 2026-2027, Week 4 is reserved for Bistro systems, training, and mock service. There is no soft opening; Friday, September 4 may be used for additional training while the instructor is out of town. The Bistro opening and first public service target is Friday, September 11 in Week 5. Readiness and safety remain instructor-controlled gates.
+This is the post-launch rhythm. Weeks 1-4 are Monday-Friday instruction and readiness weeks; do not force Thursday prep or Friday service boundaries before Bistro operations begin. For 2026-2027, Week 4 is reserved for Bistro systems, training, and mock service. There is no soft opening; Friday, September 4 may be used for additional training while the instructor is out of town. The Bistro opening and first public service target is Friday, September 11 in Week 5. Readiness and safety remain instructor-controlled gates.
+
+## Weekly Learning Sequence
+
+Plan from the weekly destination: **Weekly Anchor -> Learning Sequence -> Core Learning -> Flexible Learning -> Clean Stopping Points**. Daily labels identify likely starting points, not mandatory stopping boundaries. When Core Learning is secure and time remains, continue into the next logical sequence. Record where each section stopped so sections may move at different daily speeds while reaching equivalent weekly learning.
 
 ## Interruption-Ready Planning
 The curriculum must assume interruptions: testing, field trips, guest speakers, weather, early release, pep rallies, school events, and monthly Hospitality Scholars. Plans should be modular rather than fragile.

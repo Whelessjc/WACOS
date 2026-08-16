@@ -1,4 +1,4 @@
-# Lesson Sequence: Customer Service and Bistro Soft Opening
+# Lesson Sequence: Customer Service and Bistro Readiness
 
 Rewritten 2026-07 using the real dining room operations training materials (Customer_Service.pptx) instead of an abstract version. Source note: E.P.I.C. values referenced in older training materials are retired and are not used here (see DECISION_REGISTER.md D-note on E.P.I.C.).
 
@@ -34,10 +34,10 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Cleanup/reset: label, store, clean, reset.
 - Exit check: what does "Left, Lower, Leave" mean, and why clear from the right?
 
-## Day 5: Early-Release Mock Service or Controlled Soft Opening
+## Day 5: Early-Release Full Mock Service
 - Opening routine: readiness check, huddle, roles confirmed.
 - Demo or mini-lesson: final service reminders - HEARD as the response if a guest raises a concern (Hear, Empathize, Apologize, Resolve, Diagnose), and a reminder that dietary restrictions and allergies get flagged to the kitchen immediately, not guessed at.
 - Student work: assigned prep and service setup using the appropriate side-work checklist (Server/Host, Cooks, Support Staff, or Barista).
-- Lab/application: shortened full mock service or tightly controlled, limited-guest soft opening. Practice ticket flow, expo, running, clearing, dish, and reset without treating this as normal public service.
+- Lab/application: shortened full mock service with no public guests. Practice ticket flow, expo, running, clearing, dish, and reset without treating the day as public service.
 - Cleanup/reset: full service reset.
 - Exit check: debrief one success and one system to improve before the first normal public service on Friday, September 11.

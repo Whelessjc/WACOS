@@ -22,6 +22,8 @@ Live Bistro records use fast letter codes. Lab records use a four-level scale be
 | Lab | `4` exceeds the current standard; `3` meets; `2` approaches; `1` does not yet meet; `NO` not observed or insufficient evidence |
 | Employability | `+` exceptional ownership or leadership; `C` coaching; `R` repeated concern; `I` significant incident; blank means no exception recorded |
 
+`E/M/C/N/NO` is Bistro-only observation language. Lab and Employability records retain their current context-specific scales.
+
 Codes are evidence, not automatic grades. A serious safety, sanitation, allergen, or conduct issue requires immediate intervention and separate instructor review when needed.
 
 ## Bistro Manager Observation Method
@@ -116,7 +118,7 @@ Normal performance requires no daily narrative. Record concise evidence for:
 | Does not yet meet expectations | Significant or persistent evidence shows the student is not yet meeting core professional-habit expectations. |
 | Insufficient evidence | Attendance, assignment, or other circumstances leave too little evidence for a defensible decision. |
 
-Coaching notes are formative until the instructor identifies them as part of a repeated or significant pattern used for the grade. Significant incidents may become formal evidence immediately after instructor review. Exact automatic deductions, exact numeric conversions, and the frequency of gradebook entry are not confirmed and must not be invented.
+Coaching notes are formative until the instructor identifies them as part of a repeated or significant pattern used for the grade. Significant incidents may become formal evidence immediately after instructor review. The prior weekly 100-point automatic-deduction model is retired. Exact numeric conversions and the frequency of gradebook entry remain unconfirmed and must not be invented.
 
 ## Assessment Consistency Rules
 
@@ -145,5 +147,4 @@ The [Student Assessment Quick Guide](Tools/Student_Assessment_Quick_Guide.md) ex
 - Exact frequency of Employability grade entry.
 - Whether Bistro evidence becomes one grade per service or a pattern across multiple services.
 - Whether the instructor and Teacher Assistant use identical records or area-specific versions.
-- Any exact automatic deduction system.
 - Final Canvas setup and missing-work/reassessment implementation.

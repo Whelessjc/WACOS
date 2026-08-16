@@ -1,7 +1,7 @@
 # Unit 05 Lab Teacher Guide: Bistro Systems Practice
 
 ## Setup Before Class
-- Bring notes from the soft opening.
+- Bring notes from the mock service.
 - Choose one or two systems to retrain first.
 - Post station roles and communication standards.
 - Prepare mock tickets or order slips.
@@ -56,7 +56,7 @@
 This lab prepares students to carry Bistro systems into more technical units. Knife skills and heat labs will work better when roles, tickets, prep, and reset are already familiar.
 
 ## Quick Debrief Prompts
-- What improved from soft opening?
+- What improved from mock service?
 - What station needs another practice round?
 - What phrase helped ticket flow?
 - What reset job protected the next group?

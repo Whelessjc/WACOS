@@ -52,6 +52,8 @@ Flag conflicts instead of inventing policy.
 - Culinary 2 means greater depth and responsibility, not just harder recipes.
 - Monday-Wednesday learning time should be protected when possible.
 - Thursday Bistro Prep and Friday Bistro Service are current operating decisions.
+- Weeks 1-4 are Monday-Friday instructional/readiness weeks; do not apply the post-launch Bistro rhythm before Bistro operations begin.
+- Plan from the Weekly Anchor and learning sequence. Daily labels are suggested starting points, not automatic stopping boundaries.
 - Dining, Kitchen, Support, and Barista are the current Bistro teams. Do not invent classroom jobs, rotation boards, teams, management roles, or student authority structures; structural changes require an instructor-approved Program Decision.
 - Safety, sanitation, allergens, equipment authorization, grading, discipline, and compliance require instructor authority.
 

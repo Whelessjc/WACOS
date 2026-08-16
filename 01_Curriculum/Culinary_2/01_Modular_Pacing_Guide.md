@@ -14,6 +14,8 @@ Do not organize the course around cuisines or regions. Organize it around techni
 
 ## Time Structure
 
+This table describes the normal post-launch rhythm. Weeks 1-4 are Monday-Friday instruction/readiness weeks; daily block lengths still matter, but Thursday prep and Friday service do not govern until Bistro operations begin.
+
 | Day | Class Length | Planning Note |
 | --- | ---: | --- |
 | Monday | 95 min | Best day for new skill plus production |
@@ -73,6 +75,8 @@ Anchor cooks:
 - Hoppin' John prep
 - vinaigrettes
 - emulsified dressings
+
+Week 1 implementation evidence from 2026-2027 requires an explicit knife demonstration/reteach before independent work. Prior Culinary 1 completion is not proof of retained technique. The actual Week 1 dish was sautéed vegetables over rice; future plans should name the instructional dish when known instead of using vague “simple production” language.
 
 Speaking built in:
 

@@ -1,5 +1,7 @@
 # Day 2 Daily Teaching Guide: Kitchen Mode and Basic Routines
 
+> **Supporting source.** Active navigation now uses `Culinary_1_Week_1_Teaching_Guide.md` as the canonical live guide.
+
 - **Course:** Culinary 1
 - **Unit:** Orientation and Systems
 - **Week/day:** Week 1, Day 2 - Wednesday, August 12, 2026

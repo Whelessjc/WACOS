@@ -13,7 +13,8 @@ The Teacher Assistant helps the room function and develops instructional skill u
 - [ ] Review supervision boundaries and when the instructor must take over.
 - [ ] Shadow daily entry, briefing, production, shutdown, and reset routines.
 - [ ] Establish the daily communication and issue-reporting routine with the instructor.
-- [ ] Establish the end-of-day curriculum debrief: evidence from the lesson, tomorrow's adjustment, and any durable WACOS improvement.
+- [ ] Establish a brief, when-sustainable debrief using existing notes: intended learning, actual performance, repeated questions, unclear directions, missing materials, mise en place, communication, reset, operational issues, and what worked.
+- [ ] Learn the NOTICE -> CAPTURE -> PROCESS -> ROUTE -> CONFIRM loop and the approved destinations: Tomorrow, Purchase, Work Order, Curriculum, Bistro, Drive, WACOS, and Later.
 - [ ] Review student confidentiality and use only approved district systems for protected student information.
 - [ ] Review equipment authorization limits; the Teacher Assistant may not authorize student or personal equipment use.
 - [ ] Review Thursday Bistro Prep support: checklists, staging, sanitation observation, stocking, documentation, and reset as assigned by the instructor.
@@ -37,6 +38,7 @@ The Teacher Assistant helps the room function and develops instructional skill u
 - When assigned to Bistro observation, use the [Bistro Observer Calibration Guide](../03_Assessment/Tools/Bistro_Observer_Calibration_Guide.md) and record only the area, students, or stations assigned by the instructor.
 - Help close and reset.
 - Report recurring issues to instructor.
+- For actionable items, identify the capture point and report evidence so the instructor can assign the destination, owner, next action, and confirmation.
 - Lead an instructor-approved opening, closure, routine, or micro-lesson when assigned; review the plan before teaching and debrief afterward.
 
 ## Teacher-in-Training Progression

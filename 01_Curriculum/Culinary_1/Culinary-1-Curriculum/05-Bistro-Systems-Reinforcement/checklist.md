@@ -1,7 +1,7 @@
 # Checklist: Bistro Systems Reinforcement
 
 ## Readiness Checklist
-- [ ] I know what happened in soft opening.
+- [ ] I know what happened in mock service.
 - [ ] I know my station role.
 - [ ] I know my improvement target.
 - [ ] I know the prep or service goal for the day.

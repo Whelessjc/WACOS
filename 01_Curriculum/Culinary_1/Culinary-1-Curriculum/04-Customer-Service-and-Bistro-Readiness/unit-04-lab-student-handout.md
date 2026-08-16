@@ -1,7 +1,7 @@
-# Unit 04 Lab Student Handout: Bistro Soft Opening
+# Unit 04 Lab Student Handout: Bistro Readiness
 
 ## Purpose of the Lab
-The purpose of the soft opening is to practice service flow in a controlled way. The goal is role clarity, communication, hospitality, dish flow, and reset.
+The purpose of the mock service is to practice service flow in a controlled way. The goal is role clarity, communication, hospitality, dish flow, and reset.
 
 ## Skills Practiced
 - Greeting and farewell
