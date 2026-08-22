@@ -38,3 +38,7 @@
 - Publish the equipment-specific broiler/grill SOP, safety check, and student authorization record before any student operation.
 
 The instructor has approved all four curriculum additions. These are documentation and implementation tasks, not open curriculum decisions.
+
+## Recipe Development Test
+
+- Test a more reliable, lower-cost cocoa-based brownie for instruction and Bistro production. The target is straightforward student preparation, dependable baking, reasonable ingredient cost, and acceptable Bistro margin. The current high-chocolate/high-egg formula produces good brownies but is costly, while another cocoa-based formula has had unpredictable bake time. Test the Hershey cocoa formula with chocolate chips in a quarter sheet pan with a sheet-pan extender rather than assuming its source 9x13 home pan. This is not an approved Recipe Bank replacement; do not establish a final yield, bake time, food cost, or production standard until the test is completed and instructor-approved.

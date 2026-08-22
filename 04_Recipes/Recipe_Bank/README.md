@@ -8,14 +8,17 @@ The existing Word exports are a preserved import snapshot. Markdown is the maint
 
 ## Reliable Retrieval Path
 
-1. Choose the most likely category below.
-2. Open the Markdown category file and search its recipe headings within the file.
-3. If the expected name is absent, try the main ingredient, technique, common alternate name, and neighboring plausible categories.
-4. Check cross-references and `_OPEN_QUESTIONS.md`.
-5. Read the complete entry and verify yield, portion, safety controls, storage/reheating, source, equipment, and confirmation flags.
-6. Treat a printable or student recipe as a derivative of the reviewed Recipe Bank entry.
+For a request involving an existing WACOS recipe, begin in this folder on `main`. Direct retrieval of the likely Markdown category file takes precedence over repository-wide GitHub code search.
 
-A zero-result repository-wide search is not proof that a recipe is missing. Category files are large, titles may use alternate wording, and some recipes are components of a larger entry. Only call a recipe missing after the plausible category files and headings have been checked.
+1. Choose the most likely category below and retrieve that category file directly from `main`.
+2. Search the recipe headings within the file. If the expected name is absent, try the main ingredient, technique, and common alternate name.
+3. Directly inspect neighboring plausible category files before deciding that the recipe is absent.
+4. Check cross-references and `_OPEN_QUESTIONS.md`.
+5. Once located, use the exact Recipe Bank entry as the factual source.
+6. Read the complete entry and preserve every **Needs confirmation** flag and unresolved yield, allergen, safety, source, storage, production, or equipment note. Do not silently fill gaps.
+7. Treat a printable or student recipe as a derivative of the verified Recipe Bank entry, not as a replacement source.
+
+GitHub code search may help with discovery, but a zero-result search is not evidence that a recipe is missing. Category files are large, titles may use alternate wording, and some recipes are components of a larger entry. Do not report a recipe as missing until the relevant category file or files have been directly checked.
 
 ## Category Map
 

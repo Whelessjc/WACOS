@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-08-22 - Clarify Recipe Retrieval and Commercial-Pan Adaptation
+
+### Quick Edit
+
+- Made direct retrieval of the likely Recipe Bank Markdown category file from `main` the required first path for existing recipes; clarified that code search is discovery-only, zero results do not prove absence, exact entries govern derivatives, and unresolved notes must be preserved.
+- Added the home-pan-to-commercial-pan check as a practical production micro-skill, including the 9x13-to-quarter-sheet surface-area relationship, available sheet-pan extenders, depth/headroom checks, and bake/doneness verification.
+- Recorded lower-cost cocoa brownie development as an instructor-approved testing task only; no recipe, yield, bake time, food cost, or production standard was adopted.
+
 ## 2026-08-22 - Add Culinary Product Stewardship and Consolidate ServSafe Scope
 
 ### Program Decisions

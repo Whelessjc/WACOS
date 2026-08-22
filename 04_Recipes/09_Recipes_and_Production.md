@@ -70,6 +70,20 @@ Students should repeatedly practice:
 - Cost per portion where feasible.
 - Menu pricing and food cost in Culinary 2.
 
+## Home-Pan to Commercial-Pan Adaptation
+
+When a source recipe specifies a home baking pan such as a 9x13, 8x8, loaf, or round cake pan, identify the closest appropriate commercial pan before producing a West Ashley Culinary student or Bistro version. Do not silently assume the home pan will be used.
+
+A standard 9x13 recipe maps closely by surface area to a quarter sheet pan. West Ashley Culinary has sheet-pan extenders, so an extender may add needed depth when the source expects a deeper 9x13 pan. Check the quarter sheet first; do not automatically scale a 9x13 recipe to a half sheet.
+
+Use this sequence:
+
+1. Identify the pan the source recipe expects.
+2. Match it to the closest commercial pan by dimensions and surface area.
+3. Decide whether a sheet-pan extender is needed for depth.
+4. Check batter depth and safe headroom.
+5. Verify bake time, doneness cues, and the actual result after the change. Matching surface area alone does not guarantee identical baking behavior.
+
 ## Cook-What-You-Cut Model
 In Culinary 1, knife practice should become food whenever possible. Examples:
 - Carrots become saute, stir fry, soup garnish, or roasted vegetables.

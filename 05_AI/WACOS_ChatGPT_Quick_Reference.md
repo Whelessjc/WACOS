@@ -245,6 +245,8 @@ For a detailed or sensitive question:
 
 For every daily or weekly lesson-planning request, treat the Daily Teaching Guide Standard as a required current source rather than relying only on a prior lesson, chat memory, or generic lesson-plan format.
 
+For an existing WACOS recipe, begin with `04_Recipes/Recipe_Bank/README.md` and retrieve the likely Markdown category file directly from `main`. Direct category-file retrieval takes precedence over repository-wide code search; do not report a recipe as missing until the relevant category files have been checked. Use the exact entry as the factual source, preserve all confirmation flags and unresolved notes, and treat printable or student copies only as derivatives.
+
 ## Governing File Map
 
 | Topic | Current repository file |
@@ -261,6 +263,7 @@ For every daily or weekly lesson-planning request, treat the Daily Teaching Guid
 | Bistro operations | `02_Bistro/Operations/05_Bistro_Operations.md` |
 | Bistro payments and deposits | `02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md` |
 | Assessment system | `03_Assessment/06_Assessment_System.md` |
+| Existing recipe retrieval | `04_Recipes/Recipe_Bank/README.md` and the relevant Markdown category file |
 | AI operating guidance | `00_Core/WACOS_AI_Reference.md` and `05_AI/11_AI_Workflows.md` |
 | 2026-2027 calendar | `00_Core/2026-07-20_Calendar_Week_Mapping.md` |
 
