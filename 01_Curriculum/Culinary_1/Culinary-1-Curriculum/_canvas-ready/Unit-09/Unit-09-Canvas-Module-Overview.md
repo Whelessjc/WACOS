@@ -24,7 +24,7 @@ cooking, real skills, safe habits, teamwork, stewardship, and leaving the kitche
 - make small adjustments
 - compare flavor families
 - use respectful language
-- reset allergen/tasting areas
+- reset tasting areas
 
 ## What You Will Turn In
 - flavor observation

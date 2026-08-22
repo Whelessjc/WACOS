@@ -1,7 +1,7 @@
 # Student Overview: Flavor Systems
 
 ## What You Are Learning
-You will learn how cooks build flavor using salt, acid, fat, aromatics, herbs, and spices. You will taste safely, watch for allergens, and make small adjustments.
+You will learn how cooks build flavor using salt, acid, fat, aromatics, herbs, and spices. You will taste safely, and make small adjustments.
 
 ## Why It Matters
 Recipes tell you what to do, but cooks also need to notice flavor and make thoughtful changes.

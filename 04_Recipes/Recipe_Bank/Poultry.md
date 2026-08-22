@@ -16,7 +16,6 @@
   6. Bread using the sequence: plain flour, then buttermilk, then seasoned flour.
   7. Fry in peanut oil until golden brown and internal temperature reaches 165°F.
 - **Food safety controls**: Standard poultry handling; brine and cool per HACCP cooling curve; confirm final internal temperature of 165°F after frying (the pre-steam step is a partial cook, not the final safety check).
-- **Allergens**: Gluten.
 - **Quality indicators**: Deeply golden, crisp double-breaded crust; moist interior from the brine/steam pre-treatment.
 - **Holding/storage**: Hold hot for service per program's standard hot-holding procedure; cool and refrigerate leftovers promptly.
 - **Scaling notes**: Already a full production batch (~30 lb chicken, 75-90 pieces). Scale down proportionally for smaller runs.
@@ -38,7 +37,6 @@
   4. Heat about 3" of oil in a Dutch oven to 350°F.
   5. Fry 3-4 pieces at a time (don't crowd the pot) until medium golden brown, turning once, 15-18 minutes, until internal temperature reaches 165°F. Drain on a paper-towel-lined sheet pan. Let oil return to temperature between batches.
 - **Food safety controls**: Standard poultry/egg/dairy handling; confirm 165°F internal temperature before serving.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Deep golden color, herb-flecked crust, audible crunch.
 - **Holding/storage**: Best fresh from the fryer; hold hot briefly on a rack (not covered, to preserve crispness).
 - **Scaling notes**: Scaled 5x from the source's 4-portion (1 chicken) yield.
@@ -63,7 +61,6 @@
   7. Drain on paper towels.
   8. Butter and toast the sandwich buns; assemble with condiments as desired.
 - **Food safety controls**: Standard poultry/egg/dairy handling; confirm 165°F internal temperature.
-- **Allergens**: Gluten, egg, dairy.
 - **Quality indicators**: Golden, crisp exterior; tangy pickle-brined flavor throughout the meat.
 - **Holding/storage**: Best fresh; assemble sandwiches to order.
 - **Scaling notes**: Scaled 8x from the source's 2-sandwich yield.
@@ -88,7 +85,6 @@
   7. Fry, turning occasionally, until golden and cooked through, about 4 minutes total (confirm 165°F internal temperature).
   8. Assemble on toasted buns with pickle chips. Cover with foil or an inverted bowl for 2 minutes to steam the buns before serving.
 - **Food safety controls**: Standard poultry/egg/dairy handling; confirm 165°F internal temperature; refrigerate during the full brine period.
-- **Allergens**: Gluten, egg, dairy.
 - **Quality indicators**: Craggy, well-adhered crust (from the wet-sand flour technique); juicy interior from the long brine; steamed, soft bun.
 - **Holding/storage**: Best fresh; assemble to order.
 - **Scaling notes**: Scaled 4x from the source's 4-sandwich yield.
@@ -113,7 +109,6 @@
   7. Whisk hot frying oil (or melted lard), cayenne, brown sugar, and seasoning together. Spoon over each piece of fried chicken to taste (careful - the oil is very hot).
   8. Serve on toasted, buttered buns with mayonnaise and pickles.
 - **Food safety controls**: Standard poultry/egg/dairy handling; confirm 165°F internal temperature; handle the hot oil-based spicy coating with care.
-- **Allergens**: Gluten, egg, dairy.
 - **Quality indicators**: Deep red-orange spicy coating, audible crunch, juicy thigh meat, balanced heat (adjustable via cayenne level).
 - **Holding/storage**: Best fresh; the spicy oil coating doesn't hold well once applied - dress to order.
 - **Scaling notes**: Scaled 4x from the source's 4-sandwich yield.
@@ -135,7 +130,6 @@
   4. Flip after about a minute; cook until charred/blackened.
   5. Finish in a 450°F oven until internal temperature reaches 165°F.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature after the oven finish, since the pan step alone is a surface char, not full cooking for larger cuts.
-- **Allergens**: Dairy (clarified butter).
 - **Quality indicators**: Deeply charred, blackened spice crust without a burnt/bitter taste; moist interior.
 - **Holding/storage**: Best fresh, immediately after the oven finish.
 - **Scaling notes**: **Needs confirmation** - no source yield to scale from; establish a batch size and record it here.
@@ -158,7 +152,6 @@
   5. *(Juicy/covered-finish variant)* After browning both sides (about 5 minutes per side), lower heat to medium-low, cover, and continue cooking 5-10 minutes until internal temperature reaches 165°F - the cover traps steam for a more evenly cooked, juicier result.
   6. Rest 3-5 minutes before slicing or serving.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature at the thickest part of the breast.
-- **Allergens**: Dairy (butter).
 - **Quality indicators**: Golden brown exterior, juicy interior, even doneness edge to edge (an indicator the covered-finish technique was used correctly).
 - **Holding/storage**: Best fresh; hold briefly covered to retain moisture.
 - **Scaling notes**: Scaled 4x from the source's 4-breast yield.
@@ -182,7 +175,6 @@
   6. Remove from heat; stir in lemon juice and parsley.
   7. Plate chicken and spoon the pan sauce over it.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Crisp, golden crust from the flour dredge; glossy, well-balanced pan sauce (not too thin or too reduced); bright lemon-parsley finish.
 - **Holding/storage**: Best fresh; sauce can separate on reheating - hold sauce and chicken together only briefly.
 - **Scaling notes**: Scaled 4x from the source's 4-cutlet yield.
@@ -207,7 +199,6 @@
   7. Return chicken to the pan, turning to coat in the sauce. Thin with a touch of water or stock if too thick.
   8. Finish with chopped parsley and a squeeze of lemon; plate individually or family-style.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature.
-- **Allergens**: Dairy (butter); contains alcohol (Marsala wine - cooks off substantially but note for service).
 - **Quality indicators**: Glossy, balanced sauce (not broken), tender chicken, good caramelized color on the initial sear.
 - **Holding/storage**: Best fresh; reheat gently to avoid overcooking the chicken.
 - **Scaling notes**: Scaled 5x from the source's 3-4 serving yield.
@@ -229,7 +220,6 @@
   4. Fry in preheated oil over medium-high heat until golden brown on both sides and cooked through, about 6-7 minutes.
   5. Rest on a wire rack 3-4 minutes before serving.
 - **Food safety controls**: Standard poultry/egg/dairy handling; confirm 165°F internal temperature.
-- **Allergens**: Gluten, egg, dairy.
 - **Quality indicators**: Crisp, evenly golden panko crust; no soggy spots (indicates oil temperature was maintained).
 - **Holding/storage**: Best fresh; hold uncovered on a rack to preserve crispness.
 - **Scaling notes**: Scaled 3x from the source's 6-serving yield.
@@ -254,7 +244,6 @@
   7. Toss the salad with a few tablespoons of vinaigrette (and sesame seeds, if using); taste and adjust.
   8. Plate salad topped with sliced chicken, alternating layers as desired. Serve immediately.
 - **Food safety controls**: Standard poultry/egg handling; confirm 165°F internal temperature on the chicken.
-- **Allergens**: Gluten, egg, soy, sesame.
 - **Quality indicators**: Crisp panko-sesame crust, bright and well-dressed salad (not soggy), balanced sweet-sour-savory vinaigrette.
 - **Holding/storage**: Best assembled just before service; fry chicken as close to service as practical.
 - **Scaling notes**: Scaled 4x from the source's 4-serving yield.
@@ -278,7 +267,6 @@
   6. Bake about 10 minutes, until hot and melty.
   7. *(Make-ahead note from source: chicken can be cooked ahead and refrigerated; add about 5 minutes to the final bake time if starting from cold.)*
 - **Food safety controls**: Standard poultry/egg/dairy handling; confirm chicken reaches 165°F during frying; reheat to 165°F if assembled from refrigerated cooked chicken.
-- **Allergens**: Gluten, egg, dairy.
 - **Quality indicators**: Melted, bubbly cheese topping; crisp baguette base; chicken hot through if reheated.
 - **Holding/storage**: Best fresh from the oven for a passed appetizer.
 - **Scaling notes**: Scaled 3x from the source (which had no stated yield); confirm actual crostini count in production.
@@ -300,7 +288,6 @@
   4. Add the rice, chicken, and sauce; heat through until chicken reaches 165°F.
   5. Plate in a bowl; garnish with sesame seeds (and fresh herbs, if using the 2019 variant).
 - **Food safety controls**: Standard poultry/egg handling; blanch is a partial cook only - confirm 165°F at final heat-through.
-- **Allergens**: Gluten (Szechuan sauce, unless confirmed gluten-free), egg, soy, sesame.
 - **Quality indicators**: Vegetables tender-crisp (not mushy), chicken tender (not rubbery from overcooking), sauce evenly coating without pooling.
 - **Holding/storage**: Best fresh; rice and chicken combination should be cooled and reheated per standard rice food-safety practice if held.
 - **Scaling notes**: Scaled 2x from the source's 8-portion yield.
@@ -324,7 +311,6 @@
   6. Remove the lid; continue cooking, swirling the pan, until all the water has evaporated.
   7. Transfer to a paper-towel-lined plate; repeat with remaining potstickers.
 - **Food safety controls**: Standard poultry handling; confirm filling is fully cooked through (steamed) before serving, since it goes into the wrapper raw.
-- **Allergens**: Gluten (wonton wrappers, soy sauce), soy, sesame.
 - **Quality indicators**: Golden, crisp seared bottom; tender wrapper on top; juicy, fully-cooked filling.
 - **Holding/storage**: Best fresh; can be frozen uncooked (sear-and-steam directly from frozen, adding a minute or two to the steam time).
 - **Scaling notes**: Source yields 25 potstickers, a workable shared-appetizer batch; scale by wrapper count for a larger event.
@@ -348,7 +334,6 @@
   6. Grill 3-4 minutes per side (or bake about 10 minutes, turning once), until cooked through (165°F) and the chicken releases easily when ready to flip.
   7. Drizzle with olive oil and serve, ideally with Tzatziki.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature.
-- **Allergens**: None inherent to the marinade/chicken; check any served accompaniment (e.g., Tzatziki, dairy).
 - **Quality indicators**: Good char/color from the grill, tender and well-seasoned throughout (not just surface-deep), juicy interior.
 - **Holding/storage**: Best fresh off the grill; hold briefly loosely covered.
 - **Scaling notes**: Scaled 4x from the source's 4-6 serving yield.
@@ -373,7 +358,6 @@
   7. Stir the arrowroot/cornstarch slurry and half the fresh tarragon (if using) into the simmering liquid; simmer, stirring, 1 minute.
   8. Spoon the sauce over the chicken; sprinkle with remaining fresh tarragon and garnish with tarragon sprigs.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature; cool and reheat safely if making the base a day ahead.
-- **Allergens**: Dairy (butter); contains alcohol (wine vinegar/white wine, cooked down).
 - **Quality indicators**: Balanced tangy-savory sauce (vinegar sharpness tempered by the reduction and tomatoes), tender chicken, glossy sauce consistency from the arrowroot/cornstarch.
 - **Holding/storage**: Base can be made a day ahead and refrigerated; finish the sauce and reheat close to service.
 - **Scaling notes**: Scaled 3x from the source's 6-serving yield.
@@ -395,7 +379,6 @@
   4. Remove chicken from marinade, shaking off excess herbs/garlic. Grill directly on the grates, lid closed, about 6-7 minutes per side, until internal temperature reaches 165°F.
   5. Rest, loosely covered with foil, 10 minutes before serving.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature; discard used marinade (don't reuse as a sauce without boiling it first).
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Good grill marks/char, juicy interior, bright herb flavor throughout from the long marinade.
 - **Holding/storage**: Best fresh off the grill; rest under foil before slicing/serving.
 - **Scaling notes**: Scaled 3x from the source's 6-serving yield.
@@ -421,7 +404,6 @@
   8. Cover with a top crust, seal the edges, and trim excess dough. Cut several small slits in the top for steam to escape.
   9. Bake at 375°F (reduced from the 425°F preheat) for 20 minutes (convection) or 30 minutes (conduction), until the crust is golden brown and the filling is bubbly.
 - **Food safety controls**: Standard poultry/dairy handling; confirm chicken reaches 165°F during the initial sauté (it will continue cooking in the oven, but should not be raw going in).
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Thick, gravy-like filling (not soupy or pasty), golden brown crust, bubbling visible through the steam vents.
 - **Holding/storage**: Cool before refrigerating; reheat to 165°F before serving.
 - **Scaling notes**: Scaled 3x from the source (no stated original yield); confirm actual slice/portion count from the resulting pan size.
@@ -444,7 +426,6 @@
   5. Bake uncovered until the rice is soft and cooked through, about 20 minutes.
   6. Garnish with scallions.
 - **Food safety controls**: Standard poultry handling; use smoked chicken that has been safely cooked/smoked and held per program procedure before adding here (this recipe reheats it, not cooks it from raw).
-- **Allergens**: None inherent (confirm MSG use is acceptable per program/dietary policy).
 - **Quality indicators**: Rice fully cooked but not mushy, some caramelization/fond on the pot bottom for depth of flavor, chicken evenly distributed.
 - **Holding/storage**: Hold hot for service; cool and refrigerate leftovers promptly per standard rice food-safety practice.
 - **Scaling notes**: Scaled 5x from the source's 4-serving yield. This is a large batch (30 cups stock) - confirm pot capacity before scaling this far.
@@ -466,7 +447,6 @@
   4. Grill or roast at 400°F until internal temperature reaches 165°F.
   5. Rest before slicing or chopping.
 - **Food safety controls**: Standard poultry handling; marinate refrigerated, not at room temperature; discard used marinade (don't reuse as a sauce without boiling first).
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Evenly coated chicken, balanced citrus-spice flavor, moist result from resting after cooking.
 - **Holding/storage**: Marinate refrigerated up to overnight; cooked chicken rests before service.
 - **Scaling notes**: Already at large-batch scale (40 servings per the in-document yield); portion down proportionally for a smaller run.
@@ -488,7 +468,6 @@
   4. Combine sauce ingredients in a bowl. Toss the baked wings in the sauce to coat.
   5. Serve with a dipping sauce of choice (see sauce variations below).
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature before saucing.
-- **Allergens**: Dairy (butter).
 - **Quality indicators**: Very crisp skin (the baking powder dry-brine is the key technique for this without frying), evenly coated in sauce, not soggy.
 - **Holding/storage**: Best fresh; sauce promptly before serving to preserve crispness.
 - **Scaling notes**: Scaled 3x from the Frank's source's 8-serving yield.
@@ -516,7 +495,6 @@
   5. Meanwhile, combine parmesan, parsley, and minced garlic in a large bowl. A few minutes before the wings are done, melt the butter; let cool slightly, then stir into the parmesan mixture.
   6. Add the wings to the parmesan mixture and toss until well coated. Transfer to a platter; top with more grated parmesan if desired.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature.
-- **Allergens**: Dairy.
 - **Quality indicators**: Crisp roasted skin, garlicky-cheesy coating that clings (not greasy pooling), fresh parsley flecks for color.
 - **Holding/storage**: Best fresh; toss in the parmesan butter just before serving.
 - **Scaling notes**: Scaled 4x from the source's 4-6 serving yield.
@@ -540,7 +518,6 @@
   6. Bake uncovered 15 minutes, until bubbly and melted.
   7. Garnish with green onions or chives (and a drizzle of blue cheese dressing, if desired). Serve with tortilla chips, celery, carrot sticks, or crusty French bread.
 - **Food safety controls**: Standard poultry/dairy handling; confirm chicken reaches 165°F during the boil; hold the finished dip hot for service.
-- **Allergens**: Dairy.
 - **Quality indicators**: Smooth, well-melted texture (shredding cheese from a block rather than using bagged pre-shredded cheese, which contains anti-caking cellulose, helps here), bubbly top, balanced heat from the buffalo sauce against the cooling blue cheese/ranch.
 - **Holding/storage**: Store in an airtight container, refrigerated up to 3 days, or freeze up to 3 months. *Make-ahead option*: assemble fully, refrigerate, then bake covered 10 minutes and uncovered 15 more minutes when ready to serve. *Slow cooker option*: assemble through the cheese-topping step, then cook on low 2 hours in a Crock Pot instead of baking.
 - **Scaling notes**: Scaled 2x from the source's 12-serving yield.
@@ -564,7 +541,6 @@
   6. Combine apple cider and cider vinegar in a spray bottle. After the first 15 minutes, spritz the chicken every 10 minutes until done.
   7. To serve, dip each piece of chicken into the white sauce with tongs, letting excess drip off.
 - **Food safety controls**: Standard poultry handling; confirm 165°F internal temperature (the source's own "160 F" target is below the standard poultry minimum - use 165°F).
-- **Allergens**: Egg (mayo-based sauce).
 - **Quality indicators**: Smoky bark/color from the indirect smoke, moist interior from the cider spritzing, tangy-peppery sauce coating.
 - **Holding/storage**: Hold hot for service; store leftover sauce refrigerated separately.
 - **Scaling notes**: Scaled 3x from the source's 4-serving (1 chicken) yield.
@@ -593,7 +569,6 @@
   11. Reheat green beans in the sauce; add the tomato concasse.
   12. Slice the duck and season. Layer diced potatoes and green beans on the plate; top with sliced duck breast, sauce, duck cracklings, and cilantro.
 - **Food safety controls**: Standard poultry handling; confirm duck reaches a safe internal temperature per program policy for poached poultry (duck is often served to a lower "medium" doneness than chicken - confirm the program's approved minimum temperature for duck specifically before serving at "medium/medium-well").
-- **Allergens**: Fish (fish sauce), tree nut/coconut (coconut milk - note as an allergen-adjacent ingredient per program policy).
 - **Quality indicators**: Duck skin rendered crisp with no rubbery fat left, duck breast cooked evenly to the specified doneness, sauce balanced between curry richness, lime acidity, and fish sauce savoriness.
 - **Holding/storage**: Best fresh; duck breast doesn't hold or reheat well without overcooking - cook close to service.
 - **Scaling notes**: Scaled 8x from the worksheet's 2-portion yield. See the cost/practicality note above given duck's premium price point.
@@ -619,7 +594,6 @@
   8. Let breasts rest 5 minutes before slicing.
   9. Slice duck breasts; serve with the crisped skin as a garnish, sauced around the plate.
 - **Food safety controls**: Standard poultry handling; confirm the program's approved minimum internal temperature for duck served rare/medium-rare before finalizing this technique for service - this recipe intentionally serves duck breast pink, which differs from standard chicken safe-temperature practice.
-- **Allergens**: None inherent to this recipe (confirm any wine-reduction alcohol content is acceptable per program policy).
 - **Quality indicators**: Very crisp, flat skin (from the weighted double-bake), rare-to-medium-rare interior, glossy well-reduced cranberry sauce.
 - **Holding/storage**: Best fresh; duck breast doesn't hold or reheat well - cook close to service.
 - **Scaling notes**: Scaled 4x from the source's 4-serving yield. See the cost/practicality note above.

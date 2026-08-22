@@ -65,7 +65,7 @@ Teacher checkpoints:
 
 1. Station set.
 2. Prep list understood.
-3. Raw protein or allergen risks addressed.
+3. raw-protein risks addressed.
 4. First product checked before batch continues.
 5. Labels correct.
 6. Station reset before dismissal.

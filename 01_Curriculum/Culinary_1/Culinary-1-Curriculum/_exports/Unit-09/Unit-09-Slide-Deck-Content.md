@@ -1,4 +1,4 @@
-﻿# Unit 09 Slide Deck Content: Flavor Systems
+# Unit 09 Slide Deck Content: Flavor Systems
 Use this content to build a classroom slideshow. Keep slide text short and visual-friendly.
 ## Slide 1: Unit 09
 - Flavor Systems
@@ -28,7 +28,7 @@ Speaker notes: Keep routines steady.
 ## Slide 5: Safety First
 - Use clean spoons for tasting.
 - No double-dipping.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 Speaker notes: Stop and reteach if safety slips.
 ## Slide 6: Practice Habits

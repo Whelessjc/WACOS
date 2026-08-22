@@ -5,9 +5,9 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 ## Day 1: Labor Day - No School
 - No student instruction. Move the Week 4 debrief into Day 2's opening huddle.
 
-## Day 2: Week 4 Debrief, HEARD, Allergies, and Side Work
+## Day 2: Week 4 Debrief, HEARD, and Side Work
 - Opening routine: debrief Week 4 with facts, not blame; name one strength, one guest-impact issue, and one station problem before moving into role focus.
-- Demo or mini-lesson: the HEARD method for guest complaints - Hear, Empathize, Apologize, Resolve, Diagnose. Walk through two real scenarios: a guest who received the wrong order after a long wait, and a guest who found a hair in their food. For each, work through what to say at each HEARD step. Cover dietary restrictions and allergies - flag to the kitchen immediately, never guess. Brief, direct note on pilfering (taking small amounts of food/supplies without permission) as a trust and integrity issue, not just a rule.
+- Demo or mini-lesson: the HEARD method for guest complaints - Hear, Empathize, Apologize, Resolve, Diagnose. Walk through two real scenarios: a guest who received the wrong order after a long wait, and a guest who found a hair in their food. For each, work through what to say at every HEARD step. Cover dietary restrictions: flag them to the kitchen immediately and never guess. Brief, direct note on pilfering (taking small amounts of food/supplies without permission) as a trust and integrity issue, not just a rule.
 - Student work: in pairs, script a HEARD response to each scenario; review the appropriate side-work checklist for your station (Server/Host, Cooks, Support Staff, or Barista) and identify one task you weren't already doing.
 - Lab/application: station setup, task rehearsal, and reset practice.
 - Cleanup/reset: station inspection for tools, sanitizer, towels, trash, and floor.

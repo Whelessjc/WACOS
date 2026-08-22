@@ -35,7 +35,7 @@ See [TODO.md](TODO.md).
 
 ## Recommended Version 3.0 Improvements
 - Build exact lesson calendars from the school calendar.
-- Create master recipe bank with allergen and yield data.
+- Create master recipe bank with yield data.
 - Create printable Bistro role cards, station cards, and live grading sheets.
 - Add formal CKC alignment.
 - Add equipment-specific SOPs and safety sign-offs.

@@ -42,7 +42,7 @@ When sustainable, briefly compare evidence with the TA. Do not require a set dur
 6. Give it an owner, next action, and confirmation point.
 7. Record one durable **keep, change, remove, or add** decision in the current weekly teaching guide when warranted.
 
-The TA offers evidence and may draft approved lesson components. The instructor retains final decisions about curriculum, safety, grading, discipline, allergens, equipment, and policy.
+The TA offers evidence and may draft approved lesson components. The instructor retains final decisions about curriculum, safety, grading, discipline, equipment, and policy.
 
 ## Monday - Launch the Week
 

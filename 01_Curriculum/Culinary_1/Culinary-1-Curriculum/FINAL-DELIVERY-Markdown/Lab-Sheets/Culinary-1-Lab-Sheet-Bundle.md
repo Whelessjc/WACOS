@@ -18,7 +18,7 @@
 
 # Unit 01 Pancake Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 01: Orientation and Systems
@@ -106,7 +106,7 @@ for your station.
 
 # Unit 02 Chicken Temperature Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 02: Food Handler and Stewardship
@@ -190,7 +190,7 @@ for your station.
 
 # Unit 03 Mise en Place Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 03: Recipe Reading and Mise en Place
@@ -208,7 +208,6 @@ Practice reading before cooking, sequencing work, measuring accurately, and sett
 - mise en place
 
 ## Safety Reminders
-- Review allergens before handling ingredients.
 - Ask before using equipment.
 - Keep station organized to prevent spills and cross contact.
 - Wash hands when directed.
@@ -273,7 +272,7 @@ for your station.
 
 # Unit 04 Bistro Soft Opening Service Lab
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Purpose
 Practice a controlled soft opening where students learn the full flow of service from guest arrival to farewell and
@@ -351,7 +350,7 @@ reset.
 
 # Unit 05 Mock Service 2.0 Service Lab
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Purpose
 Practice the service systems that need repetition after the soft opening: roles, tickets, communication, recovery,
@@ -429,7 +428,7 @@ dish, and reset.
 
 # Unit 06 Knife Practice Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 06: Knife Skills Progression
@@ -518,7 +517,7 @@ for your station.
 
 # Unit 07 Heat Control Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 07: Heat Control
@@ -606,7 +605,7 @@ for your station.
 
 # Unit 08 Frying Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 08: Frying and Oil Management
@@ -695,7 +694,7 @@ for your station.
 
 # Unit 09 Flavor Building Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 09: Flavor Systems
@@ -711,12 +710,12 @@ teacher-selected flavor families.
 - herbs and spices
 - small adjustments
 - respectful language
-- allergen-aware reset
+- sanitary reset
 
 ## Safety Reminders
 - Use clean spoons every time.
 - No double-dipping.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Use respectful language about cultural flavor families.
 - Sanitize tasting surfaces.
 
@@ -743,19 +742,19 @@ for your station.
 
 ## Procedure
 1. Set up tasting station with clean tools.
-2. Name allergens before tasting.
+2. Name ingredients before tasting.
 3. Taste the base sample with a clean spoon.
 4. Make one small adjustment.
 5. Taste again with a clean spoon.
 6. Record what changed.
-7. Reset tasting tools, allergens, counters, and trash.
+7. Reset tasting tools, counters, and trash.
 
 ## Teacher Checkpoints
 - [ ] Clean tasting rules are followed.
 - [ ] Adjustments are small and intentional.
 - [ ] Student can name what changed.
 - [ ] Respectful language is used.
-- [ ] Allergen/tasting reset is complete.
+- [ ] tasting reset is complete.
 
 ## Cleanup / Reset Checklist
 - [ ] Dishes routed correctly.
@@ -780,7 +779,7 @@ for your station.
 
 # Unit 10 Protein Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 10: Protein as Application
@@ -869,7 +868,7 @@ for your station.
 
 # Unit 11 Skill Inventory Lab Sheet
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Connection
 Unit 11: Bridge to Culinary 2

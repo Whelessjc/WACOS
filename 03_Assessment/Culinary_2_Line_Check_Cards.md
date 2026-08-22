@@ -82,7 +82,7 @@ For printable instructor materials, show the actual skill or question wording pr
 | SS1 | What is cross-contamination? | harmful transfer between foods/surfaces |
 | SS2 | What must happen after raw chicken touches a board? | clean, sanitize, change board if needed |
 | SS3 | Where does a thermometer go in chicken? | thickest part, away from bone |
-| SS4 | What belongs on a label? | product, date, class/group, allergens if needed |
+| SS4 | What belongs on a label? | product, date, and class/group |
 | SS5 | What is the difference between cleaning and sanitizing? | remove soil, reduce pathogens |
 
 ## Bistro Service

@@ -29,7 +29,6 @@
 ## Slide 5: Food Handler Habits Continue
 - Wash hands at the right times
 - Prevent cross-contamination
-- Treat allergens seriously
 - Keep stations clean and sanitized
 - Store ingredients as directed
 
@@ -43,7 +42,6 @@
 ## Slide 7: Ingredient Lists
 - Check amounts
 - Check form: chopped, melted, cooked, cold
-- Watch for allergens
 - Use shared ingredients carefully
 - Close and return items as directed
 
@@ -83,7 +81,6 @@
 - Counter clean and usable
 
 ## Slide 13: Lab Safety
-- Peanut allergy awareness
 - Hot pans and steam
 - Crowding creates risk
 - Use "hot" and "behind"

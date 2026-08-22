@@ -18,7 +18,7 @@
 
 # Unit 01 Checklist: Orientation and Systems
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Learn the room before cooking.
@@ -90,7 +90,7 @@ Learn the room before cooking.
 
 # Unit 02 Checklist: Food Handler and Stewardship
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Safety becomes behavior.
@@ -143,7 +143,7 @@ Safety becomes behavior.
 
 # Unit 03 Checklist: Recipe Reading and Mise en Place
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Read before cooking. Organize before acting.
@@ -223,7 +223,7 @@ Read before cooking. Organize before acting.
 
 # Unit 04 Checklist: Customer Service and Bistro Soft Opening
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Understand the full flow of service.
@@ -309,7 +309,7 @@ Understand the full flow of service.
 
 # Unit 05 Checklist: Bistro Systems Reinforcement
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Stabilize service before moving deeper into technical skills.
@@ -392,7 +392,7 @@ Stabilize service before moving deeper into technical skills.
 
 # Unit 06 Checklist: Knife Skills Progression
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Build confidence through control and repetition.
@@ -483,7 +483,7 @@ Build confidence through control and repetition.
 
 # Unit 07 Checklist: Heat Control
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Learn how cooking actually works.
@@ -537,7 +537,7 @@ Learn how cooking actually works.
 
 # Unit 08 Checklist: Frying and Oil Management
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Temperature discipline.
@@ -591,7 +591,7 @@ Temperature discipline.
 
 # Unit 09 Checklist: Flavor Systems
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Move beyond recipes and learn how flavor is built.
@@ -622,7 +622,7 @@ Move beyond recipes and learn how flavor is built.
 - [ ] Trash and floors checked.
 ## Reset
 - [ ] Tasting spoons and cups handled correctly
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Counters sanitized
 - [ ] Ingredients closed and stored
 - [ ] Tools washed
@@ -645,7 +645,7 @@ Move beyond recipes and learn how flavor is built.
 
 # Unit 10 Checklist: Protein as Application
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Protein tests fundamentals.
@@ -699,7 +699,7 @@ Protein tests fundamentals.
 
 # Unit 11 Checklist: Bridge to Culinary 2
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Independence and readiness.

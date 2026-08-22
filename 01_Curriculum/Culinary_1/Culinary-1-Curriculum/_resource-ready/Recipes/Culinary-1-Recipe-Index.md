@@ -1,4 +1,4 @@
-﻿# Culinary 1 Recipe and Lab Index
+# Culinary 1 Recipe and Lab Index
 
 This index is a planning tool. It does not finalize recipes or formulas.
 Use placeholders until the teacher confirms ingredients, quantities, equipment, food-safety rules, budget, and available products.
@@ -18,7 +18,7 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** sanitation, shared tools, measuring, batter handling
 - **Approximate difficulty:** Beginner
 - **Equipment needed:** bowls, measuring tools, spatulas, pans
-- **Food safety concern:** handwashing, allergens, shared tools
+- **Food safety concern:** handwashing, shared tools
 - **Cleanup/reset concern:** sticky counters, dish flow, towel control
 - **Possible Bistro connection:** Practice safe production habits before service foods
 - **Notes for future recipe development:** Exact formula needed; use as sanitation practice, not just baking.
@@ -28,7 +28,7 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** oven safety, baking, cooling, storage, dish flow
 - **Approximate difficulty:** Beginner
 - **Equipment needed:** oven, baking pans, racks, timer, mitts
-- **Food safety concern:** hot pans, allergens, storage
+- **Food safety concern:** hot pans, storage
 - **Cleanup/reset concern:** cooling racks, pans, sticky tools, counters
 - **Possible Bistro connection:** Possible Bistro dessert or staff tasting item if approved
 - **Notes for future recipe development:** Exact bake time and formula needed.
@@ -45,13 +45,13 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 
 ## Peanut Butter Bars
 - **Unit connection:** Unit 03
-- **Skill focus:** recipe reading, allergen awareness, measuring, sequencing
+- **Skill focus:** recipe reading, measuring, sequencing
 - **Approximate difficulty:** Beginner
 - **Equipment needed:** mixing bowls, measuring tools, pan, spatula
-- **Food safety concern:** peanut allergen, shared tools
-- **Cleanup/reset concern:** sticky tools, allergen surfaces, storage
-- **Possible Bistro connection:** Shows why ingredient lists and allergen awareness matter
-- **Notes for future recipe development:** Exact formula and allergen policy needed.
+- **Food safety concern:** shared-tool sanitation
+- **Cleanup/reset concern:** sticky tools, storage
+- **Possible Bistro connection:** Shows why ingredient lists matter
+- **Notes for future recipe development:** Exact formula needed.
 
 ## Rice Cookery
 - **Unit connection:** Unit 03
@@ -68,7 +68,7 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** mise en place, sequencing, heat awareness, teamwork
 - **Approximate difficulty:** Beginner/medium
 - **Equipment needed:** wok or skillet, spatula, bowls, knife station if approved
-- **Food safety concern:** hot pan, allergens, cooked rice storage
+- **Food safety concern:** hot pan, cooked rice storage
 - **Cleanup/reset concern:** oily pans, prep containers, floors
 - **Possible Bistro connection:** Connects prep lists to fast service timing
 - **Notes for future recipe development:** Exact ingredients flexible; use approved low-cost vegetables/protein if any.
@@ -78,10 +78,10 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** liquid ratio, timing, doneness by feel, basic sauce construction, salting pasta water
 - **Approximate difficulty:** Beginner
 - **Equipment needed:** large pot, colander, tongs, saucepan, knife setup for aromatics
-- **Food safety concern:** boiling water burns, shared tools, gluten allergen awareness
+- **Food safety concern:** boiling water burns, shared tools
 - **Cleanup/reset concern:** starchy pot, sauce splatter, colander/strainer flow
 - **Possible Bistro connection:** Direct Bistro menu item or side; sauce base reusable for other labs
-- **Notes for future recipe development:** Use a teacher-approved dried pasta shape and simple tomato sauce; exact formula and allergen substitution plan still need confirmation.
+- **Notes for future recipe development:** Use a teacher-approved dried pasta shape and simple tomato sauce; exact formula still needs confirmation.
 
 ## Knife Practice Vegetable Applications
 - **Unit connection:** Unit 06
@@ -108,10 +108,10 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** knife cuts, aromatics, sweating/saute, stock base
 - **Approximate difficulty:** Medium
 - **Equipment needed:** knife setup, pot, spoon, measuring tools
-- **Food safety concern:** hot pot, allergen/stock ingredients
+- **Food safety concern:** hot pot
 - **Cleanup/reset concern:** large pot, storage, labels
 - **Possible Bistro connection:** Base for Bistro soup or later service prep
-- **Notes for future recipe development:** Exact recipe and stock/allergen plan needed.
+- **Notes for future recipe development:** Exact recipe and stock plan needed.
 
 ## Roasted Vegetables
 - **Unit connection:** Unit 06/07
@@ -148,7 +148,7 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** batch control, batter texture, draining, seasoning
 - **Approximate difficulty:** Medium
 - **Equipment needed:** mixing bowl, scoop/spoon, fryer setup, rack
-- **Food safety concern:** hot oil, allergens, wet batter
+- **Food safety concern:** hot oil, wet batter
 - **Cleanup/reset concern:** greasy surfaces, sticky batter, oil station
 - **Possible Bistro connection:** Possible low-cost service item if approved
 - **Notes for future recipe development:** Exact batter formula needed.
@@ -158,7 +158,7 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** fryer safety, coating, batch work, quality cues
 - **Approximate difficulty:** Medium
 - **Equipment needed:** bowls, tongs, fryer setup, rack
-- **Food safety concern:** hot oil, allergens, water/oil risk
+- **Food safety concern:** hot oil, water/oil risk
 - **Cleanup/reset concern:** coating mess, greasy floors, oil station
 - **Possible Bistro connection:** Bistro snack/side only if policy allows
 - **Notes for future recipe development:** Use placeholder until ingredient cost and fryer rules are confirmed.
@@ -168,8 +168,8 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** salt, acid, fat, aromatics, herbs, spices, tasting
 - **Approximate difficulty:** Beginner/medium
 - **Equipment needed:** small cups/spoons, tasting base, labels
-- **Food safety concern:** allergens, clean tasting, no double-dipping
-- **Cleanup/reset concern:** tasting cups, sticky surfaces, allergen cleanup
+- **Food safety concern:** clean tasting and no double-dipping
+- **Cleanup/reset concern:** tasting cups, sticky surfaces
 - **Possible Bistro connection:** Improves Bistro consistency and guest experience
 - **Notes for future recipe development:** Use teacher-selected tasting base and approved flavor set.
 
@@ -178,10 +178,10 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** emulsion, acid/fat balance, seasoning to taste, knife cuts for salad components
 - **Approximate difficulty:** Beginner
 - **Equipment needed:** whisk or jar, measuring tools, knife/board for greens and add-ins
-- **Food safety concern:** produce washing; allergen awareness for any nuts or cheese
+- **Food safety concern:** produce washing
 - **Cleanup/reset concern:** oily bowls/jars, produce scraps, compost/trash flow
 - **Possible Bistro connection:** Direct Bistro side or starter; reinforces guest-facing plating standards
-- **Notes for future recipe development:** Confirm the base vinaigrette ratio and approved salad components, substitutions, and allergens.
+- **Notes for future recipe development:** Confirm the base vinaigrette ratio and approved salad components, substitutions
 
 ## Same-Day Refrigerated Quick Pickle
 - **Unit connection:** Unit 09
@@ -208,17 +208,16 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** pressing or moisture management, portioning, seasoning, browning, texture control
 - **Approximate difficulty:** Beginner/medium
 - **Equipment needed:** sheet pan or skillet, towels or press setup, knife/board, tongs or spatula
-- **Food safety concern:** soy allergen and cross-contact with shared tools or surfaces
-- **Cleanup/reset concern:** allergen-aware wash, rinse, sanitize sequence; towels and pressing setup
+- **Cleanup/reset concern:** wash-rinse-sanitize sequence; towels and pressing setup
 - **Possible Bistro connection:** Plant-protein component for a bowl, salad, or plated application if approved
-- **Notes for future recipe development:** Select one teacher-approved formula and document the soy-allergen control sequence before scheduling.
+- **Notes for future recipe development:** Select one teacher-approved formula before scheduling.
 
 ## Basic Pan Sauce
 - **Unit connection:** Unit 10
 - **Skill focus:** fond, deglazing, reduction, seasoning, timing during protein rest
 - **Approximate difficulty:** Beginner/medium
 - **Equipment needed:** skillet, tongs, whisk, approved deglazing liquid, thermometer
-- **Food safety concern:** hot pan/liquid splatter and raw-protein cross-contact
+- **Food safety concern:** hot pan/liquid splatter
 - **Cleanup/reset concern:** hot-pan handling, sauce splatter, station-reset timing
 - **Possible Bistro connection:** Finishes existing chicken breast/thigh items with a simple sauce
 - **Notes for future recipe development:** Confirm the deglazing liquid and pairing with the existing Unit 10 protein lab.
@@ -238,7 +237,7 @@ Use placeholders until the teacher confirms ingredients, quantities, equipment, 
 - **Skill focus:** heat control, texture, timing, station cleanup
 - **Approximate difficulty:** Beginner/medium
 - **Equipment needed:** skillet, spatula, bowl, whisk, burner
-- **Food safety concern:** allergens, hot pan, undercooking if relevant
+- **Food safety concern:** hot-pan safety and undercooking if relevant
 - **Cleanup/reset concern:** sticky pan, shells, counters
 - **Possible Bistro connection:** Breakfast/service practice if approved
 - **Notes for future recipe development:** Select method: scrambled, fried, or omelet-style practice.

@@ -61,7 +61,6 @@ Students name one reset job they will own today.
 ### On-Slide Text
 - Raw and ready-to-eat
 - Clean and dirty
-- Allergens
 - Phones and faces
 - Trash and floors
 

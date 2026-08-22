@@ -1,4 +1,4 @@
-﻿# Unit 02 Slide Deck Content: Food Handler and Stewardship
+# Unit 02 Slide Deck Content: Food Handler and Stewardship
 Use this content to build a classroom slideshow. Keep slide text short and visual-friendly.
 ## Slide 1: Unit 02
 - Food Handler and Stewardship
@@ -16,7 +16,6 @@ Speaker notes: Connect the unit to real kitchen behavior.
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 Speaker notes: Keep the list short and point to today's focus.
 ## Slide 4: Daily Routine
 - Enter calmly
@@ -27,7 +26,7 @@ Speaker notes: Keep the list short and point to today's focus.
 Speaker notes: Keep routines steady.
 ## Slide 5: Safety First
 - Wash hands at required times.
-- Keep raw, ready-to-eat, allergen, and clean items separated.
+- Keep raw, ready-to-eat, and clean items separated.
 - Use sanitizer correctly.
 - Use thermometer as evidence, not guessing.
 Speaker notes: Stop and reteach if safety slips.

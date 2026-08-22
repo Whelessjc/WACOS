@@ -44,6 +44,6 @@ Google Docs, email, calendars, Canvas, Square, bookkeeper forms, printing, and o
 - Use the [Teacher Cockpit](Teacher_Cockpit.md) for the complete tool workflow.
 - Follow the [WACOS AI Reference](../00_Core/WACOS_AI_Reference.md) and [AI Workflows](../05_AI/11_AI_Workflows.md).
 - Do not upload restricted student, personnel, financial, credential, or district data to an unapproved system.
-- Do not let AI make final grading, safety, allergen, discipline, legal, or policy decisions.
+- Do not let AI make final grading, safety, discipline, legal, or policy decisions.
 - Review all student-facing materials before use.
 - Date and revise this matrix when the actual environment changes.

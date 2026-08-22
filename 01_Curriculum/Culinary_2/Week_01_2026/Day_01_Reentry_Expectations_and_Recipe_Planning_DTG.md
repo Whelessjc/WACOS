@@ -46,7 +46,7 @@ What is one decision a trusted Culinary 2 student should make before heat begins
 
 - One Vegetable Rice Bowl Recipe and Mise Plan per group.
 - Active projection source or posted agenda, target, and shutdown time.
-- Confirm group size, Friday ingredients, available burners and lidded pots, allergens, and food-distribution rule. The approved rice method is stovetop.
+- Confirm group size, Friday ingredients, available burners and lidded pots, and food-distribution rule. The approved rice method is stovetop.
 - Prepare provisional groups while allowing for schedule changes through Day 10.
 
 ## Adult Roles

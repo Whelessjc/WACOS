@@ -46,27 +46,27 @@ Ready to paste into `Culinary-1-Recipe-Index.md` in the existing format. Treat a
 - **Skill focus:** liquid ratio, timing, doneness by feel, basic sauce construction, salting pasta water
 - **Approximate difficulty:** Beginner
 - **Equipment needed:** large pot, colander, tongs, saucepan, knife setup for aromatics
-- **Food safety concern:** boiling water burns, shared tools, allergen (gluten) awareness
+- **Food safety concern:** boiling water burns, shared tools
 - **Cleanup/reset concern:** starchy pot, sauce splatter, colander/strainer flow
 - **Possible Bistro connection:** Direct Bistro menu item or side; sauce base reusable for other labs
-- **Notes for future recipe development:** Use teacher-approved dried pasta shape and a simple canned or fresh tomato sauce; exact formula and allergen substitution plan still needed.
+- **Notes for future recipe development:** Use a teacher-approved dried pasta shape and a simple canned or fresh tomato sauce; exact formula still needed.
 
 ### Basic Vinaigrette and Simple Green Salad
 - **Unit connection:** Unit 09
 - **Skill focus:** emulsion, acid/fat balance, seasoning to taste, knife cuts for salad components
 - **Approximate difficulty:** Beginner
 - **Equipment needed:** whisk or jar, measuring tools, knife/board for greens and add-ins
-- **Food safety concern:** produce washing, allergen awareness (nuts, cheese if used)
+- **Food safety concern:** produce washing
 - **Cleanup/reset concern:** oily bowls/jars, produce scraps, compost/trash flow
 - **Possible Bistro connection:** Direct Bistro side or starter; reinforces guest-facing plating standards
-- **Notes for future recipe development:** Confirm base vinaigrette ratio and approved salad components/allergens.
+- **Notes for future recipe development:** Confirm the base vinaigrette ratio and approved salad components.
 
 ### Basic Pan Sauce
 - **Unit connection:** Unit 10
 - **Skill focus:** fond, deglazing, reduction, seasoning, timing off protein rest
 - **Approximate difficulty:** Beginner/medium
 - **Equipment needed:** skillet, tongs, whisk, liquid for deglazing, thermometer (carryover from protein lab)
-- **Food safety concern:** hot pan/liquid splatter, raw-protein cross-contact if sequenced tightly
+- **Food safety concern:** hot pan/liquid splatter
 - **Cleanup/reset concern:** hot pan handling, sauce reduction mess, station reset timing
 - **Possible Bistro connection:** Elevates existing chicken breast/thigh Bistro items with a finished sauce
 - **Notes for future recipe development:** Confirm deglazing liquid (stock, wine substitute, or approved alternative) and pairing with existing Unit 10 protein.
@@ -93,5 +93,5 @@ Ready to add to the Culinary 2 Unit 4 (Proteins, Heat, and Doneness) suggested r
 
 - Exact calendar placement given interruption-ready planning (testing, holidays, Hospitality Scholars).
 - Whole chicken breakdown supervision ratio in Culinary 2 and whether it's demo-only for some sections.
-- Allergen and substitution policy for pasta/tomato sauce and vinaigrette labs.
+- Substitution policy for pasta/tomato sauce and vinaigrette labs.
 - Whether the three Culinary 1 additions displace an existing lab or simply extend unit length - check against total Culinary 1 week count (18 weeks per course map). Whole chicken breakdown should be checked the same way against Culinary 2's Unit 4 timing (Weeks 6-10).

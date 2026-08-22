@@ -1,4 +1,4 @@
-﻿# Food Handler and Stewardship Student Handout
+# Food Handler and Stewardship Student Handout
 ## Purpose
 This handout gives you the key habits for Unit 02: Safety becomes behavior.
 The goal is practical kitchen confidence. Work safely, stay organized, use clear words, and reset the station for the next group.
@@ -7,7 +7,6 @@ The goal is practical kitchen confidence. Work safely, stay organized, use clear
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 - thermometer use
 - laundry, counters, dishes, storage, floors

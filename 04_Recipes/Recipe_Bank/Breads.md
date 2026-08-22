@@ -18,7 +18,6 @@
   8. Bake at 240°C/464°F (or 425-480°F per the program's own board notes) for 12-20 minutes until deep golden and crusty. Don't open the oven for the first 4-5 minutes.
   9. Cool on a rack before serving.
 - **Food safety controls**: Standard yeast/gluten handling; refrigerate bulk dough promptly during the overnight rest.
-- **Allergens**: Gluten.
 - **Quality indicators**: Deep golden, blistered crust; open, irregular crumb; hollow sound when tapped on the bottom.
 - **Holding/storage**: Best same-day; store at room temperature loosely wrapped (plastic bags soften the crust). Not recommended for refrigeration.
 - **Scaling notes**: Scaled 2x from the original 1,000 g flour source recipe to reach 16 loaves. Scales cleanly by weight (baker's %: flour 100%, water 70%, yeast 2%, salt 2%).
@@ -40,7 +39,6 @@
   4. Divide, garnish (per source notation - likely a flour/semolina dusting; not detailed), and proof about 45 minutes.
   5. Bake at 480°F for 20+ minutes with steam, until deeply golden.
 - **Food safety controls**: Standard yeast/gluten handling; biga should be made and held under refrigeration if prepared more than a few hours ahead.
-- **Allergens**: Gluten.
 - **Quality indicators**: Open, irregular holey crumb; crisp crust; good oven spring.
 - **Holding/storage**: Best same-day; store at room temperature.
 - **Scaling notes**: See Yield note above - source batch is small and scaling factor to reach program portion targets needs to be established in production.
@@ -62,7 +60,6 @@
   4. Proof and egg-wash, about 45 minutes.
   5. Bake at 380°F for 20+ minutes until deep golden and internal temperature reaches ~190°F.
 - **Food safety controls**: Standard egg/yeast/gluten handling.
-- **Allergens**: Gluten, egg.
 - **Quality indicators**: Deep golden, glossy egg-washed crust; soft, rich, slightly sweet crumb; even braid definition.
 - **Holding/storage**: Best same-day to next-day; store wrapped at room temperature.
 - **Scaling notes**: See Yield note above - source batch is small and scaling factor needs to be established in production.
@@ -79,7 +76,6 @@
 - **Ingredients**: 1/2 gallon milk, 1 bunch rosemary, 2 Tbsp yeast, 1/3 cup salt, 70 oz flour, 1/2 cup olive oil.
 - **Procedure**: **Needs confirmation** - the source is an ingredient list with no written mixing, proofing, or baking steps beyond the yield note. Standard focaccia technique applies (activate yeast in warm milk, mix into flour with salt, bulk ferment, press into oiled sheet pan, second rise, dimple, bake until golden and internally ~210°F per the Lunch.md Focaccia benchmark) but should be confirmed against actual program practice before this entry is used for production without supervision.
 - **Food safety controls**: Standard yeast/dairy/gluten handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Golden top, open crumb, rosemary evenly distributed, no raw-dough smell at center.
 - **Holding/storage**: Cool before slicing; store wrapped at room temperature for same-day use.
 - **Scaling notes**: Source is already a full sheet-pan batch (in the program's established 16-30+ portion range once cut). No further scaling needed pending the portion-count confirmation above.
@@ -103,7 +99,6 @@
   6. Heat oven to 425°F, low fan, with a hotel pan of water on the bottom rack for steam.
   7. Flip loaves onto a pizza stone and bake until internal temperature reaches 210°F (10-15 minutes; larger scaled loaves may need longer - confirm by temperature, not time).
 - **Food safety controls**: Standard yeast/gluten handling; confirm doneness by internal temperature.
-- **Allergens**: Gluten.
 - **Quality indicators**: Blistered, deeply colored crust; open, irregular crumb; distinct sour tang.
 - **Holding/storage**: Best same-day to next-day; store cut-side down at room temperature, not refrigerated (accelerates staling).
 - **Scaling notes**: Scaled 3x from the 1-loaf source recipe. Scales by weight; starter should be active/recently fed before mixing.
@@ -130,7 +125,6 @@
   9. Uncover and continue baking at 425°F for another 30 minutes, until deeply colored.
   10. Cool completely before slicing.
 - **Food safety controls**: Standard yeast/gluten handling; handle the preheated Dutch oven with appropriate protection.
-- **Allergens**: Gluten.
 - **Quality indicators**: Deep, even crust color; open crumb; good oven spring from the covered bake.
 - **Holding/storage**: Best same-day to next-day; store cut-side down at room temperature.
 - **Scaling notes**: Scaled 3x from the 1-loaf source recipe.
@@ -153,7 +147,6 @@
   5. Repeat in batches until all batter is used, re-greasing rings as needed.
   6. Serve warm, split and topped with butter and jam, or toasted.
 - **Food safety controls**: Standard griddle/egg-free batter handling; hold cooked crumpets warm if not serving immediately.
-- **Allergens**: Gluten.
 - **Quality indicators**: Distinctive small holes across the top surface (the signature crumpet texture, from the baking-soda reaction), golden-brown bottom, billowy/bubbly batter before cooking as a sign the starter and baking soda reacted properly.
 - **Holding/storage**: Room temperature for several days, or freeze well-wrapped for longer storage; split and toast to refresh before serving.
 - **Scaling notes**: Scaled 5x from the source's 4-5 crumpet yield to reach the program's 16-30 portion target; ring-batch cooking doesn't scale by simply multiplying batter in one pan, so plan to cook in successive rounds as rings free up.
@@ -178,7 +171,6 @@
   7. In a preheated 500°F oven, place disks directly on an inverted sheet pan; bake 3 minutes or until the bread begins to color and puffs.
   8. Cool on a rack.
 - **Food safety controls**: Standard yeast/gluten handling; properly wrap, label, store, chill, and rotate per program procedure.
-- **Allergens**: Gluten.
 - **Quality indicators**: Even puff (pocket forms from steam), light color with only slight browning at edges, soft texture.
 - **Holding/storage**: Cool before storing; wrap well to prevent drying out; best within 1-2 days.
 - **Scaling notes**: Already at target batch size (16 portions). Scales by weight for larger batches.
@@ -204,7 +196,6 @@
   8. Bake at 350°F for 25-30 minutes, until internal temperature reaches 170°F.
   9. Cool slightly; mix glaze ingredients and drizzle over warm rolls.
 - **Food safety controls**: Standard egg/dairy/yeast handling; confirm doneness by internal temperature.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Even spiral, soft pull-apart texture, golden top, filling melted but not runny out the sides.
 - **Holding/storage**: Best same-day; store loosely covered at room temperature.
 - **Scaling notes**: Source is already at the 24-roll batch scale. See yield note above regarding the halved/quartered variant files if a smaller batch is ever needed.
@@ -232,7 +223,6 @@
   10. Bake 20-25 minutes (tenting with foil halfway through), until internal temperature reaches ~190°F.
   11. Beat frosting ingredients until smooth; spread over warm rolls immediately after baking.
 - **Food safety controls**: Standard egg/dairy/yeast handling; confirm doneness by internal temperature.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Very soft, pillowy crumb (tangzhong effect), tight even spiral, structured (not runny) filling, tangy cream cheese frosting.
 - **Holding/storage**: Best same-day; store completely cooled rolls in an airtight container at room temperature for up to 2 days.
 - **Scaling notes**: Scaled 2x from the source's 12-roll yield to reach 24 rolls, matching the Classic Cinnamon Rolls entry's batch size.
@@ -255,7 +245,6 @@
   5. Cover with a clean kitchen towel; let rise in a warm place 1 hour. Preheat oven to 400°F.
   6. Bake 10-15 minutes, until golden. Brush with melted butter.
 - **Food safety controls**: Standard egg/dairy/yeast handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Golden, glossy (butter-brushed) top; soft, pull-apart texture.
 - **Holding/storage**: Best same-day; store loosely covered at room temperature.
 - **Scaling notes**: Already at target batch size (27 portions). Scales by weight for larger batches.
@@ -280,7 +269,6 @@
   7. Dip in toppings if using; place on well-sprayed, paper-lined sheet pans.
   8. Bake immediately at 420°F until golden brown, about 20-25 minutes.
 - **Food safety controls**: Standard yeast/gluten handling; maintain boiling solution at a food-safe simmer throughout service.
-- **Allergens**: Gluten.
 - **Quality indicators**: Shiny, chewy crust from the boil; dense, chewy interior (not bready/soft like a dinner roll); even ring shape.
 - **Holding/storage**: Cool completely before bagging; freezes well after boiling (par-cooked) or fully baked.
 - **Scaling notes**: Source already yields ~32 bagels; portion down (e.g., half-batch for ~16) if a smaller run is needed.
@@ -304,7 +292,6 @@
   6. Remove and proof overnight at room temperature or in the cooler. (If refrigerated, rest on the counter 1-2 hours or proof in a proofing cabinet before use.)
   7. Cut dough into desired weight, shape into balls, and store in covered containers - personal size 5-6 oz, classroom size (16") ~17.5 oz.
 - **Food safety controls**: Standard yeast/gluten handling; label and date-rotate stored dough balls.
-- **Allergens**: Gluten.
 - **Quality indicators**: Smooth, elastic dough; even portioning; good oven spring and chew once baked.
 - **Holding/storage**: Refrigerate portioned dough balls; use within a few days; bring to room temperature before shaping.
 - **Scaling notes**: Already yields ~16 classroom-size pizzas at full batch; portion smaller for personal-size service.
@@ -332,7 +319,6 @@
   10. Stretch each ball by hand to a 10-11" disc, leaving the rim untouched. Transfer to a floured peel and stretch further to 12".
   11. Top and bake: 1-2 minutes in a high-heat pizza oven, or 6-7 minutes in a home oven on a preheated stone/steel.
 - **Food safety controls**: Standard yeast/gluten handling; refrigerate dough promptly between fermentation stages.
-- **Allergens**: Gluten.
 - **Quality indicators**: Passes the windowpane test before baking; leopard-spotted, blistered crust; open, airy rim ("cornicione"); pass the poke test before shaping.
 - **Holding/storage**: Portioned dough balls hold well refrigerated for the full 2-3 day process; not intended for long-term storage beyond that.
 - **Scaling notes**: Scaled 3x from the source's 7-ball yield to reach ~20 portions.
@@ -353,7 +339,6 @@
   3. Add the olive oil and mix an additional 8 minutes.
   4. Portion according to the desired crust yield (see Yield note above).
 - **Food safety controls**: Standard yeast/dairy/gluten handling; large-batch mixing requires attention to mixer capacity and motor load.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Smooth, uniform dough; consistent portion weights across the batch.
 - **Holding/storage**: Portion and refrigerate/freeze per program's standard dough storage procedure; label with weight/size for the intended product.
 - **Scaling notes**: Already a full production batch; scale down proportionally for smaller runs.
@@ -379,7 +364,6 @@
   8. Bake 10-15 minutes, rotating pans at 5 minutes, until golden brown (they burn easily - watch closely).
   9. Cool on a rack; store airtight up to 2-3 days.
 - **Food safety controls**: Standard yeast/gluten handling.
-- **Allergens**: Gluten; sesame if using sesame-seed topping.
 - **Quality indicators**: Thin, evenly golden, crisp all the way through (not chewy in the center).
 - **Holding/storage**: Store in an airtight container up to 2-3 days at room temperature.
 - **Scaling notes**: Source yields ~2 dozen; scale by weight for a larger batch to comfortably clear 16-30 portions as a shared bread-basket item.
@@ -406,7 +390,6 @@
   9. Bake at 350°F (175°C) for 25-30 minutes, until deep golden and internal temperature reaches ~190°F. Cool completely before icing.
   10. Whisk icing to a thick drizzle consistency; pour over the cooled cake and immediately add colored sanding sugar.
 - **Food safety controls**: Standard egg/dairy/yeast handling; confirm doneness by internal temperature. *(If inserting a plastic baby figurine per tradition, do so after baking, from underneath, for food safety.)*
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Clean spiral when sliced, puffy (not dense - under-proofing is the most common cause of a dense king cake), evenly colored icing coverage.
 - **Holding/storage**: Best same-day; store loosely covered at room temperature.
 - **Scaling notes**: Already at a workable single-ring batch size for a bake-sale/seasonal item; double for a second ring if needed for a larger event.
@@ -429,7 +412,6 @@
   5. Bake on a rack in the upper third of the oven, 8-12 minutes, until crusty and golden brown.
   6. Brush with melted butter; serve hot.
 - **Food safety controls**: Standard dairy/gluten handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Tall rise, craggy golden top, visible flaky layers from the lard pieces, tender interior.
 - **Holding/storage**: Best straight from the oven; hold briefly warm, uncovered, to preserve crust; day-old biscuits reheat well split and toasted.
 - **Scaling notes**: Scaled 2x from the source's 12-16 biscuit yield.
@@ -453,7 +435,6 @@
   6. Scoop with a #30 scoop onto a silpat-lined sheet pan.
   7. Bake at 450°F for 11-13 minutes.
 - **Food safety controls**: Standard dairy/gluten handling; keep butter frozen and cream cold until mixing to preserve texture.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Tender, moist crumb from the cream; good rise; light golden top.
 - **Holding/storage**: Best same-day, served warm.
 - **Scaling notes**: **Needs confirmation** - source doesn't state a yield; scale ingredient quantities proportionally once a base scoop count is established.
@@ -477,7 +458,6 @@
   6. Roll again into a 10x6" rectangle, about 1" thick. Cut rounds with a floured biscuit cutter; transfer to a parchment-lined sheet pan, spacing 1" apart. Gently re-form scraps for additional rounds.
   7. Brush tops with melted butter; bake about 14 minutes, rotating the pan halfway, until golden brown and well risen. Cool 5 minutes before serving.
 - **Food safety controls**: Standard dairy/gluten handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Distinct flaky layers visible on the cut side (from lamination), tall even rise, golden top.
 - **Holding/storage**: Best straight from the oven; day-old biscuits reheat well split and toasted.
 - **Scaling notes**: Scaled 2x from the source's 8-biscuit yield.
@@ -501,7 +481,6 @@
   6. Drop the dough onto the baking sheet in mounds (24 for this batch), spacing well apart.
   7. Bake until fragrant and golden, about 15 minutes.
 - **Food safety controls**: Standard dairy/gluten handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Golden and fragrant, visible cheese pockets, moist but not gummy interior, scallion distributed evenly.
 - **Holding/storage**: Best same-day, served warm.
 - **Scaling notes**: Scaled 2x from the source's 12-biscuit yield.
@@ -522,7 +501,6 @@
   3. Beat together egg, oil, and milk; stir into the dry ingredients until just combined.
   4. Pour into prepared pans; bake 15-20 minutes, until a toothpick inserted in the center comes out clean.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, egg, dairy.
 - **Quality indicators**: Golden top, moist and slightly sweet crumb, clean toothpick test.
 - **Holding/storage**: Store covered at room temperature; best same-day.
 - **Scaling notes**: Scaled 2x from the source's 10-serving yield.
@@ -543,7 +521,6 @@
   3. Pour into the hot skillet(s).
   4. Bake 25-30 minutes.
 - **Food safety controls**: Standard egg/dairy handling; handle the preheated skillet with appropriate protection.
-- **Allergens**: Gluten (from the corn meal mix's flour content, if any - **needs confirmation** on the specific product's formulation), egg, dairy.
 - **Quality indicators**: Crisp, browned bottom crust from the preheated skillet; moist interior.
 - **Holding/storage**: Best same-day, served warm from the skillet.
 - **Scaling notes**: Scaled 2x from the source (no stated original yield); confirm actual servings-per-skillet in production.
@@ -567,7 +544,6 @@
   6. Alternately add the flour mixture and the milk mixture in three additions, mixing just until combined.
   7. Divide evenly between the prepared pans; bake about 1 hour, until a toothpick comes out clean.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, egg, dairy.
 - **Quality indicators**: Moist, tender crumb; domed even top; clean toothpick test.
 - **Holding/storage**: Cool completely before slicing; store wrapped at room temperature 2-3 days, or refrigerate for longer holding.
 - **Scaling notes**: Scaled 2x from the source's 10-12 serving (1-loaf) yield.

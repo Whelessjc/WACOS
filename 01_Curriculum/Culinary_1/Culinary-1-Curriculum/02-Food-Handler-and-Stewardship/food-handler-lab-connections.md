@@ -81,7 +81,6 @@ Temperature is evidence. Students should not rely on appearance alone to decide 
 Guests trust the Bistro because students practice these habits before service:
 - Clean hands
 - Safe tools
-- Controlled allergens
 - Correct dish flow
 - Safe temperatures
 - Clean counters

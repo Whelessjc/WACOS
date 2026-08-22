@@ -3,7 +3,7 @@
 ## What to Emphasize
 - Safety is behavior, not just vocabulary.
 - Cleaning and dishes are real culinary work.
-- Cross-contamination and allergens affect real people.
+- Cross-contamination affects real people.
 - Thermometers help students make safer decisions.
 - Stewardship means taking care of shared spaces without being chased.
 
@@ -12,7 +12,6 @@
 - Using towels for too many jobs.
 - Leaving wet counters or dirty sink areas.
 - Forgetting to clean thermometer probes.
-- Treating allergens like preferences.
 - Thinking food is safe because it "looks done."
 
 ## Classroom Management Notes

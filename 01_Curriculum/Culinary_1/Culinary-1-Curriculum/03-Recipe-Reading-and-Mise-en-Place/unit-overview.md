@@ -1,4 +1,4 @@
-﻿# Unit 03: Recipe Reading and Mise en Place
+# Unit 03: Recipe Reading and Mise en Place
 
 ## Weeks Covered
 Week 3
@@ -20,6 +20,7 @@ Students complete Food Handler review and assessment, then practice recipe readi
 - I can set up mise en place before cooking.
 - I can follow a recipe with my team and adjust responsibly.
 - I can keep my station organized while I cook and reset it when finished.
+- I can identify a product's intended use, expected yield, portion plan, approved destination, handling or storage needs, and plan for remaining product.
 
 ## Core Skills
 - Recipe literacy
@@ -34,6 +35,7 @@ Students complete Food Handler review and assessment, then practice recipe readi
 - Team roles during cooking
 - Clean-as-you-go and station reset
 - Stewardship of shared tools and ingredients
+- Product-purpose, portion, destination, and remaining-product planning
 
 ## Vocabulary
 | Term | Student-Friendly Meaning |
@@ -64,7 +66,7 @@ Bistro work depends on students who can read, prep, measure, and organize before
 - Food Handler review/assessment evidence
 
 ## Teacher Notes
-Students will want to touch food before reading. Make them prove they understand the recipe, tools, and sequence first. Teach Equipment Literacy physically in the kitchen through three demonstrations of no more than 10 minutes each, then check it through retrieval and return during real work rather than a separate worksheet or quiz. Storage locations remain a visual, instructor-led part of the demonstration.
+Students will want to touch food before reading. Make them prove they understand the recipe, tools, sequence, and approved product plan first. Teach Equipment Literacy physically in the kitchen through three demonstrations of no more than 10 minutes each, then check it through retrieval and return during real work rather than a separate worksheet or quiz. Storage locations remain a visual, instructor-led part of the demonstration.
 
 ## Resources Needed
 - Equipment Literacy demonstration set: instructor-selected examples from the confirmed families in the Unit 03 teacher packet; do not stage every duplicate item.

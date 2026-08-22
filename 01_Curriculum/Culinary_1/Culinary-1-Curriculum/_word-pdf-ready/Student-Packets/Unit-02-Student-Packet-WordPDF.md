@@ -10,7 +10,6 @@ Safety becomes behavior.
 - personal hygiene
 - sanitation
 - cross contamination
-- allergens
 - dish flow
 - thermometer use
 - stewardship
@@ -22,7 +21,6 @@ You will practice:
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 - thermometer use
 - laundry, counters, dishes, storage, floors

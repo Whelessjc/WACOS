@@ -36,7 +36,7 @@ WACOS already covers the major foundations represented in the photographed overv
 The photographs exposed two small procedural gaps that fit existing Culinary 1 work without adding a new unit:
 
 1. **Cookware selection and care:** students should select an appropriate pan/pot size, explain how crowding or excessive surface area changes results, and clean/store cookware correctly.
-2. **Substitution judgment:** students should identify when a substitution changes function, safety, allergens, or expected results and obtain instructor approval before changing a formula.
+2. **Substitution judgment:** students should identify when a substitution changes function, safety, or expected results and obtain instructor approval before changing a formula.
 
 These have been added to Culinary 1 Unit 03, where students already identify equipment and annotate recipes.
 
@@ -46,7 +46,7 @@ The instructor confirmed all four additions on July 20, 2026, and subsequently a
 
 | Addition | Placement | Current boundary |
 | --- | --- | --- |
-| Tofu as a basic plant-protein vehicle | Culinary 1 Unit 10 | Required plant-protein vehicle using a teacher-approved recipe and soy-allergen controls. Tempeh is not required. |
+| Tofu as a basic plant-protein vehicle | Culinary 1 Unit 10 | Required plant-protein vehicle using a teacher-approved recipe. Tempeh is not required. |
 | Poaching as an explicit gentle moist-heat method | Culinary 2 Unit 4 and Semester 1 Week 10 | Required method; teacher selects fish or egg vehicle based on cost and scheduling. |
 | Broiler and grill fundamentals | Culinary 1 Unit 7 exposure; Culinary 2 Unit 4 application | Culinary 1 is instructor-demo exposure. Any student use requires equipment access, ventilation/fire checks, the equipment-specific SOP, instruction/demo, supervision, and individual authorization. |
 | Quick pickling | Culinary 1 Unit 9 | Teacher-approved acid formula, labeled and refrigerated for same-day classroom use only. No canning, shelf-stable preservation, or fermentation. |

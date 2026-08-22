@@ -3,7 +3,6 @@
 ## Setup Before Class
 - Portion strong seasonings and acids.
 - Prepare clean tasting spoons and dirty spoon containers.
-- Identify allergens and label samples clearly.
 - Prepare simple base foods.
 - Decide which flavor builds students will compare.
 - Stage sanitizer, towels, bowls, measuring spoons, and dish supplies.
@@ -14,11 +13,10 @@
 - How to add a small amount and taste again.
 - How aromatics change with heat.
 - How to discuss flavor directions respectfully.
-- What allergen-aware reset looks like.
+- What sanitary reset looks like.
 
 ## Safety Watch-Outs
 - Double-dipping.
-- Allergen cross-contact.
 - Strong seasoning dumped into samples.
 - Chili/spice contact with eyes or face.
 - Hot pans during aromatic work.
@@ -29,7 +27,6 @@
 - Additions are small.
 - Students describe flavor specifically.
 - Cultural references stay respectful.
-- Allergens are controlled.
 - Station resets before the next group.
 
 ## Common Student Mistakes
@@ -38,13 +35,13 @@
 - Reusing tasting spoons.
 - Burning aromatics.
 - Treating flavor builds like stereotypes.
-- Leaving tasting tools and allergen surfaces messy.
+- Leaving tasting tools and affected surfaces messy.
 
 ## Cleanup Timing
 - Pause before discussion if tasting areas are messy.
 - Have students close ingredients as soon as they finish.
 - Keep dirty tasting tools contained.
-- Sanitize allergen surfaces carefully.
+- Sanitize affected surfaces carefully.
 - Inspect counters and floors before dismissal.
 
 ## What to Look For While Circulating
@@ -52,7 +49,6 @@
 - Are portions controlled?
 - Are descriptions specific?
 - Are students curious and respectful?
-- Are allergens separated and cleaned?
 - Is cleanup shared?
 
 ## Bistro Connection

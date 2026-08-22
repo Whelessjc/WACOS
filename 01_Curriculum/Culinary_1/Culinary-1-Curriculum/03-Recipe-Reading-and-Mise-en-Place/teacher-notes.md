@@ -25,9 +25,7 @@
 - Pause the room if students start guessing.
 
 ## Safety Concerns
-- Allergens in peanut butter.
 - Hot pans and steam during rice or stir fry.
-- Cross-contact between ingredients.
 - Crowding around cooking stations.
 
 ## Pacing Notes

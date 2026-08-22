@@ -9,7 +9,6 @@ Document safety expectations, facility routines, equipment procedures, cleaning 
 - Heat and burn prevention.
 - Chemical safety.
 - Dish systems.
-- Allergen awareness.
 - Equipment authorization.
 - Storage, labeling, dating, FIFO.
 - Emergency procedures.

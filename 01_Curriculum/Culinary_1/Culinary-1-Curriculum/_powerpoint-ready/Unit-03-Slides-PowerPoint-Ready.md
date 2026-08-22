@@ -76,8 +76,6 @@ Students rehearse the routine once, then reset and do it again faster and calmer
 
 ### On-Slide Text
 - Wash hands
-- Prevent cross-contact
-- Treat allergens seriously
 - Sanitize stations
 - Store ingredients correctly
 
@@ -113,7 +111,6 @@ Use as a quick check for understanding before moving to the task.
 ### On-Slide Text
 - Check amounts
 - Check ingredient form
-- Watch allergens
 - Use shared ingredients carefully
 - Close and return items
 
@@ -219,7 +216,6 @@ Students identify what is missing from a sample station setup.
 ## Slide 13: Lab Safety
 
 ### On-Slide Text
-- Peanut allergy awareness
 - Hot pans and steam
 - Crowding creates risk
 - Use "hot" and "behind"

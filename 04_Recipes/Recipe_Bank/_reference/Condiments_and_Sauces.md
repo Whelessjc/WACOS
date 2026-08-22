@@ -17,7 +17,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   3. Simmer in a pot 20-30 minutes to marry the flavors.
   4. Taste and adjust: more salt if flat, more lime if dull, more cilantro if you want it grassier, a splash of water if it feels heavy.
 - **Food safety controls**: Standard produce handling; cool before refrigerating.
-- **Allergens**: None inherent.
 - **Quality indicators**: Balanced heat, acid, and salt; texture still has some chunk, not a puree.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly by the quart.
@@ -40,7 +39,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   5. Pulse until smooth but still slightly chunky.
   6. Taste and adjust seasoning with more salt or lime as needed.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent.
 - **Quality indicators**: Balanced tang from tomatillos and lime, visible slight char flavor, not over-blended.
 - **Holding/storage**: Refrigerate in an airtight container up to 5 days.
 - **Scaling notes**: Scales linearly by tomatillo count.
@@ -62,7 +60,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   4. Add vinegar and water; stir and scrape the pan well. Reduce on low heat 15-20 minutes until jammy but still soft and spreadable.
   5. Stir in black pepper and thyme if using. Taste and adjust salt or add a splash more vinegar if it feels flat.
 - **Food safety controls**: Standard produce handling; cool before refrigerating.
-- **Allergens**: Dairy (butter).
 - **Quality indicators**: Jammy, spreadable texture - not caramelized to a deep brown or bitter; balanced sweet/acid.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly by onion weight; the long, low cook time is the real constraint on batch timing, not the ratios.
@@ -79,7 +76,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Ingredients**: 2 cups mayonnaise, 0.5 cup ketchup, 3 Tbsp all-purpose seasoning, 0.5 cup pickle juice, 0.25 cup chopped pickles.
 - **Procedure**: Mix all ingredients together until smooth.
 - **Food safety controls**: Standard mayonnaise-based sauce handling; hold cold.
-- **Allergens**: Egg (mayonnaise).
 - **Quality indicators**: Smooth, well-combined, balanced tang from pickle juice.
 - **Holding/storage**: Refrigerate in a covered container; standard mayonnaise-based product shelf life applies.
 - **Scaling notes**: Scales linearly - a simple mix-only recipe with no real batch ceiling.

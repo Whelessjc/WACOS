@@ -4,12 +4,12 @@
 Weeks 14 to 15
 
 ## Bistro / Service Connection
-Flavor work supports Bistro consistency. Students should learn to taste safely, adjust in small steps, communicate flavor needs, protect allergen boundaries, and avoid sending food out without checking it first.
+Flavor work supports Bistro consistency. Students should learn to taste safely, adjust in small steps, communicate flavor needs, and avoid sending food out without checking it first.
 
 ## Week 14: Basics of Flavor
 
 ### Day 1: Safe Tasting and Flavor Words
-- Opening routine: huddle on tasting rules, allergens, and clean spoons.
+- Opening routine: huddle on tasting rules, and clean spoons.
 - Demo or mini-lesson: how to taste without contaminating food.
 - Student work: describe simple samples using specific flavor words.
 - Lab/application: salt, acid, and fat tasting with small portions.
@@ -27,7 +27,6 @@ Flavor work supports Bistro consistency. Students should learn to taste safely, 
 - Exit check: what changed when heat hit the aromatics?
 
 ### Day 3: Herbs and Spices
-- Opening routine: allergen and portion reminder.
 - Demo or mini-lesson: smell first, add small amounts, taste again.
 - Student work: controlled herb and spice tasting notes.
 - Lab/application: add one herb or spice to a simple base.
@@ -50,18 +49,17 @@ Flavor work supports Bistro consistency. Students should learn to taste safely, 
 - Student work: adjust a simple Bistro or lab item.
 - Lab/application: controlled flavor adjustment for service-style prep.
 - Bistro/service connection: cooks taste before food reaches a guest.
-- Cleanup/reset: full station reset, allergens contained.
+- Cleanup/reset: full station reset
 - Exit check: how does tasting support Bistro service?
 
 ## Week 15: Flavor Builds and Respectful Comparison
 
 ### Day 1: Soy and Ginger
-- Opening routine: allergen note and respectful language reminder.
 - Demo or mini-lesson: soy and ginger as a flavor direction, not a claim of authenticity.
 - Student work: taste, describe, and adjust a simple base.
 - Lab/application: soy and ginger comparison.
 - Bistro/service connection: flavor directions should be communicated clearly without overclaiming authenticity.
-- Cleanup/reset: tasting tools and allergen surfaces cleaned.
+- Cleanup/reset: tasting tools and affected surfaces cleaned.
 - Exit check: one respectful way to describe the flavor.
 
 ### Day 2: Vinegar and Herbs; Chili and Citrus
@@ -74,12 +72,10 @@ Flavor work supports Bistro consistency. Students should learn to taste safely, 
 - Exit check: which build felt brighter, and why?
 
 ### Day 3: Yogurt and Spice; Coconut and Curry
-- Opening routine: dairy/coconut allergy reminder.
 - Demo or mini-lesson: creamy bases and spice control.
 - Student work: taste in small portions and describe texture/flavor.
 - Lab/application: yogurt/spice and coconut/curry comparison.
-- Bistro/service connection: allergen awareness matters before food is shared or served.
-- Cleanup/reset: allergen-aware dish flow and station reset.
+- Cleanup/reset: sanitary dish flow and station reset.
 - Exit check: what did the base ingredient change?
 
 ### Day 4: Team Flavor Adjustment
@@ -97,7 +93,7 @@ Flavor work supports Bistro consistency. Students should learn to taste safely, 
 - Student work: taste, describe, and reflect on flavor choices.
 - Lab/application: final comparison and discussion.
 - Bistro/service connection: useful feedback helps a team improve food without making it personal.
-- Cleanup/reset: full tasting station reset, allergens contained, floor checked.
+- Cleanup/reset: full tasting station reset, floor checked.
 - Exit check: how do cooks build flavor without guessing?
 
 ## Teacher Pacing Notes

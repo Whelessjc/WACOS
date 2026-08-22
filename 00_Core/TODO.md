@@ -32,7 +32,7 @@
 
 ## Foundation Implementation Details
 
-- Document the final Culinary 1 tofu recipe and allergen-control sequence before the lab.
+- Document the final Culinary 1 tofu recipe before the lab.
 - Document the final Culinary 2 poaching recipe vehicle based on cost, scheduling, and available product.
 - Publish the approved Culinary 1 refrigerated quick-pickle formula, label format, and same-day discard procedure before the lab.
 - Publish the equipment-specific broiler/grill SOP, safety check, and student authorization record before any student operation.

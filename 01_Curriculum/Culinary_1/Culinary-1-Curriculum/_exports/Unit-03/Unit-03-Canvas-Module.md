@@ -32,8 +32,6 @@ Include:
 ### Page: Food Handler Habits Continue
 Include:
 - Handwashing
-- Allergen awareness
-- Cross-contact prevention
 - Clean station habits
 - Storage and shared ingredient care
 

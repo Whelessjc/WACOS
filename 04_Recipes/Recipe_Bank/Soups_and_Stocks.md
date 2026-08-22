@@ -15,7 +15,6 @@
   5. After 4-6 hours, remove from heat.
   6. Strain through a cheesecloth-lined sieve. Cool quickly (ice bath if needed).
 - **Food safety controls**: Standard stock handling; cool quickly and refrigerate/freeze promptly after straining.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Clear, not cloudy or greasy (a sign the stock never boiled hard); good body/gelatin from cartilage-rich bones (trotters, hocks).
 - **Holding/storage**: Refrigerate a few days or freeze for months.
 - **Scaling notes**: The source's general ratio applies across any protein: about 20% mirepoix by weight relative to bones. Cooking time scales by protein, not batch size: vegetable stock 45 min-1 hr; chicken/pork/lamb 4-6 hours; veal/beef 16-24 hours. Any bone type can be substituted for the pork in this specific recipe using the same ratio.
@@ -39,7 +38,6 @@
   6. Skim fat from the surface, remove solids, and strain through a cheesecloth-lined sieve.
   7. Use immediately, or cool over an ice bath and refrigerate/freeze.
 - **Food safety controls**: Standard stock handling; cool quickly and store promptly.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Clear, light gold color; clean chicken flavor without a boiled/dull taste (a sign of a gentle simmer, not a rolling boil).
 - **Holding/storage**: Refrigerate a few days, freeze for several months.
 - **Scaling notes**: Scales by weight - keep the mirepoix at roughly 20% of the bone weight.
@@ -64,7 +62,6 @@
   7. Strain through a paper-towel- or coffee-filter-lined sieve for full clarity, changing the filter partway through as it clogs.
   8. Chill or freeze in jars, leaving headroom for expansion if freezing.
 - **Food safety controls**: Standard stock handling; cool and refrigerate/freeze promptly.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Deep amber color, rich umami flavor (from the browning and dried mushrooms), fully clear if double-filtered.
 - **Holding/storage**: Refrigerate up to a week, or freeze.
 - **Scaling notes**: Scales linearly by the 5-quart base.
@@ -86,7 +83,6 @@
   4. Strain, cool, and label.
   5. *Alternative*: roast or sweat the vegetables before adding water, for more color/flavor. Tomato consommé (see below) can replace some or all of the water for more body - note this makes the stock non-vegan, since the consommé uses egg whites.
 - **Food safety controls**: Standard stock handling; cool and label promptly.
-- **Allergens**: None inherent (unless made with the tomato consommé variation, which contains egg).
 - **Quality indicators**: Clean, balanced vegetable flavor; clear if strained well.
 - **Holding/storage**: Refrigerate or freeze after cooling.
 - **Scaling notes**: Scales linearly by weight.
@@ -107,7 +103,6 @@
   3. Add the roux to the stock. Bring to a simmer, stirring with a whip every few minutes.
   4. Simmer 10-15 minutes. Season as desired.
 - **Food safety controls**: Standard stock/dairy handling.
-- **Allergens**: Gluten, dairy (if using butter).
 - **Quality indicators**: Smooth, lump-free sauce at a consistent medium (nappe) thickness.
 - **Holding/storage**: Hold hot for service; cool and refrigerate promptly if not used same-day.
 - **Scaling notes**: The ratio (roughly 35% butter/oil to flour by weight, added to stock) scales linearly to any batch size - this is the reference ratio underlying the Béchamel and Velouté entries below.
@@ -132,7 +127,6 @@
   7. Strain through cheesecloth; degrease.
   8. Adjust seasoning.
 - **Food safety controls**: Standard stock/egg/meat handling; confirm the raft mixture reaches a safe temperature during the simmer.
-- **Allergens**: Egg.
 - **Quality indicators**: Crystal-clear, deeply flavored broth - the defining test of a proper consommé.
 - **Holding/storage**: Hold hot for service, or cool and refrigerate/freeze.
 - **Scaling notes**: Already at production scale (128 portions per batch); scale down proportionally for smaller runs.
@@ -154,7 +148,6 @@
   4. Strain a small amount at a time through a coffee-filter-lined china cap, changing the filter as needed, until the liquid runs clear. Gently press the solids to extract liquid.
   5. Over-ripe tomatoes puréed in a food processor can substitute for some or all of the tomato juice.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Egg.
 - **Quality indicators**: Fully clear, bright tomato flavor.
 - **Holding/storage**: Refrigerate; use as a stock extender or serve as a clear soup.
 - **Scaling notes**: Scales linearly by the 4-quart base.
@@ -177,7 +170,6 @@
   5. Add nutmeg; season with salt.
   6. Return to a simmer; cook 10 minutes, stirring constantly, until thickened to nappe consistency.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Smooth, lump-free, nappe consistency (coats the back of a spoon); no raw-flour taste (a sign the roux was cooked enough).
 - **Holding/storage**: Hold hot in a bain-marie with a film of butter or plastic wrap directly on the surface to prevent a skin from forming; refrigerate leftovers.
 - **Scaling notes**: Scales linearly from the 2-cup base; keep the roux-to-milk ratio constant.
@@ -200,7 +192,6 @@
   5. Simmer 10 minutes, whisking occasionally, until nappe consistency.
   6. Season with salt and white pepper.
 - **Food safety controls**: Standard stock/dairy handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Smooth, nappe consistency, no raw-flour taste.
 - **Holding/storage**: Hold hot in a bain-marie; refrigerate leftovers.
 - **Scaling notes**: Scales linearly; keep the roux-to-stock ratio constant (see Roux-to-Stock Ratio above for a large-batch reference).
@@ -224,7 +215,6 @@
   6. Simmer 30-45 minutes (or up to 1.5 hours for a deeper reduction), until thickened to desired consistency, skimming periodically.
   7. Strain through a china cap or cheesecloth-lined strainer before serving.
 - **Food safety controls**: Standard stock handling.
-- **Allergens**: None inherent (confirm alcohol content from the wine is acceptable per program policy).
 - **Quality indicators**: Deep brown color, glossy nappe consistency, no raw tomato-paste taste.
 - **Holding/storage**: Hold hot in a bain-marie; refrigerate or freeze leftovers - this sauce is also the base for a Demi-Glace (see below) when combined with additional brown stock and reduced further.
 - **Scaling notes**: Scales linearly; longer simmer times develop more depth in a larger batch.
@@ -247,7 +237,6 @@
   5. Purée with a food processor or immersion blender.
   6. Add oregano and basil; season with salt and pepper.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Smooth (or textured, per preference) purée, balanced acidity, bright herb finish added at the end (not cooked down).
 - **Holding/storage**: Refrigerate or freeze.
 - **Scaling notes**: Scales linearly.
@@ -270,7 +259,6 @@
   5. Remove from heat; add Tabasco and season with salt.
   6. *(Simpler variant: combine egg yolks, water, and vinegar in a metal bowl - not plastic or glass. Cook over a double boiler until lighter in color and ribbon-consistency forms. Heat clarified butter to 125°F; slowly whisk into the yolks. Season with salt, cayenne, and lemon juice.)*
 - **Food safety controls**: Cook egg yolks to a safe temperature via the double-boiler method without scrambling them; hold hollandaise in the narrow safe zone (warm enough to prevent bacterial growth, not so hot it breaks) and don't hold longer than a couple of hours.
-- **Allergens**: Egg, dairy.
 - **Quality indicators**: Thick, glossy, pale yellow emulsion that holds together (doesn't break/separate); balanced acid-richness.
 - **Holding/storage**: Hold warm (not hot) for a short service window; does not reheat or store well once made, due to the emulsion.
 - **Scaling notes**: Scales by weight/ratio (roughly 4:1 butter to yolks by weight); emulsions get harder to manage in very large batches, so consider multiple smaller batches rather than one large one.
@@ -290,7 +278,6 @@
   2. Do not season with salt until the very end, since reducing concentrates the stock's existing saltiness.
   3. Reduce slowly for the best result - rushing with high heat produces an inferior demi.
 - **Food safety controls**: Standard stock handling; cool and refrigerate/freeze promptly.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Coats the back of a spoon (nappe/glace consistency), deep, concentrated flavor without a burnt or over-reduced taste.
 - **Holding/storage**: Refrigerate or freeze; concentrates further if frozen and can be thinned with stock or water as needed.
 - **Scaling notes**: Already at production scale (128 portions per batch, 2:1 reduction from 256 oz stock). Scale down proportionally for smaller runs. This is also, effectively, what Sauce Espagnole becomes when reduced further with additional stock - see that entry above.
@@ -310,7 +297,6 @@
   2. Remove the herbs.
   3. Add the demi-glace; cook until it coats the back of a spoon.
 - **Food safety controls**: Standard sauce handling.
-- **Allergens**: None inherent (confirm alcohol content is acceptable per program policy).
 - **Quality indicators**: Deep red-brown color, glossy nappe consistency, balanced wine acidity against the demi's richness.
 - **Holding/storage**: Refrigerate or freeze; reheat gently for service.
 - **Scaling notes**: Scales linearly from the 32 oz batch; requires demi-glace made in advance.
@@ -334,7 +320,6 @@
   6. Add the slurry to the sauce; bring to a simmer.
   7. Adjust seasoning and consistency; strain.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: Soy, gluten (soy sauce and cornstarch - confirm gluten-free soy sauce if needed).
 - **Quality indicators**: Deep brown color and body approximating a meat demi-glace, glossy nappe consistency, savory depth from the mushrooms and soy.
 - **Holding/storage**: Refrigerate or freeze.
 - **Scaling notes**: Scales by weight/volume; not stated in source - establish a target batch size in production.
@@ -360,7 +345,6 @@
   8. Place bowls/ramekins on a baking tray. Layer a baguette slice, a bit of cheese, ladle in soup, another baguette slice, and more cheese.
   9. Broil until the cheese melts and turns golden. Serve immediately, plated with a napkin underneath (the bowl gets very hot).
 - **Food safety controls**: Standard dairy handling; handle broiler-hot bowls with appropriate care at service.
-- **Allergens**: Gluten, dairy; contains alcohol (sherry, cooked down).
 - **Quality indicators**: Deeply caramelized, sweet-savory onions (not just softened); rich stock; bubbly, golden broiled cheese top.
 - **Holding/storage**: Caramelized onions and soup base hold and reheat well; assemble with bread/cheese and broil just before service.
 - **Scaling notes**: Scaled 3x from the source's 6-8 serving yield.
@@ -384,7 +368,6 @@
   6. Add clams; cook a few more minutes just to heat through. Taste and adjust seasoning.
   7. Serve garnished with the crisp bacon (or stir it directly into the pot).
 - **Food safety controls**: Standard shellfish/dairy handling; confirm clams are heated through, not overcooked to rubbery.
-- **Allergens**: Gluten, dairy, shellfish (clams), pork.
 - **Quality indicators**: Creamy but not gluey (flour cooked enough to lose rawness, not so much it turns pasty), potatoes just tender, clams tender not rubbery.
 - **Holding/storage**: Holds and reheats reasonably well; add clams fresh if reheating a large batch to avoid overcooking them twice.
 - **Scaling notes**: Scaled 3x from the source's 6-8 serving yield.
@@ -409,7 +392,6 @@
   7. Taste and adjust seasoning (salt, pepper, garlic, more Cajun seasoning, or more broth) until balanced.
   8. Serve warm over rice. (Tastes even better the next day.)
 - **Food safety controls**: Standard poultry/shellfish/pork handling; confirm all proteins are fully heated through before serving.
-- **Allergens**: Gluten, shellfish, pork.
 - **Quality indicators**: Roux the color and consistency of dark chocolate/cookie dough (the single most important indicator - underdone roux tastes raw and won't develop the right color), well-balanced Cajun seasoning, tender (not mushy) vegetables.
 - **Holding/storage**: Refrigerate covered 3-4 days; freezes well (without rice) for 2-3 months; thaw overnight and reheat.
 - **Scaling notes**: Scaled 3x from the source's 6-serving yield. The roux can be made 3-5 days ahead and refrigerated.
@@ -431,7 +413,6 @@
   4. Add broth; bring to a boil and cook 4 minutes.
   5. **(Not detailed in source - standard technique)**: Simmer until the potatoes are tender, stir in the milk, and season with salt and pepper before serving, garnished with reserved bacon.
 - **Food safety controls**: Standard pork/dairy handling.
-- **Allergens**: Dairy, pork.
 - **Quality indicators**: Potatoes tender, corn sweet and not overcooked, creamy (not thin/watery) body.
 - **Holding/storage**: Holds and reheats well; standard soup storage practice.
 - **Scaling notes**: Scaled 4x from the source (no stated original yield); confirm actual portion count and the finishing steps noted above in production.
@@ -456,7 +437,6 @@
   7. Meanwhile, cook the noodles separately in salted boiling water until done, then drain and add to the soup (cooking noodles separately, rather than directly in the broth, keeps the broth from turning starchy/cloudy - stir the pot as little as possible if you do cook them directly in the broth).
   8. Add the reserved chicken meat to heat through. Season to taste with salt and pepper; garnish with parsley and serve.
 - **Food safety controls**: Standard poultry handling; confirm chicken is fully cooked through before removing from the broth.
-- **Allergens**: Gluten (noodles).
 - **Quality indicators**: Clear, flavorful broth (a sign of gentle simmering and good skimming), tender chicken, noodles not overcooked/bloated.
 - **Holding/storage**: Store noodles and vegetables separately from the broth if holding more than a day - noodles absorb liquid and bloat; broth freezes well for months, finished soup with noodles keeps 3-4 days refrigerated.
 - **Scaling notes**: Scaled 4x from the Rouxbe source's 4-6 serving yield.
@@ -478,7 +458,6 @@
   4. Remove chicken; shred with two forks. Return to the pot; simmer 5 minutes more. Add lime juice.
   5. Serve topped with tortilla strips, avocado, remaining fresh cilantro, and lime wedges.
 - **Food safety controls**: Standard poultry handling; confirm chicken reaches 165°F before shredding and serving.
-- **Allergens**: None inherent to the soup base (corn tortillas are gluten-free; confirm any garnish/tortilla brand specifics).
 - **Quality indicators**: Balanced heat/acid/richness, chicken tender and easy to shred, tortilla strips fried crisp (not soggy once added).
 - **Holding/storage**: Store tortilla strips separately from the soup to keep them crisp; soup itself holds and reheats well.
 - **Scaling notes**: Scaled 3x from the source's 6-serving yield.
@@ -503,7 +482,6 @@
   7. Simmer 1 hour.
   8. Stir in baking soda to cut acidity, if needed.
 - **Food safety controls**: Standard ground meat handling; confirm meat is fully browned/cooked through in the first step.
-- **Allergens**: None inherent (confirm beer/gluten content is acceptable per program policy, or substitute broth).
 - **Quality indicators**: Thick, well-seasoned, not watery; beans tender but holding their shape.
 - **Holding/storage**: Holds and reheats very well (tastes better the next day); freezes well.
 - **Scaling notes**: Scaled 2x from the source's 8-serving yield.
@@ -524,7 +502,6 @@
   3. Add broth and seasoning.
   4. Add meat and okra at the end.
 - **Food safety controls**: Standard meat handling (specific protein not identified in source - apply standard safe-temperature practice for whatever protein is used).
-- **Allergens**: Gluten (roux); allergens depend on the unspecified meat/protein used.
 - **Quality indicators**: Dark roux (gumbo-style base) without burnt flavor, okra tender but not overly slimy (a common concern with okra dishes - cooking it in a hot roux/fat first, per this technique, helps).
 - **Holding/storage**: Standard soup storage practice.
 - **Scaling notes**: **Needs confirmation** - too many unspecified quantities to scale responsibly; establish full quantities in a test batch before scaling for production.
@@ -549,7 +526,6 @@
   7. Taste and adjust seasoning. Before serving, top with crumbled crispy bacon, fresh parsley, and fresh thyme.
   8. Serve with rice or cornbread.
 - **Food safety controls**: Standard pork handling.
-- **Allergens**: Pork.
 - **Quality indicators**: Tomato paste properly caramelized to a rusty-red color (not just heated through) before adding the tomatoes, okra tender, corn still with some bite, balanced seasoning.
 - **Holding/storage**: Standard soup/stew storage practice; garnish with bacon fresh at service.
 - **Scaling notes**: Scaled 4x from the source's 4-6 serving yield.
@@ -572,7 +548,6 @@
   5. Add yogurt, dill, and tomato juice/broth to desired consistency.
   6. Season; refrigerate for service.
 - **Food safety controls**: Standard produce/dairy handling; keep well chilled throughout prep and service (a cold soup with no cooking step).
-- **Allergens**: Dairy (yogurt).
 - **Quality indicators**: Well-balanced acid/sweetness, smooth but still vibrant texture, vivid color.
 - **Holding/storage**: Best made and served the same day, per the source's own note; consistency may need adjusting after refrigeration, since it thickens as it chills.
 - **Scaling notes**: Scaled 2x from an estimated 10-12 portion base (no yield stated in source).
@@ -597,7 +572,6 @@
   7. Add cream and stir.
   8. Pour into bowls; finish with shredded cheese.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy.
 - **Quality indicators**: Potatoes tender but not falling apart (unless a smoother, blended texture is wanted), creamy body, well-seasoned.
 - **Holding/storage**: Standard soup storage practice.
 - **Scaling notes**: Scaled 4x from the source (no stated original yield); confirm actual portion count in production.
@@ -619,7 +593,6 @@
   4. Add pasta; cook until tender.
   5. Add vegetables; cook until tender.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: Gluten (pasta).
 - **Quality indicators**: Pasta and vegetables both tender without being mushy/overcooked.
 - **Holding/storage**: Standard soup storage practice; note that pasta will continue to absorb liquid and soften if stored in the soup - consider storing pasta separately for a large batch held more than a day (same practice as the Homemade Chicken Noodle Soup entry above).
 - **Scaling notes**: **Needs confirmation** - source has no real quantities to scale from; this recipe needs full quantity development (can size, box size, bag size, and real onion/tomato amounts) before it can be scaled for production.

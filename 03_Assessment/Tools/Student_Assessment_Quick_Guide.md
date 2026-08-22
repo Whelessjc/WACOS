@@ -32,7 +32,7 @@ Students meeting normal expectations do not need a note every day. The instructo
 
 ## What Applies Everywhere
 
-- Safety, sanitation, allergens, and instructor directions are non-negotiable.
+- Safety, sanitation, and instructor directions are non-negotiable.
 - Serious safety concerns receive immediate intervention and instructor review.
 - Reflection supports direct performance evidence; it does not replace it.
 - Your group result is not automatically your individual grade.

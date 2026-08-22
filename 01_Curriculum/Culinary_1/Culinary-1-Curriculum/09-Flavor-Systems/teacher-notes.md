@@ -6,7 +6,6 @@
 - Flavor is built, not dumped in.
 - Respect cultural origins without pretending classroom samples are authentic.
 - Curiosity matters.
-- Allergen awareness and sanitary tasting are non-negotiable.
 - Bistro flavor work is about consistency: taste before service, communicate adjustments, and protect the batch.
 
 ## Common Student Mistakes
@@ -15,18 +14,16 @@
 - Double-dipping tasting spoons.
 - Burning aromatics.
 - Treating cultural flavor builds like costumes or stereotypes.
-- Leaving tasting spoons, cups, or allergen surfaces for the next group.
+- Leaving tasting spoons, cups
 
 ## Classroom Management Notes
 - Control portions of strong seasonings.
 - Use tasting spoons correctly.
 - Set respectful language expectations.
 - Keep comparisons specific and food-focused.
-- Name allergens before tasting and keep samples organized.
+- Name ingredients before tasting and keep samples organized.
 
 ## Safety Concerns
-- Allergens in soy, dairy/yogurt, coconut, spices.
-- Cross-contact during tasting.
 - Hot pans for aromatic work.
 
 ## Pacing Notes

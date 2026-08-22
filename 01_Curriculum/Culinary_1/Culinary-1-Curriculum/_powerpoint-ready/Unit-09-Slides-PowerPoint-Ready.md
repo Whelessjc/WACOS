@@ -110,7 +110,6 @@ Students name the cue they should watch before adjusting heat.
 ### On-Slide Text
 - Clean spoon
 - No double-dip
-- Name allergens
 - Use respectful words
 
 ### Suggested Visual
@@ -178,7 +177,7 @@ Use as a quick check for understanding before moving to the task.
 
 ### On-Slide Text
 - Tasting tools handled
-- Allergens cleaned
+- surfaces cleaned
 - Spices closed
 - Counters sanitized
 - Trash checked

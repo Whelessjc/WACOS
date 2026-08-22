@@ -1,4 +1,4 @@
-﻿# Unit 02 Student Packet: Food Handler and Stewardship
+# Unit 02 Student Packet: Food Handler and Stewardship
 ## What We Are Learning
 Safety becomes behavior.
 You will practice:
@@ -6,7 +6,6 @@ You will practice:
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 - thermometer use
 - laundry, counters, dishes, storage, floors

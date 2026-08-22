@@ -31,7 +31,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   8. Cool completely before cutting into squares.
   9. Dust with powdered sugar if desired.
 - **Food safety controls**: Standard egg/dairy handling; cool completely before cutting/storing.
-- **Allergens**: Egg, dairy, gluten.
 - **Quality indicators**: Golden brown top, chewy (not cakey or underbaked) interior, clean cut edges once cooled.
 - **Holding/storage**: Store covered at room temperature; cut only once fully cooled to prevent tearing.
 - **Scaling notes**: Already scaled to a real 24-portion batch on a half-sheet pan - this is the reference scale for other baked-good batches in this program.
@@ -56,7 +55,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   5. Pour batter into the prepared pans; smooth the top with a spatula.
   6. Bake 50 minutes.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Egg, gluten; confirm cocoa powder processing for any cross-contact.
 - **Quality indicators**: Set edges, fudgy (not raw/wet) center, even bake across the full pan.
 - **Holding/storage**: Cool completely before cutting; store covered at room temperature.
 - **Scaling notes**: Already a real 2-pan batch. This recipe is large enough to split for multiple lab sections in one day.
@@ -80,7 +78,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   3. Ganache: Heat cream to just below a simmer; pour over chocolate and rest 2-3 minutes. Stir smooth; add salt; cool to a pourable consistency.
   4. Assembly: Level cake layers. Spread marshmallow filling evenly, leaving a small border. Top with the second layer; chill 20-30 minutes. Optional thin crumb coat, then chill again. Pour ganache over the cake in one pass; let set.
 - **Food safety controls**: Egg whites in the marshmallow filling are cooked via the hot sugar syrup (a cooked meringue method), which addresses raw-egg safety concerns.
-- **Allergens**: Egg, dairy, gluten.
 - **Quality indicators**: Level layers, marshmallow filling holds its shape without weeping, smooth glossy ganache shell.
 - **Holding/storage**: Refrigerate; bring to room temperature briefly before serving for the best texture.
 - **Scaling notes**: This is a specialty single-cake item, not typically scaled to a large batch - if needed for a larger event, multiply full cake units rather than scaling the recipe internally.
@@ -98,7 +95,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
 - **Ingredients**: 10 Tbsp butter; 20 cups mini marshmallows (16 cups melted, 4 cups folded in at the end); 8 cups Rice Krispies; 2 cups Fruity Pebbles; 2 cups Lucky Charms; 1 tsp kosher salt.
 - **Procedure**: Melt butter and brown slightly. Add 16 cups marshmallows over low heat until melted. Stir in Rice Krispies, Fruity Pebbles, and salt. Cool 20-30 seconds. Fold in remaining 4 cups marshmallows and the Lucky Charms. Lightly press into a half-sheet pan (do not compact hard, or the treats turn dense). Cool completely, then cut.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy, gluten (cereal).
 - **Quality indicators**: Soft, not compacted or hard; even cereal distribution.
 - **Holding/storage**: Store covered at room temperature; best within a day or two before marshmallow staling sets in.
 - **Scaling notes**: Already a real half-sheet batch.
@@ -111,7 +107,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
 - **Ingredients**: 18 Tbsp butter; 1.125 cups sweetened condensed milk; 2.25 tsp vanilla extract; 15 oz mini marshmallows (for melting); 9 oz mini marshmallows (unmelted, folded in); 13.5 cups Rice Krispies cereal.
 - **Procedure**: Brown the butter until dark gold/amber and nutty-smelling (optional but recommended - or simply melt it). Add condensed milk and vanilla; stir well; reduce heat to medium-low. Add 10 oz of the marshmallows; stir until smooth. Add Rice Krispies; stir to combine (transfer to a large bowl first if needed). Fold in the remaining 6 oz marshmallows for texture. Pour into a buttered half-sheet pan; smooth with parchment paper pressed over the top. Cool at least an hour before cutting - 9 pieces for genuinely giant treats.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy, gluten (cereal).
 - **Quality indicators**: Rich caramelized flavor from browned butter (if used), soft chew, thick bakery-style portion.
 - **Holding/storage**: Store covered at room temperature.
 - **Scaling notes**: Already a real half-sheet batch.
@@ -139,7 +134,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   8. Optional: broil 1-2 minutes to toast the marshmallows.
   9. Cool completely before cutting into bars.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Egg, dairy, gluten.
 - **Quality indicators**: Set center, toasted marshmallow top if broiled, clean-cut bars once fully cooled.
 - **Holding/storage**: Store covered at room temperature; cool completely before cutting to avoid a gooey mess.
 - **Scaling notes**: Already a real 9x13 batch; double for a half-sheet pan if a larger batch is needed.
@@ -175,7 +169,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   7. Wrap pans well with plastic wrap and refrigerate 24-36 hours.
   8. Remove from the walk-in and let sit at room temperature 15 minutes before baking.
 - **Food safety controls**: Standard egg/dairy handling; keep dough refrigerated during the required rest, not left at room temperature.
-- **Allergens**: Egg, dairy, gluten.
 - **Quality indicators**: Even chip distribution, consistent portion size, chewy center with a slightly crisp edge after baking.
 - **Holding/storage**: Dough holds refrigerated 24-36 hours as part of the method (this rest is required, not optional - it develops flavor and texture). Baked cookies store at room temperature in a covered container.
 - **Scaling notes**: Scales by weight - straightforward to double or halve using the gram/ounce measures given.
@@ -204,7 +197,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   8. Bake 5 minutes at 375F, then reduce to 350F and bake 12-15 minutes more.
   9. Cool before removing from the pan.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Egg, dairy, gluten.
 - **Quality indicators**: Domed top, even chip distribution, moist crumb (not dense or gummy).
 - **Holding/storage**: Store covered at room temperature; cool completely before wrapping to avoid trapped steam.
 - **Scaling notes**: Already in a clean weight-based format, ready to scale directly - this is the reference recipe for teaching Culinary 2's scaling-by-weight lesson. Record the actual yield next production run so this entry can be corrected.
@@ -240,7 +232,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   8. Bake about 12 minutes at 375F (edges golden), or 350F for 10-12 minutes for a softer cookie.
   9. Cool on the pan briefly, then transfer to a rack to cool completely.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Egg, dairy, gluten; confirm current candy supplier for any additional allergens (may contain peanut traces depending on brand/facility).
 - **Quality indicators**: Golden edges, soft center, even candy distribution.
 - **Holding/storage**: Store covered at room temperature.
 - **Scaling notes**: No confirmed yield on file - record actual cookie count next time this is produced so this entry can be corrected with a real number.
@@ -270,7 +261,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   5. Slow-cooker method: transfer to a 6-quart slow cooker, cook on high uncovered until syrupy, 3.5-4 hours.
   6. Cool slightly, then pulse in a food processor until coarsely chopped.
 - **Food safety controls**: Bacon cooked to visibly rendered/crisp; cool before refrigerating.
-- **Allergens**: None inherent; confirm bacon supplier.
 - **Quality indicators**: Thick, syrupy, jammy texture - not soupy or dry; balanced sweet/savory/acid.
 - **Holding/storage**: Refrigerate in a covered container; this is a slow-cook, make-ahead item, not a same-day production item.
 - **Scaling notes**: Scales linearly. Long cook time makes this a good "start early, finish later" prep-day item rather than a same-service production task.
@@ -295,7 +285,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   4. Remove from heat; blend until smooth (immersion blender off the heat, or transfer to a blender/processor once slightly cooled).
   5. Pass through a fine sieve for a smooth finish.
 - **Food safety controls**: Standard produce handling; cool before refrigerating.
-- **Allergens**: None inherent.
 - **Quality indicators**: Smooth, pourable but not watery consistency; balanced sweet/tart.
 - **Holding/storage**: Refrigerate in a covered container; thin with a small amount of water if it thickens too much on standing.
 - **Scaling notes**: Scales linearly by weight - simple to double or triple for a larger batch.

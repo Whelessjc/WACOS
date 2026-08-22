@@ -1,4 +1,4 @@
-﻿# Flavor Systems Teacher Guide
+# Flavor Systems Teacher Guide
 ## Pre-Class Setup
 - Stage tools, products, sanitizer, towels, dish supplies, and station signs.
 - Post the daily focus and reset expectations.
@@ -14,7 +14,7 @@
 ## Safety Watch-Outs
 - Use clean spoons for tasting.
 - No double-dipping.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 - Sanitize tasting surfaces.
 ## Teacher Checkpoints

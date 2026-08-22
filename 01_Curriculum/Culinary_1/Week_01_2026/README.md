@@ -28,4 +28,4 @@ During the final planning period, the instructor and TA use the notes section in
 - section continuation needs and the next day's adjustment; and
 - one durable keep, change, remove, or add decision when the lesson should change next year.
 
-The instructor retains final approval for student-facing materials, safety, allergens, grading, discipline, and equipment use.
+The instructor retains final approval for student-facing materials, safety, grading, discipline, and equipment use.

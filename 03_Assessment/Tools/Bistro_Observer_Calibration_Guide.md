@@ -29,7 +29,7 @@ Before the first service, both adults independently code two short sample situat
 
 ## Safety and Authority
 
-Intervene and escalate immediately for safety, sanitation, allergen, injury, serious conflict, or school-policy concerns. Do not reduce a major incident to one code. The Teacher Assistant may collect evidence and report context but does not change grades, make discipline decisions, authorize equipment, or provide final safety or allergen approval.
+Intervene and escalate immediately for safety, sanitation, injury, serious conflict, or school-policy concerns. Do not reduce a major incident to one code. The Teacher Assistant may collect evidence and report context but does not change grades, make discipline decisions, authorize equipment, or provide final safety approval.
 
 ## After Service
 

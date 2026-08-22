@@ -3,14 +3,14 @@
 ## Unit Overview
 Week 2 focus: safety becomes behavior.
 
-Students connect food safety to daily kitchen stewardship. This unit turns safety language into visible habits: personal hygiene, handwashing, cleaning and sanitation, cross-contamination prevention, allergen awareness, time and temperature control, laundry, counters, dishes, storage, floors, three-compartment sink, dish machine, and thermometer use.
+Students connect food safety to daily kitchen and product stewardship. The week turns safety language into visible habits and makes clear that food produced in Culinary has an instructor-approved purpose; making it does not make it automatic student food.
 
 ## Week at a Glance
 | Day | Focus | Main Application |
 |---|---|---|
 | Monday | Food safety and personal hygiene | Handwashing, contamination scenarios, station sanitation |
 | Tuesday | Cleaning, sanitizing, and dish systems | Stewardship rotations and brownie batter lab |
-| Wednesday | Cross-contamination, allergens, storage | Baking brownies and storage/allergen checks |
+| Wednesday | Brownie packaging, storage, and product stewardship | Bake, portion, package, and complete the instructor-approved product plan |
 | Thursday | Time, temperature, thermometers | Chicken breast temperature lab or teacher demo |
 | Friday | Stewardship review and skill check | Dish-system practice and station reset challenge |
 
@@ -32,13 +32,13 @@ Students connect food safety to daily kitchen stewardship. This unit turns safet
 - Prompt: "What is the difference between clean and sanitized?"
 - Reset: full dish system and station reset.
 
-### Wednesday: Cross-Contamination, Allergens, and Storage
-- Opening: agenda check and food safety reminder.
-- Mini-lesson/demo: cutting boards, clean tools, storage order, allergens, cross-contact.
-- Student work: sort storage examples and identify allergen risks.
-- Application: bake brownies while maintaining clean stations.
-- Prompt: "How could this food become unsafe?"
-- Reset: counters sanitized, tools returned, storage checked, floor checked.
+### Wednesday: Brownie Packaging, Storage, and Product Stewardship
+- Opening: agenda check, handwashing, food safety reminder, and approved product plan.
+- Mini-lesson/demo: recipe yield, consistent portions, ready-to-eat handling, handwashing, correct glove use and glove changes, packaging, presentation, and the plan for every portion.
+- Student work: each team member receives one brownie. Students put on gloves and package the remaining brownies according to current ServSafe Food Handler guidance.
+- Application: the instructor directs a blend of approved distribution and storage. Welcoming new teachers is the preferred first distribution application; gratitude, community hospitality, Bistro awareness, and informal marketing are named as authentic outcomes.
+- Prompt: "Who is receiving our work, and what does professional handling require?"
+- Reset: packaged product distributed or stored as directed, counters sanitized, tools returned, storage checked, floor checked.
 
 ### Thursday: Time, Temperature, and Thermometers
 - Opening: huddle on temperature as evidence.
@@ -60,6 +60,7 @@ Students connect food safety to daily kitchen stewardship. This unit turns safet
 - Prepare sanitizer according to school/district procedure.
 - Decide how students rotate through dish, counter, laundry, floor, and storage jobs.
 - Stage brownie ingredients or mix, pans, bowls, towels, and dish supplies.
+- Confirm the yield, one-brownie-per-team-member portion plan, packaging materials, gloves, storage space, recipients, and distribution plan.
 - Label or clarify dish-flow steps if students are new to the sink or dish machine.
 - Confirm whether students use the three-compartment sink, dish machine, or both.
 - Keep raw protein work separate from brownie or ready-to-eat work.
@@ -76,15 +77,16 @@ Before the chicken breast temperature lab, confirm:
 - "Safety becomes behavior."
 - "Cleaning and dishes are real culinary work."
 - "Sanitize after cleaning, not instead of cleaning."
-- "Allergens are safety issues, not preferences."
 - "Temperature is evidence."
 - "Stewardship means taking care of the shared kitchen."
+- "Just because you made it does not mean you made it for yourself."
+- "In Culinary, we are usually cooking for someone else."
 - "Do the job so the next group can trust the station."
 
 ## Safety Reminders
 - Wash hands before food work and after contamination.
 - Keep raw and ready-to-eat items separate.
-- Treat allergens seriously.
+- Wash hands before putting on gloves; use gloves for ready-to-eat brownie packaging and change them according to current ServSafe Food Handler guidance.
 - Use sanitizer correctly.
 - Report spills immediately.
 - Clean thermometer probes before and after use.
@@ -118,8 +120,10 @@ Skills practiced:
 - Handwashing and personal hygiene
 - Cleaning and sanitizing
 - Dish flow
-- Allergen and cross-contamination prevention
+- Cross-contamination prevention
 - Thermometer use
+- Yield and consistent portioning
+- Ready-to-eat handling, glove use, packaging, presentation, approved distribution, and storage
 - Full station reset
 
 Suggested roles:
@@ -133,13 +137,14 @@ Teacher checkpoints:
 - Hands washed before food work
 - Sanitizer used after cleaning
 - Dish flow followed
-- Allergens and cross-contact controlled
+- One brownie portioned for each team member
+- Remaining brownies packaged with gloves and distributed or stored according to the approved plan
 - Raw protein handled separately
 - Thermometers inserted and cleaned correctly
 - Reset is complete
 
 ## Bistro Connection
-Guests trust the Bistro because students handle food safely, clean correctly, communicate concerns, and take stewardship jobs seriously before service ever begins.
+Guests trust the Bistro because students handle food safely, clean correctly, communicate concerns, and take stewardship jobs seriously before service ever begins. The brownie procedure also shows how hospitality, gratitude, Bistro awareness, and informal marketing can grow from a well-handled product with a clear purpose.
 
 ## Reflection Notes
 After Unit 02, note:

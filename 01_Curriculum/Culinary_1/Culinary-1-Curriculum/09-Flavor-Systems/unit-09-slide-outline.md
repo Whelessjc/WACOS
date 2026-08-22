@@ -22,7 +22,6 @@
 - Clean spoon every time
 - No double-dipping
 - Dirty spoon area
-- Allergens named
 
 ## Slide 5: Flavor Words
 - Salty
@@ -73,13 +72,12 @@
 ## Slide 12: Bistro Connection
 - Taste before service
 - Communicate adjustments
-- Protect allergen boundaries
 - Keep batches consistent
 - Leave tasting area safe for others
 
 ## Slide 13: Cleanup and Reset
 - Tasting tools handled
-- Allergens cleaned
+- surfaces cleaned
 - Ingredients stored
 - Counters sanitized
 - Floors checked

@@ -11,7 +11,6 @@ habits, teamwork, stewardship, and leaving the kitchen ready for the next group.
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature
 - dish systems
 - thermometer use

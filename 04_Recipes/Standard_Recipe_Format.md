@@ -16,7 +16,6 @@ Recipes are vehicles for skill practice. The curriculum is the skill, habit, and
 - Ingredients with units.
 - Procedure.
 - Food safety controls.
-- Allergens.
 - Quality indicators.
 - Holding, cooling, storage, reheating.
 - Scaling notes.

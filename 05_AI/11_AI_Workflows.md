@@ -5,7 +5,7 @@ Document safe and useful AI workflows for culinary instruction, Bistro operation
 
 ## AI Principles
 - AI may draft, organize, compare, and generate options.
-- AI must not invent program facts, grades, safety rules, allergens, or district policy.
+- AI must not invent program facts, grades, safety rules, or district policy.
 - Instructor review is required before using AI-generated assessments, recipes, safety instructions, or family/admin communications.
 - Student-facing AI should coach thinking rather than simply provide answers.
 - Source-bound work is preferred for repository updates.

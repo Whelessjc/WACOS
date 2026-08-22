@@ -14,7 +14,6 @@ You will learn:
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature
 - dish systems
 
@@ -24,7 +23,6 @@ Use this page as your quick reference before lab or service.
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature
 - dish systems
 - thermometer use

@@ -12,7 +12,7 @@ The existing Word exports are a preserved import snapshot. Markdown is the maint
 2. Open the Markdown category file and search its recipe headings within the file.
 3. If the expected name is absent, try the main ingredient, technique, common alternate name, and neighboring plausible categories.
 4. Check cross-references and `_OPEN_QUESTIONS.md`.
-5. Read the complete entry and verify yield, portion, allergens, safety controls, storage/reheating, source, equipment, and confirmation flags.
+5. Read the complete entry and verify yield, portion, safety controls, storage/reheating, source, equipment, and confirmation flags.
 6. Treat a printable or student recipe as a derivative of the reviewed Recipe Bank entry.
 
 A zero-result repository-wide search is not proof that a recipe is missing. Category files are large, titles may use alternate wording, and some recipes are components of a larger entry. Only call a recipe missing after the plausible category files and headings have been checked.
@@ -39,4 +39,4 @@ Also inspect any additional current category file present in this folder when it
 
 ## Missing Information Rule
 
-Do not silently fill missing yields, portions, allergens, safety controls, storage, reheating, sources, equipment permissions, quantities, or procedures. Mark the gap and route it for instructor review.
+Do not silently fill missing yields, portions, safety controls, storage, reheating, sources, equipment permissions, quantities, or procedures. Mark the gap and route it for instructor review.

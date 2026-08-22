@@ -259,7 +259,7 @@ Pause for instructor confirmation when deciding:
 - Whether a recipe is approved for student use.
 - Whether an AI-generated item can be used.
 - Whether a student may use specific equipment.
-- Whether a grade, discipline issue, allergen issue, or guest complaint needs formal handling.
+- Whether a grade, discipline issue, or guest complaint needs formal handling.
 - Whether an archived system should become current again.
 
 ## Weekly Minimum Documentation

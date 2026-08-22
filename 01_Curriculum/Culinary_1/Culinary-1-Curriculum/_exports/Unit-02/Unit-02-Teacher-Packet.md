@@ -1,4 +1,4 @@
-﻿# Unit 02 Teacher Packet: Food Handler and Stewardship
+# Unit 02 Teacher Packet: Food Handler and Stewardship
 ## Unit Overview
 Weeks covered: Week 2
 Focus: Safety becomes behavior.
@@ -7,7 +7,6 @@ This unit keeps the course practical and lab-centered. Students practice:
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 - thermometer use
 - laundry, counters, dishes, storage, floors
@@ -16,7 +15,7 @@ The goal is steady beginner competence through repeated practice, safety, sanita
 ## Teaching Flow
 - Monday: Food safety, personal hygiene, and handwashing routines.
 - Tuesday: Cleaning, sanitation, counters, towels, laundry, and floors.
-- Wednesday: Cross contamination, allergens, storage, and dish systems.
+- Wednesday: Cross contamination, storage, and dish systems.
 - Thursday: Brownie batter or baking brownies with sanitation checkpoints.
 - Friday: Chicken breast temperature lab, thermometer use, dish flow, and reset.
 Daily pattern: entry routine, agenda check, huddle, short demo or mini-lesson, student practice, teacher checkpoint, cleanup/reset, and exit reflection.
@@ -40,7 +39,7 @@ Daily pattern: entry routine, agenda check, huddle, short demo or mini-lesson, s
 - Connect the demo to the lab task or Bistro use.
 ## Safety Reminders
 - Wash hands at required times.
-- Keep raw, ready-to-eat, allergen, and clean items separated.
+- Keep raw, ready-to-eat, and clean items separated.
 - Use sanitizer correctly.
 - Use thermometer as evidence, not guessing.
 - Follow three-compartment sink or dish machine directions.

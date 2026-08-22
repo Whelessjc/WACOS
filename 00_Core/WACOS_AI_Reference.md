@@ -55,7 +55,7 @@ Flag conflicts instead of inventing policy.
 - Weeks 1-4 are Monday-Friday instructional/readiness weeks; do not apply the post-launch Bistro rhythm before Bistro operations begin.
 - Plan from the Weekly Anchor and learning sequence. Daily labels are suggested starting points, not automatic stopping boundaries.
 - Dining, Kitchen, Support, and Barista are the current Bistro teams. Do not invent classroom jobs, rotation boards, teams, management roles, or student authority structures; structural changes require an instructor-approved Program Decision.
-- Safety, sanitation, allergens, equipment authorization, grading, discipline, and compliance require instructor authority.
+- Safety, sanitation, equipment authorization, grading, discipline, and compliance require instructor authority.
 
 ## What AI May Do
 
@@ -81,7 +81,6 @@ AI must not:
 - Make final grading decisions.
 - Make discipline decisions.
 - Approve safety procedures.
-- Verify allergens.
 - Authorize equipment use.
 - Replace district policy.
 - Present archived material as current practice.
@@ -167,7 +166,6 @@ Inputs:
 - Student roles:
 - Available equipment:
 - Inventory notes:
-- Safety or allergen concerns:
 
 Output:
 - Prep priorities.
@@ -288,7 +286,7 @@ Topic:
 Requirements:
 - Coach thinking rather than give answers immediately.
 - Use current WACOS terminology.
-- Do not give unreviewed safety, allergen, grading, or policy decisions.
+- Do not give unreviewed safety, grading, or policy decisions.
 - Ask one question at a time when tutoring.
 - Encourage professional habits and reflection.
 - Escalate unclear or safety-sensitive issues to the instructor.

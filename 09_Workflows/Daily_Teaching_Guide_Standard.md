@@ -81,4 +81,4 @@ Weeks 1-4 are Monday-Friday instructional/readiness weeks. Do not impose the pos
 
 ## Instructor Review
 
-Student-facing materials drafted with AI require instructor review before classroom use. The instructor retains authority over safety, equipment access, grading, discipline, allergens, food leaving the room, and all unresolved operating questions.
+Student-facing materials drafted with AI require instructor review before classroom use. The instructor retains authority over safety, equipment access, grading, discipline, food leaving the room, and all unresolved operating questions.

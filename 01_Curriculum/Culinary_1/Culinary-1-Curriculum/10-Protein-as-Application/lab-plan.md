@@ -1,4 +1,4 @@
-﻿# Lab Plan: Protein as Application
+# Lab Plan: Protein as Application
 
 ## Lab Purpose
 Use simple proteins to apply the core Culinary 1 fundamentals in a controlled way.
@@ -37,7 +37,6 @@ Use simple proteins to apply the core Culinary 1 fundamentals in a controlled wa
 - Stage thermometers and sanitizer.
 - Assign roles.
 - Review temperature expectations.
-- Identify soy and any additional recipe allergens; stage separate tools or sequencing as required by the allergen-control plan.
 
 ## Procedure
 1. Complete handwashing and station setup.
@@ -58,7 +57,7 @@ Use simple proteins to apply the core Culinary 1 fundamentals in a controlled wa
 - Doneness verified.
 - Station sanitized after protein work.
 - Raw tools and clean tools do not cross over.
-- Tofu is pressed/handled, portioned, seasoned, and cooked to the assigned quality standard without allergen cross-contact.
+- Tofu is pressed or otherwise moisture-managed, portioned, seasoned, and cooked to the assigned quality standard.
 
 ## Cleanup and Reset Expectations
 Raw protein surfaces sanitized, thermometers cleaned, boards washed, knives handled safely, towels managed, floors checked, trash handled.

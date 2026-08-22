@@ -60,7 +60,6 @@ Keep spices organized and closed.
 ## Slide 7: Tasting Rules
 - Clean spoon
 - No double-dip
-- Name allergens
 - Use respectful words
 
 Teacher note:
@@ -96,7 +95,7 @@ Keep cultural respect clear and simple.
 
 ## Slide 11: Cleanup and Reset
 - Tasting tools handled
-- Allergens cleaned
+- surfaces cleaned
 - Spices closed
 - Counters sanitized
 - Trash checked

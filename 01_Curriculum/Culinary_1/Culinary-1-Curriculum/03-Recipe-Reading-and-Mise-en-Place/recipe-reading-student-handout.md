@@ -19,7 +19,20 @@ The purpose of recipe reading is to know what you are doing before you touch ing
 | Equipment | What tools, pans, bowls, and machines are needed |
 | Steps | What happens and in what order |
 | Time | Mixing, cooking, baking, cooling, or holding time |
-| Safety notes | Allergens, heat, raw food, sharp tools, or special directions |
+| Safety notes | Heat, raw food, sharp tools, or special directions |
+
+## Recipe and Product Plan
+Before production, answer:
+
+1. What are we making, and what is its instructor-approved purpose?
+2. What yield should the recipe produce?
+3. What is the approved portion plan?
+4. Who or what is the approved destination?
+5. What handling, packaging, presentation, or storage is required?
+6. What happens to the remaining product?
+7. What must the instructor approve before we begin?
+
+Making a product does not make it automatic student food.
 
 ## Before You Cook Checklist
 - [ ] I read the whole recipe.
@@ -47,7 +60,7 @@ Use the recipe to answer:
 - Slow down when reading fractions.
 
 ## Safety Reminders
-- Check for allergens before starting.
+- Check the recipe and approved product plan before starting.
 - Ask before using unfamiliar equipment.
 - Notice any hot, sharp, raw food, or sanitation warnings in the recipe.
 - Keep shared ingredients clean and covered when you are finished with them.

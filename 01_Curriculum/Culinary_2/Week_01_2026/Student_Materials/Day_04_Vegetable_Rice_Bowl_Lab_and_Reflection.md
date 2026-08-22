@@ -12,7 +12,7 @@ Use during the lab. Complete the reflection orally unless the instructor request
 - [ ] Hands washed and sanitation system ready
 - [ ] Equipment and ingredients checked
 - [ ] Rice method and vegetable cut plan confirmed
-- [ ] Hazards, allergens, and approval points identified
+- [ ] Hazards, and approval points identified
 - [ ] Instructor authorization received
 
 ## During Production

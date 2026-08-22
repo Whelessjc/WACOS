@@ -28,19 +28,18 @@ Pause when students need to name what they see, choose a next step, or connect t
 ## Common Student Misunderstandings
 - Students add too much at once.
 - Students taste with dirty spoons.
-- Allergens are not named clearly.
 - Students describe foods carelessly or claim authenticity.
 - Cleanup leaves sticky or strongly scented surfaces.
 
 ## Safety Reminders
 - Use clean tasting spoons every time.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 - Prevent cross contact between tasting samples.
 - Sanitize tasting surfaces.
 
 ## Cleanup / Reset Reminders
-- Control tasting trash, spoons, cups, allergen surfaces, counters, towels, and floors.
+- Control tasting trash, spoons, cups, counters, towels, and floors.
 - Close and store seasonings correctly.
 - Check that strong-smelling ingredients are sealed and returned.
 

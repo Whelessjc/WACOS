@@ -67,7 +67,7 @@ Date:
 ## 7. AI Use
 
 - [ ] AI is used as support, not authority.
-- [ ] AI does not replace instructor judgment, safety decisions, grading, allergen verification, or district policy.
+- [ ] AI does not replace instructor judgment, safety decisions, grading, or district policy.
 - [ ] Student-facing AI coaches thinking rather than simply providing answers.
 - [ ] AI-generated recipes, assessments, safety instructions, and communications require instructor review.
 - [ ] The document names its source base when AI is used to generate or revise policy-like content.

@@ -206,7 +206,6 @@ These are plans only. Do not treat them as finished posters or images until the 
 - **Suggested format:** Balance map
 - **What it should show:** salt, acid, fat, aromatics, herbs/spices
 - **Student-facing language:** Taste. Name the need. Adjust small. Taste again.
-- **Teacher notes:** Include allergen reminder.
 - **Priority:** medium
 
 ## Protein Doneness

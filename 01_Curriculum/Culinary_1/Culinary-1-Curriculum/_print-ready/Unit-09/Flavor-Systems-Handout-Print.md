@@ -29,7 +29,7 @@ The goal is practical kitchen confidence. Work safely, stay organized, use clear
 - Clean station before, during, and after work.
 - Team communication that helps the task move.
 ## Bistro Connection
-Flavor systems support Bistro consistency, tasting, seasoning, prep, allergen awareness, and guest experience. Food should be checked thoughtfully before it goes out.
+Flavor systems support Bistro consistency, tasting, seasoning, prep, and guest experience. Food should be checked thoughtfully before it goes out.
 ## Student Self-Check
 - [ ] I understand today's task before starting.
 - [ ] My station is set up before work begins.
@@ -42,7 +42,7 @@ Flavor systems support Bistro consistency, tasting, seasoning, prep, allergen aw
 - Taste safely with clean spoons.
 - Adjust in small steps.
 - Use specific words: salty, bright, rich, bitter, spicy, flat, sharp, balanced.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Respect cultural origins without claiming that a classroom version is authentic.
 
 ---

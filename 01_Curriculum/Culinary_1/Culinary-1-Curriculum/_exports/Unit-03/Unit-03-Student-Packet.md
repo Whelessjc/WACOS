@@ -46,7 +46,7 @@ Before cooking, look for:
 - Equipment: what tools, bowls, pans, or machines are needed
 - Steps: what happens and in what order
 - Timing: baking, cooling, simmering, resting, or waiting time
-- Safety notes: allergens, heat, raw food, sharp tools, or sanitation warnings
+- Safety notes: heat, raw food, sharp tools, or sanitation warnings
 
 ## How to Identify Ingredients, Equipment, and Steps
 Ask your group:
@@ -112,7 +112,6 @@ Use short, clear words:
 ## Safety Expectations
 - Use Food Handler habits every day.
 - Wash hands before food work and after contamination.
-- Treat allergens seriously, especially peanut butter.
 - Do not crowd hot pans, rice cookers, or cooking stations.
 - Use "hot" and "behind" when moving around the kitchen.
 - Ask before using equipment you are not cleared to use.

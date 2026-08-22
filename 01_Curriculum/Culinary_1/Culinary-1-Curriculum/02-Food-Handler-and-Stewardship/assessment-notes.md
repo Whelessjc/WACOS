@@ -4,7 +4,6 @@
 - Handwashing observation
 - Sanitizer and counter check
 - Dish flow observation
-- Allergen scenario response
 - Thermometer placement practice
 - Stewardship role completion
 
@@ -13,7 +12,6 @@ Students demonstrate readiness by completing a lab while maintaining sanitation,
 
 ## Observation Points
 - Does the student clean without waiting until the end?
-- Does the student understand allergen seriousness?
 - Does the student keep raw items controlled?
 - Does the student use the thermometer correctly?
 - Does the student help reset shared spaces?

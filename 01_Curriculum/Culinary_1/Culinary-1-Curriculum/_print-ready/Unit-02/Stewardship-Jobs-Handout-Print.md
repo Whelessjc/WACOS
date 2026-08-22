@@ -13,7 +13,6 @@ The goal is practical kitchen confidence. Work safely, stay organized, use clear
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 - thermometer use
 - laundry, counters, dishes, storage, floors

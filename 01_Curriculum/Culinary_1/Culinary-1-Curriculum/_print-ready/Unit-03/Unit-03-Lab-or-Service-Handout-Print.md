@@ -89,7 +89,7 @@ Before cooking, complete this quick plan.
 If your group is smaller, combine roles. Everyone still helps clean.
 
 ## Safety Reminders
-- Check allergens before starting.
+- Check the recipe before starting.
 - Wash hands before food work and after contamination.
 - Use "hot" when working near heat.
 - Do not crowd hot pans, rice cookers, or cooking stations.

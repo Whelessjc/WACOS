@@ -1,4 +1,4 @@
-﻿# Unit 09 Teacher Packet: Flavor Systems
+# Unit 09 Teacher Packet: Flavor Systems
 ## Unit Overview
 Weeks covered: Weeks 14 to 15
 Focus: Move beyond recipes and learn how flavor is built.
@@ -42,7 +42,7 @@ Daily pattern: entry routine, agenda check, huddle, short demo or mini-lesson, s
 ## Safety Reminders
 - Use clean spoons for tasting.
 - No double-dipping.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 - Sanitize tasting surfaces.
 ## Pacing Notes
@@ -59,14 +59,14 @@ Daily pattern: entry routine, agenda check, huddle, short demo or mini-lesson, s
 ## Cleanup and Reset Expectations
 Work is not complete until:
 - Tasting spoons and cups handled correctly
-- Allergen surfaces cleaned
+- affected surfaces cleaned
 - Counters sanitized
 - Ingredients closed and stored
 - Tools washed
 - Towels, trash, and floors checked
 - Station ready for the next group
 ## Bistro / Service Connection
-Flavor systems support Bistro consistency, tasting, seasoning, prep, allergen awareness, and guest experience. Food should be checked thoughtfully before it goes out.
+Flavor systems support Bistro consistency, tasting, seasoning, prep, and guest experience. Food should be checked thoughtfully before it goes out.
 ## Teacher Reflection Space
 - Which habit improved?
 - Which safety or sanitation routine needs reteaching?

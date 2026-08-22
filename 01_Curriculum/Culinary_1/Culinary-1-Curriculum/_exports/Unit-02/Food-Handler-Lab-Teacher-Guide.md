@@ -1,4 +1,4 @@
-﻿# Food Handler and Stewardship Teacher Guide
+# Food Handler and Stewardship Teacher Guide
 ## Pre-Class Setup
 - Stage tools, products, sanitizer, towels, dish supplies, and station signs.
 - Post the daily focus and reset expectations.
@@ -13,7 +13,7 @@
 - Show what cleanup/reset looks like.
 ## Safety Watch-Outs
 - Wash hands at required times.
-- Keep raw, ready-to-eat, allergen, and clean items separated.
+- Keep raw, ready-to-eat, and clean items separated.
 - Use sanitizer correctly.
 - Use thermometer as evidence, not guessing.
 - Follow three-compartment sink or dish machine directions.

@@ -3,7 +3,7 @@
 ## Unit Overview
 Week 3 focus: read before cooking. Organize before acting.
 
-Students finish Food Handler review and assessment, then practice reading recipes, identifying and retrieving common equipment, sequencing steps, building prep lists, measuring carefully, setting mise en place, and keeping a clean station while they cook.
+Students finish Food Handler review and assessment, then practice reading recipes, identifying and retrieving common equipment, sequencing steps, building prep lists, measuring carefully, setting mise en place, defining the approved purpose and destination of the product, and keeping a clean station while they cook.
 
 ## Week at a Glance
 | Day | Focus | Main Application |
@@ -27,13 +27,13 @@ Students finish Food Handler review and assessment, then practice reading recipe
 ### Tuesday: Recipe Reading
 - Opening: huddle on "read before cooking."
 - Mini-lesson/demo: title, yield, ingredients, equipment, steps, timing, and warning signs in a recipe. Add a physical Equipment Literacy demonstration of no more than 10 minutes covering full, half, third, six, and nine hotel pans in standard/200 and deep/400 depths; plastic six pans used on the line; metal nine pans used for mise and spoon storage; perforated pans; and full, half, quarter, and eighth sheet pans with fitted resting racks.
-- Student work: annotate a simple recipe, build ingredient/equipment lists, and retrieve and return a named pan correctly.
+- Student work: annotate a simple recipe, build ingredient/equipment lists, identify intended use, yield, portion plan, destination, handling/storage, and remaining-product plan, and retrieve and return a named pan correctly.
 - Application: identify what is needed for peanut butter bars before touching ingredients.
 - Prompt: "What should your group know before you pick up food?"
 - Reset: return tools, close shared ingredients, wipe surfaces, and reset tables.
 
 ### Wednesday: Peanut Butter Bars
-- Opening: entry routine, handwashing, station setup, allergen reminder.
+- Opening: entry routine, handwashing, station setup
 - Mini-lesson/demo: measuring accuracy, reading the whole recipe, and following sequence. Add a physical Equipment Literacy demonstration of no more than 10 minutes covering 2-, 4-, 8-, 12-, and 22-quart Cambros; 22- and 33-quart Lexans; 8-, 16-, and 32-ounce deli cups (1 cup, 1 pint, and 1 quart); 1- and 2-ounce disposable soufflé cups; and correct lid matching. Deli cups share one lid. Demonstrate Cambro lid matching physically without requiring students to memorize the color system.
 - Student work: assign roles, make a simple prep list, and set mise en place.
 - Application: prepare peanut butter bars as directed.
@@ -61,7 +61,6 @@ Equipment Literacy is checked through correct named-item retrieval and return du
 ## Setup Notes
 - Prepare Food Handler review or assessment materials for Monday.
 - Choose simple recipes for annotation and lab use.
-- Confirm peanut allergy plan before peanut butter bar day.
 - Stage measuring tools, mixing bowls, sheet pans, rice cookers or pots, saute pans or woks, spatulas, spoons, towels, sanitizer, and dish supplies.
 - Stage ingredients in a way that limits crowding and supports shared ingredient stewardship.
 - Decide whether Friday stir fry heat work is student-managed, teacher-managed, or teacher-led.
@@ -70,7 +69,7 @@ Before each lab, confirm:
 - Recipe is visible to each group.
 - Ingredient pickup plan is clear.
 - Equipment plan is clear.
-- Safety and allergen plan is clear.
+- Safety plan is clear.
 - Dish-flow, towel, trash, floor, and reset plan are clear.
 
 ## Teacher Language and Prompts
@@ -80,12 +79,11 @@ Before each lab, confirm:
 - "Mise en place includes tools, ingredients, towels, trash, dishes, and a clean workspace."
 - "Measure over a separate bowl, not over the main container."
 - "Clean while the recipe is happening, not after the station falls apart."
+- "Making the product does not make it automatic student food; know its approved purpose and destination before production."
 
 ## Safety Reminders
 - Continue Food Handler habits every day.
-- Check peanut allergy needs before peanut butter bar work.
 - Wash hands before food work and after contamination.
-- Prevent cross-contact with shared ingredients and tools.
 - Use hot pan and steam language during rice and stir fry work.
 - Keep handles turned in and walk carefully around cooking stations.
 - Report spills and broken glass immediately.
@@ -123,6 +121,7 @@ Skills practiced:
 - Setting mise en place
 - Communicating during cooking
 - Cleaning as part of cooking
+- Planning the product's intended use, yield, portions, destination, handling/storage, and remaining product
 
 Suggested roles:
 - Reader: keeps the recipe visible and tracks the next step
@@ -137,7 +136,8 @@ Teacher checkpoints:
 - Prep list makes sense
 - Measuring is careful
 - Mise en place is visible
-- Heat or allergen risks are controlled
+- Product plan is clear and instructor-approved
+- Heat risks are controlled
 - Reset is complete
 
 ## Bistro Connection

@@ -2,7 +2,6 @@
 
 ## Readiness Checklist
 - [ ] I know the tasting rules.
-- [ ] I know if allergens are present.
 - [ ] I have a clean tasting spoon or cup.
 - [ ] I know the flavor focus.
 
@@ -12,7 +11,6 @@
 - [ ] Describe specifically.
 - [ ] Respect the food and culture being discussed.
 - [ ] Clean between samples.
-- [ ] Keep allergens and tasting tools controlled.
 - [ ] Communicate flavor changes before a batch is shared.
 
 ## Skill Checks
@@ -24,13 +22,13 @@
 - [ ] Spices
 - [ ] Balance
 - [ ] Adjustment
-- [ ] Allergen-aware reset
+- [ ] sanitary reset
 - [ ] Service-ready flavor check
 
 ## Cleaning and Reset Checks
 - [ ] Tasting items handled.
 - [ ] Counters sanitized.
-- [ ] Allergens contained.
+- [ ] ingredients contained.
 - [ ] Tools returned.
 - [ ] Floor checked.
 

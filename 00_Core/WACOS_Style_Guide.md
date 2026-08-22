@@ -192,7 +192,7 @@ AI writing should:
 
 AI writing should not:
 
-- Make final safety, allergen, grading, discipline, legal, or compliance decisions.
+- Make final safety, grading, discipline, legal, or compliance decisions.
 - Present archived material as current policy.
 - Revive obsolete ProStart-centered language.
 - Use generic culinary-school assumptions.

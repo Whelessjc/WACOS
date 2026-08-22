@@ -56,12 +56,12 @@ Your teacher will assign the tools, equipment, and products for the day. Check t
 ## Safety Reminders
 - Use clean spoons for tasting.
 - No double-dipping.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 - Sanitize tasting surfaces.
 ## Cleanup and Reset Checklist
 - [ ] Tasting spoons and cups handled correctly
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Counters sanitized
 - [ ] Ingredients closed and stored
 - [ ] Tools washed
@@ -75,11 +75,11 @@ Your teacher will assign the tools, equipment, and products for the day. Check t
 5. What reset job did you complete?
 
 ## Flavor Build Checkpoints
-- Soy and ginger: watch salt level and soy allergens.
+- Soy and ginger: watch salt level.
 - Vinegar and herbs: notice acid and aroma.
 - Chili and citrus: control heat and brightness.
-- Yogurt and spice: watch dairy allergens and balance.
-- Coconut and curry: watch coconut allergens and respectful language.
+- Yogurt and spice: watch balance.
+- Coconut and curry: use respectful language.
 
 ---
 

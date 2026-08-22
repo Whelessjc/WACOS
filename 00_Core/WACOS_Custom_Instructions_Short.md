@@ -36,7 +36,7 @@ For new or substantially revised instructional materials, identify the Knowledge
 
 Avoid unnecessary educational jargon, promotional language, and overcomplicated systems.
 
-Do not make final decisions about grades, discipline, safety approval, allergens, equipment authorization, legal compliance, district policy, or student-specific judgments. For those issues, draft options and flag what needs instructor confirmation.
+Do not make final decisions about grades, discipline, safety approval, equipment authorization, legal compliance, district policy, or student-specific judgments. For those issues, draft options and flag what needs instructor confirmation.
 
 If information conflicts or policy is unclear, say so instead of inventing policy. Current instructor-confirmed decisions override the Core Manual, current WACOS documents, and archived materials.
 

@@ -38,7 +38,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   8. While baking, combine garlic-basil oil ingredients.
   9. Cool 3-5 minutes on a rack; drizzle with garlic-basil oil and a little parmesan before slicing.
 - **Food safety controls**: Standard dairy/gluten handling; cool before wrapping leftovers.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Golden, flaky, laminated crust (visible layers); cheese melted and browned in spots, not burnt.
 - **Holding/storage**: Best served fresh. Reheat leftover slices wrapped in foil at 350F until warmed through, about 10 minutes.
 - **Scaling notes**: This is a real, tested 16-portion batch on a specific pan size - scaling up requires proportional pan size and may need dividing into multiple half-sheets rather than one oversized batch.
@@ -65,7 +64,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   5. Pan up in the hotel pan or 9x13s. Cover and bake to reheat, or serve stovetop-style if serving immediately.
   6. Top with sliced scallions at service.
 - **Food safety controls**: Chicken must already be fully cooked (smoked) and reheated to 165F if held or refrigerated before combining. Cheese sauce held above 135F for service.
-- **Allergens**: Dairy, gluten.
 - **Quality indicators**: Smooth, coating sauce consistency (not broken or greasy); pasta al dente, not mushy; even cheese melt.
 - **Holding/storage**: Holds reasonably well covered in a hotel pan; stir occasionally to prevent sauce separation. Reheat gently, adding a splash of milk if it's tightened up.
 - **Scaling notes**: Already a real ~30-portion batch. Scale the base recipe linearly; scale smoked chicken to taste/supply rather than a fixed ratio.
@@ -94,7 +92,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   3. Add remaining ingredients (brunoise vegetables, mayonnaise) and mix.
   4. Portion onto rolls for service.
 - **Food safety controls**: Shrimp cooked to 145F; cooled to 41F or below before combining with mayonnaise-based dressing; hold cold (41F or below) until service.
-- **Allergens**: Shellfish, egg (mayonnaise).
 - **Quality indicators**: Shrimp firm and well-seasoned (not overcooked/rubbery), vegetables cut to a consistent fine brunoise, dressing binds without being soupy.
 - **Holding/storage**: Cold-hold at 41F or below; discard per standard TCS food time limits if left out.
 - **Scaling notes**: Scales linearly per the ratios above. Needs a confirmed target yield - this is a real gap worth closing with the instructor, since the source recipe never stated one.
@@ -120,7 +117,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   8. Let rise covered in the pan 1 more hour.
   9. Bake at 425F (convection) for 15-20 minutes, or until internal temperature reaches 210F.
 - **Food safety controls**: Standard gluten/yeast handling; confirm doneness by internal temperature, not just color.
-- **Allergens**: Gluten.
 - **Quality indicators**: Golden top, open airy crumb, internal temp of 210F confirmed with a thermometer.
 - **Holding/storage**: Cool before slicing for sandwiches; store wrapped at room temperature for same-day use.
 - **Scaling notes**: Already a real production-scale batch (1400 g flour fills a half-sheet). Scales by weight if a larger batch is needed. **Alternate hydration noted**: the "Artisan Bread I" board notes (`17 - Advanced Baking & Pastry/artisanBread.boardNotes.pdf`) give a second, higher-hydration plain focaccia formula for a smaller (2.0 lb) batch - 9 g dry yeast, 340 g (12 oz) water, 12 g sugar, 510 g (1 lb 2 oz) flour, 5 g salt - about 67% hydration vs. this entry's 57%, mixed 6 minutes, rounded, given three 20-minute proofs, and baked at 360°F for 20+ minutes. Same plain oil-and-water style dough as this entry (not the herbed Rosemary Milk-Dough Focaccia in `Breads.md`, which is a genuinely different recipe); likely program scale/ratio drift on the same base rather than a separate dish, so folded in here as an alternate hydration rather than a duplicate entry. Use the wetter (67%) version for a more open, airy crumb if preferred.
@@ -145,7 +141,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   5. Warm tortillas with slight charring; fill with carnitas, top with pickled onions, cilantro, and queso fresco.
   6. Serve with lime wedges and tomatillo salsa.
 - **Food safety controls**: Pork cooked/held to safe internal temperature throughout the smoke-then-braise process; verify with a thermometer before shredding.
-- **Allergens**: Dairy (queso fresco).
 - **Quality indicators**: Fork-tender pork with crisped edges after the final sear, balanced acidity from citrus.
 - **Holding/storage**: Shredded pork holds well covered and warm; crisp just before service for best texture.
 - **Scaling notes**: Scales linearly by pork weight; smoker capacity is the real constraint on batch size, not the recipe ratios.
@@ -172,7 +167,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   4. Add cheddar first and let it melt before adding mozzarella. Thin with extra milk if too thick.
   5. Combine with cooked pasta.
 - **Food safety controls**: Standard dairy handling; hold above 135F for service.
-- **Allergens**: Dairy, gluten.
 - **Quality indicators**: Smooth coating sauce, visible mustard seed texture, balanced smoke flavor from the cheese.
 - **Holding/storage**: Holds covered; stir occasionally and thin with milk if it tightens.
 - **Scaling notes**: Scales linearly from an 8-serving base - smaller than the Creamy Multi-Cheese Mac's ~30-serving batch.
@@ -193,7 +187,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   3. Add mayonnaise, olive oil, vinegar, salt, pepper, and Italian seasoning; chop once more to incorporate.
   4. Pile onto a hoagie roll and serve.
 - **Food safety controls**: Standard deli-meat handling; keep cold until assembly.
-- **Allergens**: Dairy (cheese), gluten (roll); confirm deli meats for additional allergens.
 - **Quality indicators**: Evenly chopped, dressing distributed throughout (not pooling at the bottom), roll not soggy.
 - **Holding/storage**: Assemble close to service; the chopped salad component can be held cold briefly, but the sandwich itself doesn't hold well once built.
 - **Scaling notes**: Scales linearly per sandwich.
@@ -217,7 +210,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   6. Pour into the pan; bake 20-25 minutes until center is set with moist crumbs.
   7. Brush with melted butter and salt; rest 10 minutes before cutting into 30-36 pieces.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Egg, dairy, gluten.
 - **Quality indicators**: Moist crumb, not dry or crumbly; evenly baked with a set center.
 - **Holding/storage**: Store covered at room temperature; best same-day.
 - **Scaling notes**: Already a real half-sheet-pan batch.
@@ -256,7 +248,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   3. Stir in pasta; cook uncovered 10 more minutes until pasta is cooked through.
   4. Season to taste; serve with parsley, red pepper flakes, and parmesan if desired.
 - **Food safety controls**: Bring to a full simmer/boil during cooking; cool in shallow batches before refrigerating if made ahead; reheat to 165F before service.
-- **Allergens**: Gluten (pasta); confirm broth for any hidden allergens.
 - **Quality indicators**: Vegetables tender but not mushy, pasta cooked through without being overcooked and starchy, well-balanced seasoning.
 - **Holding/storage**: If holding for service, keep pasta separate and add just before service to prevent it from over-absorbing broth and going soft. Cool in shallow pans if refrigerating.
 - **Scaling notes**: Scales linearly per the ratios above. Consider cooking pasta separately and adding to individual bowls at pickup for a large batch, rather than in the full pot, to protect texture over a long service window.

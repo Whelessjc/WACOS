@@ -57,7 +57,7 @@ Current as of 2026-07. Source: real Server Side Work Checklist in current use. S
 - Apply the 30-Second Greet, table setting standard, and Left-Lower-Leave serving from `Service_Standards.md`.
 - Use order shorthand accurately; write out anything unusual in full.
 - Track service time benchmarks; communicate early if a table is falling behind.
-- Flag allergies and dietary restrictions to the kitchen immediately - never guess.
+- Flag dietary restrictions to the kitchen immediately - never guess.
 - Use HEARD if a guest raises a complaint directly.
 
 ## Closing Duties

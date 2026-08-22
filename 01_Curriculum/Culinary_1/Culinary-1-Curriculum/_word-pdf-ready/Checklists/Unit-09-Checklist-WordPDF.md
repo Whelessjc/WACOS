@@ -31,7 +31,7 @@ Move beyond recipes and learn how flavor is built.
 - [ ] Trash and floors checked.
 ## Reset
 - [ ] Tasting spoons and cups handled correctly
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Counters sanitized
 - [ ] Ingredients closed and stored
 - [ ] Tools washed

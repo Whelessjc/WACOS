@@ -10,7 +10,7 @@
 - **Learning sequence:** Welcome and kitchen exploration -> Kitchen Mode and live routines -> read and mark the pancake recipe -> prepare mise en place -> pancake production -> full reset and brief reflection.
 - **Knowledge:** Essential locations, routines, recipe parts, measurements, heat/doneness cues, and reset expectations.
 - **Skill:** Locating, communicating, reading, measuring, preparing mise en place, introductory heat use, teamwork, and reset.
-- **Professional thinking:** Preparation, awareness, precision, communication, stewardship, and reflection.
+- **Professional thinking:** Preparation, awareness, precision, communication, hospitality, product stewardship, and reflection.
 
 ## Show / Students Do
 
@@ -19,9 +19,11 @@
 | Re-entry and room | High School, High Standards; Kitchen Mode; access and movement boundaries | Explore essential kitchen locations, use correct names, and return items |
 | Live routines | Entry, handwashing, callouts, movement, and what reset means | Rehearse movement and communication; reset one practice area |
 | Read before acting | How to scan and mark the approved pancake recipe; only the measurements needed | Read the same group recipe used for production, mark it, and stage a no-cook mise en place |
-| Production | Just-in-time equipment and heat direction; bubbles, set edges, color, and holding | Prepare mise en place, receive authorization, cook, record actual yield, present, and reset |
+| Production | Just-in-time equipment and heat direction; bubbles, set edges, color, holding, and the approved product plan | Prepare mise en place, receive authorization, cook, record actual yield, carry out the instructor-approved use or storage plan, and reset |
 
 ## Must Happen - Core Learning
+
+- Establish that making food does not make it automatic student food. The instructor controls the approved use, portion, distribution, storage, and any exception.
 
 - Students locate the hand sink, dish area, instructor-confirmed emergency/exit information, and required work areas.
 - Students practice Kitchen Mode, live movement callouts, handwashing, and a basic reset.

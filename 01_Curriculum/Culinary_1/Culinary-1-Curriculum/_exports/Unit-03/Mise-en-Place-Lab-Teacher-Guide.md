@@ -2,7 +2,6 @@
 
 ## Pre-Class Setup
 - Choose the day application: peanut butter bars, rice cookery, fried rice, or simple stir fry.
-- Confirm allergy plan, especially for peanut butter bar work.
 - Prepare recipe copies or display the recipe clearly.
 - Stage ingredients to limit crowding and support shared ingredient stewardship.
 - Stage measuring tools, bowls, pans, pots, rice cookers, saute pans or woks, spatulas, spoons, towels, sanitizer, and dish supplies as needed.
@@ -40,7 +39,6 @@
 - Station is organized enough to begin.
 
 ## Safety Watch-Outs
-- Peanut allergies and cross-contact
 - Measuring over shared ingredient containers
 - Crowding ingredient pickup or hot stations
 - Hot pans, steam, rice cookers, and splatter during stir fry

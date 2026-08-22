@@ -17,14 +17,13 @@ The purpose of recipe reading is to know what you are doing before you touch ing
 | Equipment list | Tools, pans, bowls, and machines needed |
 | Procedure | Steps to follow |
 | Timing | Mixing, cooking, baking, cooling, simmering, or holding time |
-| Safety notes | Allergens, heat, raw food, sharp tools, or sanitation warnings |
+| Safety notes | Heat, raw food, sharp tools, or sanitation warnings |
 
 ## Ingredient List
 When reading ingredients, check:
 - Amount
 - Unit of measure
 - Ingredient form, such as chopped, melted, cooked, cold, or softened
-- Allergens
 - Whether the ingredient is shared with other groups
 
 ## Equipment List
@@ -100,7 +99,7 @@ Before the recipe is truly finished:
 - Missing yield or timing
 - Measuring with the wrong tool
 - Adding ingredients out of order
-- Ignoring allergens or heat warnings
+- Ignoring heat warnings
 - Waiting until the end to clean
 
 ## Short Practice Activity

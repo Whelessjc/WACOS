@@ -347,7 +347,6 @@ Students name one reset job they will own today.
 ### On-Slide Text
 - Raw and ready-to-eat
 - Clean and dirty
-- Allergens
 - Phones and faces
 - Trash and floors
 
@@ -621,8 +620,6 @@ Students rehearse the routine once, then reset and do it again faster and calmer
 
 ### On-Slide Text
 - Wash hands
-- Prevent cross-contact
-- Treat allergens seriously
 - Sanitize stations
 - Store ingredients correctly
 
@@ -658,7 +655,6 @@ Use as a quick check for understanding before moving to the task.
 ### On-Slide Text
 - Check amounts
 - Check ingredient form
-- Watch allergens
 - Use shared ingredients carefully
 - Close and return items
 
@@ -764,7 +760,6 @@ Students identify what is missing from a sample station setup.
 ## Slide 13: Lab Safety
 
 ### On-Slide Text
-- Peanut allergy awareness
 - Hot pans and steam
 - Crowding creates risk
 - Use "hot" and "behind"
@@ -2223,7 +2218,6 @@ Students name the cue they should watch before adjusting heat.
 ### On-Slide Text
 - Clean spoon
 - No double-dip
-- Name allergens
 - Use respectful words
 
 ### Suggested Visual
@@ -2291,7 +2285,7 @@ Use as a quick check for understanding before moving to the task.
 
 ### On-Slide Text
 - Tasting tools handled
-- Allergens cleaned
+- surfaces cleaned
 - Spices closed
 - Counters sanitized
 - Trash checked

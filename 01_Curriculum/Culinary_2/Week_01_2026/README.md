@@ -31,4 +31,4 @@ Sautéed vegetables over rice was the actual Week 1 vehicle. It joined recipe li
 
 During the final planning period, the instructor and TA record what students demonstrated, repeated questions or missing supports, section continuation needs, tomorrow's adjustment, and any durable keep/change/remove/add decision.
 
-The instructor retains final approval for student-facing materials, recipes, safety, allergens, grading, discipline, and equipment use.
+The instructor retains final approval for student-facing materials, recipes, safety, grading, discipline, and equipment use.

@@ -17,7 +17,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   3. Simmer in a pot 20-30 minutes to marry the flavors.
   4. Taste and adjust: more salt if flat, more lime if dull, more cilantro if you want it grassier, a splash of water if it feels heavy.
 - **Food safety controls**: Standard produce handling; cool before refrigerating.
-- **Allergens**: None inherent.
 - **Quality indicators**: Balanced heat, acid, and salt; texture still has some chunk, not a puree.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly by the quart.
@@ -40,7 +39,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   5. Pulse until smooth but still slightly chunky.
   6. Taste and adjust seasoning with more salt or lime as needed.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent.
 - **Quality indicators**: Balanced tang from tomatillos and lime, visible slight char flavor, not over-blended.
 - **Holding/storage**: Refrigerate in an airtight container up to 5 days.
 - **Scaling notes**: Scales linearly by tomatillo count.
@@ -62,7 +60,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   4. Add vinegar and water; stir and scrape the pan well. Reduce on low heat 15-20 minutes until jammy but still soft and spreadable.
   5. Stir in black pepper and thyme if using. Taste and adjust salt or add a splash more vinegar if it feels flat.
 - **Food safety controls**: Standard produce handling; cool before refrigerating.
-- **Allergens**: Dairy (butter).
 - **Quality indicators**: Jammy, spreadable texture - not caramelized to a deep brown or bitter; balanced sweet/acid.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly by onion weight; the long, low cook time is the real constraint on batch timing, not the ratios.
@@ -79,7 +76,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Ingredients**: 2 cups mayonnaise, 0.5 cup ketchup, 3 Tbsp all-purpose seasoning, 0.5 cup pickle juice, 0.25 cup chopped pickles.
 - **Procedure**: Mix all ingredients together until smooth.
 - **Food safety controls**: Standard mayonnaise-based sauce handling; hold cold.
-- **Allergens**: Egg (mayonnaise).
 - **Quality indicators**: Smooth, well-combined, balanced tang from pickle juice.
 - **Holding/storage**: Refrigerate in a covered container; standard mayonnaise-based product shelf life applies.
 - **Scaling notes**: Scales linearly - a simple mix-only recipe with no real batch ceiling.
@@ -102,7 +98,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   5. Season; adjust consistency with arrowroot if not finishing with butter.
   6. Strain; add the quartered preserved cherries.
 - **Food safety controls**: Standard stock/sauce handling; cool and refrigerate promptly if not used same-day.
-- **Allergens**: Dairy (butter, if used to finish); contains alcohol (brandy, cooked down).
 - **Quality indicators**: Glossy, well-balanced reduction; cherry sweetness balanced against the savory duck stock, not cloying.
 - **Holding/storage**: Refrigerate; reheat gently before service.
 - **Scaling notes**: **Needs confirmation** - source is written as a flexible base recipe rather than a fixed batch; establish a standard batch size in production.
@@ -122,7 +117,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   2. Add lemongrass, red pepper flakes, and honey; mix well.
   3. Add guar gum a little at a time, whisking, until the dressing thickens.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Smooth, lightly thickened body (guar gum should bind without clumping), balanced sweet-tart-spicy flavor.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly; add guar gum gradually regardless of batch size to avoid over-thickening.
@@ -145,7 +139,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   5. Add remaining ingredients; whisk hard to break up the garlic.
   6. Taste and adjust seasoning/consistency.
 - **Food safety controls**: Standard stock handling; cool before combining with other ingredients.
-- **Allergens**: Gluten (if using a wheat-based stock product - confirm); none inherent otherwise.
 - **Quality indicators**: Stable, lightly thickened body (a lower-fat vinaigrette style, thickened by starch rather than heavy emulsification), balanced acidity.
 - **Holding/storage**: Refrigerate; a versatile base for herb/flavor variations.
 - **Scaling notes**: Scales linearly; fat content (and calories) can be reduced further by cutting back the olive oil.
@@ -169,7 +162,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   6. Process in a boiling water canner 20 minutes, adjusting for altitude.
   7. Remove and cool; check the seal after 24 hours (lid should not flex when pressed).
 - **Food safety controls**: Proper home-canning/water-bath process is essential here - correct headspace, processing time, and altitude adjustment all affect seal safety; verify seal before storing at room temperature, and discard any jar that doesn't seal properly.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Properly sealed lid (doesn't flex), bright acidic tomato-herb flavor.
 - **Holding/storage**: Shelf-stable once properly sealed and processed; refrigerate after opening.
 - **Scaling notes**: Scales linearly by jar count; canner capacity may limit batch size per run.
@@ -188,7 +180,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   1. Combine all ingredients in a blender; blend on high until emulsified.
   2. Shake well before service (this vinaigrette will separate on standing).
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Balanced citrus flavor, temporarily emulsified (re-shakes easily, not permanently broken).
 - **Holding/storage**: Refrigerate; shake before each use.
 - **Scaling notes**: Already at production scale (32 portions per batch). Scale down proportionally for smaller runs.
@@ -214,7 +205,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   8. Purée until very smooth, adding more stock as needed for consistency.
   9. Return to the stove; simmer, adjust consistency, and season.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe (contains alcohol from the wine, cooked down).
 - **Quality indicators**: Silky, fully smooth purée (no fibrous texture), balanced consistency (not too thin - source notes an oversized cooking vessel requiring too much stock will make it watery).
 - **Holding/storage**: Refrigerate or freeze.
 - **Scaling notes**: Scales by weight; match pot size to batch size to keep the coulis from becoming too thin.
@@ -237,7 +227,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   5. Blend all the greens (grilled romaine, blanched parsley, blanched spinach) until smooth, like butter.
   6. Season with vinegar and salt to taste.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Completely smooth, vivid green color (a sign of proper blanch-and-shock to preserve color), balanced acid.
 - **Holding/storage**: Refrigerate in a covered container; color fades with time, so use promptly.
 - **Scaling notes**: Scales by weight; other lettuces/greens may be substituted per the source's own note.
@@ -258,7 +247,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   3. Add chopped herbs, mayonnaise, sour cream, and black pepper.
   4. Blend in the soured milk; combine well.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy, egg (mayonnaise).
 - **Quality indicators**: Creamy consistency (source notes the original recipe's 1 cup milk was corrected down to 1/2 cup after producing too thin a result), balanced garlic and herb flavor.
 - **Holding/storage**: Best served immediately; refrigerated leftovers keep up to a week.
 - **Scaling notes**: Scales linearly.
@@ -278,7 +266,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   2. Pour in lemon juice and capers; reduce by about 1/4, until a nice golden-brown color develops.
   3. Remove from heat; finish with the herbs.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy.
 - **Quality indicators**: Nutty, golden-brown color (not burnt/black), bright caper-lemon balance.
 - **Holding/storage**: Best made close to service; the browned-butter flavor is best fresh.
 - **Scaling notes**: Already at production scale (20 portions per batch). Scale down proportionally for smaller runs.
@@ -297,7 +284,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   1. Combine garlic, olive oil, broth, parsley, lemon juice, and vinegar in a food processor; process well.
   2. Add shallot, zest, and seasoning; pulse briefly to incorporate - do not purée further (over-processing the shallot can create an off-taste).
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Bright green flecks of parsley (fades with prolonged acid exposure, so best used fresh), stable temporary emulsion (shake before use if it sits).
 - **Holding/storage**: Best used within an hour of adding the parsley/shallot; hold those additions back if the dressing won't be used right away.
 - **Scaling notes**: Scales linearly; a stick processor can substitute for a full food processor.
@@ -317,7 +303,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   2. Toss salad ingredients with the appropriate amount of dressing.
   3. Check seasoning; present in a bowl or platter, garnished with hijiki and sesame seeds.
 - **Food safety controls**: Standard handling.
-- **Allergens**: Soy, sesame.
 - **Quality indicators**: Balanced sweet-salty-tangy flavor typical of a mirin-rice vinegar dressing.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly.
@@ -335,7 +320,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Procedure**:
   1. Whisk all ingredients together until the miso is fully incorporated.
 - **Food safety controls**: Standard handling.
-- **Allergens**: Soy.
 - **Quality indicators**: Smooth (no miso lumps), balanced umami-sweet-tangy flavor.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly.
@@ -354,7 +338,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   1. Combine canola oil, sesame oil, vinegar, miso, and ginger in a blender; blend until smooth.
   2. With the blender still running, add the water in a thin, steady stream; the dressing will thicken and become creamy as it emulsifies.
 - **Food safety controls**: Standard handling.
-- **Allergens**: Soy (miso), sesame.
 - **Quality indicators**: Thick, creamy, fully emulsified texture; re-emulsifies easily if shaken after separating.
 - **Holding/storage**: Refrigerated and covered, keeps several weeks; shake or re-blend if it separates.
 - **Scaling notes**: Scales linearly; the source's own notes (regular vs. dark sesame oil, rice vs. cider vinegar, using slightly less oil) show the recipe tolerates reasonable substitution.
@@ -378,7 +361,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   6. Ladle hot marmalade into hot jars, leaving 1/4" headspace. Wipe rims, apply lids and bands fingertip-tight.
   7. Process in a boiling water canner 10 minutes, adjusting for altitude. Cool; check seals after 24 hours.
 - **Food safety controls**: Sanitize jars even if new/unused; always fill to the recommended headspace to reduce oxidation risk; verify the seal before storing at room temperature.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Proper gel-stage set (not runny or overly stiff), balanced citrus-heat-sweet flavor, sealed lid.
 - **Holding/storage**: Shelf life 6 months-1 year once properly sealed; refrigerate after opening.
 - **Scaling notes**: Scales linearly by jar count; canner capacity may limit batch size per run.
@@ -399,7 +381,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   3. With the processor running, add olive oil.
   4. Add sherry vinegar, salt, and pepper to taste; adjust consistency with broth or oil as needed.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Stable, low-fat emulsion (formed mainly by the tomato and garlic rather than a heavy oil ratio); re-shake if it separates.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly; thin with additional broth for a lighter dressing.
@@ -419,7 +400,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   2. Combine all ingredients in a pot; cook on low heat.
   3. Cook until the tomatoes have broken down and the liquid has formed a syrup.
 - **Food safety controls**: Standard produce handling; cool and refrigerate promptly.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Syrupy, jam-like consistency, smoky-sweet-tangy balance.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Already at production scale (32 portions per batch). Scale down proportionally for smaller runs.
@@ -442,7 +422,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   5. Add remaining ingredients; heat until thickened, stirring constantly.
   6. Transfer to a nonreactive (glass) container; refrigerate at least 2 hours (up to a day) to let the flavors blend before serving.
 - **Food safety controls**: Standard handling; use nonreactive storage to avoid metallic reaction with the mustard's acidity.
-- **Allergens**: Mustard.
 - **Quality indicators**: Thick, spreadable consistency with visible whole seeds (the "stone ground" texture), balanced tang and sweetness.
 - **Holding/storage**: Refrigerate in a nonreactive container; flavor improves after resting.
 - **Scaling notes**: Already at production scale (32 portions per batch). Scale down proportionally for smaller runs.
@@ -464,7 +443,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   4. Squeeze remaining moisture from the cucumber; combine with the strained yogurt.
   5. Add remaining ingredients; refrigerate 1 hour before adjusting acidity/seasoning and serving.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy.
 - **Quality indicators**: Thick (not watery - straining both yogurt and cucumber is the key step), bright garlic-dill flavor.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly.
@@ -484,7 +462,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   2. Blend all ingredients together for about 5 minutes, until smooth.
   3. Taste and adjust seasoning.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: Mustard.
 - **Quality indicators**: Smooth, vividly colored purée, balanced sweet-tangy flavor.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: Scales linearly. A pinch of saffron can be added; other pepper colors can substitute (green is not recommended for color; poblano makes a dark green sauce and pairs well with cumin/coriander, per the source's own note). If too thin, thicken with a small starch slurry.
@@ -501,7 +478,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Ingredients (quantities not specified in source - needs confirmation)**: Red wine vinegar, minced red onion (or shallot), garlic, veal jus (or a neutral stock), extra-virgin olive oil, minced cilantro, parsley, dried oregano, red pepper flakes, salt.
 - **Procedure**: **Needs confirmation** - no procedure text survived the extraction. Standard chimichurri technique applies (finely chop/mince the herbs and aromatics, whisk with the vinegar and oil, season to taste) but should be confirmed against the original document or a fresh reference before use in production.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Vibrant green color, balanced acid-herb-garlic flavor.
 - **Holding/storage**: Refrigerate in a covered container.
 - **Scaling notes**: **Needs confirmation** - no usable base quantities survived extraction.
@@ -525,7 +501,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
   6. In a large heatproof bowl, combine the crispy onions, garlic, toasted benne seeds, peanuts, mustard seeds, and thyme. Pour the spiced oil over; stir to coat evenly.
   7. Cool completely; transfer to sterilized jars. Refrigerate up to 1 month. Stir before use, as the oil may separate.
 - **Food safety controls**: Standard produce/nut handling; cool completely before jarring to avoid condensation/spoilage risk; use sterilized jars.
-- **Allergens**: Peanut, sesame (benne seeds), soy (if a soy-based mustard seed product is substituted - unlikely here but confirm), mustard.
 - **Quality indicators**: Crispy (not soggy) onion and garlic bits, fragrant toasted spices without a burnt taste, good balance of crunch and heat.
 - **Holding/storage**: Refrigerate up to 1 month in sterilized jars; oil may separate on standing - stir before use.
 - **Scaling notes**: Scales linearly; toast spices/seeds in batches if scaling up significantly, to avoid uneven toasting.
@@ -542,7 +517,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Ingredients**: **Gullah Seasoning**: 1/4 cup celery salt, 1/4 cup paprika, 1/4 cup granulated garlic, 1/4 cup granulated onion, 1/4 cup black pepper, 2 tsp each ground bay leaf and ground ginger, 1 tsp each cinnamon, mace, dry mustard, and salt. **Gullah Seasoning for Fried Foods**: 1/4 cup each granulated garlic, granulated onion, salt, and black pepper, 1 Tbsp + 1 tsp paprika. **Gullah Barbecue Rub**: 1/4 cup Gullah Seasoning (above), 1/4 cup chili powder, 1/4 cup cumin, 1/4 cup black pepper, 1/4 cup paprika, 1/4 cup brown sugar. **Gullah Seafood Seasoning**: 1/4 cup each granulated garlic, granulated onion, salt, black pepper, and celery salt, 1 Tbsp + 1 tsp each paprika and dry mustard, 2 tsp each ground bay leaf, red pepper flakes, ground ginger, ground allspice, and ground cardamom, 1 tsp each ground cloves and mace. **Garam Masala**: 4 Tbsp coriander seed, 2 Tbsp cumin seed, 1 Tbsp black peppercorns, 2 tsp green cardamom seed, 2 cinnamon sticks, 1 whole clove, 1 whole nutmeg.
 - **Procedure**: **Gullah blends**: Combine the listed ingredients for each blend and store in a closed jar. **Garam Masala**: In a small pan, roast all the whole spices together, watching carefully so they don't burn. Mill the spices in a spice mill or mortar and pestle. Store in a dark, sealed container.
 - **Food safety controls**: Standard dry-goods handling.
-- **Allergens**: None inherent to these blends.
 - **Quality indicators**: Even color and texture with no clumping (dry blends), fragrant/toasted aroma for the freshly milled Garam Masala.
 - **Holding/storage**: Store in sealed, dark containers at room temperature; dry blends keep for months, freshly milled Garam Masala is best used within a few weeks for peak aroma.
 - **Scaling notes**: Each blend scales linearly by ratio.
@@ -559,7 +533,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Ingredients**: **Buttermilk pickle brine**: 4 cups buttermilk, 1 cup dill pickle juice, 1 Tbsp + 1 tsp kosher salt, 2 Tbsp sugar, 1 Tbsp + 1 tsp hot sauce, 1 Tbsp garlic powder, 1 Tbsp onion powder, 1 Tbsp smoked paprika, 2 tsp black pepper. **Crispy dredge**: 4 cups all-purpose flour, 2.5 cups cornstarch, 3 Tbsp all-purpose seasoning (house blend), 2 Tbsp powdered sugar, 2 tsp baking powder, optional 2 tsp chicken bouillon powder, 3-4 Tbsp buttermilk brine (rubbed into the dredge to make shaggy clumps).
 - **Procedure**: Combine all brine ingredients; submerge chicken (or other protein) and refrigerate to marinate. Combine all dredge ingredients; before breading, rub 3-4 Tbsp of the buttermilk brine into the dry dredge to form shaggy clumps, which create extra craggy texture on the fried surface. Dredge the brined protein through the clumped mixture, pressing to adhere, before frying.
 - **Food safety controls**: Standard poultry/dairy handling; keep brine and raw protein refrigerated during marination; discard used brine after contact with raw protein.
-- **Allergens**: Dairy (buttermilk), gluten (flour).
 - **Quality indicators**: Tangy, well-seasoned brined flavor throughout the meat; extra-craggy, crisp dredge exterior from the shaggy-clump technique.
 - **Holding/storage**: Brine holds refrigerated a few days before use; dredge is a dry mix, store airtight at room temperature (add the fresh buttermilk clumps just before breading).
 - **Scaling notes**: Both components scale linearly by ratio.
@@ -576,7 +549,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Ingredients**: 1-2 tsp juniper berries (optional), 1 tsp black peppercorns (or white), 1 bay leaf, 5-6 stems fresh thyme, 1 clove garlic, 1 cup water, 2 Tbsp table salt (or 30 g of any other salt), 1 Tbsp granulated sugar, 3 cups cold water (or ice water).
 - **Procedure**: Place 1 cup of water in a small pot and bring to a simmer. Add the salt and sugar; stir to dissolve. Smash the whole garlic clove and add it to the pot. Press the juniper berries to release their aroma; add them along with the peppercorns, bay leaf, and thyme. Bring to a gentle boil; turn off the heat, cover, and let steep 20-30 minutes. Before using, add the remaining 3 cups of cold water (including ice if needed) - for food safety, the brine must be very cold before the meat is added.
 - **Food safety controls**: Brine must be fully chilled before adding raw meat/poultry; discard used brine after contact with raw protein.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Well-infused aromatic flavor without over-salting; properly cold before use.
 - **Holding/storage**: Refrigerate until ready to use; discard after brining raw protein.
 - **Scaling notes**: Source notes that larger quantities of meat will likely require multiplying the recipe.
@@ -593,7 +565,6 @@ Current as of 2026-07. Real condiment/sauce recipes in current use - these pair 
 - **Ingredients**: *Dry seasoning blend*: 1 cup Greek seasoning (dry), 1/2 cup Montreal chicken seasoning (dry), 1 cup oregano (dry), 1/4 cup red pepper flake (dry), 3/4 cup sugar. *Sauce base*: 1 can crushed tomatoes, 2 cans "extra heavy basil" pizza sauce, 3 cans water (can size **needs confirmation**).
 - **Procedure**: Combine the dry seasoning blend ingredients (Greek seasoning, Montreal chicken seasoning, oregano, red pepper flake, sugar) and set aside. Puree the crushed tomatoes. Add the dry seasoning blend and puree again to fully incorporate. Add the basil pizza sauce and water; mix well.
 - **Food safety controls**: Standard canned-goods handling; hold cold once mixed if not used immediately.
-- **Allergens**: None inherent to this recipe - confirm the specific Montreal chicken seasoning and basil pizza sauce brands used for hidden allergens.
 - **Quality indicators**: Well-balanced herb/spice flavor from the dry blend (not one seasoning dominating), smooth pureed texture, pourable/spreadable sauce consistency (not watery from over-diluting with the water addition).
 - **Holding/storage**: Refrigerate airtight; standard sauce holding practice.
 - **Scaling notes**: Written at a commercial batch size using canned goods; scales by can-count ratio once exact can size is confirmed.

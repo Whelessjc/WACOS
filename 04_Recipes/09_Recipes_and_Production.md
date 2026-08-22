@@ -16,7 +16,6 @@ Each recipe should include:
 - Ingredients with units.
 - Procedure.
 - Food safety controls.
-- Allergens.
 - Quality indicators.
 - Holding, cooling, storage, reheating.
 - Scaling notes.
@@ -60,7 +59,7 @@ Use:
 
 Round only at the appropriate purchasing unit and record the assumption. Four groups in each of two Culinary 1 sections normally produces eight group batches, but do not hard-code `×8`: enrollment, grouping, sections, production plans, and inventory can change.
 
-The production worksheet or order note should identify the date, course/sections, scheduled groups, per-group yield, calculated total, usable inventory, net need, package size, and final order quantity. Never use scaling to invent a missing yield, quantity, allergen, safety control, or storage requirement.
+The production worksheet or order note should identify the date, course/sections, scheduled groups, per-group yield, calculated total, usable inventory, net need, package size, and final order quantity. Never use scaling to invent a missing yield, quantity, safety control, or storage requirement.
 
 ## Kitchen Math
 Students should repeatedly practice:

@@ -41,7 +41,7 @@ skills, safety, sanitation, stewardship, organization, hospitality, teamwork, an
 # Unit 01 Teacher Packet: Orientation and Systems
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -119,7 +119,7 @@ the same habits students need before service.
 # Unit 02 Teacher Packet: Food Handler and Stewardship
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -127,7 +127,7 @@ Teacher: ________________________________    Date(s): __________________________
 **Weeks covered:** Week 2
 **Focus:** Safety becomes behavior.
 
-Students connect Food Handler ideas to real kitchen behavior: hygiene, sanitation, cross contamination, allergens, time
+Students connect Food Handler ideas to real kitchen behavior: hygiene, sanitation, cross contamination, time
 and temperature control, laundry, counters, dishes, storage, floors, three-compartment sink, dish machine, thermometer
 use, brownie labs, and chicken temperature checks.
 
@@ -152,7 +152,7 @@ use, brownie labs, and chicken temperature checks.
 - Show how sticky batter changes counter and dish cleanup.
 
 ## Safety Watch-Outs
-- Separate raw, ready-to-eat, allergen, clean, and dirty items.
+- Separate raw, ready-to-eat, clean, and dirty items.
 - Use sanitizer correctly and only where directed.
 - Handle hot pans and ovens carefully.
 - Use thermometer readings as evidence, not guessing.
@@ -196,7 +196,7 @@ who protect guests without being reminded.
 # Unit 03 Teacher Packet: Recipe Reading and Mise en Place
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -230,7 +230,6 @@ rice, or stir fry.
 
 ## Safety Watch-Outs
 - Review Food Handler habits before labs.
-- Keep allergens named and separated.
 - Prevent rushing from recipe reading into food handling.
 - Keep cutting/cooking stations organized and clear.
 - Store ingredients and leftovers as directed.
@@ -272,7 +271,7 @@ needs, and avoid service delays.
 # Unit 04 Teacher Packet: Customer Service and Bistro Soft Opening
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -346,7 +345,7 @@ hospitality all connect.
 # Unit 05 Teacher Packet: Bistro Systems Reinforcement
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -419,7 +418,7 @@ dish flow, and full reset create better guest experience.
 # Unit 06 Teacher Packet: Knife Skills Progression
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -497,7 +496,7 @@ cooking, not trophies.
 # Unit 07 Teacher Packet: Heat Control
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -573,7 +572,7 @@ clean, calm, and ready for the next order.
 # Unit 08 Teacher Packet: Frying and Oil Management
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -651,7 +650,7 @@ food needs discipline, not guessing.
 # Unit 09 Teacher Packet: Flavor Systems
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -668,9 +667,9 @@ while respecting cultural origins without claiming authenticity.
 - Week 15: Herbs, spices, flavor family comparisons, respectful language, and simple Bistro application.
 
 ## Setup Notes
-- [ ] Stage small tasting portions, clean spoons/cups, allergen labels, and sanitizer.
+- [ ] Stage small tasting portions, clean spoons/cups, and sanitizer.
 - [ ] Prepare a tasting chart or board notes for observations.
-- [ ] Plan clear limits for chili, salt, dairy, soy, coconut, and spice allergens.
+- [ ] Plan clear limits for chili, salt, dairy, soy, coconut
 - [ ] Choose simple base foods for comparison.
 
 ## Demo Notes
@@ -682,7 +681,7 @@ while respecting cultural origins without claiming authenticity.
 
 ## Safety Watch-Outs
 - Use clean tasting spoons every time.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 - Prevent cross contact between tasting samples.
 - Sanitize tasting surfaces.
@@ -690,12 +689,11 @@ while respecting cultural origins without claiming authenticity.
 ## Common Student Mistakes
 - Students add too much at once.
 - Students taste with dirty spoons.
-- Allergens are not named clearly.
 - Students describe foods carelessly or claim authenticity.
 - Cleanup leaves sticky or strongly scented surfaces.
 
 ## Cleanup / Reset Notes
-- Control tasting trash, spoons, cups, allergen surfaces, counters, towels, and floors.
+- Control tasting trash, spoons, cups, counters, towels, and floors.
 - Close and store seasonings correctly.
 - Check that strong-smelling ingredients are sealed and returned.
 
@@ -724,7 +722,7 @@ with care instead of guessing.
 # Unit 10 Teacher Packet: Protein as Application
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 
@@ -798,7 +796,7 @@ This is where fundamentals have to work together.
 # Unit 11 Teacher Packet: Bridge to Culinary 2
 
 
-Teacher: ________________________________    Date(s): ________________________________
+Teacher: ________________________________ Date(s): ________________________________
 
 ---
 

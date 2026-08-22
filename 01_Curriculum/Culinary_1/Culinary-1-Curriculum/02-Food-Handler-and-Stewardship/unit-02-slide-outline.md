@@ -30,7 +30,6 @@
 - Wash hands
 - Separate raw and ready-to-eat
 - Report spills
-- Treat allergens seriously
 - Ask before equipment or chemicals
 
 ## Slide 6: Kitchen Communication
@@ -54,10 +53,7 @@
 - Board to food
 - Prevent it early
 
-## Slide 9: Allergens
-- Allergens can be serious
 - Do not guess
-- Avoid cross-contact
 - Use clean tools
 - Tell the teacher
 

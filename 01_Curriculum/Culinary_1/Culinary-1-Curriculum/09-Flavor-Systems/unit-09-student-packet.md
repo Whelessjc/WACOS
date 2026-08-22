@@ -12,7 +12,7 @@ Recipes tell you what to do, but cooks also need to notice flavor. Good flavor w
 - I can adjust in small steps.
 - I can use specific flavor words.
 - I can compare flavor builds respectfully.
-- I can keep tasting stations sanitary and allergen-aware.
+- I can keep tasting stations clean and sanitary.
 
 ## Daily Kitchen Entry Routine
 1. Enter calmly.
@@ -29,12 +29,11 @@ Recipes tell you what to do, but cooks also need to notice flavor. Good flavor w
 - Add small amounts.
 - Use specific words.
 - Respect cultural origins without pretending our samples are authentic.
-- Clean allergen surfaces carefully.
+- Clean affected surfaces carefully.
 
 ## Kitchen Communication
 - "Clean spoon"
 - "Dirty spoon"
-- "Allergen"
 - "Too salty"
 - "Needs acid"
 - "Heard"
@@ -42,7 +41,6 @@ Recipes tell you what to do, but cooks also need to notice flavor. Good flavor w
 
 ## Safety Expectations
 - Follow tasting rules every time.
-- Watch allergens: soy, dairy/yogurt, coconut, spices, chili, and other ingredients named by the teacher.
 - Keep tasting tools organized.
 - Wash hands and sanitize surfaces.
 - Use hot-pan safety during aromatic work.
@@ -59,7 +57,7 @@ Recipes tell you what to do, but cooks also need to notice flavor. Good flavor w
 ## Cleanup and Reset Checklist
 - [ ] Tasting spoons/cups handled correctly
 - [ ] Counters cleaned and sanitized
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Ingredients closed and stored
 - [ ] Tools washed
 - [ ] Towels handled correctly
@@ -68,11 +66,11 @@ Recipes tell you what to do, but cooks also need to notice flavor. Good flavor w
 - [ ] Station ready for the next group
 
 ## Bistro Connection
-Bistro food should be checked before it goes out. Safe tasting, small adjustments, clear communication, and allergen awareness help protect guests and improve consistency.
+Bistro food should be checked before it goes out. Safe tasting, small adjustments, and clear communication help protect guests and improve consistency.
 
 ## Student Reflection Questions
 1. What flavor word did you use today?
 2. What small adjustment changed the food?
 3. What tasting rule did you follow?
-4. How did your group keep allergens or tasting tools controlled?
+4. How did your group keep tasting tools controlled?
 5. How can you describe flavor respectfully?

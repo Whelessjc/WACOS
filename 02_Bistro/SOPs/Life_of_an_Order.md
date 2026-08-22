@@ -30,7 +30,7 @@ The server walks up. What matters: eye contact, voice, confidence, menu knowledg
 
 ### 4. Taking the Order
 
-The order is taken. What has to be right: repeat it back, ask about allergies, note modifications, confirm clarity. Getting this wrong ripples forward - wrong food, wasted time, an annoyed guest, a stressed kitchen.
+The order is taken. What has to be right: repeat it back, note modifications, confirm clarity. Getting this wrong ripples forward - wrong food, wasted time, an annoyed guest, a stressed kitchen.
 
 ### 5. Ticket Enters the System
 

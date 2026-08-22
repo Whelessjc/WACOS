@@ -27,6 +27,7 @@ Culinary 1 should not attempt to become restaurant school in one semester. Found
 - Core Learning protects the weekly anchor in shorter blocks; Flexible Learning absorbs additional time.
 - First-ten-day plans must tolerate enrollment changes, IDs, schedule corrections, and interrupted class time.
 - Treat early production as systems-integration work. The food product is a vehicle for students to combine Kitchen Mode, navigation, communication, safety, sanitation, equipment use, workflow, clean-as-you-go, and reset; it is not the only learning target.
+- Treat food produced in Culinary as a product with an instructor-approved purpose. Making it does not make it automatic student food. Students identify the intended use, expected yield, portion plan, approved destination, and required handling or storage before production begins.
 - Teach through movement and kitchen practice when a worksheet or explanatory slide does not improve learning.
 - Minimize front-loading before labs. Give safety and equipment instruction when students need it.
 - Print only materials students must mark, use during production, or retain as evidence.
@@ -69,7 +70,7 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 | Module | Weeks | Main Work | Evidence / Readiness Gate |
 | --- | ---: | --- | --- |
 | 1. Orientation and Systems | 1 | Room knowledge, Kitchen Mode, live communication, recipe reading, introductory pancake lab | Students move safely, locate essential areas, read before acting, and reset with support. |
-| 2. Food Handler and Stewardship | 2 | Hygiene, cleaning and sanitizing, dish systems, allergens, cross-contamination, time and temperature | Students demonstrate procedures, not merely describe them. |
+| 2. Food Handler and Stewardship | 2 | Hygiene, cleaning and sanitizing, dish systems, cross-contamination, storage, time and temperature, brownie packaging | Students demonstrate procedures, portion the finished product, and complete the instructor-approved product plan. |
 | 3. Recipe Reading, Equipment Literacy, and Mise en Place | 3 | Food Handler assessment, recipe literacy, major equipment families, measuring, prep lists, rice, pasta, simple production | Food Handler evidence plus correct equipment retrieval and an organized no-surprise lab setup. |
 | 4. Bistro Launch Foundations | 4-5 | Life of an Order, guest awareness, roles, ticket flow, dish flow, mock service, controlled launch | Pre-Bistro fundamentals demonstrated; instructor authorizes service participation. |
 | 5. Knife Skills Progression | 6-9 | Grip, claw, board setup, useful cuts, prep lists, speed with control, deep clean | Safe knife practical and usable prep produced from practice cuts. |
@@ -101,7 +102,7 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 
 ### Week 2 - Food Handler and Stewardship
 
-**Weekly anchor:** Students can protect people and the kitchen through correct hygiene, sanitation, dish, allergen, storage, and temperature-control habits.
+**Weekly anchor:** Students can protect people and the kitchen through correct hygiene, sanitation, dish, storage, and temperature-control habits.
 
 **Core learning:**
 
@@ -110,8 +111,10 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 - Hand-sink setup and three-compartment sink wash-rinse-sanitize sequence.
 - Mix sanitizer to the instructor-approved ppm and read a test strip.
 - Dish machine workflow, including what is hand-washed and what goes through the machine.
-- Cross-contamination, allergens, storage order, labels, dates, FIFO, thawing, and cooling awareness.
+- Cross-contamination, storage order, labels, dates, FIFO, thawing, and cooling awareness.
 - Thermometer cleaning, probe placement, and ice-point calibration.
+- Brownie yield and portioning: one brownie per team member, then package remaining brownies with gloves according to current ServSafe Food Handler guidance.
+- Use the instructor's approved plan to distribute or store the packaged product. Welcoming new teachers is the preferred first distribution application; gratitude, community hospitality, Bistro awareness, and informal marketing are legitimate outcomes.
 
 **Evidence:** Students demonstrate selected procedures at stations. A verbal answer alone does not satisfy a procedural check.
 
@@ -131,6 +134,7 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 - Complete Food Handler review and assessment when students are ready.
 - Identify yield, ingredients, equipment, measurements, action verbs, heat cues, doneness cues, and reset expectations.
+- Identify what the recipe is producing, who or what it is for, the approved portion plan and destination, required handling or storage, and the plan for remaining product.
 - Build practical Equipment Literacy through three physical demonstrations of no more than 10 minutes each: Tuesday covers hotel pans, sheet pans, fitted racks, and perforated pans; Wednesday covers food-storage containers and lid matching; Thursday covers high-use cookware and strainers.
 - Reinforce each demonstration through named-item retrieval and correct return. Do not add a separate identification worksheet or memorization quiz.
 - Build a basic prep list and divide work across a group.
@@ -138,7 +142,7 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 - Apply recipe reading through low-cost vehicles such as rice, fried rice/stir fry, peanut butter bars, or dried pasta with basic tomato sauce.
 - Cover, label, store, and reset shared product correctly.
 
-**Evidence:** Marked recipe, correct retrieval and return of a named common item, mise en place check, measurement check, and finished product with station reset.
+**Evidence:** Marked recipe, product-purpose and portion plan, correct retrieval and return of a named common item, mise en place check, measurement check, and finished product carried through its approved destination or storage plan with station reset.
 
 ### Week 4 - Life of an Order and Controlled Bistro Practice
 
@@ -150,7 +154,6 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 - Life of an Order: greeting, order information, ticket, production, expo, running, check-back, clearing, dish, and reset.
 - Current team names: Dining, Kitchen, Support, and Barista.
 - Basic Bistro language: FOH, BOH, expo, runner, all day, heard, 86, and call-back.
-- Allergen ticket awareness and verbal confirmation.
 - Station orientation, side work, stocking, menu awareness, and role practice.
 - Training and mock service only; no soft opening or public service.
 
@@ -166,7 +169,7 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 - Debrief Week 4 and retrain the weakest system.
 - Clarify roles, handoffs, call-backs, guest awareness, side work, dish flow, and expo.
-- Reinforce labels, storage, receiving awareness, allergens, and station readiness.
+- Reinforce labels, storage, receiving awareness, and station readiness.
 - Practice suggestive selling and menu knowledge only to the depth required for the current menu.
 - Complete a final rehearsal before normal service.
 
@@ -264,7 +267,7 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 **Weekly anchor:** Students can taste safely, use useful flavor language, and make a small adjustment with a reason.
 
-**Core learning:** Salt, acid, fat, aromatics, herbs, spices, balance, safe tasting, allergen awareness, and respectful description.
+**Core learning:** Salt, acid, fat, aromatics, herbs, spices, balance, safe tasting, and respectful description.
 
 **Application:** Basic vinaigrette with simple green salad, aromatic comparison, or Bistro flavor adjustment.
 
@@ -274,17 +277,17 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 **Weekly anchor:** Students can compare flavor systems without treating cuisines as stereotypes and can balance a simple preparation.
 
-**Core learning:** Compare combinations such as soy/ginger, vinegar/herbs, chili/citrus, yogurt/spice, or coconut/curry while naming sources and allergens accurately.
+**Core learning:** Compare combinations such as soy/ginger, vinegar/herbs, chili/citrus, yogurt/spice, or coconut/curry while naming sources accurately.
 
 **Application:** Team flavor adjustment and a teacher-approved quick pickle for labeled, refrigerated, same-day use only.
 
-**Evidence:** Balanced product, allergen awareness, label, and brief explanation of the team's decision.
+**Evidence:** Balanced product, label, and brief explanation of the team's decision.
 
 ### Week 16 - Protein Safety, Eggs, Ground Turkey, and Tofu
 
 **Weekly anchor:** Students can set up and reset a protein station, prevent cross-contamination, and verify doneness appropriately.
 
-**Core learning:** Protein safety reset, thermometer cleaning and placement, eggs, ground turkey, required tofu application, allergen/separate-tool controls, doneness, and safe holding.
+**Core learning:** Protein safety reset, thermometer cleaning and placement, eggs, ground turkey, required tofu application, doneness, and safe holding.
 
 **Application:** Egg preparation, ground-turkey application, tofu application, or another approved low-cost protein vehicle.
 
@@ -351,7 +354,7 @@ Grade weights are not established by this pacing guide.
 - Menu and product availability.
 - Section enrollment and readiness.
 - Equipment-specific SOP and individual authorization before broiler/grill use.
-- Approved tofu recipe and allergen-control sequence before the required tofu lab.
+- Approved tofu recipe before the required tofu lab.
 - Approved quick-pickle formula, label, refrigeration, and same-day discard procedure before use.
 - Instructor confirmation of when each cohort is ready for public Bistro participation.
 

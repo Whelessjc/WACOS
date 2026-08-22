@@ -4,7 +4,7 @@
 Onboard the Teacher Assistant supporting West Ashley Culinary during the 2026-2027 school year so the role is consistent, safe, and within instructor authority.
 
 ## TA Role
-The Teacher Assistant helps the room function and develops instructional skill under the instructor's supervision. The role supports routines, observation, documentation, student redirection, approved instructional segments, Bistro preparation, service, shutdown, and reset. The TA does not hold final authority for safety, equipment, allergens, grading, discipline, or program policy and does not replace instructor judgment.
+The Teacher Assistant helps the room function and develops instructional skill under the instructor's supervision. The role supports routines, observation, documentation, student redirection, approved instructional segments, Bistro preparation, service, shutdown, and reset. The TA does not hold final authority for safety, equipment, grading, discipline, or program policy and does not replace instructor judgment.
 
 ## Onboarding Checklist
 
@@ -53,7 +53,7 @@ The TA should not:
 - Authorize equipment use.
 - Change grades.
 - Make grading or discipline decisions.
-- Provide live safety approval or final allergen verification.
+- Provide live safety approval.
 - Give unapproved food-safety guidance.
 - Create or change program policy, teams, jobs, rotations, or management structures.
 - Override instructor priorities during service.

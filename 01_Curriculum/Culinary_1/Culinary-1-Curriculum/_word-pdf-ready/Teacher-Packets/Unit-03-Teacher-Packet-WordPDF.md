@@ -35,7 +35,6 @@ rice, or stir fry.
 
 ## Safety Watch-Outs
 - Review Food Handler habits before labs.
-- Keep allergens named and separated.
 - Prevent rushing from recipe reading into food handling.
 - Keep cutting/cooking stations organized and clear.
 - Store ingredients and leftovers as directed.

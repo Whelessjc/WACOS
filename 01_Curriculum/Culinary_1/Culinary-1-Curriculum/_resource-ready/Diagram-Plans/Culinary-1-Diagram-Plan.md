@@ -103,7 +103,6 @@ These are diagram plans only. They identify what future visuals should show befo
 - **Type of diagram:** Concept map
 - **Labels needed:** salt, acid, fat, aromatics, herbs/spices, taste again
 - **Student-facing caption:** Taste, adjust small, taste again.
-- **Teacher use note:** Include allergen reminder.
 - **Priority:** medium
 
 ## Protein Doneness Workflow

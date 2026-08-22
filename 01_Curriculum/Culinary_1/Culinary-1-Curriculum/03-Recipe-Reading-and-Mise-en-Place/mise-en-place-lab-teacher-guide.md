@@ -2,7 +2,6 @@
 
 ## Setup Before Class
 - Choose the day application: peanut butter bars, rice cookery, fried rice, or simple stir fry.
-- Confirm allergy plan, especially for peanut butter bar work.
 - Prepare recipe copies or display the recipe clearly.
 - Stage ingredients so students can practice shared ingredient stewardship without crowding.
 - Stage measuring tools, bowls, pans, pots, rice cookers, saute pans or woks, spatulas, spoons, towels, sanitizer, and dish supplies as needed.
@@ -18,7 +17,6 @@
 - Show what full reset looks like before students begin.
 
 ## Safety Watch-Outs
-- Peanut allergies and cross-contact.
 - Students measuring over shared ingredient containers.
 - Students crowding ingredient pickup or hot stations.
 - Hot pans, steam, rice cookers, and splatter during stir fry.
@@ -48,7 +46,7 @@
 - Station is organized enough to begin.
 
 ## Lab Application Notes
-- Peanut butter bars: emphasize allergen awareness, measuring, sequence, shared tools, and dish control.
+- Peanut butter bars: emphasize measuring, sequence, shared tools, and dish control.
 - Rice cookery: emphasize ratio, timing, steam safety, and waiting without opening equipment repeatedly.
 - Fried rice or stir fry: emphasize prep before heat, hot pan awareness, batch work, and order of operations.
 

@@ -28,7 +28,7 @@ Before using a recipe in production:
 1. Review any **Needs confirmation** flags in the entry.
 2. Check `_OPEN_QUESTIONS.md` for unresolved source, categorization, and extraction
    issues.
-3. Confirm yield, portion size, allergens, food-safety controls, and any incomplete
+3. Confirm yield, portion size, food-safety controls, and any incomplete
    quantities or procedures.
 4. Record instructor approval and later revisions in the recipe's source/revision
    line.

@@ -1,7 +1,7 @@
 # Unit 02 Student Packet: Food Handler and Stewardship
 
 ## What We Are Learning
-This week we are learning how safety becomes behavior. You will practice food safety, personal hygiene, cleaning and sanitation, dish systems, laundry, storage, floors, allergen awareness, cross-contamination prevention, time and temperature control, and thermometer use.
+This week we are learning how safety becomes behavior. You will practice food safety, personal hygiene, cleaning and sanitation, dish systems, laundry, storage, floors, cross-contamination prevention, time and temperature control, and thermometer use.
 
 ## Why We Are Learning It
 A kitchen only works when people can trust each other. Food safety is not just something you say on a test. It is how you wash, store, clean, cook, check temperature, and reset every day.
@@ -9,7 +9,6 @@ A kitchen only works when people can trust each other. Food safety is not just s
 ## What Success Looks Like
 - I can wash hands at the right times.
 - I can keep raw and ready-to-eat foods separate.
-- I can treat allergens seriously.
 - I can clean and sanitize correctly.
 - I can help with dishes, towels, counters, storage, and floors.
 - I can use and clean a thermometer correctly when asked.
@@ -27,7 +26,6 @@ A kitchen only works when people can trust each other. Food safety is not just s
 ## Key Expectations
 - Food safety protects real people.
 - Cleaning and dishes are culinary work.
-- Allergens are safety concerns.
 - Temperature gives evidence.
 - Stewardship means taking care of the shared kitchen.
 
@@ -45,7 +43,6 @@ Use short, clear words so people know what is happening:
 ## Safety Expectations
 - Wash hands before food work and after contamination.
 - Keep raw and ready-to-eat foods separate.
-- Treat allergens seriously.
 - Clean before sanitizing.
 - Ask before using chemicals, dish equipment, or thermometers.
 - Report spills right away.

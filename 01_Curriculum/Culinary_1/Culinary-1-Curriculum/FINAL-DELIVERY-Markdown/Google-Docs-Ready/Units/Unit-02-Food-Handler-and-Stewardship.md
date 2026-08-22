@@ -6,7 +6,7 @@
 **Weeks covered:** Week 2
 **Focus:** Safety becomes behavior.
 
-Students connect Food Handler ideas to real kitchen behavior: hygiene, sanitation, cross contamination, allergens, time
+Students connect Food Handler ideas to real kitchen behavior: hygiene, sanitation, cross contamination, time
 and temperature control, laundry, counters, dishes, storage, floors, three-compartment sink, dish machine, thermometer
 use, brownie labs, and chicken temperature checks.
 
@@ -25,7 +25,6 @@ Safety becomes behavior.
 - personal hygiene
 - sanitation
 - cross contamination
-- allergens
 - thermometer use
 - stewardship
 
@@ -40,7 +39,7 @@ Safety becomes behavior.
 Practice thermometer use and time/temperature control with teacher-approved chicken product.
 
 ## Safety Reminders
-- Separate raw, ready-to-eat, allergen, clean, and dirty items.
+- Separate raw, ready-to-eat, clean, and dirty items.
 - Use sanitizer correctly and only where directed.
 - Handle hot pans and ovens carefully.
 - Use thermometer readings as evidence, not guessing.

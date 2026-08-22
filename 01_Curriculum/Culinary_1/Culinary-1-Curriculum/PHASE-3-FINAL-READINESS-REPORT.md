@@ -81,7 +81,7 @@ Units 01, 03, 04, 05, and 06 were reviewed for consistency and left in place exc
 - Strengthened cleanup/reset expectations across new export files.
 - Strengthened stewardship language, especially for Units 02 and 11.
 - Strengthened Bistro/service connections in Units 07 through 10.
-- Added practical safety reminders for heat, oil, flavor tasting/allergens, protein, and readiness work.
+- Added practical safety reminders for heat, oil, protein, and readiness work.
 - Kept slide deck content short and student-facing.
 - Kept documents concise enough for classroom use.
 
@@ -89,7 +89,6 @@ Units 01, 03, 04, 05, and 06 were reviewed for consistency and left in place exc
 - Final recipe choices and exact product quantities.
 - School-specific temperature targets and district food safety language.
 - Equipment availability for fryers, burners, ovens, thermometers, and dish systems.
-- Local allergen procedures and student medical needs.
 - Actual Bistro service calendar, guest count, and menu constraints.
 - Canvas settings, due dates, point values, and assignment categories.
 - Whether any handouts should be combined before printing to reduce paper.
@@ -107,7 +106,7 @@ Start with Units 01 through 03 before mass-exporting the full course.
 ## 9. Warning List Before Mass Export
 Do not mass-export to PDF, PowerPoint, or Canvas until:
 - A teacher confirms recipes, product lists, and lab timing.
-- Food safety and allergen language is checked against local school policy.
+- food safety language is checked against local school policy.
 - Temperature requirements are verified.
 - Bistro menu/service assumptions are confirmed.
 - Printing preferences are chosen.

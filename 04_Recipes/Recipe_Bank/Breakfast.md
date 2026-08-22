@@ -25,7 +25,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   5. Cover with a dome lid and add a small amount of water to steam until cheese melts.
   6. Assemble onto toasted buns and wrap for service.
 - **Food safety controls**: Eggs cooked to 145°F minimum, held no more than 2 hours before service or discarded; bacon held above 135°F until assembly.
-- **Allergens**: Egg, dairy (butter, cheese), gluten (bun).
 - **Quality indicators**: Egg square holds together, cheese fully melted, bacon crisp, bun lightly toasted not burnt.
 - **Holding/storage**: Hold assembled sandwiches wrapped and warm no more than 30 minutes before service; egg component should not be held longer than 2 hours total from cook.
 - **Scaling notes**: Recipe scales linearly per sandwich (1 oz butter, 4 oz egg, 1 cheese slice, 1 bun, 2 bacon halves per portion). Adjust batch size to your section's actual guest count.
@@ -52,7 +51,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   7. Cook until deeply golden and crisp - pale waffles do not reheat well.
   8. Cool on wire racks in a single layer - no stacking, steam is the enemy.
 - **Food safety controls**: Standard egg/dairy handling; cool completely before freezing.
-- **Allergens**: Egg, dairy, gluten.
 - **Quality indicators**: Deep golden color, crisp exterior, no gumminess.
 - **Holding/storage**: Freeze-ahead is standard - flash freeze single layer on sheet pans, bag with parchment between waffles, hold up to 8 weeks. Reheat for service in a convection oven at 350°F, single layer, 8-10 minutes, flipping halfway.
 - **Scaling notes**: Already a real 16-portion batch. Scale by weight, not volume, per Culinary 2's Week 20 scaling lesson.
@@ -78,7 +76,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   3. Combine sausage into the eggs off heat; add cheese and let sit briefly to melt.
   4. Portion filling into tortillas and roll.
 - **Food safety controls**: Sausage cooked to 160°F minimum; eggs cooked to 145°F minimum. Cool completely before refrigerating extra filling (3-4 days) or freezing (up to 3 months, wrapped individually in foil).
-- **Allergens**: Egg, dairy, gluten. Confirm sausage ingredients for additional allergens.
 - **Quality indicators**: Eggs in soft custardy folds (not rubbery or dry), sausage fully cooked and well-drained, tortilla rolled tightly with no leakage.
 - **Holding/storage**: Hold wrapped and warm no more than 30 minutes before service.
 - **Scaling notes**: Scales linearly (2 oz sausage, 1.5 eggs, 2 Tbsp cheese, 1 tortilla per portion). The sriracha sauce component needs its own recipe write-up - currently referenced but not documented.
@@ -100,7 +97,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   4. Rotate the pan halfway through cooking.
   5. Remove and place on a rack to drain.
 - **Food safety controls**: Cook to visibly rendered/crisp; hold above 135°F until use.
-- **Allergens**: None inherent (confirm current supplier for cross-contact).
 - **Quality indicators**: Evenly rendered, not burnt, well-drained.
 - **Holding/storage**: Hold on a rack (not paper towels, which trap steam) for up to 30 minutes before use.
 - **Scaling notes**: Scales by simple batch count - add sheet pans as needed for larger service.
@@ -132,7 +128,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
   5. Add peppers and onions with remaining oil; cook 5-7 minutes until tender.
   6. Top with bacon and serve immediately.
 - **Food safety controls**: Bacon cooked to visibly rendered/crisp; potatoes cooked through (fork tender).
-- **Allergens**: None inherent in the base recipe; confirm bacon supplier.
 - **Quality indicators**: Potatoes fork-tender with browned edges, vegetables tender-crisp, evenly seasoned.
 - **Holding/storage**: Hold hot above 135°F; best served immediately, quality drops quickly if held.
 - **Scaling notes**: Scales linearly per the ratios above. This item degrades faster than most - consider producing in two batches across a long service window rather than one large batch held the whole time.
@@ -149,7 +144,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
 - **Ingredients**: 1 Tbsp medium-high heat oil, 1 tsp paprika, 1 cup diced onion, 2 garlic cloves (chopped), 2 cups diced potato (any variety), 1/2 cup diced beets, 1/2 cup diced sweet potato, 1/2 cup diced parsnips, 1/2 cup diced carrot, 1 tsp salt, 1 tsp black pepper, freshly chopped parsley, dill, or chives (optional).
 - **Procedure**: Heat a skillet on medium heat and add the oil. When hot, add the paprika; let it sizzle 15 seconds to bring out the flavor, then add the onion and garlic. Sauté 2-3 minutes until the onions begin to soften. Add the potatoes, beets, sweet potatoes, parsnips, and carrots to the skillet; cook on medium heat 10-15 minutes, stirring often, until the vegetables are cooked through. Season with salt and pepper. Optionally garnish with freshly chopped parsley, dill, or chives.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Vegetables cooked through and tender (not raw-centered from under-cooking or mushy from overcrowding the pan), some browning/color from the paprika-bloomed oil.
 - **Holding/storage**: Hold hot for immediate service; quality drops as it sits, similar to other hash-style items in this section.
 - **Scaling notes**: Source yield of 4 servings is below the program's 16-30 target; scales linearly by vegetable weight, though a larger batch may need to cook in stages to avoid overcrowding the pan.
@@ -166,7 +160,6 @@ Current as of 2026-07. Built from real recipes already in Bistro use, standardiz
 - **Ingredients**: 1 ea. scallion pancake (store-bought or pre-made), 1 Tbsp pesto, 1 ea. egg (cooked any style), 2 Tbsp bacon lardons or strips, 1 Tbsp Parmigiano-Reggiano.
 - **Procedure**: Griddle the scallion pancake until puffy, browned, and crispy. Spread the pesto over the center. Top with the cooked egg and bacon. Dust with Parmigiano-Reggiano.
 - **Food safety controls**: Standard egg/pork handling; cook egg to order per house standard, bacon fully cooked/crisp.
-- **Allergens**: Gluten (pancake), egg, dairy (Parmigiano-Reggiano, and pesto if it contains cheese), tree nuts (pesto, if it contains pine nuts or other nuts - confirm recipe/brand used).
 - **Quality indicators**: Pancake griddled to a crisp, puffy exterior (not soggy or pale), egg cooked to order, bacon crisp, toppings centered rather than sliding off.
 - **Holding/storage**: Best assembled and served immediately; not a hold-and-reheat item.
 - **Scaling notes**: Single-serving build; stays per-serving rather than scaled into the program's batch range, consistent with how individual drink builds are handled in `Beverages.md`. Multiply per-portion quantities directly for a larger service count.

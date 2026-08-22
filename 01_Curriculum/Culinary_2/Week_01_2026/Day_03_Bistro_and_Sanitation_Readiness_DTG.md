@@ -53,7 +53,7 @@ Name one system you demonstrated and the evidence that proved it was correct.
 
 ## Adult Roles
 
-**Instructor:** Confirm all safety-critical standards, control chemical use, approve corrections, and retain authority for sanitizer, equipment, allergen, and fire-safety guidance.
+**Instructor:** Confirm all safety-critical standards, control chemical use, approve corrections, and retain authority for sanitizer, equipment, and fire-safety guidance.
 
 **TA when available:** Manage an assigned non-authorizing observation station, prompt students to demonstrate rather than recite, record gaps, and escalate any unsafe or uncertain response immediately.
 

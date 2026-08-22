@@ -1,4 +1,4 @@
-﻿# Unit 09 Student Packet: Flavor Systems
+# Unit 09 Student Packet: Flavor Systems
 ## What We Are Learning
 Move beyond recipes and learn how flavor is built.
 You will practice:
@@ -39,7 +39,7 @@ This unit helps you do real kitchen work with more confidence. The goal is not t
 - Support dish flow and reset during the task, not only at the end.
 ## Cleanup and Reset Checklist
 - [ ] Tasting spoons and cups handled correctly
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Counters sanitized
 - [ ] Ingredients closed and stored
 - [ ] Tools washed

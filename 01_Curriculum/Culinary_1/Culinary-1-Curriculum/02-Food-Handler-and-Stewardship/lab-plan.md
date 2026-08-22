@@ -7,7 +7,7 @@ Use simple labs and systems training to turn food safety into daily kitchen beha
 - Handwashing and hygiene
 - Cleaning and sanitizing
 - Dish flow
-- Allergen and cross-contamination prevention
+- Cross-contamination prevention
 - Thermometer use
 - Full station reset
 

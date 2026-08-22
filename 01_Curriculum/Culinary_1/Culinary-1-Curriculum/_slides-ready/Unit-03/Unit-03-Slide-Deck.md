@@ -37,8 +37,6 @@ Teacher note: Keep routines consistent from Units 01 and 02.
 
 ## Slide 5: Food Handler Habits Continue
 - Wash hands
-- Prevent cross-contact
-- Treat allergens seriously
 - Sanitize stations
 - Store ingredients correctly
 
@@ -56,7 +54,6 @@ Teacher note: Model with a simple recipe students will actually use.
 ## Slide 7: Ingredient Lists
 - Check amounts
 - Check ingredient form
-- Watch allergens
 - Use shared ingredients carefully
 - Close and return items
 
@@ -108,7 +105,6 @@ Teacher note: Demonstrate one dry and one liquid measurement.
 Teacher note: Show a ready station before students start.
 
 ## Slide 13: Lab Safety
-- Peanut allergy awareness
 - Hot pans and steam
 - Crowding creates risk
 - Use "hot" and "behind"

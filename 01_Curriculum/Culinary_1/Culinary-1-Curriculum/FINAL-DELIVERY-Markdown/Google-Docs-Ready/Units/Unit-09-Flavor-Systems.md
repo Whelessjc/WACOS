@@ -40,13 +40,13 @@ teacher-selected flavor families.
 
 ## Safety Reminders
 - Use clean tasting spoons every time.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 - Prevent cross contact between tasting samples.
 - Sanitize tasting surfaces.
 
 ## Stewardship / Cleanup / Reset Expectations
-- Control tasting trash, spoons, cups, allergen surfaces, counters, towels, and floors.
+- Control tasting trash, spoons, cups, counters, towels, and floors.
 - Close and store seasonings correctly.
 - Check that strong-smelling ingredients are sealed and returned.
 

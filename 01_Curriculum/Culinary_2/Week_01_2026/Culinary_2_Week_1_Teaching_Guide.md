@@ -62,7 +62,7 @@
 
 - Use the [Sautéed Vegetables over Rice group recipe](Student_Materials/Day_01_Vegetable_Rice_Bowl_Recipe_and_Mise_Plan.md) and the existing knife observation record.
 - The former readiness checklist is historical reference only; use current posted procedures, product directions, test strips, and instructor confirmation during authentic work.
-- **Instructor:** demonstrates/reteaches, authorizes knives/equipment/heat, controls safety and allergens, coaches corrections, and approves reset.
+- **Instructor:** demonstrates/reteaches, authorizes knives/equipment/heat, coaches corrections, and approves reset.
 - **TA:** observes assigned students/stations, records concise evidence, prompts planning and communication, supports dish/reset flow, and escalates concerns without authorizing equipment or making final judgments.
 
 ## Section Continuation and Future Revision

@@ -17,7 +17,6 @@
 - [ ] I can explain cleaning vs. sanitizing.
 - [ ] I can use dish flow correctly.
 - [ ] I can identify a cross-contamination risk.
-- [ ] I can identify an allergen concern.
 - [ ] I can use and clean a thermometer.
 
 ## Cleaning and Reset Checks

@@ -64,7 +64,6 @@ Do not make final decisions on:
 - Grades.
 - Discipline.
 - Safety approval.
-- Allergen verification.
 - Equipment authorization.
 - Legal compliance.
 - District policy.

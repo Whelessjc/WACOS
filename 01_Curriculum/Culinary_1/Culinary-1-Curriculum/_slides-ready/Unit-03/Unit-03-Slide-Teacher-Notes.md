@@ -37,7 +37,6 @@ Pause when students need to name what they see, choose a next step, or connect t
 
 ## Safety Reminders
 - Review Food Handler habits before labs.
-- Keep allergens named and separated.
 - Prevent rushing from recipe reading into food handling.
 - Keep cutting/cooking stations organized and clear.
 - Store ingredients and leftovers as directed.

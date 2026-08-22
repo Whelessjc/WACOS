@@ -160,7 +160,6 @@ Still unresolved: reservation versus queue workflow, refund and guest-comp autho
 Safety governs all work. AI, students, student leaders, and support adults do not make final decisions about:
 
 - Live safety approval.
-- Allergen verification.
 - Equipment authorization.
 - Grades.
 - Discipline.

@@ -33,7 +33,7 @@ Created folders:
 - Expanded Unit 02 with slides for hygiene, contamination, cleaning/sanitizing, stewardship jobs, dish flow, sink/dish machine systems, thermometer use, brownie labs, and chicken temperature lab.
 - Expanded Unit 07 with slides for pan preheating, oil control, saute, browning vs. steaming, aromatics, roasting, moist heat, ratios, and hot-station reset.
 - Expanded Unit 08 with slides for oil safety, fryer behavior, batch size, overcrowding, crisp vs. greasy, draining, seasoning timing, applications, and oil-station reset.
-- Expanded Unit 09 with slides for salt, acid, fat, aromatics, herbs/spices, tasting rules, adjustment, flavor families, respectful language, and allergen-aware reset.
+- Expanded Unit 09 with slides for salt, acid, fat, aromatics, herbs/spices, tasting rules, adjustment, flavor families, respectful language
 - Expanded Unit 10 with slides for protein safety, mise en place, chicken, ground turkey, eggs, searing, doneness, resting, slicing, thermometer use, and protein-station reset.
 - Expanded Unit 11 with slides for independent prep lists, limited service ownership, skill inventory, evidence, self-assessment, Culinary 2 readiness, final stewardship, and Bistro readiness.
 - Verified all slide decks are short, visual-friendly, and free of long slide paragraphs.

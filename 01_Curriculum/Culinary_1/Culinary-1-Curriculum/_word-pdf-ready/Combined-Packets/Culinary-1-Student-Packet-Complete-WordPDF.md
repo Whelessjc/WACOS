@@ -31,7 +31,7 @@ readiness, and practical kitchen confidence.
 
 # Unit 01 Student Packet: Orientation and Systems
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Learn the room before cooking.
@@ -182,7 +182,7 @@ belong, communicate clearly, wash hands, set up before starting, and leave stati
 
 # Unit 02 Student Packet: Food Handler and Stewardship
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Safety becomes behavior.
@@ -192,7 +192,6 @@ Safety becomes behavior.
 - personal hygiene
 - sanitation
 - cross contamination
-- allergens
 - dish flow
 - thermometer use
 - stewardship
@@ -204,7 +203,6 @@ You will practice:
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 - thermometer use
 - laundry, counters, dishes, storage, floors
@@ -258,7 +256,7 @@ thermometers, and shared equipment every day.
 
 # Unit 03 Student Packet: Recipe Reading and Mise en Place
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Read before cooking. Organize before acting.
@@ -321,7 +319,7 @@ Before cooking, look for:
 - Equipment: what tools, bowls, pans, or machines are needed
 - Steps: what happens and in what order
 - Timing: baking, cooling, simmering, resting, or waiting time
-- Safety notes: allergens, heat, raw food, sharp tools, or sanitation warnings
+- Safety notes: heat, raw food, sharp tools, or sanitation warnings
 
 ## How to Identify Ingredients, Equipment, and Steps
 Ask your group:
@@ -387,7 +385,6 @@ Use short, clear words:
 ## Safety Expectations
 - Use Food Handler habits every day.
 - Wash hands before food work and after contamination.
-- Treat allergens seriously, especially peanut butter.
 - Do not crowd hot pans, rice cookers, or cooking stations.
 - Use "hot" and "behind" when moving around the kitchen.
 - Ask before using equipment you are not cleared to use.
@@ -426,7 +423,7 @@ work faster, communicate better, and serve more consistent food.
 
 # Unit 04 Student Packet: Customer Service and Bistro Soft Opening
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Understand the full flow of service.
@@ -588,7 +585,7 @@ Hospitality is practiced behavior:
 
 # Unit 05 Student Packet: Bistro Systems Reinforcement
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Stabilize service before moving deeper into technical skills.
@@ -740,7 +737,7 @@ Use short, useful language:
 
 # Unit 06 Student Packet: Knife Skills Progression
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Build confidence through control and repetition.
@@ -896,7 +893,7 @@ In Bistro, better knife work helps prep lists, batch containers, labels, storage
 
 # Unit 07 Student Packet: Heat Control
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Learn how cooking actually works.
@@ -978,7 +975,7 @@ serve food that is safe, consistent, and worth eating.
 
 # Unit 08 Student Packet: Frying and Oil Management
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Temperature discipline.
@@ -1057,7 +1054,7 @@ crisp and safe or greasy and risky.
 
 # Unit 09 Student Packet: Flavor Systems
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Move beyond recipes and learn how flavor is built.
@@ -1114,7 +1111,7 @@ instead of guessing.
 - Support dish flow and reset during the task, not only at the end.
 ## Cleanup and Reset Checklist
 - [ ] Tasting spoons and cups handled correctly
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Counters sanitized
 - [ ] Ingredients closed and stored
 - [ ] Tools washed
@@ -1139,7 +1136,7 @@ instead of guessing.
 
 # Unit 10 Student Packet: Protein as Application
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Protein tests fundamentals.
@@ -1218,7 +1215,7 @@ slicing, and cleanup all matter.
 
 # Unit 11 Student Packet: Bridge to Culinary 2
 
-Name: ________________________________    Date: ________________    Class Period: ________
+Name: ________________________________ Date: ________________ Class Period: ________
 
 ## Unit Focus
 Independence and readiness.
@@ -1317,7 +1314,7 @@ Wash hands:
 - After restroom.
 - After touching face, hair, phone, trash, floor, or dirty dishes.
 - After coughing, sneezing, or blowing nose.
-- After handling raw food or allergens.
+- After handling raw food.
 - Any time the teacher calls for a reset.
 
 ## Recipe Reading Steps

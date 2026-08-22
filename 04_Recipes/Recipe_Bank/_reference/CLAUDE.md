@@ -25,7 +25,7 @@ at the format.
 
 Every recipe entry needs: Name; Course/use case; Source and revision date; Yield and
 portion size; Equipment; Ingredients with units; Procedure; Food safety controls;
-Allergens; Quality indicators; Holding/cooling/storage/reheating; Scaling notes; Skill
+Quality indicators; Holding/cooling/storage/reheating; Scaling notes; Skill
 focus.
 
 ## Scaling
@@ -67,7 +67,7 @@ traceability.
   deprioritize a recipe. ProStart's retirement is about a credential pathway, not a
   judgment on any specific recipe's quality or usability. A good recipe is a good
   recipe regardless of what folder it came from.
-- Don't fabricate a yield, allergen list, or ingredient quantity that isn't in the
+- Don't fabricate a yield or ingredient quantity that isn't in the
   source material - flag it as missing/needs confirmation in the entry itself
   instead, the same way a few recipes in the existing bank are flagged for missing
   yield.

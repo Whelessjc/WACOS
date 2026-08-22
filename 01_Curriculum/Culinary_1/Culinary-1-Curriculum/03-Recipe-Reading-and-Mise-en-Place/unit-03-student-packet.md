@@ -46,7 +46,6 @@ Use short, clear words so people know what is happening:
 ## Safety Expectations
 - Use Food Handler habits every day.
 - Wash hands before food work and after contamination.
-- Treat allergens seriously, especially peanut butter.
 - Do not crowd hot pans, rice cookers, or cooking stations.
 - Use "hot" and "behind" when moving around the kitchen.
 - Ask before using equipment you are not cleared to use.

@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-08-22 - Add Culinary Product Stewardship and Consolidate ServSafe Scope
+
+### Program Decisions
+
+- Established that food produced in Culinary has an instructor-approved purpose and is not automatic student food. Added intended use, yield, portion plan, approved destination, professional handling/storage, and remaining-product planning to early Culinary 1.
+- Made brownie product stewardship a Unit 2 procedure: exactly one brownie per team member, gloves for packaging the remaining ready-to-eat brownies under current ServSafe Food Handler guidance, and an instructor-directed blend of distribution and storage.
+- Established welcoming new teachers as the preferred first distribution application and retained gratitude, community hospitality, Bistro awareness, and informal marketing as legitimate outcomes without fixing later recipients.
+- Centralized the related ServSafe Food Handler safety topic in one Core Manual statement for credential instruction and case-by-case instructor handling; removed separate lesson, recipe-field, assessment, operational, workflow, AI, delivery-copy, and archive references throughout WACOS.
+
+### Implementation
+
+- Updated the Core Manual, Decision Register, Culinary 1 pacing, Week 1 live teaching guide, Unit 2 teacher procedure, Unit 3 recipe-literacy materials, Recipe Bank format and entries, assessment tools, Bistro guidance, workflows, generated Markdown copies, and archived text records.
+
 ## 2026-08-22 - Add Equipment Literacy Progression
 
 ### Curriculum Decision

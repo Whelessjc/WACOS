@@ -1,4 +1,4 @@
-﻿# Unit 09 Printable Checklist
+# Unit 09 Printable Checklist
 ## Entering the Kitchen
 - [ ] Enter calmly and put belongings away.
 - [ ] Check agenda and readiness.
@@ -25,7 +25,7 @@
 - [ ] Trash and floors checked.
 ## Reset
 - [ ] Tasting spoons and cups handled correctly
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Counters sanitized
 - [ ] Ingredients closed and stored
 - [ ] Tools washed

@@ -20,19 +20,19 @@ GitHub is the permanent documentation record for WACOS. It does not replace inst
 
 ```text
 WACOS GitHub Repository
-          ↓
+ ↓
     ChatGPT Project
-          ↓
+ ↓
      Working Chats
-          ↓
+ ↓
   Generated Documents
-          ↓
+ ↓
     Instructor Review
        ↙         ↘
 Drive Artifact   WACOS Change
-                    ↓
+ ↓
              Codex Validation
-                    ↓
+ ↓
              GitHub Update
 ```
 
@@ -92,7 +92,7 @@ ChatGPT handles:
 - Creating teacher and student document drafts.
 - Organizing reflection and identifying possible next steps.
 
-Student-facing materials always require instructor review. Safety, allergens, grading, discipline, district requirements, and program policy remain instructor-controlled.
+Student-facing materials always require instructor review. Safety, grading, discipline, district requirements, and program policy remain instructor-controlled.
 
 ### Google Drive Usable-Materials Library
 
@@ -133,7 +133,7 @@ Use the smallest complete loop: **NOTICE -> CAPTURE -> PROCESS -> ROUTE -> CONFI
 
 Physical capture points may include the 86 Board, Brainstorming Clipboard, Order Guide or Purchasing List, work-order follow-up, Manager Log, and weekly teaching-guide notes. Capture is not resolution. An actionable item needs a destination, owner, next action, and confirmation. Use existing capture points; do not create a new mandatory form.
 
-Routing categories may include **Tomorrow, Purchase, Work Order, Curriculum, Bistro, Drive, WACOS,** and **Later**. The TA supplies observation and evidence. The instructor retains final authority over curriculum, safety, allergens, equipment access, grading, discipline, and program decisions.
+Routing categories may include **Tomorrow, Purchase, Work Order, Curriculum, Bistro, Drive, WACOS,** and **Later**. The TA supplies observation and evidence. The instructor retains final authority over curriculum, safety, equipment access, grading, discipline, and program decisions.
 
 ## Decision Gate
 

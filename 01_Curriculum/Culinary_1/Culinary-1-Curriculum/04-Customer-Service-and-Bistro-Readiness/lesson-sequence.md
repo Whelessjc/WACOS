@@ -36,7 +36,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 
 ## Day 5: Early-Release Full Mock Service
 - Opening routine: readiness check, huddle, roles confirmed.
-- Demo or mini-lesson: final service reminders - HEARD as the response if a guest raises a concern (Hear, Empathize, Apologize, Resolve, Diagnose), and a reminder that dietary restrictions and allergies get flagged to the kitchen immediately, not guessed at.
+- Demo or mini-lesson: final service reminders - HEARD as the response if a guest raises a concern (Hear, Empathize, Apologize, Resolve, Diagnose), and a reminder that dietary restrictions get flagged to the kitchen immediately, not guessed at.
 - Student work: assigned prep and service setup using the appropriate side-work checklist (Server/Host, Cooks, Support Staff, or Barista).
 - Lab/application: shortened full mock service with no public guests. Practice ticket flow, expo, running, clearing, dish, and reset without treating the day as public service.
 - Cleanup/reset: full service reset.

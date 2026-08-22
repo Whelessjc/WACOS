@@ -7,7 +7,7 @@ It does not redesign the curriculum. It does not create new units. It simply off
 
 The goal is not authenticity. The goal is not exposure to every cuisine. The goal is to connect foundational culinary skills to foods that matter to students, their community, and the working kitchen.
 
-Use these ideas as flexible teaching vehicles. Choose foods based on budget, equipment, allergies, student needs, school rules, available ingredients, and the skill being taught.
+Use these ideas as flexible teaching vehicles. Choose foods based on budget, equipment, student needs, school rules, available ingredients, and the skill being taught.
 
 ## How To Use This Document
 - Start with the skill focus, not the dish.
@@ -45,7 +45,7 @@ Why it fits: A thin batter comparison can show how measurement and pan heat chan
 ---
 
 ## Week 2: Food Handler and Stewardship
-**Skill Focus:** Safety becomes behavior. Practice personal hygiene, cleaning and sanitation, cross contamination, allergens, dish systems, storage, floors, thermometer use, and stewardship jobs.
+**Skill Focus:** Safety becomes behavior. Practice personal hygiene, cleaning and sanitation, cross contamination, dish systems, storage, floors, thermometer use, and stewardship jobs.
 
 ### Possible Lowcountry Vehicles
 **Chicken bog temperature check**
@@ -65,7 +65,7 @@ Why it fits: Brownies are already in the pacing. They are useful for teaching ha
 ### Possible International Vehicles
 **Chicken rice bowl temperature check**
 
-Why it fits: A simple rice bowl setup can connect cooked poultry safety, holding, storage, and allergen awareness. Keep the focus on food safety, not cuisine coverage.
+Why it fits: A simple rice bowl setup can connect cooked poultry safety, holding, and storage. Keep the focus on food safety, not cuisine coverage.
 
 ---
 
@@ -80,7 +80,7 @@ Why it fits: Red rice supports recipe reading, sequencing, measuring, liquid rat
 ### Possible Southern Vehicles
 **Pimento cheese**
 
-Why it fits: Pimento cheese is useful for reading ingredient lists, measuring, mixing, portioning, allergen awareness, and cold-station organization. It can be scaled for tasting or service prep.
+Why it fits: Pimento cheese is useful for reading ingredient lists, measuring, mixing, portioning, and cold-station organization. It can be scaled for tasting or service prep.
 
 ### Possible Student-Favorite Vehicles
 **Fried rice**
@@ -355,7 +355,7 @@ Why it fits: A simple base lets students notice how salt, acid, fat, and aromati
 ### Possible Southern Vehicles
 **Pimento cheese adjustment lab**
 
-Why it fits: Students can taste how fat, salt, acid, and seasoning balance a cold mixture. Allergen awareness matters.
+Why it fits: Students can taste how fat, salt, acid, and seasoning balance a cold mixture.
 
 ### Possible Student-Favorite Vehicles
 **Dip or sauce adjustment lab**
@@ -385,7 +385,7 @@ Why it fits: Roasted vegetables give students a familiar base for comparing herb
 ### Possible Student-Favorite Vehicles
 **Sauce or seasoning station for bowls or wraps**
 
-Why it fits: Students can connect flavor choices to foods they recognize while practicing clean tasting and allergen awareness.
+Why it fits: Students can connect flavor choices to foods they recognize while practicing clean tasting.
 
 ### Possible International Vehicles
 **Flavor balance map using teacher-selected ingredients**

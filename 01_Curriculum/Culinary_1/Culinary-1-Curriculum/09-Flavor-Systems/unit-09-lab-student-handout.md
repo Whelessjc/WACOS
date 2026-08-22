@@ -10,7 +10,7 @@ The purpose of this lab is to learn how flavor is built through tasting, compari
 - Aromatic cooking
 - Balance and adjustment
 - Respectful comparison
-- Allergen-aware cleanup and reset
+- sanitary cleanup and reset
 
 ## Equipment Needed
 - Tasting spoons
@@ -26,7 +26,6 @@ Your teacher may assign salt, vinegar or citrus, oil or fat, aromatics, herbs, s
 
 ## Mise en Place / Setup Checklist
 - [ ] Hands washed
-- [ ] Allergens named
 - [ ] Clean tasting spoons ready
 - [ ] Dirty spoon area ready
 - [ ] Ingredients portioned as directed
@@ -42,7 +41,6 @@ Your teacher may assign salt, vinegar or citrus, oil or fat, aromatics, herbs, s
 5. Taste again with a clean spoon.
 6. Describe what changed.
 7. Compare another flavor build if assigned.
-8. Clean and reset with allergen awareness.
 
 ## Teamwork Expectations
 - Use clean spoons every time.
@@ -53,7 +51,7 @@ Your teacher may assign salt, vinegar or citrus, oil or fat, aromatics, herbs, s
 
 ## Safety Reminders
 - Do not double-dip.
-- Check allergens before tasting.
+- Check ingredients before tasting.
 - Keep soy, dairy/yogurt, coconut, chili, and spice areas controlled.
 - Wash hands if contaminated.
 - Use hot-pan safety for aromatic work.
@@ -61,7 +59,7 @@ Your teacher may assign salt, vinegar or citrus, oil or fat, aromatics, herbs, s
 ## Cleanup and Reset Checklist
 - [ ] Tasting spoons/cups handled correctly
 - [ ] Counters cleaned and sanitized
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Ingredients closed and stored
 - [ ] Tools washed
 - [ ] Towels handled correctly
@@ -70,7 +68,7 @@ Your teacher may assign salt, vinegar or citrus, oil or fat, aromatics, herbs, s
 - [ ] Station ready for the next group
 
 ## Bistro Connection
-Flavor checks protect guests and improve consistency. A cook should taste safely, adjust carefully, communicate clearly, and keep allergens controlled.
+Flavor checks protect guests and improve consistency. A cook should taste safely, adjust carefully, and communicate clearly.
 
 ## Reflection Questions
 1. What did the base taste like?

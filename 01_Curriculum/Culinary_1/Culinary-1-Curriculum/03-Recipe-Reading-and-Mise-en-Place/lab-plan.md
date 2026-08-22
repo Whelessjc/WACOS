@@ -1,4 +1,4 @@
-﻿# Lab Plan: Recipe Reading and Mise en Place
+# Lab Plan: Recipe Reading and Mise en Place
 
 ## Lab Purpose
 Use simple recipes to practice reading, measuring, sequencing, prep lists, and organized station setup.
@@ -63,5 +63,4 @@ Tools returned, dishes routed correctly, counters sanitized, food stored or disc
 ## Possible Variations
 - Use rice only for ratio practice.
 - Make fried rice teacher-led if heat control is not ready.
-- Substitute another simple bar cookie if peanut allergies require it.
 - Use dried pasta and basic tomato sauce to assess timing, doneness by feel, salting water, sequencing, and sauce mise en place. Confirm the formula and gluten substitution before scheduling.

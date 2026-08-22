@@ -17,7 +17,6 @@
   7. Simmer gently 30 minutes.
   8. Strain.
 - **Food safety controls**: Standard seafood/stock handling; cool and refrigerate promptly if not used same-day.
-- **Allergens**: Fish; contains alcohol (white wine, cooked down).
 - **Quality indicators**: Clean, light seafood flavor without bitterness (avoid boiling hard or over-simmering, which turns fish stock cloudy/bitter), pale golden color.
 - **Holding/storage**: Refrigerate or freeze; use as a base for fish velouté, chowders, or poaching liquid.
 - **Scaling notes**: Scales by weight; keep the same short simmer time regardless of batch size (fish stock, unlike meat stock, doesn't benefit from long cooking).
@@ -41,7 +40,6 @@
   6. Reserve the clams and mussels (for another use).
   7. Strain the stock.
 - **Food safety controls**: Standard shellfish handling; discard any shellfish that don't open, or that were dead/damaged before cooking.
-- **Allergens**: Shellfish; contains alcohol (white wine, cooked down).
 - **Quality indicators**: Clean, briny-sweet flavor, not watered down (source flags vessel size as the main risk for a weak stock).
 - **Holding/storage**: Refrigerate or freeze; use as a base for shellfish nage, bisques, or chowders.
 - **Scaling notes**: Scales by weight - keep the ~20% mirepoix-to-shellfish ratio and appropriately sized pot as batch size changes.
@@ -63,7 +61,6 @@
   4. Do not strain; let the lemongrass steep in the stock while it cools in a bain-marie.
   5. Finish with butter or olive oil and an appropriate herb before use.
 - **Food safety controls**: Standard stock handling; cool promptly (the bain-marie cooling step also serves this purpose).
-- **Allergens**: Shellfish (via the base stock).
 - **Quality indicators**: Fragrant, neutral-but-aromatic flavor (lemongrass forward, not muddy) - the source notes this neutrality is what makes it versatile across different fish/shellfish preparations.
 - **Holding/storage**: Refrigerate; finish with fat just before service, not during storage.
 - **Scaling notes**: Scales linearly from the 1 qt base.
@@ -86,7 +83,6 @@
   5. Stir in the cream; bring to a boil.
   6. Reduce heat to a simmer; cook until the liquid thickens and coats the back of a spoon, about 4 minutes.
 - **Food safety controls**: Standard shellfish/dairy handling.
-- **Allergens**: Shellfish, dairy.
 - **Quality indicators**: Sauce coats the back of a spoon (nappe consistency), crawfish tails tender (not rubbery from overcooking), balanced Cajun spice.
 - **Holding/storage**: Hold hot for service in a bain-marie; cool and refrigerate leftovers promptly.
 - **Scaling notes**: Already a full production batch (2 qt, 100 portions). Scale down proportionally for smaller runs.
@@ -110,7 +106,6 @@
   6. Raise oil to 375-400°F. Fry the blanched potatoes a second time, 1.5-5 minutes depending on desired crispness, until golden. Season immediately.
   7. Serve fish and chips together with lemon wedges, malt vinegar, and tartar sauce as desired.
 - **Food safety controls**: Standard seafood handling; confirm fish reaches a safe internal temperature/opaque, flaky texture throughout.
-- **Allergens**: Gluten, fish, egg; contains alcohol (beer).
 - **Quality indicators**: Crisp, not greasy batter; fries golden and crisp outside, fluffy inside (double-fry technique); fish flaky and moist inside the crust.
 - **Holding/storage**: Best fresh; batter-fried items lose crispness quickly if held.
 - **Scaling notes**: Scaled 5x from the source's 4-serving yield.
@@ -133,7 +128,6 @@
   5. Fry in batches (8-10 pieces at a time, scaling batch size up with total quantity), 2-3 minutes, until golden brown.
   6. Drain on paper towels; season with additional salt and parsley. Serve immediately.
 - **Food safety controls**: Standard seafood/dairy handling; don't overcrowd the fryer (drops oil temperature and produces greasy, unevenly cooked calamari).
-- **Allergens**: Gluten, dairy, mollusk (squid).
 - **Quality indicators**: Light, crisp coating; tender (not rubbery) squid - a sign it wasn't overcooked.
 - **Holding/storage**: Best immediately after frying; does not hold well.
 - **Scaling notes**: Scaled 4x from the source's 1 lb batch; confirm actual portion count from a full batch in production.
@@ -158,7 +152,6 @@
   7. Remove from the pan as soon as cooked; serve with favorite sides or over pasta.
   8. *(Optional clarified butter method: melt butter over medium heat, skim off the foam, pour into a measuring cup, and let the milk solids settle to the bottom. Pour off the clear golden butter, leaving the solids behind, for a cleaner-tasting sear.)*
 - **Food safety controls**: Standard shellfish handling; confirm shrimp are fully opaque throughout before removing from heat.
-- **Allergens**: Shellfish, dairy.
 - **Quality indicators**: Dark, spiced crust without a burnt/acrid taste, shrimp opaque and just cooked through (not rubbery from overcooking).
 - **Holding/storage**: Best fresh; shrimp toughens quickly if held or reheated.
 - **Scaling notes**: Scaled 8x from the source's 2-serving yield.
@@ -178,7 +171,6 @@
   2. Add shallots, green onion, soy sauce, sesame oil, chili garlic sauce, and sesame seeds.
   3. Gently toss. Serve immediately, or cover and refrigerate briefly.
 - **Food safety controls**: Sashimi-grade fish only, from a supplier verified for raw consumption; keep well chilled until service; use within the same day.
-- **Allergens**: Fish, soy, sesame.
 - **Quality indicators**: Clean-tasting, bright tuna (no fishy odor - a sign of freshness), even seasoning distribution, neat uniform dice.
 - **Holding/storage**: Serve same-day; hold well chilled (below 41°F) until service, consistent with raw-fish food safety practice.
 - **Scaling notes**: Scaled 2x from the source's 8-serving yield.
@@ -201,7 +193,6 @@
   5. Add the onion, cilantro, chili, and sweet potato to the fish. Mix gently; taste and adjust the salt/sour/heat balance.
   6. Divide among serving bowls; serve immediately.
 - **Food safety controls**: Use fish suitable for raw/marinated consumption (from a supplier verified for this use, same standard as sashimi-grade fish); keep well chilled through prep; serve immediately once dressed (the acid "cooks" the fish's texture but doesn't replace food-safe sourcing/handling).
-- **Allergens**: Fish.
 - **Quality indicators**: Fish opaque and firm (from the acid marinade) but not mushy from over-marinating, balanced salt/sour/heat, crisp (not harsh) onion.
 - **Holding/storage**: Serve immediately after dressing; the tiger's milk base can be made up to 4 hours ahead and refrigerated separately.
 - **Scaling notes**: Scaled 4x from the source's 4-serving yield.
@@ -223,7 +214,6 @@
   4. Stir; let stand at least 4 hours in the refrigerator. (Source note: this recipe improves resting overnight - taste again before serving and adjust spice/heat as needed, since the fish can absorb flavor and need re-seasoning.)
   5. Serve with plain or soda crackers.
 - **Food safety controls**: Use seafood suitable for raw/marinated consumption from a verified supplier; keep refrigerated throughout the marination; the acid marinates/firms the seafood but doesn't replace food-safe sourcing.
-- **Allergens**: Shellfish (shrimp, clams), fish, mustard.
 - **Quality indicators**: Seafood firm and opaque from the citrus marinade, balanced heat and acidity, fresh clean seafood flavor (not "fishy," a sign of freshness).
 - **Holding/storage**: Best after resting at least 4 hours, up to overnight, refrigerated; serve chilled.
 - **Scaling notes**: Scaled 2x from the source (no stated original yield); confirm actual portion count in production.
@@ -247,7 +237,6 @@
   6. In the same pan, heat the high-fat butter until it begins to lightly brown. Add lemon juice to stop the browning. Add capers; finish with parsley. Taste and season with pepper only (not salt, due to the capers' saltiness).
   7. Rest the fish briefly, then serve whole with the sauce poured over the top.
 - **Food safety controls**: Standard seafood handling; confirm the fish is opaque and flakes at the thickest part.
-- **Allergens**: Gluten, dairy, fish.
 - **Quality indicators**: Golden, evenly browned exterior, moist and tender flesh, nutty brown-butter sauce (not burnt) with bright lemon-caper balance.
 - **Holding/storage**: Best fresh; the brown butter sauce doesn't hold or reheat well.
 - **Scaling notes**: Scaled 4x from the source's 4-serving figure - see the yield discrepancy noted above before finalizing a production portion count.
@@ -270,7 +259,6 @@
   5. Right before service, add the diced tomato and chopped parsley to the sauce; toss gently and adjust thickness if needed.
   6. Nappe (coat) the fish with the finished sauce.
 - **Food safety controls**: Standard seafood handling; hold poached fish covered and warm, not at room temperature, until sauced and served.
-- **Allergens**: Fish, dairy; contains alcohol (white wine, cooked down).
 - **Quality indicators**: Fish moist and just cooked through, sauce glossy and nappe-consistency (coats the back of a spoon), tomato added late enough to stay bright rather than breaking down into the sauce.
 - **Holding/storage**: Best fresh, sauced just before service.
 - **Scaling notes**: Scaled 2x from the source's yield of 10.
@@ -290,7 +278,6 @@
   2. Add the wine; reduce until a sauce forms.
   3. Finish with salt, pepper, lemon juice, and parsley.
 - **Food safety controls**: Standard shellfish handling; confirm shrimp are opaque throughout before serving.
-- **Allergens**: Shellfish, dairy; contains alcohol (white wine, largely cooked down).
 - **Quality indicators**: Shrimp just cooked through (not rubbery), glossy garlic-wine-butter sauce, bright lemon finish.
 - **Holding/storage**: Best fresh; shrimp toughens if held or reheated.
 - **Scaling notes**: Scaled 4x from an assumed 1 lb/4-portion base, since the source didn't state a yield; confirm actual portion size in production.
@@ -312,7 +299,6 @@
   4. Fold the bean mixture, parsley, and remaining olive oil into the couscous; season with salt and pepper.
   5. Serve topped with the shrimp.
 - **Food safety controls**: Standard shellfish handling; confirm shrimp are opaque throughout.
-- **Allergens**: Shellfish, dairy, gluten (couscous is a wheat product).
 - **Quality indicators**: Shrimp golden and just cooked through, couscous fluffy (not gummy), bright lemon-caper flavor balance.
 - **Holding/storage**: Best fresh; couscous can be held briefly covered to stay warm.
 - **Scaling notes**: Scaled 4x from the source's 4-serving yield.
@@ -337,7 +323,6 @@
   7. Add shrimp; poach lightly until just opaque.
   8. Season and serve over the grits.
 - **Food safety controls**: Standard shellfish/dairy handling; confirm shrimp are opaque throughout.
-- **Allergens**: Shellfish, dairy, gluten.
 - **Quality indicators**: Smooth, creamy grits (no graininess), shrimp just cooked through (not rubbery), roux-based sauce with good body (coats the shrimp, not watery).
 - **Holding/storage**: Best fresh; grits thicken as they cool and may need loosening with a splash of liquid if held.
 - **Scaling notes**: Scaled 4x from the source (no stated original yield); confirm actual portion count in production.
@@ -361,7 +346,6 @@
   6. Shingle the mango and scallops in a circle on the plate.
   7. Top with the vinaigrette, toasted peanuts, sliced Thai chili, dressed carrots, chili oil, basil, and cilantro.
 - **Food safety controls**: Standard shellfish handling; confirm scallops are fully cooked through in the poaching step, then chilled promptly before plating.
-- **Allergens**: Shellfish, fish (fish sauce), tree nut (peanuts - note: peanuts are a legume, but flag per standard allergen labeling as a peanut allergen).
 - **Quality indicators**: Scallops tender (not rubbery from overcooking), bright and balanced sweet-sour-salty-spicy vinaigrette, attractive shingled presentation.
 - **Holding/storage**: Best assembled just before service; scallops can be poached and chilled slightly ahead.
 - **Scaling notes**: Scaled 8x from the worksheet's 2-portion yield.

@@ -24,7 +24,7 @@ Live Bistro records use fast letter codes. Lab records use a four-level scale be
 
 `E/M/C/N/NO` is Bistro-only observation language. Lab and Employability records retain their current context-specific scales.
 
-Codes are evidence, not automatic grades. A serious safety, sanitation, allergen, or conduct issue requires immediate intervention and separate instructor review when needed.
+Codes are evidence, not automatic grades. A serious safety, sanitation, or conduct issue requires immediate intervention and separate instructor review when needed.
 
 ## Bistro Manager Observation Method
 
@@ -125,7 +125,7 @@ Coaching notes are formative until the instructor identifies them as part of a r
 - The instructor makes the final grading decision.
 - A checklist mark is evidence, not an automatic grade by itself.
 - `NO` or not observed is not equivalent to failure.
-- Safety interventions are documented separately when necessary, and safety, allergens, discipline, and final grades remain under instructor authority.
+- Safety interventions are documented separately when necessary, and safety, discipline, and final grades remain under instructor authority.
 - Students receive timely feedback.
 - Repeated evidence is more reliable than one isolated moment.
 - Student reflection may support but cannot replace direct performance evidence.

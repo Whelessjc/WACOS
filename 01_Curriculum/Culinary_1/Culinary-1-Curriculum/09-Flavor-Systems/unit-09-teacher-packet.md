@@ -3,7 +3,7 @@
 ## Unit Overview
 Weeks 14 to 15 focus: move beyond recipes and learn how flavor is built.
 
-Students explore salt, acid, fat, aromatics, herbs, spices, balance, safe tasting, allergen awareness, and respectful flavor comparison. Applications include soy and ginger, vinegar and herbs, chili and citrus, yogurt and spice, and coconut and curry, without claiming authenticity.
+Students explore salt, acid, fat, aromatics, herbs, spices, balance, safe tasting, and respectful flavor comparison. Applications include soy and ginger, vinegar and herbs, chili and citrus, yogurt and spice, and coconut and curry, without claiming authenticity.
 
 ## Weeks at a Glance
 | Week | Focus | Main Application |
@@ -21,18 +21,18 @@ Students explore salt, acid, fat, aromatics, herbs, spices, balance, safe tastin
 - Day 5: Bistro flavor application: taste before service, adjust carefully, reset.
 
 ### Week 15: Flavor Builds and Respectful Comparison
-- Day 1: Soy and ginger comparison with allergen note and respectful language.
+- Day 1: Soy and ginger comparison with respectful language.
 - Day 2: Vinegar/herbs and chili/citrus comparison; acid, heat, aroma.
-- Day 3: Yogurt/spice and coconut/curry comparison; dairy/coconut allergen care.
+- Day 3: Yogurt/spice and coconut/curry comparison.
 - Day 4: Team flavor adjustment with assigned flavor direction and tasting rules.
-- Day 5: Final tasting, useful feedback, reflection, allergen-aware reset.
+- Day 5: Final tasting, useful feedback, reflection, and sanitary reset.
 
-Daily pattern: opening routine, safe tasting reminder, allergen check, demo, small tasting/cooking task, teacher checkpoint, cleanup/reset, exit reflection.
+Daily pattern: opening routine, safe tasting reminder, demo, small tasting/cooking task, teacher checkpoint, cleanup/reset, exit reflection.
 
 ## Setup Notes
 - Portion strong seasonings.
 - Prepare clean tasting spoons and a dirty spoon area.
-- Identify allergens before tasting.
+- Identify ingredients before tasting.
 - Choose simple base foods for comparison.
 - Keep samples small.
 - Decide which aromatic work uses heat and which is teacher-led.
@@ -44,12 +44,11 @@ Daily pattern: opening routine, safe tasting reminder, allergen check, demo, sma
 - "Flavor is built, not dumped in."
 - "Use specific words, not just good or bad."
 - "These are flavor studies, not claims of authenticity."
-- "Allergen awareness protects guests and classmates."
 
 ## Safety Reminders
 - No double-dipping.
 - Use clean tasting spoons.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep soy, dairy/yogurt, coconut, spice, and chili risks organized.
 - Wash hands and sanitize tasting surfaces.
 - Watch hot pans during aromatic work.
@@ -65,7 +64,7 @@ Daily pattern: opening routine, safe tasting reminder, allergen check, demo, sma
 ## Cleanup and Reset Expectations
 Flavor labs are complete when:
 - Tasting cups/spoons are handled correctly
-- Allergen surfaces are cleaned
+- Affected surfaces are cleaned
 - Counters are sanitized
 - Ingredients are closed and stored
 - Tools are washed
@@ -84,13 +83,13 @@ Skills practiced:
 - Herb and spice awareness
 - Balance and adjustment
 - Respectful comparison
-- Allergen-aware reset
+- sanitary reset
 
 Suggested roles:
 - Tasting lead: manages clean spoon process
 - Recorder: writes observations
 - Seasoning lead: adds only teacher-approved amounts
-- Allergen/station lead: watches labels and surfaces
+- Station lead: watches labels and surfaces
 - Steward: leads dishes, towels, trash, counters, and floor reset
 
 Teacher checkpoints:
@@ -98,16 +97,14 @@ Teacher checkpoints:
 - Additions are small
 - Descriptions are specific
 - Cultural references stay respectful
-- Allergens are controlled
 - Station resets before the next group
 
 ## Bistro Connection
-Flavor work helps students taste responsibly, communicate clearly, adjust in small steps, protect guests with allergen awareness, and avoid sending food out without checking it first.
+Flavor work helps students taste responsibly, communicate clearly, adjust in small steps, and avoid sending food out without checking it first.
 
 ## Reflection Notes
 After Unit 09, note:
 - Whether tasting routines were sanitary
 - Which flavor words students used well
 - Whether students adjusted in small steps
-- Which allergen/reset habits need reteaching
 - How flavor work can support protein and Bistro service

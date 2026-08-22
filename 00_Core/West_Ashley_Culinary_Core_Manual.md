@@ -198,6 +198,8 @@ Meaningful learning should connect three levels when authentic opportunities exi
 
 Hospitality is not limited to front-of-house roles. It includes how students speak to each other, how they handle mistakes, how they protect guests, how they reset the room, and how they leave the next group ready to succeed.
 
+Food produced in Culinary has an instructor-approved purpose. Making a product does not make it automatic student food. Students learn to consider yield, portioning, professional handling, presentation, the approved destination, and the person who may receive or rely on their work.
+
 ### Repetition Builds Confidence
 
 Confidence comes from repeated practice under clear standards. Novelty has a place, but repetition builds cooks.
@@ -237,7 +239,7 @@ Culinary 1 should prepare students to:
 - Use knives safely.
 - Cook simple food with increasing confidence.
 - Apply flavor balance through vinaigrette and a teacher-approved, same-day refrigerated quick pickle; this does not include canning or fermentation.
-- Practice both animal-protein and tofu applications with appropriate food-safety and allergen controls.
+- Practice both animal-protein and tofu applications with appropriate food-safety controls.
 - Understand dish, laundry, storage, labeling, and cleaning systems.
 - Participate appropriately in Bistro roles after readiness has been established.
 - Decide whether Culinary 2 is the right next step.
@@ -290,7 +292,9 @@ Students arrive on time, in uniform, with required materials, and ready to work.
 
 ### Safety
 
-Safety governs all work. Students follow knife, heat, equipment, chemical, movement, allergen, and emergency procedures. No production goal justifies unsafe work.
+Safety governs all work. Students follow knife, heat, equipment, chemical, movement, and emergency procedures. No production goal justifies unsafe work.
+
+Allergen training occurs through ServSafe Food Handler. Outside that credential instruction, allergen situations are handled case by case by the instructor rather than embedded as separate WACOS curriculum, recipe fields, assessment prompts, or operating checklists.
 
 ### Sanitation
 
@@ -494,7 +498,7 @@ Summative work should test readiness, not trivia. Students should be able to sho
 
 ### Observation Evidence
 
-Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception-based notes, repeated evidence, and instructor judgment. A checklist code is evidence rather than an automatic grade. Not observed is not failure. Group performance does not automatically become each student's individual grade, and the same behavior should not be automatically penalized in more than one category. Serious safety, sanitation, allergen, or conduct concerns require immediate intervention and separate instructor review when necessary.
+Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception-based notes, repeated evidence, and instructor judgment. A checklist code is evidence rather than an automatic grade. Not observed is not failure. Group performance does not automatically become each student's individual grade, and the same behavior should not be automatically penalized in more than one category. Serious safety, sanitation, or conduct concerns require immediate intervention and separate instructor review when necessary.
 
 The current procedures and printable records are maintained in `03_Assessment/06_Assessment_System.md` and `03_Assessment/Tools/`.
 
@@ -639,7 +643,6 @@ AI must never replace:
 - Instructor judgment.
 - Live safety decisions.
 - Food safety authority.
-- Allergen verification.
 - Equipment authorization.
 - Student grading decisions.
 - District policy.
@@ -725,7 +728,7 @@ Partners, guest speakers, field trips, and Hospitality Scholars experiences are 
 
 ### Recipe Bank
 
-The Markdown category files in `04_Recipes/Recipe_Bank/` are WACOS's provisional working Recipe Bank and the factual starting point for recipe retrieval. Provisional does not mean production-approved: entries marked **Needs confirmation** and items in `_OPEN_QUESTIONS.md` require instructor review. Missing yields, portions, allergens, safety controls, storage, reheating, sources, equipment permissions, quantities, or procedures must never be silently filled.
+The Markdown category files in `04_Recipes/Recipe_Bank/` are WACOS's provisional working Recipe Bank and the factual starting point for recipe retrieval. Provisional does not mean production-approved: entries marked **Needs confirmation** and items in `_OPEN_QUESTIONS.md` require instructor review. Missing yields, portions, safety controls, storage, reheating, sources, equipment permissions, quantities, or procedures must never be silently filled.
 
 Student production recipes normally represent one student group unless clearly labeled otherwise. Teacher production and purchasing calculations remain separate and use the actual scheduled group count and usable inventory rather than a permanent multiplier.
 
@@ -873,3 +876,4 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | Version | Date | Description |
 |---|---|---|
 | 1.0 | 2026-07-03 | Initial Core Manual synthesized from WACOS v2.1, research archive, and current instructor-confirmed decisions. |
+| 1.1 | 2026-08-22 | Added Culinary 1 product stewardship and centralized the ServSafe Food Handler case-by-case safety topic in one governing statement. |

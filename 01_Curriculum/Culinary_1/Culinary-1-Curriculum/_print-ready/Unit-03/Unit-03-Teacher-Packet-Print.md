@@ -34,7 +34,6 @@ Students review Food Handler expectations, read recipes before acting, identify 
 
 ## Safety Watch-Outs
 - Review Food Handler habits before labs.
-- Keep allergens named and separated.
 - Prevent rushing from recipe reading into food handling.
 - Keep cutting/cooking stations organized and clear.
 - Store ingredients and leftovers as directed.

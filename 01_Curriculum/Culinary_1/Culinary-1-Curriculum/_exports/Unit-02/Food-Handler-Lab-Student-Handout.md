@@ -1,4 +1,4 @@
-﻿# Food Handler and Stewardship Lab Student Handout
+# Food Handler and Stewardship Lab Student Handout
 ## Purpose
 This lab helps you practice Unit 02 skills in a controlled, useful kitchen task.
 ## Skills Practiced
@@ -6,7 +6,6 @@ This lab helps you practice Unit 02 skills in a controlled, useful kitchen task.
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 - thermometer use
 - laundry, counters, dishes, storage, floors
@@ -41,7 +40,7 @@ Your teacher will assign the tools, equipment, and products for the day. Check t
 - Share dish, towels, trash, floor, and reset.
 ## Safety Reminders
 - Wash hands at required times.
-- Keep raw, ready-to-eat, allergen, and clean items separated.
+- Keep raw, ready-to-eat, and clean items separated.
 - Use sanitizer correctly.
 - Use thermometer as evidence, not guessing.
 - Follow three-compartment sink or dish machine directions.

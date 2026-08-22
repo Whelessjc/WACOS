@@ -20,7 +20,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Pipe rounds (about 1.5" diameter) onto the mat, spaced apart. Let stand at room temperature about 1 hour, until a skin forms.
   6. Preheat oven to 285°F. Bake until set but not browned, about 10 minutes. Cool completely before filling.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Egg, tree nut (almond).
 - **Quality indicators**: Smooth, crackle-free tops, a "foot" (ruffled base) after baking, chewy interior.
 - **Holding/storage**: Store filled cookies airtight; best within a few days.
 - **Scaling notes**: Scales linearly by weight (weights given above are more reliable than volume for macarons).
@@ -42,7 +41,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Fold half the egg whites into the yolk mixture; fold in the flour, then the remaining whites.
   6. Pipe onto prepared sheets. Bake 8 minutes.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Egg, gluten.
 - **Quality indicators**: Light, spongy texture; pale golden color.
 - **Holding/storage**: Store airtight; freezes well.
 - **Scaling notes**: Scales linearly.
@@ -65,7 +63,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Cut into 1/2"-wide diagonal slices. Bake at 325°F for 9 minutes, flip, and bake 7-9 minutes more.
   6. Cool completely; store airtight.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Crisp, twice-baked texture; even chocolate distribution.
 - **Holding/storage**: Stores very well airtight, per the source's own note.
 - **Scaling notes**: Scales linearly.
@@ -88,7 +85,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Bake 25-30 minutes, until golden. Cool on a rack.
   6. Slice crosswise into 1/2" slices; place cut-side up on the sheet. Bake an additional 6-10 minutes per side, until lightly toasted.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Gluten, egg.
 - **Quality indicators**: Crisp, dry texture typical of a proper double-bake; balanced anise flavor.
 - **Holding/storage**: Stores well airtight.
 - **Scaling notes**: Scales linearly.
@@ -111,7 +107,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Preheat oven to 400°F. Roll dough on a floured surface to 1/4-1/2" thick. Cut into shapes; place 1" apart on ungreased sheets.
   6. Bake 6-8 minutes. Cool completely.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Clean-cut edges (dough was properly chilled), even light golden color, tender not tough.
 - **Holding/storage**: Store airtight; unbaked dough can be refrigerated or frozen.
 - **Scaling notes**: See yield note above - confirm actual output against the ingredient scale used, since the "5 dozen" label doesn't reliably track the batch size across source copies.
@@ -133,7 +128,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Bake 5-9 minutes, until edges begin to brown. Cool 2 minutes on the sheet, then transfer to a rack. Frost/decorate as desired.
   5. *(Drop cookie variation: skip refrigeration. Drop rounded tablespoons of dough 2" apart on an ungreased sheet. Bake at 375°F for 7-8 minutes.)*
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, egg.
 - **Quality indicators**: Pale, tender texture typical of an all-shortening dough (less browning than a butter dough).
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales linearly.
@@ -157,7 +151,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Bake until lightly golden, about 10 minutes - do not let brown. Cool on racks.
   7. Decorate with Royal Icing (below), if desired.
 - **Food safety controls**: Standard egg/dairy handling; contains alcohol (brandy, mostly baked off - note for service to sensitive populations).
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Crisp, pale (not browned) finish, holds a clean cut shape - the dough should feel firm, not soft, when it goes into the oven.
 - **Holding/storage**: Store airtight; undecorated cookies freeze well.
 - **Scaling notes**: Scales linearly.
@@ -180,7 +173,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   3. Shape into 1" balls; roll in sugar. Place on a greased sheet; flatten with a glass.
   4. Bake 10-12 minutes, until set. Cool completely on racks.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Slightly crackled sugared top, tender crumb.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales linearly.
@@ -203,7 +195,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. For the frosting, combine shortening and powdered sugar with a pastry blender; stir in warm milk gradually until spreadable, then stir in lemon extract.
   6. Spread a thin layer of frosting on the cooled cookies.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Soft, cake-like cookie texture, smooth spreadable frosting.
 - **Holding/storage**: Store airtight; best within a few days once frosted.
 - **Scaling notes**: Scales linearly.
@@ -227,7 +218,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Loosen edges and let the shaped dough fall onto an ungreased sheet.
   7. Bake 12-15 minutes, until lightly browned. Cool briefly before removing from the sheet.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Gluten, egg.
 - **Quality indicators**: Crisp, clean mold-detail definition (shortening holds detail better than butter, per the source's own substitution note).
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales linearly.
@@ -247,8 +237,7 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   2. Sift flour, baking powder, baking soda, and salt in a separate bowl; stir into the butter mixture. Refrigerate 1 hour.
   3. Preheat oven to 375°F. Roll into 1" balls; place on sheets. Flatten each with a fork in a crosshatch pattern.
   4. Bake about 10 minutes, until they begin to brown.
-- **Food safety controls**: Standard egg/dairy handling; confirm no peanut cross-contact concerns per program allergen policy.
-- **Allergens**: Peanut, gluten, dairy, egg.
+- **Food safety controls**: Standard egg/dairy handling
 - **Quality indicators**: Classic crosshatch surface, tender center, not overbaked (peanut butter cookies firm up as they cool).
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales linearly.
@@ -270,7 +259,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Cut each log into 1/2" slices (about 28 per log); place on lightly greased sheets.
   5. Bake at 350°F for 12-14 minutes, until edges lightly brown. Cool on racks.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Gluten, egg, dairy (if using butter).
 - **Quality indicators**: Clean round slices (even chilling and slicing), lightly browned edges.
 - **Holding/storage**: Store airtight, or freeze the unbaked logs.
 - **Scaling notes**: Scales linearly by log count.
@@ -293,7 +281,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Wrap; refrigerate 30 minutes or freeze 15 minutes.
   6. Preheat oven to 350°F. Slice each log into 1/4"-thick slices; place on a lined sheet. Bake 10-12 minutes. Cool 2 minutes on the sheet, then transfer to a rack.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Gluten, egg.
 - **Quality indicators**: Clean, even checkerboard pattern (precise strip measurement is the key skill here), consistent slice thickness.
 - **Holding/storage**: Dough can be made 1-2 days ahead and refrigerated, or frozen several weeks; baked cookies store airtight up to 2 days.
 - **Scaling notes**: Scales by log count; precision in strip width matters more than batch size.
@@ -317,7 +304,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Preheat oven to 350°F. Brush with egg wash; sprinkle with cinnamon-sugar topping.
   7. Bake 15-20 minutes, until lightly browned. Cool on a rack.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg, tree nut (walnut).
 - **Quality indicators**: Flaky, tender cream-cheese dough, filling that stays inside the roll (not leaking out during baking).
 - **Holding/storage**: Dough freezes well (make a double batch and freeze half, per the source's own tip). Baked cookies store airtight.
 - **Scaling notes**: Scales linearly by dough quarter (each makes 12 cookies).
@@ -337,7 +323,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   2. Remove from heat; stir in peanut butter, oats, and vanilla.
   3. Drop by teaspoonfuls onto wax paper. Let cool until hardened.
 - **Food safety controls**: Standard dairy handling; confirm the sugar mixture reaches a true boil for the full time so the cookies set properly.
-- **Allergens**: Peanut, dairy.
 - **Quality indicators**: Set firm (not sticky/soft - a sign the boil time was sufficient), even chocolate-peanut flavor.
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Scales linearly.
@@ -357,7 +342,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   2. Melt chocolate chips with the remaining peanut butter (microwave or double boiler), stirring until smooth.
   3. Spread over the crust. Refrigerate at least 1 hour before cutting into squares.
 - **Food safety controls**: Standard handling; melt chocolate gently to avoid seizing.
-- **Allergens**: Peanut, gluten (graham crackers), dairy.
 - **Quality indicators**: Firm-set chocolate top, cohesive (not crumbly) crust layer.
 - **Holding/storage**: Refrigerate; cuts cleanly once fully chilled.
 - **Scaling notes**: Scales linearly by pan size.
@@ -376,8 +360,7 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   1. Mix nut butter, oats, honey, dry milk, and vanilla in a large bowl.
   2. Add mix-ins (2 cups total, per preference). Adjust with more honey if too dry, or more oats if too sticky - the source describes this as a flexible starting-point recipe, not a fixed formula.
   3. Portion by hand into ping-pong-ball-sized pieces. Rest on a parchment-lined sheet 20 minutes to firm up.
-- **Food safety controls**: Standard handling; confirm no nut allergy conflicts per program policy given the nut-butter base.
-- **Allergens**: Peanut or tree nut (depending on nut butter choice), dairy (dried milk).
+- **Food safety controls**: Standard handling
 - **Quality indicators**: Holds together without crumbling, not overly sticky or dry.
 - **Holding/storage**: Refrigerate airtight up to 2 weeks.
 - **Scaling notes**: Scales linearly; the recipe is intentionally adjustable (see procedure step 2).
@@ -400,7 +383,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Roll 1/2" thick; cut into 2.5" squares (or any shape). Place on an ungreased sheet.
   6. Bake 20-25 minutes, until edges begin to brown. Cool to room temperature.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Gluten, dairy, tree nut (pecan).
 - **Quality indicators**: Sandy, tender crumb (not tough - a sign of minimal overmixing), even pecan distribution.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Source notes this recipe doubles easily.
@@ -421,7 +403,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   3. Put through a cookie press to form shapes onto baking sheets.
   4. Bake 10-12 minutes.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Clean pressed detail (dough consistency needs to hold the press pattern without being too soft), pale golden color.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales linearly.
@@ -446,7 +427,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Lightly press to a parchment-lined (or ungreased) sheet pan with two fingers, flattening slightly.
   8. Bake at 400°F for 8-10 minutes (standard oven), or at 300°F for 12 minutes in a convection oven if using the butter-shortening blend.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Gluten, egg, dairy (if using the butter-blend variant).
 - **Quality indicators**: Crackled cinnamon-sugar surface, soft chewy center, tangy flavor from the cream of tartar.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scale linearly between the half- and full-batch versions shown above; the convection variant swaps the temperature/time and fat blend but not the core ratios.
@@ -470,7 +450,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Stir in chocolate chips.
   7. Portion large cookies; bake about 12 minutes.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Gluten, egg.
 - **Quality indicators**: Even chip distribution, golden edges with a soft center.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales linearly.
@@ -493,7 +472,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Bake 1.5-1.75 hours, rotating the sheet halfway, until pale and crisp (they'll release cleanly from the parchment when done).
   6. Turn off the oven; crack the door and leave the meringues inside to dry several hours or overnight.
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Egg, tree nut (if using the almond garnish).
 - **Quality indicators**: Smooth (not gritty) texture, crisp all the way through, pale color (not browned).
 - **Holding/storage**: Store at room temperature, covered, up to several days.
 - **Scaling notes**: Scales linearly by egg white count.
@@ -518,7 +496,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Bake at 375°F (or 275°F in a convection oven) for 12-13 minutes, until browned.
   8. Cool about a minute on the sheet before transferring to a rack.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg, sesame.
 - **Quality indicators**: Thin, crisp, lacy wafer with toasted-sesame flavor throughout (not just on top).
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales linearly.
@@ -540,7 +517,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Let set until firm enough to transfer, then move to a cooling rack to crisp.
   5. Sandwich with buttercream, if desired, or shape warm cookies into mini bowls or cones.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Thin, lacy, evenly golden (not pale or burnt), fully crisp once cooled.
 - **Holding/storage**: Store airtight - these absorb moisture and lose crispness if left uncovered.
 - **Scaling notes**: Scales linearly, but bake in small batches - the batter spreads significantly and cookies need generous spacing.
@@ -563,7 +539,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Sprinkle remaining crumb mixture over the top; press lightly into the jam.
   6. Bake until golden (time not specified beyond the total - check at 30-35 minutes).
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Golden crumb top and bottom, jam set (not runny) when cut.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scales by pan size.
@@ -585,7 +560,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Roll into balls; place on a parchment-lined sheet.
   5. Bake at 350°F for 8-10 minutes, until golden brown.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Golden brown exterior, chewy texture, even raisin distribution.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: Scaled 2x from the source's 12-portion yield.
@@ -615,7 +589,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   10. Bake at 350°F until it tests clean.
   11. Cool, then unmold.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Tender, fine crumb (yolk-only enrichment gives a rich, close texture), even layer height across all rings from consistent scaling.
 - **Holding/storage**: Wrap and store airtight; freezes well unfrosted.
 - **Scaling notes**: The five/ten-layer ratio table scales directly; **needs confirmation** on the exact unit (likely pounds) for the ranged ingredient quantities before use.
@@ -641,7 +614,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   8. Loosen with a knife, invert onto a rack, peel off parchment, and reinvert. Trim the domed top crust with a serrated knife (helps the cake absorb frosting moisture).
   9. Place one layer cut-side up on a plate; cover with 1 cup frosting. Top with the second layer, cut-side down. Frost top and sides with remaining frosting, sculpting swoops with the back of a spoon.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Golden color, fine and tender (not coarse/cornbread-like - the source warns all-purpose flour instead of cake flour causes this) crumb, level layers.
 - **Holding/storage**: Under a cake dome, keeps 24 hours at room temperature; wrap cut slices individually for up to 2 more days.
 - **Scaling notes**: Can be divided among 3 pans for a 3-layer cake, made into 24-30 cupcakes (bake ~20 minutes), or baked as a 12x18" sheet cake.
@@ -666,7 +638,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Whisk egg whites to soft peaks. Stir a third into the batter, then gently fold in the rest.
   6. Pour into prepared pans; bake until a toothpick comes out clean, 30-40 minutes.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Light, even crumb (from the whipped-white fold), level layers.
 - **Holding/storage**: Store airtight; freezes well unfrosted.
 - **Scaling notes**: Source notes doubling the batch works fine, but the cook hesitated to scale by thirds; divides among 3 pans for a 3-layer cake, makes 24-30 cupcakes, or fills a 12x18" sheet pan (bake cupcakes/sheet about 20 minutes).
@@ -692,7 +663,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   8. Coat the chilled exterior in cookie crumbs, if desired.
   9. Let return to cool room temperature before serving.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg; contains caffeine (coffee/tea).
 - **Quality indicators**: Deep, moist chocolate crumb, level layers, smooth frosting coat.
 - **Holding/storage**: Under a cake dome, keeps 24 hours at cool room temperature; wrap cut slices individually up to 3 more days.
 - **Scaling notes**: Scales by pan count; batter can hold briefly at room temperature if working with fewer pans than the recipe calls for.
@@ -720,7 +690,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   10. Finish the buttercream: whip the marshmallow base, adding butter a tablespoon at a time until light and creamy but thick enough to hang from a spoon (troubleshoot too-stiff by briefly microwaving and rewhipping; too-loose by chilling 15 minutes then rewhipping).
   11. Crumb-coat and frost the cooled cake.
 - **Food safety controls**: Standard egg/dairy handling; the marshmallow syrup reaches candy-making temperatures - handle with care.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Pale, fine crumb, marshmallow buttercream light and creamy (not greasy or loose).
 - **Holding/storage**: Under a cake dome, keeps 24 hours at room temperature; wrap cut slices for up to 2 more days.
 - **Scaling notes**: Batter can hold at room temperature up to 3 hours if working with fewer than 3 pans.
@@ -745,7 +714,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Pour onto a lined sheet, spreading evenly (use an oven mitt - hot sugar burns are severe). Cool completely; break into pieces and crush in a bag with a rolling pin.
   8. Mix sugar into mascarpone for the frosting. Spread over the cooled cake; heap crushed praline on top.
 - **Food safety controls**: Standard egg/dairy handling; handle molten sugar with extreme care (oven mitt, no bare skin contact) when making praline.
-- **Allergens**: Gluten, dairy, egg, tree nut (almond, hazelnut).
 - **Quality indicators**: Moist, dense chocolate crumb, deep golden (not burnt) praline, crunchy praline texture against the soft mascarpone frosting.
 - **Holding/storage**: Refrigerate once frosted; praline can be made ahead and stored airtight (add moisture-sensitive garnishes close to service).
 - **Scaling notes**: Scales linearly; praline batch size is flexible to taste.
@@ -767,7 +735,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Alternately add the dry ingredients and milk to the creamed mixture.
   5. Bake at 350°F until done.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg, tree nut (almond, from the extract - confirm if actual nuts are also used in production).
 - **Quality indicators**: Even crumb, pronounced almond flavor, level rise.
 - **Holding/storage**: Store airtight.
 - **Scaling notes**: **Needs confirmation** - source gives only total batch weights, no pan size or portion count; establish this in production before relying on the recipe as written.
@@ -790,7 +757,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Pour into a greased loaf pan.
   6. Bake at 325°F for 45 minutes, checking doneness with a toothpick - the source recommends slightly under-baking rather than over.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Dense but tender crumb, moist (not dry - the source's own under-bake preference guards against this).
 - **Holding/storage**: Store airtight at room temperature; pound cakes keep well for several days.
 - **Scaling notes**: Scales linearly by pan.
@@ -813,7 +779,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Pour into greased and floured ramekins; bake about 15 minutes.
   6. Cool briefly, release with a knife, and dust with confectioners' sugar.
 - **Food safety controls**: Standard egg/dairy handling; the molten center relies on precise underbaking - confirm the eggs reach a safe temperature during the bake despite the intentionally soft center (a shorter bake with fresh, quality eggs is standard practice for this style of dessert).
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Set exterior with a molten, flowing center, clean release from the ramekin.
 - **Holding/storage**: Best served immediately, warm; batter can be portioned into ramekins ahead and refrigerated briefly before baking.
 - **Scaling notes**: Scales by ramekin count.
@@ -837,7 +802,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. For the frosting: cream butter and cream cheese together. Mix in vanilla. Add powdered sugar 1 cup at a time until smooth.
   7. Frost between layers, top, and sides. Sprinkle sides with chopped pecans. Refrigerate.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg, tree nut (pecan, coconut is technically a fruit but flag per common allergen labeling practice).
 - **Quality indicators**: Light crumb (from the folded egg whites), moist coconut-pecan texture, smooth frosting.
 - **Holding/storage**: Refrigerate the cake layers before frosting for easier handling; a crumb coat followed by a second chill gives the smoothest finish, per the source's own note.
 - **Scaling notes**: Scales linearly by pan count.
@@ -861,7 +825,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Pour into a greased oblong baking dish; bake at 350°F for 1 hour.
   7. Cool on a rack in the dish; cut into squares.
 - **Food safety controls**: Standard egg/dairy handling; contains alcohol if using the rum.
-- **Allergens**: Gluten, dairy, egg, coconut.
 - **Quality indicators**: Moist, spiced crumb, even coconut distribution.
 - **Holding/storage**: Store covered at room temperature.
 - **Scaling notes**: Scales by pan size.
@@ -891,7 +854,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   12. Refrigerate at least 4 hours.
   13. Use a torch to loosen the tart ring; slice.
 - **Food safety controls**: Standard egg/dairy handling; use food-safe gelatin sheets and bloom properly for a stable set.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Distinct visible gradient of matcha shades, clean release from the tart ring, sponge cake moist (not dry) beneath the mousse.
 - **Holding/storage**: Refrigerate; best within a couple of days.
 - **Scaling notes**: Scales by mold size; the graduated-mousse technique works at any scale as long as the ratio between bowls is kept consistent.
@@ -914,7 +876,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Beat cream cheese, butter, and vanilla until smooth; add confectioners' sugar and beat until smooth.
   6. Spread over the cooled cake. Cover and refrigerate until serving.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Moist, evenly spiced crumb, smooth frosting.
 - **Holding/storage**: Refrigerate, covered.
 - **Scaling notes**: Already at the program's target scale (24 servings).
@@ -939,7 +900,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. When cool, return the cake halves to the pan; trim excess cake above the pan edge with a serrated knife. Spread a thin layer of buttercream on one half (still in the pan); press the other half on top to join. Insert skewers into the base and upper half for stability. Cover and refrigerate until the buttercream firms.
   8. Place a small mound of buttercream on a serving plate (about half the cake's base size); stand the assembled cake upright on it. Decorate as desired.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Clean mold detail, halves joined without gaps or shifting, stable when standing upright.
 - **Holding/storage**: Refrigerate once assembled; bring to room temperature before serving for best texture.
 - **Scaling notes**: Scales by pan (this specific specialty pan produces one cake; a second pan would be needed to batch more).
@@ -965,7 +925,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   8. Set the pan on the rack inside the roasting pan (careful of steam/hot water on the underside of the "lid" when removing it); re-cover and steam until a toothpick comes out free of uncooked batter, 20-30 minutes.
   9. Serve immediately, or re-steam until warmed through before serving.
 - **Food safety controls**: Standard egg handling; take care with hot steam and water when uncovering the roasting pan.
-- **Allergens**: Gluten, egg; dairy if chocolate chips are added.
 - **Quality indicators**: Light, well-emulsified batter (the source specifically warns against overmixing, which can break the emulsion or overdevelop gluten, producing a greasier, heavier cake).
 - **Holding/storage**: Best served warm; can be re-steamed to reheat.
 - **Scaling notes**: Scales by loaf pan count; steaming setup (rack, water level, burner span) needs to scale accordingly.
@@ -990,7 +949,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Arrange banana slices and lime gels in a circle; place the cake in the center.
   8. Lean crisped rice against the cake; drizzle with more caramel and add a dollop of whipped cream.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg, coconut.
 - **Quality indicators**: Cake cooked through but moist (steaming rather than baking changes the crumb texture - watch for gumminess if underdone), balanced sweet-tart-crunchy plate composition.
 - **Holding/storage**: Best assembled just before service; individual cake components can be steamed ahead and held briefly.
 - **Scaling notes**: Scaled 8x from the worksheet's 2-portion yield.
@@ -1014,7 +972,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. For the frosting: beat cream cheese, butter, and vanilla until smooth. Add sugar on low speed until incorporated, then increase speed and mix until light and fluffy.
   7. Frost cupcakes with a butter knife or piped with a star tip. Garnish with pecans and berries.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg, tree nut (pecan garnish).
 - **Quality indicators**: Deep red color, tender crumb, smooth and pipeable frosting.
 - **Holding/storage**: Refrigerate once frosted; bring to room temperature before serving for best texture.
 - **Scaling notes**: Already at the program's target scale (24 cupcakes).
@@ -1038,7 +995,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Cover with the remaining batter, then the streusel topping.
   7. Bake at 350°F for about 1 hour, or until a toothpick comes out clean.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg, tree nut (topping).
 - **Quality indicators**: Jam ribbon fully enclosed (not leaking to the pan surface, which can cause sticking/burning), moist crumb, crunchy streusel top.
 - **Holding/storage**: Store covered at room temperature.
 - **Scaling notes**: Scales by pan size.
@@ -1060,7 +1016,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Dust the unbaked shell lightly with flour. Pour in the batter; sprinkle a little more flour on top.
   5. Bake at 325°F until the custard is set, about 1 hour.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Set custard (no jiggle in the center), golden top.
 - **Holding/storage**: Store covered at room temperature or refrigerated.
 - **Scaling notes**: Scales by pie count; use the 4-egg/1.5-cup-buttermilk ratio for a less sweet result.
@@ -1084,7 +1039,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Bake at 350°F for 45 minutes to 1 hour, until set. Shield the crust edges with foil strips if browning too fast.
   7. Cool at least 1 hour before slicing.
 - **Food safety controls**: Standard egg/dairy handling; the tempering step is also a food-safety technique (gradual, even heating of the eggs rather than a sudden temperature shock).
-- **Allergens**: Gluten, dairy, egg, tree nut (if using pecans).
 - **Quality indicators**: Fully set (not runny) filling - properly tempering the eggs is the key to avoiding the "won't set" problem some cooks report with this style of pie.
 - **Holding/storage**: Refrigerate; slices cleanly once fully cooled and set.
 - **Scaling notes**: Scales by pie count.
@@ -1106,7 +1060,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Cool 2 hours on a wire rack before serving.
   5. *(If using a frozen crust: preheat a cookie sheet in the oven along with the oven itself, pour the filling into the frozen crust, and bake on the preheated sheet for more even bottom-crust baking.)*
 - **Food safety controls**: Standard egg handling.
-- **Allergens**: Gluten, egg, tree nut (pecan).
 - **Quality indicators**: Set filling with a slight jiggle at the center when it comes out (firms further as it cools), pecans evenly distributed on top.
 - **Holding/storage**: Cool completely before slicing; store covered at room temperature or refrigerated.
 - **Scaling notes**: Scales by pie count.
@@ -1128,7 +1081,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Heat the mixture slowly; pour into the pie shell.
   5. Bake at 415°F for 15 minutes, then reduce heat to 350°F and bake 30 minutes more.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten (crust), dairy, egg.
 - **Quality indicators**: Set custard, evenly spiced, no cracking (the two-stage bake temperature helps prevent this).
 - **Holding/storage**: Cool completely; refrigerate.
 - **Scaling notes**: Scales by pie count.
@@ -1151,7 +1103,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Melt the chocolate chips/candy melts in a double boiler; drizzle over the chilled pie. Return to the refrigerator until set.
   6. Decorate with additional candies/sprinkles, if desired.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy, gluten (crumb crust, if graham-based).
 - **Quality indicators**: Fully set (sliceable) filling, even green color, no visible white streaks in the mousse layer.
 - **Holding/storage**: Refrigerate; best within a few days.
 - **Scaling notes**: Scales by pie count.
@@ -1176,7 +1127,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Brush the crust with heavy cream and coarse sugar.
   8. Bake 45 minutes, or until golden brown and the fruit is bubbling.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Gluten, dairy.
 - **Quality indicators**: Golden, flaky crust topping, fruit filling bubbling and thickened (not watery - a sign the cornstarch fully activated).
 - **Holding/storage**: Best fresh; reheat leftovers to re-crisp the topping.
 - **Scaling notes**: Already at production scale (24/48 portions per batch respectively). Scale down proportionally for smaller runs, keeping the crust-to-filling ratio roughly consistent.
@@ -1199,7 +1149,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Gently fold the egg whites into the chocolate mixture.
   6. Bake 20-25 minutes.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten (trace, if any flour-dusted ramekins are used), dairy, egg.
 - **Quality indicators**: Well-risen above the rim, set exterior with a soft (not raw) center, no deflating immediately out of the oven.
 - **Holding/storage**: Serve immediately - soufflés fall quickly after baking.
 - **Scaling notes**: Scales by ramekin count.
@@ -1222,7 +1171,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Bake in a water bath for about 1 hour, until just set with a slight jiggle in the center.
   6. Chill, then torch a thin layer of sugar on top just before serving for the classic crackable crust.
 - **Food safety controls**: Standard egg/dairy handling; confirm custard reaches a safe set temperature in the water bath.
-- **Allergens**: Dairy, egg.
 - **Quality indicators**: Silky, set custard (not curdled - a sign of proper tempering and gentle water-bath baking), evenly torched, crackable sugar top.
 - **Holding/storage**: Refrigerate unbrûléed custards; torch sugar just before service (it softens if held too long after torching).
 - **Scaling notes**: Scales by ramekin count.
@@ -1244,7 +1192,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Remove from heat; stir in butter and vanilla.
   5. Sprinkle with nutmeg or cinnamon, if desired. Best with short or medium grain rice for a creamier result, per the source's own note.
 - **Food safety controls**: Standard egg/dairy handling; cook the egg-thickened mixture thoroughly (the 2-minute stir-cook after adding it serves this purpose).
-- **Allergens**: Gluten (if rice is processed on shared lines - typically not an inherent allergen), dairy, egg.
 - **Quality indicators**: Creamy, not soupy or gluey texture, plump raisins.
 - **Holding/storage**: Refrigerate; thickens further as it cools - loosen with a splash of milk if needed.
 - **Scaling notes**: Scales linearly.
@@ -1268,7 +1215,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Fold in the remaining whipped cream gently until no streaks remain.
   7. Divide among 8-10 serving glasses. Garnish with chocolate decoration and fresh berries.
 - **Food safety controls**: Standard egg/dairy handling; the bombe mixture is cooked to 165°F, a safe temperature for the eggs.
-- **Allergens**: Dairy, egg.
 - **Quality indicators**: Smooth, velvety texture (not dense or grainy - the source notes this results from the chocolate cooling too much before the whipped ingredients are folded in). If too dense, the source suggests using a higher-cocoa-butter chocolate, adding extra butter, or increasing the whipped cream.
 - **Holding/storage**: Refrigerate; best within a day or two.
 - **Scaling notes**: Scales linearly. **Chocolate substitution note from source**: for every 4% less cocoa mass than the 64% specified, add 1 oz (30 g) more chocolate to compensate.
@@ -1296,7 +1242,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   10. Pour into a heatproof container; press plastic wrap directly onto the surface to prevent a skin. Refrigerate until chilled.
   11. To fill: poke a hole and pipe filling in, or split and spoon filling in like a sandwich. Serve as is or drizzle with chocolate sauce.
 - **Food safety controls**: Standard egg/dairy handling; cook the pastry cream to a full boil to fully set the starch and cook the eggs through.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Choux puffed and hollow (not doughy inside), pastry cream smooth and thick (not lumpy or thin - a sign of proper tempering and full boiling).
 - **Holding/storage**: Fill shells close to serving to keep them crisp; pastry cream keeps refrigerated (plastic pressed to the surface) a few days.
 - **Scaling notes**: Scales linearly.
@@ -1317,7 +1262,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   3. Chill over an ice bath.
   4. Freeze in an ice cream machine.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy.
 - **Quality indicators**: Smooth, properly churned soft-serve consistency straight from the machine.
 - **Holding/storage**: Harden in the freezer before serving as a scoopable ice cream.
 - **Scaling notes**: Scales linearly.
@@ -1339,7 +1283,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Pour into a lidded container; refrigerate overnight to mellow the flavor and texture.
   5. Freeze in an ice cream freezer per the unit's instructions - it won't freeze fully hard in the machine; once increased 1/2 to 3/4 in volume and at soft-serve consistency, transfer to a lidded container and harden in the freezer at least 1 hour before serving.
 - **Food safety controls**: Standard dairy handling; the 170°F hold pasteurizes the base.
-- **Allergens**: Dairy.
 - **Quality indicators**: Visible vanilla bean flecks, rich mouthfeel, properly hardened (not icy) after freezing.
 - **Holding/storage**: Refrigerate the base overnight before churning; harden churned ice cream at least 1 hour before serving.
 - **Scaling notes**: Already at production scale (128 portions per batch). Scale down proportionally for smaller runs.
@@ -1361,7 +1304,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Pour into a lidded container; refrigerate overnight.
   5. Freeze in an ice cream freezer; harden in the freezer at least 1 hour before serving.
 - **Food safety controls**: Standard dairy handling; the 170°F hold pasteurizes the base.
-- **Allergens**: Dairy.
 - **Quality indicators**: Rich cocoa flavor, marshmallow pieces distributed (not fully dissolved), properly hardened texture.
 - **Holding/storage**: Same as Vanilla Bean Ice Cream above.
 - **Scaling notes**: Already at production scale (128 portions per batch).
@@ -1383,7 +1325,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Stir in corn syrup, if using (quantity to be confirmed).
   5. Freeze in an ice cream maker per manufacturer's instructions. The sorbet will be quite soft right after churning but firms up in the freezer.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Smooth, seedless texture, bright raspberry flavor, scoopable (not icy) after freezing.
 - **Holding/storage**: Freeze; best within a couple of weeks for peak texture.
 - **Scaling notes**: Already at production scale (128 portions per batch).
@@ -1408,7 +1349,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Process in the Pacojet per manufacturer instructions. Fold in the remaining 1/2 cup chopped hazelnuts for crunch, if desired.
   8. Garnish with melted dark chocolate or a coffee reduction swirl, whole hazelnuts, or flaky salt. Pairs well with biscotti or as part of an affogato.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy, tree nut (hazelnut).
 - **Quality indicators**: Ultra-smooth, dense texture characteristic of the Pacojet method, pronounced caramelized-hazelnut flavor.
 - **Holding/storage**: Freeze the base overnight before processing; processed ice cream is best served soon after spinning (that's the nature of the Pacojet method).
 - **Scaling notes**: Scales linearly; a standard ice cream maker can substitute for the Pacojet with a different (less dense/smooth) final texture.
@@ -1431,7 +1371,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Seal with more tempered chocolate; scrape off excess and refrigerate about 30 minutes until fully set.
   6. Pop out of the mold carefully.
 - **Food safety controls**: Standard dairy handling; keep filled bonbons refrigerated until served.
-- **Allergens**: Dairy, peanut (if using that filling); tree nut cross-contact possible depending on chocolate brand.
 - **Quality indicators**: Glossy, snappy chocolate shell (a sign of proper temper), clean release from the mold, filling fully sealed with no leaks.
 - **Holding/storage**: Refrigerate; bring to cool room temperature before serving for the best texture/sheen.
 - **Scaling notes**: Scales by mold cavity count.
@@ -1453,7 +1392,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Pipe the ganache into uniform mounds. Let set slightly.
   5. Roll each ball in sifted cocoa powder or powdered sugar to coat completely, or dip in tempered chocolate. Chocolate-dipped truffles can also be rolled in chopped toasted nuts.
 - **Food safety controls**: Standard dairy handling; contains alcohol.
-- **Allergens**: Dairy, tree nut (if using a nut coating).
 - **Quality indicators**: Rich, creamy ganache center with a well-balanced, refined flavor (per the source's own description of what distinguishes a good truffle) - not grainy or split.
 - **Holding/storage**: Refrigerate 7-10 days; let soften slightly at room temperature before serving.
 - **Scaling notes**: Scales linearly; batch produces a large yield (150 truffles) - portion down for smaller runs.
@@ -1475,7 +1413,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Pour into a buttered 8" pan.
   5. Cool until firm; cut into squares.
 - **Food safety controls**: Standard dairy handling; candy-making involves very hot sugar - handle with care.
-- **Allergens**: Dairy, tree nut.
 - **Quality indicators**: Smooth, matte (not glossy) finish once beaten properly, firm but tender texture (not grainy - a sign of accurate soft-ball temperature and adequate beating).
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Scales by pan size.
@@ -1496,7 +1433,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   3. Remove from heat; add peanut butter and butter. Beat by hand until creamy.
   4. Pour into the prepared pan. Cool and cut into squares.
 - **Food safety controls**: Standard dairy handling; candy-making involves very hot sugar.
-- **Allergens**: Dairy, peanut.
 - **Quality indicators**: Creamy, firm-set texture; smooth (not grainy).
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Scales by pan size.
@@ -1523,7 +1459,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   - **Vanilla Fudge** (yield: 1 lb) and **Chocolate Fudge** (yield: 1 lb, doubles well): both use 1 cup heavy cream, 2 cups sugar, plus butter/corn syrup (vanilla) or chocolate chips/walnuts (chocolate); both use the classic wash-down-the-pot-with-a-wet-pastry-brush technique to prevent sugar crystals, cook to soft-ball (238°F), shock in a water bath for 1 minute to stop cooking, then beat at 110°F until creamy.
   - **Easy Fudge** (yield: 1 lb, microwave, no thermometer): 1/4 cup heavy cream, 1 box powdered sugar, 1/2 cup cocoa, 1 stick butter (cut into pieces), 1 tsp vanilla. Microwave 2 minutes, mix, pour, cool, cut.
 - **Food safety controls**: Standard dairy handling; cooked variants involve very hot sugar syrup - handle with care.
-- **Allergens**: Dairy; tree nut or peanut depending on variant.
 - **Quality indicators**: Smooth, matte set (cooked variants) or firm, non-greasy set (no-cook variants); varies by variant as noted.
 - **Holding/storage**: Store airtight at room temperature (refrigerate the Chocolate Peanut Butter Fudge variant above, which uses fresh dairy without a cooked sugar stage stabilizing it as strongly).
 - **Scaling notes**: Each variant scales independently at its own stated yield.
@@ -1545,7 +1480,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Stir in marshmallow creme, pecans, and vanilla until well blended.
   5. Pour into a greased 9" square pan; cool on a rack, then refrigerate several hours until firm enough to cut.
 - **Food safety controls**: Standard dairy handling; refrigerate the finished fudge (this variant, unlike the classic cooked fudges above, is stored refrigerated per the source).
-- **Allergens**: Dairy, tree nut (pecan).
 - **Quality indicators**: Firm but creamy set, even distribution of pecans.
 - **Holding/storage**: Cover and store in the refrigerator.
 - **Scaling notes**: Scales by pan size.
@@ -1567,7 +1501,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Add vanilla and pecans; stir until it starts to thicken.
   5. Drop onto buttered wax paper.
 - **Food safety controls**: Standard dairy handling; very hot sugar syrup.
-- **Allergens**: Dairy, tree nut (pecan).
 - **Quality indicators**: Creamy-crumbly (not glassy/hard) set typical of a good praline, glossy sheen before it fully sets.
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Scales linearly.
@@ -1591,7 +1524,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Sift confectioners' sugar generously onto a work surface; unmold the marshmallow onto it, pulling out with fingertips. Dust the top; cut into 1.5" cubes with a long, sharp knife, cleaning the blade periodically as it gets sticky.
   7. Toss cubes in confectioners' sugar to coat all sides. Store airtight up to 4 days.
 - **Food safety controls**: Standard handling; hot sugar syrup requires care.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Thick, stiff, opaque whip (not runny - a sign of adequate whipping time), clean-cut cubes fully coated in sugar to prevent sticking.
 - **Holding/storage**: Store airtight up to 4 days at room temperature.
 - **Scaling notes**: Scales by pan size.
@@ -1616,7 +1548,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Place on a rack to drain and dry (fill dry spots with remaining syrup as needed).
   8. When fully dry, glaze with sugar - warm briefly with a torch or in the oven and coat with superfine sugar; cool (this step is optional).
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Translucent, tender peel; glossy sugar coating if glazed.
 - **Holding/storage**: Store in an airtight container at room temperature; can also be dried further in a dehydrator.
 - **Scaling notes**: Grapefruit needs 3 oz sugar per peel and 3 water changes during blanching; lime needs only 1.5 oz sugar per peel.
@@ -1638,7 +1569,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Reduce heat and simmer about 10 minutes, until it begins to thicken. Add kumquats; simmer 5 minutes more.
   5. Pour into clean jars, or follow the Candied Citrus Peel procedure above for a drier finish.
 - **Food safety controls**: Standard produce handling; contains alcohol (white wine, cooked down).
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Tender, translucent fruit, well-spiced syrup.
 - **Holding/storage**: Store in clean jars, refrigerated.
 - **Scaling notes**: Scales linearly.
@@ -1661,7 +1591,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Process in a boiling water bath 20 minutes.
   6. Cool at room temperature; store in the pantry.
 - **Food safety controls**: Proper water-bath canning process (headspace, processing time) for shelf stability; taste and adjust sweetness since brandy proof varies. Do not dilute the brandy if jars will be stored at room temperature (only if refrigerating) - the alcohol content contributes to preservation.
-- **Allergens**: None inherent to this recipe; contains alcohol.
 - **Quality indicators**: Plump, brandy-soaked cherries; properly sealed jars.
 - **Holding/storage**: Shelf-stable in the pantry once properly sealed and processed.
 - **Scaling notes**: Scales by jar count.
@@ -1683,7 +1612,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Remove from heat again; swirl in butter, vanilla, and salt.
   5. Chill over an ice bath.
 - **Food safety controls**: Standard handling; hot caramel can cause severe burns - add cream carefully.
-- **Allergens**: Dairy.
 - **Quality indicators**: Smooth, glossy sauce, amber color (not burnt/bitter).
 - **Holding/storage**: Refrigerate; gently rewarm to pour consistency before use.
 - **Scaling notes**: Scales linearly.
@@ -1704,7 +1632,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   3. Return to heat to dissolve any hardened sugar.
   4. Chill.
 - **Food safety controls**: Standard handling; hot caramel/coconut milk mixture can cause burns.
-- **Allergens**: Coconut.
 - **Quality indicators**: Smooth, spiced caramel with balanced heat (cayenne) against the coconut's sweetness.
 - **Holding/storage**: Refrigerate; rewarm gently before use.
 - **Scaling notes**: Scale to match the batch size of whatever dish it accompanies (see the Coconut Cake entry above).
@@ -1724,7 +1651,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   2. Add lime juice and agar agar; boil 2 minutes.
   3. Pour into a container; chill until set.
 - **Food safety controls**: Standard handling.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Firm, clean-cut gel set (agar sets firmer than gelatin and holds at room temperature - useful for a plated garnish).
 - **Holding/storage**: Refrigerate; agar-set gels hold their shape well even briefly outside refrigeration, unlike gelatin.
 - **Scaling notes**: Scale to match the batch size of whatever dish it accompanies (see the Coconut Cake entry above).
@@ -1746,7 +1672,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   4. Whisk in cream and salt; return to a simmer and cook, whisking frequently, until thick enough to lightly coat a spoon and reduced to about 1.25 cups, about 5 minutes.
   5. Off heat, whisk in the bourbon. Transfer to a pitcher or bowl - it will thicken further as it cools.
 - **Food safety controls**: Standard dairy handling; contains alcohol.
-- **Allergens**: Dairy.
 - **Quality indicators**: Glossy, nappe consistency, nutty brown-butter aroma without any burnt notes.
 - **Holding/storage**: Refrigerate; gently rewarm to pour consistency.
 - **Scaling notes**: Scales linearly.
@@ -1767,7 +1692,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   3. Mix in the heavy cream until combined, then add the remaining 1/2 lb portion of sugar.
   4. Finish with salt; whisk on medium-high speed 10 minutes, until fluffy and smooth.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Dairy.
 - **Quality indicators**: Light, fluffy, smooth texture (not gritty - a sign of adequate whipping time).
 - **Holding/storage**: Store airtight at room temperature briefly, or refrigerate; rewhip before using if chilled.
 - **Scaling notes**: Scales linearly.
@@ -1790,7 +1714,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Cover with a dampened tea towel to prevent crusting/drying.
   6. Tint with food coloring or thin with small amounts of warm water to the desired consistency.
 - **Food safety controls**: Meringue powder (rather than raw egg whites) makes this food-safe for serving to children, pregnant people, or immunocompromised individuals, per the same safety principle noted in the Ideal Sugar Cookies entry.
-- **Allergens**: None inherent to this recipe.
 - **Quality indicators**: Smooth, thick, pipeable consistency; dries to a hard, glossy finish once applied.
 - **Holding/storage**: Cover with a damp towel between uses to prevent crusting; store airtight.
 - **Scaling notes**: Scales linearly from the 1 kg sugar base.
@@ -1813,7 +1736,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   5. Switch to the paddle attachment; beat on the lowest speed 5 minutes to eliminate air pockets.
   6. Use within a few hours at cool room temperature, or refrigerate airtight up to 3 days. Bring to room temperature and rebeat on low with the paddle before using.
 - **Food safety controls**: Heating the egg whites over simmering water to a hot, sugar-dissolved state pasteurizes them adequately for this technique.
-- **Allergens**: Dairy, egg.
 - **Quality indicators**: Smooth, silky texture (not curdled or soupy - both are normal transitional stages that resolve with continued beating, per the source's own note), stiff glossy meringue before butter is added.
 - **Holding/storage**: Room temperature a few hours, or refrigerate up to 3 days; rebeat before using.
 - **Scaling notes**: Scales linearly from the 9-cup yield.
@@ -1838,7 +1760,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Whip until it forms a buttercream.
   8. Ready to use immediately, though it contains less air if used the following day, per the source's own note.
 - **Food safety controls**: Standard egg/dairy handling; the hot sugar syrup poured into the whites cooks them to a safe temperature (the Italian meringue method).
-- **Allergens**: Dairy, egg.
 - **Quality indicators**: Stiff, glossy meringue before butter is added; smooth, stable buttercream after.
 - **Holding/storage**: Best used the same day for maximum airiness; can be held and rebeaten the next day.
 - **Scaling notes**: Already at large production scale (18.25 lb); scale down proportionally for smaller batches.
@@ -1864,7 +1785,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   8. Pipe with a #803 tip; let dry 45 minutes or longer (longer on humid/rainy days) - properly dried shells shouldn't be tacky at all and shouldn't break when touched.
   9. Bake in a convection oven at 280°F for 7 minutes on high fan, rotating pans; then 7 more minutes on low fan. Check and bake in 1-minute increments as needed. Cool and fill (or wrap and freeze unfilled).
 - **Food safety controls**: Standard egg handling; the Italian meringue method cooks the egg whites via the hot syrup.
-- **Allergens**: Egg, tree nut (almond).
 - **Quality indicators**: Smooth, shiny macaronage batter that ribbons and levels within 15 seconds (under- or over-mixed batter fails this test), a proper "foot" after baking, dry (non-tacky) shell surface before baking.
 - **Holding/storage**: Cool completely before filling; unfilled shells wrap and freeze well.
 - **Scaling notes**: Scales linearly.
@@ -1890,7 +1810,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   8. Store in the freezer up to 2 years, or refrigerate as needed.
   9. Before using, bring to room temperature and rub in shortening as needed.
 - **Food safety controls**: This medium is typically used for decoration rather than direct consumption in large quantities (some bakers treat gumpaste decorations as non-edible garnish to be removed before serving) - confirm program policy on whether finished gumpaste pieces are intended to be eaten.
-- **Allergens**: Egg.
 - **Quality indicators**: Smooth, pliable, non-cracking dough that holds fine detail when shaped/rolled thin.
 - **Holding/storage**: Freezes up to 2 years; refrigerate for shorter-term storage; bring to room temperature and work in shortening before use.
 - **Scaling notes**: Scales linearly.
@@ -1915,7 +1834,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Transfer the dough, still on the parchment, to a baking sheet. Place in the oven and immediately reduce heat to 425°F.
   8. Bake 12-17 minutes, until starting to turn golden.
 - **Food safety controls**: Standard produce handling.
-- **Allergens**: Gluten.
 - **Quality indicators**: Crisp, evenly golden crackers (not burnt at the thin edges), pronounced rosemary flavor.
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Source yields only 30-40 crackers - double (or more) for a larger batch, splitting the dough in half to roll in two batches if doing so.
@@ -1932,7 +1850,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   1. Gather ingredients.
   2. Stir or sift together the flour, baking powder, and salt.
 - **Food safety controls**: None beyond standard dry-goods handling.
-- **Allergens**: Gluten.
 - **Quality indicators**: Evenly distributed leavening (sifting ensures this better than simple stirring).
 - **Holding/storage**: Store airtight like any flour; use within its normal shelf life.
 - **Scaling notes**: Scales linearly - useful as a quick substitute wherever a recipe elsewhere in this bank calls for self-rising flour and only all-purpose is on hand.
@@ -1964,7 +1881,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   12. Place spiral-side up in an oiled 1/2 hotel pan (arranged 3x4). Cover, label, date, and freeze (or proof and bake per program's standard schedule).
   13. For the frosting: beat cream cheese, butter, powdered sugar, milk, and vanilla together until smooth. Frost baked, cooled rolls.
 - **Food safety controls**: Standard egg/dairy/yeast handling; label and date frozen dough per standard rotation practice.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Even 1.5" slices (a ruler-checked, not eyeballed, standard per the source), well-proofed rolls (touching, puffy before baking), smooth frosting.
 - **Holding/storage**: Sliced, unbaked rolls freeze well in the prepared pan; thaw and proof before baking.
 - **Scaling notes**: Source gives an exact 10-dozen scale-up table. Chef's reference weights: one batch of dough weighs 2 lb 6.8 oz total; one batch of filling weighs 340 g (8.5 oz) - use these to verify accurate scaling in production.
@@ -1988,7 +1904,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   6. Transfer to an electric mixer with the paddle attachment to finish mixing, until no streaks of powdered sugar remain.
   7. Place on a parchment-lined half sheet pan; flatten/shape per program specification.
 - **Food safety controls**: Standard dairy handling.
-- **Allergens**: Peanut, dairy.
 - **Quality indicators**: Fully smooth, no visible powdered sugar streaks, firm but tender set.
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Source gives an exact 2 lb to 8 lb scale-up table.
@@ -2016,7 +1931,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   10. Bake 45-50 minutes, until a toothpick comes out clean.
   11. For the glaze: whisk powdered sugar and orange juice together; drizzle over the cooled loaf.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Deep, moist, spiced crumb, clean toothpick test, glaze set but not fully hardened.
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Source gives an exact 1-loaf to 10-loaf scale-up table.
@@ -2042,7 +1956,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   8. Top with streusel (combine dry streusel ingredients, then rub the butter through until crumbly).
   9. Bake 20-25 minutes, until a toothpick comes out clean.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Blueberries whole and evenly distributed (not streaked through the batter), crumbly streusel top, clean toothpick test.
 - **Holding/storage**: Store airtight; best within a couple of days.
 - **Scaling notes**: Source gives an exact 1-dozen to 10-dozen scale-up table.
@@ -2067,7 +1980,6 @@ This category covers the `17 - Advanced Baking & Pastry` folder (and a few stray
   7. Cool before glazing.
   8. For the glaze: whisk powdered sugar and lemon juice together until smooth; drizzle over the cooled loaf.
 - **Food safety controls**: Standard egg/dairy handling.
-- **Allergens**: Gluten, dairy, egg.
 - **Quality indicators**: Moist, tender crumb with small lumps okay in the raw batter (a sign it wasn't overmixed), evenly browned top under the foil shield.
 - **Holding/storage**: Store airtight at room temperature.
 - **Scaling notes**: Source gives an exact 1-loaf to 15-loaf scale-up table. Chef's reference weight: one loaf of batter weighs 1 lb 3 oz before baking - use this to portion accurately.

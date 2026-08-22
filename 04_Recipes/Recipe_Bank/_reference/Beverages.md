@@ -17,7 +17,6 @@ Current as of 2026-07. Built from real recipes and the Barista Station Recipe Sh
   3. Remove the bag; whisk in sugar; pour into a gallon pitcher.
   4. Add the remaining half-gallon as ice water and chill.
 - **Food safety controls**: Standard beverage handling; chill promptly after steeping.
-- **Allergens**: None.
 - **Quality indicators**: Fully dissolved sugar, no over-steeped bitterness, properly chilled before service.
 - **Holding/storage**: Refrigerate in the pitcher; hold cold until service.
 - **Scaling notes**: Scales linearly by the gallon - straightforward to double for higher-volume service.
@@ -36,7 +35,6 @@ Current as of 2026-07. Built from real recipes and the Barista Station Recipe Sh
   1. Boil the sugar and water (simple syrup portion) until sugar dissolves.
   2. Add lemon juice and the remaining cold water.
 - **Food safety controls**: Standard beverage handling.
-- **Allergens**: None.
 - **Quality indicators**: Balanced sweet/tart, no undissolved sugar.
 - **Holding/storage**: Refrigerate; hold cold until service.
 - **Scaling notes**: Scales linearly. Confirm actual lemon juice source (fresh-squeezed vs. bottled) since that affects both flavor and food-safety handling (fresh juice should be made same-day).
@@ -87,7 +85,6 @@ Pour cold milk into the steaming pitcher (whole milk gives the smoothest texture
 6. Pour into a tall glass if serving in-house, or seal the lid if to-go.
 
 - **Food safety controls**: Standard dairy handling; discard unused steamed milk per shift-end cleaning.
-- **Allergens**: Dairy (unless a non-dairy milk is requested - oat, almond, soy, coconut are stocked per the Barista Team SOP).
 - **Quality indicators**: Espresso shot timed 18-22 seconds; milk microfoam smooth and glossy, not large-bubbled; correct ratio for the drink ordered.
 - **Holding/storage**: Espresso and steamed milk are made to order, not held.
 - **Scaling notes**: These are single-drink builds by design - a barista program scales by volume of orders, not by batch recipe.
@@ -109,7 +106,6 @@ Pour cold milk into the steaming pitcher (whole milk gives the smoothest texture
   4. Strain through a fine mesh sieve lined with cheesecloth for a smooth syrup (for drink use); leave some sediment for a more rustic drizzle use.
   5. Transfer to squeeze bottles or quart containers. Refrigerate up to 2 weeks.
 - **Food safety controls**: Standard syrup handling; refrigerate and date.
-- **Allergens**: None inherent; confirm spice blend for any cross-contact.
 - **Quality indicators**: Fully dissolved sugar, balanced spice level, smooth strain for drink applications.
 - **Holding/storage**: Refrigerate up to 2 weeks in a labeled, dated container.
 - **Scaling notes**: Scales linearly; strain finer for drink use, coarser for a rustic drizzle.
@@ -132,7 +128,6 @@ Pour cold milk into the steaming pitcher (whole milk gives the smoothest texture
   5. Store cold in a sealed, labeled, dated container.
   6. **To serve**: fill a clear 16 oz cup with ice, pour 8-10 oz of the base, top with 2-4 oz Sprite to taste.
 - **Food safety controls**: Standard beverage handling.
-- **Allergens**: None.
 - **Quality indicators**: Deep purple-black color (not muddy or solid black from over-adding charcoal), balanced sweetness, visually striking when served.
 - **Holding/storage**: Refrigerate the base; build individual drinks to order.
 - **Scaling notes**: Base scales linearly by the quart; charcoal amount should be added gradually regardless of batch size - it does not scale linearly the same way (a little goes a long way).
@@ -154,7 +149,6 @@ Pour cold milk into the steaming pitcher (whole milk gives the smoothest texture
   4. Add chocolate chips; whisk constantly until melted and fully combined.
   5. Stir in vanilla; serve immediately.
 - **Food safety controls**: Standard dairy handling; do not boil (can scorch and separate).
-- **Allergens**: Dairy.
 - **Quality indicators**: Smooth, fully melted chocolate with no graininess, not boiled or scorched.
 - **Holding/storage**: Best served immediately; does not hold well long-term without separating.
 - **Scaling notes**: Scales linearly; batch ahead of a cold-weather service rush if needed, but expect to whisk again before serving if it sits.
@@ -174,7 +168,6 @@ Pour cold milk into the steaming pitcher (whole milk gives the smoothest texture
   2. Pour in the 2 oz of hot water. Whisk briskly side to side until fully dispersed with a foamy layer on top.
   3. Add the remaining 6 oz hot water or steamed milk; whisk again until foamy. Sweeten to taste if desired.
 - **Food safety controls**: Standard beverage handling; if using steamed milk, follow dairy handling as above.
-- **Allergens**: Dairy if steamed milk is used; none if made with water or a non-dairy milk.
 - **Quality indicators**: No visible lumps, foamy top layer, vibrant green color (not muddy/brown, which signals over-whisking or low-quality matcha).
 - **Holding/storage**: Made to order.
 - **Scaling notes**: Single-drink build; no batch scaling needed.

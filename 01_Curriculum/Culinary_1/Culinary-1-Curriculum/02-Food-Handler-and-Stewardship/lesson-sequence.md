@@ -16,13 +16,11 @@
 - Cleanup/reset: full dish system and station reset.
 - Exit check: explain one difference between washing and sanitizing.
 
-## Day 3: Cross-Contamination, Allergens, and Storage
+## Day 3: Cross-Contamination, and Storage
 - Opening routine: agenda check and safety reminder.
-- Demo or mini-lesson: cutting boards, storage order, allergens, clean tools.
-- Student work: sort storage examples and identify allergen risks.
+- Demo or mini-lesson: cutting boards, storage order, clean tools.
 - Lab/application: bake brownies while maintaining clean stations.
 - Cleanup/reset: counters sanitized, tools returned, storage checked.
-- Exit check: one way to prevent cross-contact with allergens.
 
 ## Day 4: Time, Temperature, and Thermometers
 - Opening routine: huddle with thermometer purpose.

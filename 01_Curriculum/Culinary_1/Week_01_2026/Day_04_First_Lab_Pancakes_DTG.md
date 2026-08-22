@@ -44,7 +44,7 @@ Enter Kitchen Mode, get the group's marked recipe, wash hands, and begin mise en
 - One reusable Pancake Lab Checklist and Reflection per group; use the checklist during the lab and complete the reflection orally unless written evidence is needed.
 - Bowls, whisks, measuring tools, spatulas, approved griddles/pans, oven, sheet pans or holding trays, plates, and forks.
 - Dish, sanitizer, towel, trash, and floor plan.
-- Confirm equipment condition, pilot-light/ignition procedure, oven setting, heat authorization, group size, allergens, and serving plan.
+- Confirm equipment condition, pilot-light/ignition procedure, oven setting, heat authorization, group size, and serving plan.
 - Confirm and announce the school-approved rule for food remaining in or leaving the classroom before service.
 
 ## Adult Roles

@@ -21,7 +21,7 @@ Retrieve the marked recipe, confirm rotated group roles, post the first three ac
 
 ## Core Learning
 
-1. Begin with recipe, role, allergy, equipment, and station checks before ingredients or heat.
+1. Begin with recipe, role, equipment, and station checks before ingredients or heat.
 2. Require groups to state the stovetop rice method, vegetable plan, heat cues, quality target, and shutdown time.
 3. Authorize equipment and heat only after mise en place and the sanitation system are ready.
 4. Cook rice using the approved stovetop method: bring to a boil, stir once, cover, reduce to low, cook 15 minutes, remove from heat, and rest covered 10 minutes before fluffing. Saute vegetables with enough pan heat to cook without uncontrolled burning or prolonged steaming.
@@ -50,11 +50,11 @@ What evidence from today shows that your group can be trusted with more responsi
 - One reusable Vegetable Rice Bowl Lab and Reflection per group.
 - Rice, water, safely stored Wednesday vegetables, oil, salt, pepper, and any approved acid or herb for adjustment.
 - Lidded stovetop pots, saute pans, knives and boards for authorized students if additional cutting is needed, bowls, measuring tools, spoons, spatulas, tasting utensils, plates or bowls, and storage/labeling supplies.
-- Verify Wednesday vegetables are correctly labeled, refrigerated, and suitable for use. Confirm ingredient quantities, equipment condition, group size, allergen plan, and food-distribution rule.
+- Verify Wednesday vegetables are correctly labeled, refrigerated, and suitable for use. Confirm ingredient quantities, equipment condition, group size, and food-distribution rule.
 
 ## Adult Roles
 
-**Instructor:** Approve recipe or substitutions, control equipment and heat authorization, make safety and allergen decisions, coach critical corrections, and approve final reset.
+**Instructor:** Approve recipe or substitutions, control equipment and heat authorization, make safety decisions, coach critical corrections, and approve final reset.
 
 **TA when available:** Observe assigned students or stations, prompt planning and communication, support dish flow and reset, and record evidence without independently authorizing equipment or making final safety decisions.
 

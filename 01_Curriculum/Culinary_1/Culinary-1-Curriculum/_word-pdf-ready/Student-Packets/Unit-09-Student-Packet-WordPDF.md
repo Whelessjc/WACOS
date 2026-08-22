@@ -57,7 +57,7 @@ instead of guessing.
 - Support dish flow and reset during the task, not only at the end.
 ## Cleanup and Reset Checklist
 - [ ] Tasting spoons and cups handled correctly
-- [ ] Allergen surfaces cleaned
+- [ ] affected surfaces cleaned
 - [ ] Counters sanitized
 - [ ] Ingredients closed and stored
 - [ ] Tools washed

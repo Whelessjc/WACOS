@@ -1,4 +1,4 @@
-﻿# Canvas Module: Unit 02 Food Handler and Stewardship
+# Canvas Module: Unit 02 Food Handler and Stewardship
 ## Module Title
 Unit 02: Food Handler and Stewardship
 ## Overview Text
@@ -26,7 +26,6 @@ Include:
 - personal hygiene
 - cleaning and sanitation
 - cross contamination
-- allergens
 - time and temperature control
 ## Assignments
 ### Assignment: Unit 02 Skill Check

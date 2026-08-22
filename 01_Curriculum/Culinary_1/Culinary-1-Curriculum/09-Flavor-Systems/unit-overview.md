@@ -1,4 +1,4 @@
-﻿# Unit 09: Flavor Systems
+# Unit 09: Flavor Systems
 
 ## Weeks Covered
 Weeks 14 to 15
@@ -7,7 +7,7 @@ Weeks 14 to 15
 Move beyond recipes and learn how flavor is built.
 
 ## Purpose
-Students explore salt, acid, fat, aromatics, herbs, spices, balance, emulsion, curiosity, safe tasting, allergen awareness, and respectful flavor comparison. Applications include a basic vinaigrette with simple green salad; a teacher-approved, same-day refrigerated quick pickle; soy and ginger; vinegar and herbs; chili and citrus; yogurt and spice; and coconut and curry, while respecting cultural origins without claiming authenticity.
+Students explore salt, acid, fat, aromatics, herbs, spices, balance, emulsion, curiosity, safe tasting, and respectful flavor comparison. Applications include a basic vinaigrette with simple green salad; a teacher-approved, same-day refrigerated quick pickle; soy and ginger; vinegar and herbs; chili and citrus; yogurt and spice; and coconut and curry, while respecting cultural origins without claiming authenticity.
 
 ## Learning Targets
 - I can describe how salt, acid, fat, aromatics, herbs, and spices affect food.
@@ -16,7 +16,7 @@ Students explore salt, acid, fat, aromatics, herbs, spices, balance, emulsion, c
 - I can compare flavor builds with curiosity and respect.
 - I can balance a simple food without overpowering it.
 - I can follow an approved acid formula and label a same-day refrigerated quick pickle correctly.
-- I can keep tasting stations sanitary and allergen-aware.
+- I can keep tasting stations sanitary.
 
 ## Core Skills
 - Safe tasting
@@ -26,7 +26,7 @@ Students explore salt, acid, fat, aromatics, herbs, spices, balance, emulsion, c
 - Flavor comparison
 - Balance and adjustment
 - Same-day refrigerated quick pickling using an instructor-approved formula
-- Safe tasting and allergen-aware cleanup
+- Safe tasting and sanitary cleanup
 
 ## Vocabulary
 | Term | Student-Friendly Meaning |
@@ -50,7 +50,7 @@ Students explore salt, acid, fat, aromatics, herbs, spices, balance, emulsion, c
 - Same-day refrigerated quick pickle (no canning or fermentation)
 
 ## Bistro Connection
-Flavor work helps students taste responsibly, communicate clearly, protect guests with safe tasting/allergen habits, and adjust food before service.
+Flavor work helps students taste responsibly, communicate clearly, and adjust food before service.
 
 ## Assessment Ideas
 - Tasting notes

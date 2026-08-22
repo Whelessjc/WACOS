@@ -35,7 +35,7 @@ Primary applications may include peanut butter bars, rice cookery, fried rice, o
 - Reset: return tools, close shared ingredients, wipe surfaces, and reset tables.
 
 ### Wednesday: Peanut Butter Bars
-- Opening: entry routine, handwashing, station setup, allergen reminder.
+- Opening: entry routine, handwashing, station setup
 - Demo: measuring accuracy, reading the full recipe, and following sequence.
 - Student work: assign roles, build a simple prep list, and set mise en place.
 - Application: prepare peanut butter bars as directed.
@@ -61,7 +61,6 @@ Primary applications may include peanut butter bars, rice cookery, fried rice, o
 ## Setup Notes
 - Prepare Food Handler review or assessment materials for Monday.
 - Choose simple recipes for annotation and lab use.
-- Confirm peanut allergy plan before peanut butter bar work.
 - Stage measuring tools, mixing bowls, sheet pans, rice cookers or pots, saute pans or woks, spatulas, spoons, towels, sanitizer, and dish supplies.
 - Stage shared ingredients to reduce crowding.
 - Decide whether Friday heat work is student-managed, teacher-approved, or teacher-led.
@@ -70,12 +69,12 @@ Before each lab, confirm:
 - Recipe is visible to each group.
 - Ingredient pickup plan is clear.
 - Equipment plan is clear.
-- Safety and allergen plan is clear.
+- Safety plan is clear.
 - Dish-flow, towel, trash, floor, and reset plan are clear.
 
 ## Food Handler Review and Assessment Notes
 - Keep the review connected to real lab behavior.
-- Ask students to explain how handwashing, allergens, cross-contact, dish flow, and station reset will show up in this week's labs.
+- Ask students to explain how handwashing, dish flow, and station reset will show up in this week's labs.
 - Use quick scenarios rather than long lectures.
 - If safety habits are weak, slow down the lab release.
 
@@ -95,7 +94,7 @@ Show students how to find:
 - Equipment: tools, pans, bowls, machines
 - Procedure: what happens and in what order
 - Timing: cooking, baking, cooling, simmering, or waiting time
-- Safety notes: allergens, heat, raw food, sharp tools, or sanitation warnings
+- Safety notes: heat, raw food, sharp tools, or sanitation warnings
 
 ## Mise en Place Demo Notes
 Show a ready station:
@@ -139,7 +138,6 @@ A finished station has:
 ## Lab Notes
 
 ### Peanut Butter Bars
-- Emphasize allergen awareness.
 - Require recipe reading before ingredient pickup.
 - Watch measuring accuracy and sequence.
 - Keep dish flow moving before the end.

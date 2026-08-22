@@ -62,7 +62,7 @@ Students should mark:
 - cooking times
 - equipment
 - knife cuts
-- raw protein or allergen risks
+- raw-protein risks
 - steps that must happen first
 - final quality cues
 

@@ -24,7 +24,7 @@ Wash hands:
 - After restroom.
 - After touching face, hair, phone, trash, floor, or dirty dishes.
 - After coughing, sneezing, or blowing nose.
-- After handling raw food or allergens.
+- After handling raw food.
 - Any time the teacher calls for a reset.
 
 ## Recipe Reading Steps

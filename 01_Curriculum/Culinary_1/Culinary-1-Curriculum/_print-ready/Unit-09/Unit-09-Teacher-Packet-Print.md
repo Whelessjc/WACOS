@@ -17,9 +17,9 @@ Students learn how salt, acid, fat, aromatics, herbs, and spices affect food. Th
 - Week 15: Herbs, spices, flavor family comparisons, respectful language, and simple Bistro application.
 
 ## Setup Notes
-- [ ] Stage small tasting portions, clean spoons/cups, allergen labels, and sanitizer.
+- [ ] Stage small tasting portions, clean spoons/cups, and sanitizer.
 - [ ] Prepare a tasting chart or board notes for observations.
-- [ ] Plan clear limits for chili, salt, dairy, soy, coconut, and spice allergens.
+- [ ] Plan clear limits for chili, salt, dairy, soy, coconut
 - [ ] Choose simple base foods for comparison.
 
 ## Demo Notes
@@ -31,7 +31,7 @@ Students learn how salt, acid, fat, aromatics, herbs, and spices affect food. Th
 
 ## Safety Watch-Outs
 - Use clean tasting spoons every time.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Keep chili, dairy, soy, coconut, and spice risks organized.
 - Prevent cross contact between tasting samples.
 - Sanitize tasting surfaces.
@@ -39,12 +39,11 @@ Students learn how salt, acid, fat, aromatics, herbs, and spices affect food. Th
 ## Common Student Mistakes
 - Students add too much at once.
 - Students taste with dirty spoons.
-- Allergens are not named clearly.
 - Students describe foods carelessly or claim authenticity.
 - Cleanup leaves sticky or strongly scented surfaces.
 
 ## Cleanup / Reset Notes
-- Control tasting trash, spoons, cups, allergen surfaces, counters, towels, and floors.
+- Control tasting trash, spoons, cups, counters, towels, and floors.
 - Close and store seasonings correctly.
 - Check that strong-smelling ingredients are sealed and returned.
 

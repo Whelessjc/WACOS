@@ -49,13 +49,13 @@ The files in these folders are ready for copy/paste formatting:
 
 ## Missing Recipe Details Or Placeholders Needing Teacher Input
 - Pancake formula, yield, and equipment choice.
-- Brownie and peanut butter bar formulas, allergen policy, yield, and storage plan.
+- Brownie and peanut butter bar formulas, yield, and storage plan.
 - Rice type, liquid ratio, and cooking equipment.
 - Fried rice or stir fry ingredient list and approved protein/vegetable choices.
 - Knife-practice product list and product-use plan.
 - Heat-control lab ingredients for saute, roasting, grains, beans, or lentils.
 - Frying application, oil access, oil disposal plan, and batch-size rules.
-- Flavor-building base food, flavor ingredients, and allergen list.
+- Flavor-building base food, flavor ingredients
 - Chicken, ground turkey, and egg procedures, safe-temperature language, and thermometer expectations.
 - Culinary 2 readiness or recommendation process.
 

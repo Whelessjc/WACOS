@@ -35,7 +35,6 @@ Have students point to the handwashing sink and name triggers.
 ## Slide 4: Cross Contamination
 - Raw and ready-to-eat
 - Clean and dirty
-- Allergens
 - Phones and faces
 - Trash and floors
 

@@ -11,7 +11,6 @@ This week uses simple labs and kitchen systems practice to turn food safety into
 - Dish flow
 - Towel and laundry systems
 - Storage habits
-- Allergen awareness
 - Cross-contamination prevention
 - Thermometer use
 - Station reset
@@ -67,7 +66,6 @@ Possible applications:
 ## Safety Reminders
 - Wash hands before food work.
 - Keep raw and ready-to-eat foods separate.
-- Treat allergens seriously.
 - Clean before sanitizing.
 - Report spills immediately.
 - Clean thermometer probes before and after use.

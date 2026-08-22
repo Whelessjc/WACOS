@@ -16,12 +16,12 @@ teacher-selected flavor families.
 - herbs and spices
 - small adjustments
 - respectful language
-- allergen-aware reset
+- sanitary reset
 
 ## Safety Reminders
 - Use clean spoons every time.
 - No double-dipping.
-- Name allergens before tasting.
+- Name ingredients before tasting.
 - Use respectful language about cultural flavor families.
 - Sanitize tasting surfaces.
 
@@ -48,19 +48,19 @@ for your station.
 
 ## Procedure
 1. Set up tasting station with clean tools.
-2. Name allergens before tasting.
+2. Name ingredients before tasting.
 3. Taste the base sample with a clean spoon.
 4. Make one small adjustment.
 5. Taste again with a clean spoon.
 6. Record what changed.
-7. Reset tasting tools, allergens, counters, and trash.
+7. Reset tasting tools, counters, and trash.
 
 ## Teacher Checkpoints
 - [ ] Clean tasting rules are followed.
 - [ ] Adjustments are small and intentional.
 - [ ] Student can name what changed.
 - [ ] Respectful language is used.
-- [ ] Allergen/tasting reset is complete.
+- [ ] tasting reset is complete.
 
 ## Cleanup / Reset Checklist
 - [ ] Dishes routed correctly.

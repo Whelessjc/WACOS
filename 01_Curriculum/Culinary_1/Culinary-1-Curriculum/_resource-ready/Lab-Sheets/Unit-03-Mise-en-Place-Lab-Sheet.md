@@ -18,7 +18,6 @@ Practice reading before cooking, sequencing work, measuring accurately, and sett
 - mise en place
 
 ## Safety Reminders
-- Review allergens before handling ingredients.
 - Ask before using equipment.
 - Keep station organized to prevent spills and cross contact.
 - Wash hands when directed.

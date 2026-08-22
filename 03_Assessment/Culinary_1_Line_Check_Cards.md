@@ -69,13 +69,11 @@ For printable instructor materials, show the actual skill or question wording pr
 | FS9 | How do shallow pans and an ice bath help cooling? | increase surface area and remove heat faster |
 | FS10 | When cooling food, what should be monitored? | time and temperature; stir when appropriate and follow the approved cooling limits |
 | FS11 | What should happen if food has been in an unsafe condition and you are unsure it is safe? | stop, isolate it, tell the instructor, and do not serve it |
-| FS12 | What is an allergen cross-contact risk? | allergen transferred through hands, tools, surfaces, oil, or ingredients to another order |
-
 ## Labels, Storage, and Receiving Awareness
 
 | Card | Prompt | Listen/Look For |
 | --- | --- | --- |
-| LS1 | What information belongs on a kitchen label? | product name, required date information, class/group or initials, and allergen information when required |
+| LS1 | What information belongs on a kitchen label? | product name, required date information, and class/group or initials |
 | LS2 | What is the difference between a prep date and a discard/use-by date? | when it was prepared versus the last approved day for use |
 | LS3 | What does FIFO mean? | first in, first out; use older approved product before newer product |
 | LS4 | What should happen to an old label when a container is washed or reused? | remove it completely; never layer a new label over unclear old information |
@@ -156,7 +154,6 @@ For printable instructor materials, show the actual skill or question wording pr
 | SC4 | A classmate drops a knife. | Warn others, step back, let it fall, then retrieve it safely after it stops. |
 | SC5 | Your recipe makes 4 portions, but your group needs 12. | Calculate a factor of 3, scale every ingredient, and check the math before cooking. |
 | SC6 | You touch your phone while wearing gloves. | Remove gloves, wash hands, and put on new gloves if the next task requires them. |
-| SC7 | A guest mentions a food allergy. | Stop, notify the instructor/manager, verify the order and ingredients, and prevent cross-contact; never promise without checking. |
 | SC8 | You do not know whether a food has cooled safely. | Do not serve or store it as safe; isolate it and ask the instructor to review time/temperature evidence. |
 | SC9 | A machine cord is frayed. | Do not plug it in; remove it from use and report it immediately. |
 | SC10 | Your group finishes cooking while another group is still working. | Begin the full reset, check shared-area needs, and help only when assigned or invited. |
