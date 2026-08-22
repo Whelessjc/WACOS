@@ -11,7 +11,7 @@ This matrix records the instructor's current ChatGPT EDU working environment. It
 | Capability | Current use | Boundary |
 |---|---|---|
 | Projects | Organize WACOS work in a persistent working environment. | A Project is not the permanent source of truth. |
-| Project Knowledge | Supply current WACOS references for source-bound work. | Keep sources current and exclude restricted data. |
+| Project Knowledge | Supply current WACOS references for source-bound work. | Keep sources current, replace the Project copy after high-frequency WACOS changes, verify its displayed update date, and exclude restricted data. |
 | Project Instructions | Preserve stable WACOS working rules and terminology. | Instructions do not override the Core Manual or instructor decisions. |
 | Memory | Retain stable preferences. | Do not store students, grades, temporary plans, credentials, or changing policy. |
 | GitHub | Read or synchronize the permanent WACOS record through approved workflows. | Approved repository content remains the durable record. |

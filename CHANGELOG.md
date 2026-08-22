@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-08-22 - Refresh ChatGPT Lesson-Planning Knowledge
+
+### Correction
+
+- Updated the WACOS ChatGPT Quick Reference to include the new daily micro-skill planning standard and changed its review date to August 22, 2026.
+- Required ChatGPT lesson-planning work to retrieve the current Daily Teaching Guide Standard and relevant course guide rather than relying on older lesson structures or generic formats.
+- Added an explicit operating step to replace the Quick Reference copy in ChatGPT Project Knowledge after high-frequency WACOS changes and verify that its displayed update date matches the repository source.
+
 ## 2026-08-22 - Add Daily Micro-Skill Planning Standard
 
 ### Program Decision

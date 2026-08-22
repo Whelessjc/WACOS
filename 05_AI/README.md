@@ -29,6 +29,8 @@ Upload [`WACOS_ChatGPT_Quick_Reference.md`](WACOS_ChatGPT_Quick_Reference.md) to
 
 When a permanent decision changes a high-frequency fact in the quick reference, update the governing document and the quick reference in the same published change.
 
+After publishing an updated quick reference, replace the copy in ChatGPT Project Knowledge and confirm its displayed update date matches the repository file. A GitHub update is not complete for Project Knowledge use until the Project copy has been refreshed. For lesson planning, direct ChatGPT to use the current `09_Workflows/Daily_Teaching_Guide_Standard.md` and relevant course guide even when the quick reference is present.
+
 ## Caution
 
 AI-generated recipes, assessments, safety instructions, parent/admin communications, and student-facing tools require instructor review.

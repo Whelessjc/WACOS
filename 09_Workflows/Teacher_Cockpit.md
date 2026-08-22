@@ -53,6 +53,8 @@ The repository supplies current program context. ChatGPT supports working though
 - Uses Project Knowledge and Project Instructions to keep work aligned.
 - Uses [`WACOS_ChatGPT_Quick_Reference.md`](../05_AI/WACOS_ChatGPT_Quick_Reference.md) for fast answers to common program questions.
 - Uses the connected GitHub repository for detailed procedures, citations, recent changes, and questions not covered by the quick reference.
+- Requires the Project Knowledge copy of the Quick Reference to be replaced after a published high-frequency change; confirm the displayed update date before relying on it.
+- For daily or weekly lesson creation, retrieves the current Daily Teaching Guide Standard and relevant course guide rather than copying an older lesson-plan structure.
 - Supports drafting, brainstorming, lesson development, document generation, and reflection.
 - Produces drafts for instructor review, not automatic program decisions.
 

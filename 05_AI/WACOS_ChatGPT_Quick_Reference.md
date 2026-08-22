@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: July 23, 2026
+Last updated: August 22, 2026
 
 ## Purpose
 
@@ -35,6 +35,22 @@ Do not use working chats, AI memory, generated documents, or archived files as t
 Use practical, professional, direct language grounded in real classroom and kitchen work. Avoid educational jargon, promotional language, and generic culinary-school assumptions.
 
 When creating or substantively revising a lesson, unit, assessment, instructor guide, or prompt, identify the Knowledge, Skill, and Professional Thinking being developed. Use `00_Core/Professional_Thinking_Framework.md` as the governing reference.
+
+## Current Lesson-Planning Standard
+
+Before producing a daily or weekly lesson plan, use the current `09_Workflows/Daily_Teaching_Guide_Standard.md`, the relevant current course pacing/weekly guide, and the current calendar. Do not copy the structure of an older Daily Teaching Guide as if it were the current standard.
+
+Every new daily lesson plan, or daily/sequence block within a Weekly Teaching Guide, must identify:
+
+1. **Primary target** - the main knowledge or performance purpose.
+2. **Required supporting systems** - cumulative routines such as Kitchen Mode, communication, sanitation, mise en place, workflow, clean-as-you-go, and reset.
+3. **Expected just-in-time micro-skills** - small actions likely to be required by the product, equipment, or process.
+4. **Safety and authorization gates** - instruction, demonstration, verification, supervision, or authorization required before action.
+5. **Flexible extensions** - useful refinements taught when time, readiness, or student questions permit; these are not automatic mastery requirements.
+6. **Integrated performance evidence** - how students combine the target, systems, and relevant micro-skills in useful performance.
+7. **Micro-skills revealed during instruction** - a compact capture area for small skills exposed by questions, errors, or production conditions.
+
+Keep the layer concise. Do not turn every micro-skill into a standalone objective, worksheet, checklist item, or grade. Verify safety-critical items, repeat recurring fundamentals, keep product-specific items with the lab, and promote emergent micro-skills into permanent guidance only after review.
 
 ## Courses
 
@@ -228,6 +244,8 @@ For a detailed or sensitive question:
 4. Separate confirmed practice from unresolved decisions.
 5. Do not invent missing policy.
 
+For every daily or weekly lesson-planning request, treat the Daily Teaching Guide Standard as a required current source rather than relying only on a prior lesson, chat memory, or generic lesson-plan format.
+
 ## Governing File Map
 
 | Topic | Current repository file |
@@ -237,6 +255,7 @@ For a detailed or sensitive question:
 | Permanent change process | `00_Core/WACOS_Update_Workflow.md` |
 | Program voice and terminology | `00_Core/WACOS_Style_Guide.md` |
 | Daily and weekly classroom systems | `00_Core/08_Daily_and_Weekly_Systems.md` |
+| Daily/weekly lesson structure and micro-skills | `09_Workflows/Daily_Teaching_Guide_Standard.md` and `06_Templates/Daily_Teaching_Guide_Template.md` |
 | Instructor operating model | `09_Workflows/Teacher_Cockpit.md` |
 | Weekly instructor workflow | `09_Workflows/Weekly_Teacher_Workflow.md` |
 | Recurring instructor checklists | `09_Workflows/Instructor_Recurring_Checklists.md` |
