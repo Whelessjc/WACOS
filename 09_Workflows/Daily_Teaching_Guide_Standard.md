@@ -2,6 +2,7 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
+**Last revised:** August 22, 2026
 
 ## Purpose
 
@@ -22,6 +23,20 @@ Every active weekly guide makes these items immediately visible:
 7. **Section continuation:** a compact record of where each section stopped and what comes next.
 
 The weekly guide also identifies Knowledge, Skill, Professional Thinking, materials/preparation, and adult roles. Essential questions, predictable student questions, detailed instructor context, and extended notes belong in compact supporting notes when they materially help instruction; they do not receive equal visual priority by default.
+
+## Daily Micro-Skill Planning Standard
+
+Every new daily lesson plan, or each daily/sequence block inside an active Weekly Teaching Guide, makes these layers visible:
+
+1. **Primary target:** the main knowledge or performance purpose of the lesson.
+2. **Required supporting systems:** the cumulative routines students must combine, such as Kitchen Mode, communication, sanitation, mise en place, workflow, clean-as-you-go, and reset.
+3. **Expected just-in-time micro-skills:** small actions likely to be needed because of the product, equipment, or process.
+4. **Safety and authorization gates:** instruction, demonstration, verification, supervision, or individual authorization required before action.
+5. **Flexible extensions:** useful refinements taught when time, readiness, or student questions permit; these are not automatic mastery requirements.
+6. **Integrated evidence:** what students will do to show that they can combine the target, systems, and relevant micro-skills in useful performance.
+7. **Micro-skills revealed during instruction:** unexpected small skills exposed by questions, errors, or production conditions and captured for later review.
+
+Keep this layer compact. Do not turn every micro-skill into a standalone objective, worksheet, checklist item, or grade. Safety-critical micro-skills require verification; recurring fundamentals receive planned repetition; product-specific micro-skills stay with the relevant lab; emergent micro-skills enter permanent guidance only when repetition, safety, or instructional value justifies the change.
 
 ## Flex-Mod Operating Standard
 
@@ -60,6 +75,7 @@ Weeks 1-4 are Monday-Friday instructional/readiness weeks. Do not impose the pos
 5. Record section continuation instead of building separate plans for each path.
 6. Review section alignment by Wednesday.
 7. Preserve Thursday prep and Friday service after Bistro launches, unless readiness, safety, or the calendar requires a change.
+8. Complete the micro-skill map for each planned daily/sequence block and capture newly revealed micro-skills during reflection.
 
 ## Instructor Review
 

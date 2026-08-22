@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-08-22 - Add Daily Micro-Skill Planning Standard
+
+### Program Decision
+
+- Required every new daily lesson plan, or daily/sequence block inside a Weekly Teaching Guide, to identify the primary target, required supporting systems, expected just-in-time micro-skills, safety and authorization gates, flexible extensions, integrated performance evidence, and micro-skills revealed during instruction.
+- Kept micro-skills as a compact planning layer rather than turning each small action into a standalone lesson, worksheet, checklist item, or grade.
+- Required safety-critical micro-skills to be verified, recurring fundamentals to receive planned repetition, product-specific micro-skills to remain with the relevant lab, and emergent items to enter permanent guidance only after review.
+
+### Implementation
+
+- Updated the governing Core Manual, Weekly Teaching Guide Standard, Daily Teaching Guide template, general lesson-plan template, AI lesson-planning prompt, Decision Register, and traceability record.
+- Applied the standard prospectively; existing lesson plans remain usable and enter alignment when reused or substantively revised.
+
 ## 2026-08-22 - Integrate August 17-21 Instructional Reflections
 
 ### Targeted Teaching Updates

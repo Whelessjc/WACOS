@@ -18,6 +18,14 @@
 - **Skill:**
 - **Professional thinking:**
 
+## Daily / Sequence Micro-Skill Map
+
+Complete one row for each planned daily or sequence block. Keep entries concise.
+
+| Daily/sequence block | Primary target | Required supporting systems | Expected just-in-time micro-skills | Safety/authorization gates | Flexible extensions | Integrated evidence |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
 ## Show / Students Do
 
 | Instructor shows or explains | Students do |
@@ -62,3 +70,5 @@ Name what may move without damaging the Weekly Anchor.
 |  |  |  |
 
 - **Keep / Change / Remove / Add:**
+- **Micro-skills revealed during instruction:**
+- **Promote for future guidance / keep product-specific / no further action:**

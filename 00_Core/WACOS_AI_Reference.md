@@ -149,6 +149,8 @@ Inputs:
 Requirements:
 - Protect fundamentals.
 - Identify the knowledge target, skill target, and professional-thinking habit.
+- For each daily or sequence block, identify the primary target, required supporting systems, expected just-in-time micro-skills, safety/authorization gates, flexible extensions, and integrated performance evidence.
+- Include a compact place to capture micro-skills revealed by student questions, errors, or production conditions. Do not turn every micro-skill into a separate objective or grade.
 - Use practical language.
 - Include entry, briefing, Kitchen Mode, work period, reset, and reflection.
 - Flag any policy, safety, grading, or calendar assumptions needing instructor confirmation.

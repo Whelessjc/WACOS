@@ -186,6 +186,8 @@ Students become responsible when expectations are visible, repeated, practiced, 
 
 Knife safety, sanitation, mise en place, recipe reading, measuring, cooking methods, tasting, seasoning, communication, and cleaning are not beginner topics to rush through. They are the craft.
 
+Daily planning should make the small actions inside that craft visible without turning each one into a separate lesson or grade. Every new daily lesson or daily sequence within a Weekly Teaching Guide identifies the primary target, required supporting systems, expected just-in-time micro-skills, safety or authorization gates, flexible extensions, and evidence that students combined the pieces into useful performance. Micro-skills revealed by student questions or production problems are captured for later review; recurring or safety-critical items are promoted into permanent guidance through the normal WACOS update process.
+
 ### Professional Habits Matter as Much as Technical Skill
 
 Talent does not cancel out poor safety, poor communication, unreliable work habits, or disrespect for the room. A student who can cook but cannot work cleanly, communicate clearly, or reset the station is not meeting the program standard.

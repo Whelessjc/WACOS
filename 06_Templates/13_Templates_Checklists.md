@@ -10,6 +10,12 @@ Objective:
 Knowledge:
 Skill:
 Professional Thinking:
+Primary Target:
+Required Supporting Systems:
+Expected Just-in-Time Micro-Skills:
+Safety/Authorization Gates:
+Flexible Extensions:
+Integrated Performance Evidence:
 Standards/Credential Alignment:
 Vocabulary:
 Materials/Equipment:
@@ -19,6 +25,8 @@ Student Work:
 Assessment:
 Cleanup/Reset:
 Reflection:
+Micro-Skills Revealed During Instruction:
+Future Routing: Promote / Keep Product-Specific / No Further Action
 Next Steps:
 ```
 
