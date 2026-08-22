@@ -27,6 +27,7 @@ For Bistro or larger labs, attach:
 - Menu item.
 - Target yield.
 - Prep list.
+- Equipment plan: correct items and sizes, when each is needed, who needs it, shared-equipment constraints, and return/reset responsibility.
 - Station assignments.
 - Production timeline.
 - Shopping/inventory notes.
@@ -34,6 +35,12 @@ For Bistro or larger labs, attach:
 - Storage/holding plan.
 - Service handoff.
 - Cleanup responsibilities.
+
+For Culinary 2 production planning, use the compact reasoning sequence:
+
+`Product -> Ingredients -> Equipment -> Sequence -> Ownership -> Deadline`
+
+The equipment step should expose avoidable bottlenecks before production begins without inventing inventory or overriding equipment authorization.
 
 ## Group Recipe to Production and Purchasing
 

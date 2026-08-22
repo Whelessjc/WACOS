@@ -70,7 +70,7 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 | --- | ---: | --- | --- |
 | 1. Orientation and Systems | 1 | Room knowledge, Kitchen Mode, live communication, recipe reading, introductory pancake lab | Students move safely, locate essential areas, read before acting, and reset with support. |
 | 2. Food Handler and Stewardship | 2 | Hygiene, cleaning and sanitizing, dish systems, allergens, cross-contamination, time and temperature | Students demonstrate procedures, not merely describe them. |
-| 3. Recipe Reading and Mise en Place | 3 | Food Handler assessment, recipe literacy, measuring, prep lists, rice, pasta, simple production | Food Handler evidence plus an organized no-surprise lab setup. |
+| 3. Recipe Reading, Equipment Literacy, and Mise en Place | 3 | Food Handler assessment, recipe literacy, major equipment families, measuring, prep lists, rice, pasta, simple production | Food Handler evidence plus correct equipment retrieval and an organized no-surprise lab setup. |
 | 4. Bistro Launch Foundations | 4-5 | Life of an Order, guest awareness, roles, ticket flow, dish flow, mock service, controlled launch | Pre-Bistro fundamentals demonstrated; instructor authorizes service participation. |
 | 5. Knife Skills Progression | 6-9 | Grip, claw, board setup, useful cuts, prep lists, speed with control, deep clean | Safe knife practical and usable prep produced from practice cuts. |
 | 6. Heat Control | 10-12 | Saute, browning, roasting, simmering, ratios, rice, beans/lentils | Students recognize heat cues and adjust without abandoning safety or reset. |
@@ -125,18 +125,20 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 ### Week 3 - Read, Measure, and Organize Before Cooking
 
-**Weekly anchor:** Students can read a recipe, identify the work, prepare mise en place, measure accurately enough for the task, and follow a useful sequence.
+**Weekly anchor:** Students can read a recipe, identify the work and common equipment, retrieve the correct item, prepare mise en place, measure accurately enough for the task, and follow a useful sequence.
 
 **Core learning:**
 
 - Complete Food Handler review and assessment when students are ready.
 - Identify yield, ingredients, equipment, measurements, action verbs, heat cues, doneness cues, and reset expectations.
+- Build practical Equipment Literacy through three physical demonstrations of no more than 10 minutes each: Tuesday covers hotel pans, sheet pans, fitted racks, and perforated pans; Wednesday covers food-storage containers and lid matching; Thursday covers high-use cookware and strainers.
+- Reinforce each demonstration through named-item retrieval and correct return. Do not add a separate identification worksheet or memorization quiz.
 - Build a basic prep list and divide work across a group.
 - Practice fractions, common measurements, and simple scaling.
 - Apply recipe reading through low-cost vehicles such as rice, fried rice/stir fry, peanut butter bars, or dried pasta with basic tomato sauce.
 - Cover, label, store, and reset shared product correctly.
 
-**Evidence:** Marked recipe, mise en place check, measurement check, and finished product with station reset.
+**Evidence:** Marked recipe, correct retrieval and return of a named common item, mise en place check, measurement check, and finished product with station reset.
 
 ### Week 4 - Life of an Order and Controlled Bistro Practice
 

@@ -25,10 +25,13 @@ Document safety expectations, facility routines, equipment procedures, cleaning 
 - Floor care.
 - Cooler/freezer organization.
 - Smallwares stocking.
+- Equipment Literacy: correct names, family/type recognition, selection, location, retrieval, lid matching when relevant, and proper return.
 - Knife carry, storage, and cutting board stability.
 
 ## Equipment Authorization
 Students may use equipment only after instruction, demonstration, and instructor approval. Culinary 2 students may have more independence, but the standard is higher, not looser.
+
+Equipment Literacy does not itself authorize equipment operation. A student may be able to identify, locate, select, and return an item while still requiring the applicable instruction, demonstration, supervision, and instructor approval before use.
 
 ### Broiler and Grill Gate
 Broiler or grill use is not authorized by general hot-line experience alone. Before student operation, the instructor must confirm:

@@ -16,6 +16,9 @@ Knife work in Culinary 2 is production work. Students are expected to produce us
 
 - Use safe grip, stable board setup, and controlled movement.
 - Produce consistent cuts for actual recipes.
+- Verify retained Equipment Literacy through correct named-item retrieval and return rather than assuming prior course completion equals mastery.
+- Determine which equipment production requires, when it will be needed, who needs it, and whether availability could become a bottleneck.
+- Build toward: "I can determine which equipment a production requires, retrieve it efficiently, plan when it will be needed, use it correctly, and prevent equipment availability from becoming a production bottleneck."
 - Label, store, and hand off prep correctly.
 - Improve speed without losing accuracy.
 - Understand that prep quality affects service quality.
@@ -31,7 +34,7 @@ Knife work in Culinary 2 is production work. Students are expected to produce us
 
 ## Evidence
 
-Students should produce prep that another station can use without rework.
+Students should produce prep that another station can use without rework. Their production plan should move through Product -> Ingredients -> Equipment -> Sequence -> Ownership -> Deadline, and their equipment choices should keep shared work moving.
 
 ## Build-Out Notes
 

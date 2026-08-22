@@ -3,15 +3,15 @@
 ## Unit Overview
 Week 3 focus: read before cooking. Organize before acting.
 
-Students finish Food Handler review and assessment, then practice reading recipes, identifying ingredients and equipment, sequencing steps, building prep lists, measuring carefully, setting mise en place, and keeping a clean station while they cook.
+Students finish Food Handler review and assessment, then practice reading recipes, identifying and retrieving common equipment, sequencing steps, building prep lists, measuring carefully, setting mise en place, and keeping a clean station while they cook.
 
 ## Week at a Glance
 | Day | Focus | Main Application |
 |---|---|---|
 | Monday | Food Handler review and assessment | Safety review, assessment, sanitation scenarios |
-| Tuesday | Recipe reading | Annotate a recipe and identify tools, ingredients, yield, steps, and timing |
-| Wednesday | Measuring and sequence | Peanut butter bars with mise en place check |
-| Thursday | Rice cookery and ratios | Rice practice with measuring, timing, and reset |
+| Tuesday | Recipe reading and pan families | Annotate a recipe; physically identify hotel pans, sheet pans, fitted racks, and perforated pans |
+| Wednesday | Measuring, sequence, and storage containers | Match Cambros, Lexans, deli cups, soufflé cups, and lids; apply through mise en place |
+| Thursday | Rice cookery, cookware, and strainers | Identify high-use cookware and straining tools; retrieve the correct item for production |
 | Friday | Mise en place application | Fried rice or simple stir fry with prep list and station readiness |
 
 ## Daily Lesson Flow
@@ -26,15 +26,15 @@ Students finish Food Handler review and assessment, then practice reading recipe
 
 ### Tuesday: Recipe Reading
 - Opening: huddle on "read before cooking."
-- Mini-lesson/demo: title, yield, ingredients, equipment, steps, timing, and warning signs in a recipe.
-- Student work: annotate a simple recipe and build ingredient/equipment lists.
+- Mini-lesson/demo: title, yield, ingredients, equipment, steps, timing, and warning signs in a recipe. Add a physical Equipment Literacy demonstration of no more than 10 minutes covering full, half, third, six, and nine hotel pans in standard/200 and deep/400 depths; plastic six pans used on the line; metal nine pans used for mise and spoon storage; perforated pans; and full, half, quarter, and eighth sheet pans with fitted resting racks.
+- Student work: annotate a simple recipe, build ingredient/equipment lists, and retrieve and return a named pan correctly.
 - Application: identify what is needed for peanut butter bars before touching ingredients.
 - Prompt: "What should your group know before you pick up food?"
 - Reset: return tools, close shared ingredients, wipe surfaces, and reset tables.
 
 ### Wednesday: Peanut Butter Bars
 - Opening: entry routine, handwashing, station setup, allergen reminder.
-- Mini-lesson/demo: measuring accuracy, reading the whole recipe, and following sequence.
+- Mini-lesson/demo: measuring accuracy, reading the whole recipe, and following sequence. Add a physical Equipment Literacy demonstration of no more than 10 minutes covering 2-, 4-, 8-, 12-, and 22-quart Cambros; 22- and 33-quart Lexans; 8-, 16-, and 32-ounce deli cups (1 cup, 1 pint, and 1 quart); 1- and 2-ounce disposable soufflé cups; and correct lid matching. Deli cups share one lid. Demonstrate Cambro lid matching physically without requiring students to memorize the color system.
 - Student work: assign roles, make a simple prep list, and set mise en place.
 - Application: prepare peanut butter bars as directed.
 - Prompt: "How did mise en place prevent a mistake today?"
@@ -42,11 +42,13 @@ Students finish Food Handler review and assessment, then practice reading recipe
 
 ### Thursday: Rice Cookery and Ratios
 - Opening: agenda check, huddle, handwashing, station readiness.
-- Mini-lesson/demo: rice-to-liquid ratio, measuring, simmering, steam safety, and timing.
-- Student work: identify or calculate the rice ratio and set up equipment.
+- Mini-lesson/demo: rice-to-liquid ratio, measuring, simmering, steam safety, and timing. Add a physical Equipment Literacy demonstration of no more than 10 minutes covering small aluminum saucepans; medium and large stainless saucepans; small, medium, and large aluminum sauté pans; small nonstick aluminum sauté pans; medium carbon-steel sauté pans and woks; medium and large aluminum stockpots; a large aluminum rondeau; small, medium, and large bain maries; colanders; chinois; china caps; and strainers of various sizes.
+- Student work: identify or calculate the rice ratio, retrieve the appropriate equipment, and set it up correctly.
 - Application: rice cookery practice.
 - Prompt: "Why does measuring matter before heat is involved?"
 - Reset: pots or rice cooker cleaned as directed, counters sanitized, rice stored or discarded as directed, floor checked.
+
+Equipment Literacy is checked through correct named-item retrieval and return during kitchen work. It does not require a separate identification worksheet or quiz. KitchenAid mixer bowls and cutting full parchment sheets to fit sheet-pan sizes remain just-in-time micro-skills when those items are first used.
 
 ### Friday: Fried Rice or Simple Stir Fry
 - Opening: handwashing, station check, prep list check.

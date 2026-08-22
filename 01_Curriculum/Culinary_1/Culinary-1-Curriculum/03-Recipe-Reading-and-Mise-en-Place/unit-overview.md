@@ -7,11 +7,12 @@ Week 3
 Read before cooking. Organize before acting.
 
 ## Purpose
-Students complete Food Handler review and assessment, then practice recipe reading, ingredient lists, equipment lists, step sequencing, prep lists, basic measuring, rice cookery, dried pasta with a basic tomato sauce, peanut butter bars, fried rice or stir fry, mise en place habits, clean station reset, and stewardship of shared ingredients and tools.
+Students complete Food Handler review and assessment, then practice recipe reading, Equipment Literacy, ingredient and equipment lists, step sequencing, prep lists, basic measuring, rice cookery, dried pasta with a basic tomato sauce, peanut butter bars, fried rice or stir fry, mise en place habits, clean station reset, and stewardship of shared ingredients and tools.
 
 ## Learning Targets
 - I can read a recipe before starting work.
 - I can identify ingredients, equipment, yield, and steps.
+- When a recipe, prep list, instructor, or teammate names common kitchen equipment, I can identify it, locate it, select the correct item, and return it properly.
 - I can choose an appropriate pan or pot size and explain why size matters.
 - I can identify when a substitution requires instructor approval.
 - I can put recipe steps in a useful order.
@@ -23,6 +24,7 @@ Students complete Food Handler review and assessment, then practice recipe readi
 ## Core Skills
 - Recipe literacy
 - Ingredient and equipment lists
+- Equipment-family recognition, retrieval, selection, lid matching, and return
 - Step sequencing
 - Prep lists
 - Measuring and basic kitchen math
@@ -42,6 +44,7 @@ Students complete Food Handler review and assessment, then practice recipe readi
 | Sequence | The order steps should happen in. |
 | Mise en place | Tools and ingredients ready before work begins. |
 | Portion | One serving or assigned amount. |
+| Equipment Literacy | Recognizing, locating, selecting, using as authorized, and returning common kitchen equipment by its correct name. |
 
 ## Lab Applications
 - Food Handler review and assessment
@@ -61,9 +64,10 @@ Bistro work depends on students who can read, prep, measure, and organize before
 - Food Handler review/assessment evidence
 
 ## Teacher Notes
-Students will want to touch food before reading. Make them prove they understand the recipe, tools, and sequence first.
+Students will want to touch food before reading. Make them prove they understand the recipe, tools, and sequence first. Teach Equipment Literacy physically in the kitchen through three demonstrations of no more than 10 minutes each, then check it through retrieval and return during real work rather than a separate worksheet or quiz. Storage locations remain a visual, instructor-led part of the demonstration.
 
 ## Resources Needed
+- Equipment Literacy demonstration set: instructor-selected examples from the confirmed families in the Unit 03 teacher packet; do not stage every duplicate item.
 - Equipment: measuring tools, bowls, sheet pans, rice cooker or pots, saute pans or woks
 - Ingredients: peanut butter bar ingredients, rice, simple stir fry ingredients, teacher-approved dried pasta and tomato-sauce ingredients
 - Materials: sample recipes, prep list format, Food Handler review items

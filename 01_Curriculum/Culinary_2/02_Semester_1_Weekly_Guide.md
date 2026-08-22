@@ -164,6 +164,7 @@ Use Week 3 and the following production work to reset the habits that the first 
 - Kitchen Mode and a fundamentals-first mindset
 - attention, sensory awareness, and staying locked in
 - recipe and prep-list reading
+- retained Equipment Literacy and efficient equipment retrieval
 - mise en place, workflow, and sequencing
 - clear communication and clean-as-you-go
 - purposeful movement, awareness, and scanning
@@ -199,7 +200,7 @@ Suggested recipes or recipe types:
 | --- | --- | --- | --- |
 | Monday | I can make controlled medium and small dice for production. | Cut path, square-off strategy, waste control. | Onion, celery, pepper, carrot, or tomato prep for soup/red rice base. |
 | Tuesday | I can make julienne and chiffonade without rushing. | Knife angle, herb handling, safe speed. | Slaw, herb garnish, or chow chow prep. If Hospitality Scholars occurs, use Wednesday for the practical reps. |
-| Wednesday | I can build and follow a prep sequence. | What starts first, what can wait, what must stay cold. | Teams write a prep list and produce a simple soup base, slaw, or red rice mise. |
+| Wednesday | I can build and follow a prep sequence that accounts for equipment. | Before students write: a brief physical refresher on the confirmed major equipment families, then Product -> Ingredients -> Equipment -> Sequence -> Ownership -> Deadline. Ask when each item is needed, who needs it, and whether sharing or availability could become a bottleneck. | Teams write a prep list, retrieve the correct equipment efficiently, and produce a simple soup base, slaw, or red rice mise. |
 | Thursday | I can set Bistro prep so another person could continue the work. | Station bins, par levels, labels, covered storage. | Bistro prep setup: cold station, sauces, vegetables, labels, dish flow. |
 | Friday | I can produce one menu item under service timing. | Graceful urgency, product standard, quick reset. | Mock Bistro item: pimento cheese toast, slaw cup, rice bowl, or soup sample. |
 
@@ -208,6 +209,7 @@ Line Check prompts:
 - Why does cut size matter?
 - What should be on your board before the knife moves?
 - What makes prep complete?
+- Which equipment will you need, when will you need it, and could its availability slow production?
 - What information belongs on a label?
 
 Differentiation note:
@@ -216,7 +218,7 @@ Differentiation note:
 
 CKC alignment:
 
-- knife skills, equipment, mise en place, workflow, labels
+- knife skills, Equipment Literacy, equipment planning, mise en place, workflow, labels
 
 Bistro prep/service notes:
 

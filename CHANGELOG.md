@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-08-22 - Add Equipment Literacy Progression
+
+### Curriculum Decision
+
+- Added Equipment Literacy as an explicit Culinary 1 foundation taught physically during Week 3 through three demonstrations of no more than 10 minutes each: pan families, storage containers/lids, and high-use cookware/strainers.
+- Required practical evidence through correct named-item retrieval and return rather than a separate identification worksheet or memorization quiz.
+- Added a Culinary 2 retained-readiness refresher before Week 3 prep-list work and established `Product -> Ingredients -> Equipment -> Sequence -> Ownership -> Deadline` as the production-planning sequence.
+- Kept kitchen storage locations visual and instructor-led, preserved existing equipment authorization gates, and retained mixer bowls and parchment cutting as just-in-time micro-skills.
+
+### Confirmed West Ashley Vocabulary
+
+- Documented the instructor-confirmed hotel-pan, sheet-pan, food-storage, cookware, bain-marie, and straining families used for the initial introduction, including West Ashley usage of “Cambro,” “Lexan,” “six pan,” “nine pan,” “standard/200,” and “deep/400.”
+
 ## 2026-08-22 - Refresh ChatGPT Lesson-Planning Knowledge
 
 ### Correction

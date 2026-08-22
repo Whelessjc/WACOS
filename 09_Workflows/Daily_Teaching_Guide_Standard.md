@@ -29,7 +29,7 @@ The weekly guide also identifies Knowledge, Skill, Professional Thinking, materi
 Every new daily lesson plan, or each daily/sequence block inside an active Weekly Teaching Guide, makes these layers visible:
 
 1. **Primary target:** the main knowledge or performance purpose of the lesson.
-2. **Required supporting systems:** the cumulative routines students must combine, such as Kitchen Mode, communication, sanitation, mise en place, workflow, clean-as-you-go, and reset.
+2. **Required supporting systems:** the cumulative routines students must combine, such as Kitchen Mode, communication, sanitation, Equipment Literacy, mise en place, workflow, clean-as-you-go, and reset.
 3. **Expected just-in-time micro-skills:** small actions likely to be needed because of the product, equipment, or process.
 4. **Safety and authorization gates:** instruction, demonstration, verification, supervision, or individual authorization required before action.
 5. **Flexible extensions:** useful refinements taught when time, readiness, or student questions permit; these are not automatic mastery requirements.
@@ -37,6 +37,8 @@ Every new daily lesson plan, or each daily/sequence block inside an active Weekl
 7. **Micro-skills revealed during instruction:** unexpected small skills exposed by questions, errors, or production conditions and captured for later review.
 
 Keep this layer compact. Do not turn every micro-skill into a standalone objective, worksheet, checklist item, or grade. Safety-critical micro-skills require verification; recurring fundamentals receive planned repetition; product-specific micro-skills stay with the relevant lab; emergent micro-skills enter permanent guidance only when repetition, safety, or instructional value justifies the change.
+
+When equipment is relevant, Equipment Literacy means that students hear or read the correct name, identify and locate the item, select the appropriate type or size, use it only within existing authorization rules, and return it properly. Culinary 2 planning also considers when shared equipment is needed and whether availability could become a production bottleneck. Teach and check this through physical kitchen work rather than a standalone identification worksheet.
 
 ## Flex-Mod Operating Standard
 
