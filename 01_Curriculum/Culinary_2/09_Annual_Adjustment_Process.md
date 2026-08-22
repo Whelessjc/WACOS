@@ -90,6 +90,21 @@ After each month of Bistro, note:
 - sanitation issue
 - one change for next month
 
+## 2027-2028 Opening Development
+
+The 2027-2028 Culinary 2 opening is a proposed annual redesign, not current policy. Do not assume that students enter with an equally retained Culinary 1 foundation.
+
+During the 2026-2027 reset, collect concise evidence about which fundamentals students retain, which require demonstration or repetition, how quickly students regain independence, and which drills or simple production tasks transfer into later work. Use that evidence to refine a proposed two- to four-week common-baseline opening covering:
+
+- Culinary 1 fundamentals and Kitchen Mode
+- recipe and prep-list reading
+- mise en place, workflow, and cleaning systems
+- communication and sensory awareness
+- purposeful movement, scanning, and follow-through
+- sanitation verification and practical readiness
+
+Review the evidence in spring 2027 before adopting the design. If approved, build a dated 2027-2028 opening package and revise the annual weekly pacing. Preserve the Culinary 2 course identity and broader framework unless a separate program decision changes them. WACOS remains the continuing source of truth; the new school year receives dated implementation materials rather than a separate repository.
+
 ## End-of-Year Reset
 
 At the end of the year:
@@ -99,7 +114,7 @@ At the end of the year:
 3. Update line check cards.
 4. Update Bistro systems.
 5. Update Semester 1 pacing notes.
-6. Leave clear notes for next year's start.
+6. Review the 2027-2028 common-baseline evidence and proposed opening decision.
+7. Leave clear notes for next year's start.
 
 Do not over-polish the documents. They should stay usable in a real culinary lab.
-

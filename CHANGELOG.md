@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-08-22 - Integrate August 17-21 Instructional Reflections
+
+### Targeted Teaching Updates
+
+- Clarified that early Culinary 1 production labs are cumulative systems-integration labs. Recorded the Week 2 chicken lab as a thermometer-use vehicle that also required the prior seven or eight days of kitchen systems, with additional chicken, grill, tool, and workflow micro-skills taught just in time when useful.
+- Preserved the systems-first Culinary 1 startup and the formal Weeks 16-17 chicken mastery sequence.
+- Added an immediate Culinary 2 reset within Week 3 around Kitchen Mode, fundamentals, attention, sensory awareness, prep lists, mise en place, workflow, communication, clean-as-you-go, purposeful movement, scanning, follow-through, and usefulness without constant supervision.
+- Kept the reset active and kitchen-based through short explanations, demonstrations, drills, simple production, immediate feedback, and repetition rather than a lecture-heavy course restart.
+
+### Line-Check Implementation
+
+- Standardized line checks at three to five prompts at a time, at least twice weekly, during natural kitchen transitions.
+- Required actual prompt wording on printable instructor materials, with larger readable text, reduced wasted space, and reusable printed, laminated, and cut cards.
+- Clarified that missed responses trigger brief reteaching, demonstration, or repetition; patterns matter more than isolated answers, and line checks remain instructional reinforcement rather than a separate assessment system.
+
+### Proposed 2027-2028 Development
+
+- Added D012 as an open proposal—not current policy—for a two- to four-week Culinary 2 common-baseline opening in 2027-2028.
+- Added evidence collection and spring 2027 review steps to the Annual Adjustment Process and TODO.
+- Confirmed that WACOS remains one continuing source of truth with dated annual implementation packages rather than separate repositories for each school year.
+
 ## 2026-08-16 - Simplify Weekly Teaching and Retrieval Workflows
 
 ### Program Decisions

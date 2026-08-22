@@ -28,7 +28,7 @@ Use a mix of:
 - station checks
 - practical performance tasks
 - Bistro service evidence
-- line checks
+- repeated patterns across line checks, used with other evidence rather than isolated-response grades
 - marked recipes
 - short scaling tasks
 - brief reflections after service or practicals
@@ -89,8 +89,10 @@ Good gradebook categories:
 - labs and production
 - Bistro service
 - practical checks
-- line checks and short applied checks
+- short applied skills checks
 - professionalism and station habits
+
+Routine line checks reinforce learning and reveal patterns that need reteaching, demonstration, or repetition. Do not create a separate line-check grading system or turn every isolated oral response into a grade. When a direct performance check is intentionally assessed, identify it as an applied skills check and use the stated practical criteria.
 
 Avoid grades based mostly on:
 
@@ -122,4 +124,3 @@ Useful prompts:
 - What did you adjust?
 - What would you do differently next time?
 - What does your station need from you next service?
-

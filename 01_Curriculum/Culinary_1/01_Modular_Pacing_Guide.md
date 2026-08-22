@@ -26,6 +26,7 @@ Culinary 1 should not attempt to become restaurant school in one semester. Found
 - Plan for equivalent weekly learning, not identical daily pacing.
 - Core Learning protects the weekly anchor in shorter blocks; Flexible Learning absorbs additional time.
 - First-ten-day plans must tolerate enrollment changes, IDs, schedule corrections, and interrupted class time.
+- Treat early production as systems-integration work. The food product is a vehicle for students to combine Kitchen Mode, navigation, communication, safety, sanitation, equipment use, workflow, clean-as-you-go, and reset; it is not the only learning target.
 - Teach through movement and kitchen practice when a worksheet or explanatory slide does not improve learning.
 - Minimize front-loading before labs. Give safety and equipment instruction when students need it.
 - Print only materials students must mark, use during production, or retain as evidence.
@@ -115,6 +116,12 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 **Evidence:** Students demonstrate selected procedures at stations. A verbal answer alone does not satisfy a procedural check.
 
 **Credential connection:** Begin ServSafe Food Handler preparation.
+
+**Fall 2026 integration-lab finding:** Friday's simple chicken lab primarily taught correct thermometer use: probe sanitation, placement, temperature-taking, and verification. It also required students to combine the cumulative knowledge and routines from the preceding seven or eight instructional days, including navigation, verbal communication, safety, three-compartment-sink setup, pre-soaks, dish-machine operation, sanitizer testing, workflow, and clean-as-you-go.
+
+The instructor may add just-in-time micro-skills when the product, questions, time, and student readiness make them useful. In this lab those included seasoning, introductory grilling cues, grate preparation and oil use, when to flip, managing oversized chicken breasts, using plastic wrap and a meat mallet to create consistent thickness, and slicing against the grain. These are flexible extensions, not required Week 2 mastery targets. Student grill operation remains subject to the existing equipment-specific SOP, ventilation and fire-safety checks, instruction and demonstration, supervision, and individual authorization gates.
+
+This early application does not move or replace the formal Weeks 16-17 chicken sequence, where safe chicken handling, heat control, doneness judgment, resting, slicing, and pan-sauce work receive sustained attention.
 
 ### Week 3 - Read, Measure, and Organize Before Cooking
 

@@ -16,13 +16,15 @@ Good line checks build:
 
 ## How to Use
 
-Use 3-5 cards at a time, at least twice weekly. Ask one student, then another. Keep answers brief, correct misconceptions immediately, and move on.
+Use 3-5 prompts at a time, at least twice weekly. Use natural transitions: entry, setup, waiting for a demonstration or teacher check, movement between tasks, flames off, and reset. Ask one student, then another. Keep answers brief, correct misconceptions immediately, and move on.
 
-Mix one familiar card with one current-unit card and one scenario card. Revisit missed cards later in the week.
+Mix one familiar prompt with one current-unit prompt and one scenario. A missed response is a signal for a brief explanation, demonstration, or immediate repetition. Revisit missed prompts later in the class or week and track repeated individual, group, or class patterns rather than turning every isolated response into a grade.
 
 For prompts marked **Show**, the student must demonstrate the action or point out the correct setup. A spoken answer alone is not evidence of practical competence.
 
-If a card exposes a class-wide gap, reteach and practice the skill in the lab. Record formal practical competence on the appropriate skills checklist or Basic Tasks Sign-Off Card.
+If a prompt exposes a class-wide gap, reteach and practice the skill in the lab. Line checks remain an instructional reinforcement tool, not a separate assessment system. Record formal practical competence on the appropriate skills checklist or Basic Tasks Sign-Off Card.
+
+For printable instructor materials, show the actual skill or question wording prominently; keep the card code small and secondary for reference. Use a large readable type size, reduce decorative whitespace and oversized margins, and fit the prompt plus the essential listen/look-for language efficiently on each card. Print, laminate, and cut frequently used sets for repeated kitchen use.
 
 ## Personal Readiness and Daily Systems
 
@@ -173,4 +175,4 @@ If a card exposes a class-wide gap, reteach and practice the skill in the lab. R
 | After Bistro launch | KB, LS, WS, PR, scenario cards |
 | Weeks 17-18: Culinary 2 bridge | Mixed cards, with missed fundamentals prioritized |
 
-The instructor may print and cut the table rows into cards, display prompts digitally, or use the card codes directly in a Daily Teaching Guide.
+The instructor may print, laminate, and cut the table rows into reusable cards or display prompts digitally. When a Daily Teaching Guide or printable instructor sheet names selected line checks, write the actual prompt or skill wording rather than relying mainly on card codes.

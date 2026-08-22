@@ -1,10 +1,10 @@
 # Line Check Cards
 
-Line checks are short oral recall and scenario questions.
+Line checks are short oral recall, demonstration, and scenario prompts used for instructional reinforcement.
 
-They are not written quizzes.
+They are not written quizzes or a separate assessment system.
 
-Use them while students are standing, setting up, waiting for a demo, or resetting.
+Use them during natural transitions while students are entering, setting up, waiting for a demonstration or teacher check, moving between tasks, shutting down, or resetting.
 
 Good line checks build:
 
@@ -17,11 +17,13 @@ Good line checks build:
 
 ## How to Use
 
-Use 3-5 cards at a time.
+Use 3-5 prompts at a time, at least twice weekly.
 
-Ask one student, then another. Let students answer briefly. Correct quickly and move on.
+Ask one student, then another. Let students answer briefly. Correct quickly and move on. Mix familiar, current-skill, and scenario prompts.
 
-If a card exposes a class-wide gap, reteach it in the lab.
+A missed response is a signal for a brief explanation, demonstration, or immediate repetition. Revisit missed prompts later and track repeated individual, group, or class patterns rather than turning every isolated response into a grade. If a prompt exposes a class-wide gap, reteach and practice it in the lab.
+
+For printable instructor materials, show the actual skill or question wording prominently; keep the card code small and secondary for reference. Use a large readable type size, reduce decorative whitespace and oversized margins, and fit the prompt plus the essential listen-for language efficiently on each card. Print, laminate, and cut frequently used sets for repeated kitchen use. When a weekly guide or instructor sheet selects prompts, include the wording rather than relying mainly on codes.
 
 ## Daily Systems
 

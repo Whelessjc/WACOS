@@ -77,7 +77,7 @@ Use the [Lab Observation Record](Tools/Lab_Observation_Record.md) for Culinary 1
 
 The five evidence areas are readiness and planning; safe, sanitary, and organized work; technique and process; product result; and shutdown, reset, and reflection. Product quality should reflect the stated target and should not outweigh technique, safety, or process when those are the lesson focus.
 
-For an abbreviated line check or skills check, use the same record with only the target, one or two focus criteria, checkpoint, direct demonstration, and result completed. Unused areas are `NO`, not failures.
+Routine line checks are instructional reinforcement: use missed responses for brief reteaching, demonstration, immediate repetition, and pattern tracking rather than grading each isolated answer. When the instructor deliberately schedules a separate applied skills check with direct demonstration, use the same record with only the target, one or two focus criteria, checkpoint, direct demonstration, and result completed. Unused areas are `NO`, not failures.
 
 ### Partner and Group Labs
 

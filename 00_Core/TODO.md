@@ -24,6 +24,12 @@
 - Create a cleaned ChatGPT Edu upload bundle.
 - Decide which archive source packets can be public, private-instructor-only, or retired.
 
+## Future-Year Development
+
+- Collect concise evidence during the 2026-2027 Culinary 2 reset: retained fundamentals, recurring gaps, effective drills, needed repetitions, time to regained independence, and transfer into later production.
+- Review D012 in spring 2027 and decide whether to adopt a two- to four-week common-baseline opening for Culinary 2 in 2027-2028.
+- If approved, build a dated 2027-2028 opening package and revise annual pacing without creating a separate WACOS repository or replacing the broader Culinary 2 framework unless separately decided.
+
 ## Foundation Implementation Details
 
 - Document the final Culinary 1 tofu recipe and allergen-control sequence before the lab.

@@ -157,6 +157,23 @@ Flex notes:
 
 ## Week 3: Knife Control for Production
 
+### Immediate Instructional Reset - Begin August 24
+
+Use Week 3 and the following production work to reset the habits that the first two weeks showed students do not yet apply consistently. This is not a lecture-heavy restart or a replacement for the Culinary 2 framework. Keep the existing knife and production vehicles, but use them to rebuild:
+
+- Kitchen Mode and a fundamentals-first mindset
+- attention, sensory awareness, and staying locked in
+- recipe and prep-list reading
+- mise en place, workflow, and sequencing
+- clear communication and clean-as-you-go
+- purposeful movement, awareness, and scanning
+- looking for the next useful task
+- follow-through and usefulness without constant supervision
+
+Teach the reset through short explanations, demonstrations, kitchen drills, simple production tasks, immediate feedback, correction, and repetition. Ask students to use sight, sound, smell, touch when safe, and taste when appropriate to explain what the food, equipment, station, and team need next. Revisit missed habits during the same class whenever possible instead of postponing correction to a later lecture.
+
+Preserve the planned knife-control progression, but slow, repeat, or simplify the product when attention, sanitation, communication, or workflow breaks down. Readiness is demonstrated through useful action from setup through reset, not assumed from prior Culinary 1 completion.
+
 Core skill focus:
 
 - medium dice
