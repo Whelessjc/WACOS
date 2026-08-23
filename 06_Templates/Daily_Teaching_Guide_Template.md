@@ -18,6 +18,13 @@
 - **Skill:**
 - **Professional thinking:**
 
+## New Vocabulary / Professional Language
+
+- **Core weekly terms:**
+- **Where students will encounter and use them:**
+
+Do not list every technical word appearing in the week's materials. List only the limited set students need to understand the work, communicate in the kitchen, or carry forward. Teach the terms through instruction, production, demonstration, and repeated professional use. Keep just-in-time Equipment Literacy language separate when that prevents the core list from becoming a catalog. Do not create a separate vocabulary assignment or assessment unless it serves a specific instructional purpose.
+
 ## Daily / Sequence Micro-Skill Map
 
 Complete one row for each planned daily or sequence block. Keep entries concise.

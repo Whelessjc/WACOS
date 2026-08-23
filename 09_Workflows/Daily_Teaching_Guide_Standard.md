@@ -2,7 +2,7 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
-**Last revised:** August 22, 2026
+**Last revised:** August 23, 2026
 
 ## Purpose
 
@@ -15,14 +15,21 @@ A working guide should reduce decisions and paperwork. It is not a script, a for
 Every active weekly guide makes these items immediately visible:
 
 1. **Weekly destination:** course, week/unit, Weekly Anchor, and the ordered learning sequence.
-2. **Show / Students do:** what the instructor demonstrates or explains and what students do next.
-3. **Must happen:** Core Learning plus required safety, shutdown, cleaning, and reset.
-4. **If time remains:** Flexible Learning and the next logical sequence element.
-5. **If time is lost:** work that may move without damaging the Weekly Anchor.
-6. **Clean stopping points:** where a section may pause and what must be secured before leaving.
-7. **Section continuation:** a compact record of where each section stopped and what comes next.
+2. **New Vocabulary / Professional Language:** the limited set of new terms students are expected to encounter and begin using during the week.
+3. **Show / Students do:** what the instructor demonstrates or explains and what students do next.
+4. **Must happen:** Core Learning plus required safety, shutdown, cleaning, and reset.
+5. **If time remains:** Flexible Learning and the next logical sequence element.
+6. **If time is lost:** work that may move without damaging the Weekly Anchor.
+7. **Clean stopping points:** where a section may pause and what must be secured before leaving.
+8. **Section continuation:** a compact record of where each section stopped and what comes next.
 
 The weekly guide also identifies Knowledge, Skill, Professional Thinking, materials/preparation, and adult roles. Essential questions, predictable student questions, detailed instructor context, and extended notes belong in compact supporting notes when they materially help instruction; they do not receive equal visual priority by default.
+
+## New Vocabulary / Professional Language
+
+Each weekly guide identifies the limited set of new culinary, hospitality, equipment, and operational terms students are expected to encounter and begin using. Teach vocabulary in context through instruction, production, demonstration, and repeated professional use. Do not create separate vocabulary assignments or assessments unless they serve a specific instructional purpose.
+
+Do not list every technical word appearing in the week's materials. Prioritize language students need to understand the work, communicate in the kitchen, or carry forward into later instruction. Equipment terms may be identified as just-in-time Equipment Literacy language rather than treated as core weekly mastery targets.
 
 ## Daily Micro-Skill Planning Standard
 

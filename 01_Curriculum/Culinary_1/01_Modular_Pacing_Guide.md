@@ -130,6 +130,10 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 **Weekly anchor:** Students can read a recipe, identify the work and common equipment, retrieve the correct item, prepare mise en place, measure accurately enough for the task, and follow a useful sequence.
 
+**New Vocabulary / Professional Language:** mise en place; yield; workflow; sequence; prep list.
+
+**Just-in-time Equipment Literacy language:** sheet pan; hotel pan; fitted rack; perforated pan; deli container (deli cup); Cambro / Lexan; stockpot; saucepan; sauté pan; rondeau; wok; strainer; blast chiller. The practical Week 3 target is recognition and correct professional naming in context, not formal mastery of every equipment term in one week.
+
 **Core learning:**
 
 - Complete Food Handler review and assessment when students are ready.

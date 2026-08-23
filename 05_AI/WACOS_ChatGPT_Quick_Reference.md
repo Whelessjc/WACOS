@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: August 22, 2026
+Last updated: August 23, 2026
 
 ## Purpose
 
@@ -39,6 +39,8 @@ When creating or substantively revising a lesson, unit, assessment, instructor g
 ## Current Lesson-Planning Standard
 
 Before producing a daily or weekly lesson plan, use the current `09_Workflows/Daily_Teaching_Guide_Standard.md`, the relevant current course pacing/weekly guide, and the current calendar. Do not copy the structure of an older Daily Teaching Guide as if it were the current standard.
+
+Each Weekly Teaching Guide identifies a limited **New Vocabulary / Professional Language** set: new culinary, hospitality, equipment, and operational terms students need to understand the work, communicate in the kitchen, or carry forward. Teach the terms in context through instruction, production, demonstration, and repeated professional use. Do not list every technical word, require daily lists, or create separate vocabulary assignments or assessments unless they serve a specific instructional purpose. Keep equipment terminology as just-in-time Equipment Literacy language when it is not a core weekly mastery target.
 
 Every new daily lesson plan, or daily/sequence block within a Weekly Teaching Guide, must identify:
 

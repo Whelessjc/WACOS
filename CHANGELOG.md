@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-08-23 - Add Weekly Professional-Language Planning
+
+### Quick Edit
+
+- Added a compact `New Vocabulary / Professional Language` field to the current Weekly Teaching Guide standard and template.
+- Required weekly guides to prioritize only the new culinary, hospitality, equipment, and operational language students need for the work, professional kitchen communication, or later instruction; vocabulary remains taught through repeated use in context rather than automatic worksheets, quizzes, daily lists, or separate assessments.
+- Added the Culinary 1 Week 3 core language set and kept the larger equipment-name set separate as just-in-time Equipment Literacy language focused on recognition and correct professional naming in context.
+- Updated the current lesson-planning quick reference and teaching-guide navigation descriptions; no parallel vocabulary system, grading rule, or new mastery requirement was created.
+
 ## 2026-08-22 - Clarify Recipe Retrieval and Commercial-Pan Adaptation
 
 ### Quick Edit
