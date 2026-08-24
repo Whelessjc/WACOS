@@ -1,6 +1,6 @@
 # Culinary 1 - Week 1 Teaching Guide
 
-> Canonical live guide for August 11-14, 2026. The older day-labeled DTGs remain supporting source records; daily labels below are suggested starting points, not required stopping boundaries.
+> Canonical live guide for Culinary 1 Week 1. The older day-labeled DTGs remain supporting source records; daily labels below are suggested starting points, not required stopping boundaries. Use the current calendar mapping for semester-specific dates.
 
 ## Weekly Destination
 
