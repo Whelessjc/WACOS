@@ -2,13 +2,15 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
-**Last revised:** August 23, 2026
+**Last revised:** August 24, 2026
 
 ## Purpose
 
 A Weekly Teaching Guide is the primary operational layer between the curriculum and classroom instruction. It gives the instructor and TA enough direction to teach confidently while preserving judgment when time, enrollment, equipment, or student readiness changes. Older Daily Teaching Guides may remain as supporting or historical sources, but active navigation should point to one canonical weekly guide per course/week.
 
 A working guide should reduce decisions and paperwork. It is not a script, a formal observation tool, or a minute-by-minute pacing mandate. Daily labels identify likely starting points; they do not require a section to stop when the next logical learning is ready.
+
+Reusable teaching guides use instructional week/day or sequence identifiers rather than hard-coded calendar dates. Calendar-specific documents map those identifiers to the dates for the current semester or school year. Include an actual date in a teaching guide only when the date itself is instructionally or operationally significant.
 
 ## Live Teaching Structure
 
