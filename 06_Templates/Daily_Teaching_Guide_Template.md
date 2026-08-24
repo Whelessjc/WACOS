@@ -1,6 +1,6 @@
 # Weekly Teaching Guide
 
-> Instructor/TA working document. Follow the learning sequence, adjust to the available block, and record where each section stops. Student-facing materials require instructor review before use.
+> Instructor/TA working document. Follow the learning sequence, adjust to the available block, and record where each section stops. Student-facing materials require instructor review before use. Use instructional week/day or sequence identifiers rather than hard-coded calendar dates unless a date is instructionally or operationally significant.
 
 ## Weekly Destination
 
