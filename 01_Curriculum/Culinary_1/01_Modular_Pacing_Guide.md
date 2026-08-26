@@ -150,13 +150,13 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 ### Week 4 - Life of an Order and Controlled Bistro Practice
 
-**Weekly anchor:** Students can explain and rehearse how a guest request moves through Dining, Kitchen, Support, and Barista work from arrival through reset.
+**Weekly anchor:** Students can explain and rehearse how a guest request moves through Dining, Barista, Kitchen, Support, and Tournant / Expo work from arrival through reset.
 
 **Core learning:**
 
 - Service versus hospitality.
 - Life of an Order: greeting, order information, ticket, production, expo, running, check-back, clearing, dish, and reset.
-- Current team names: Dining, Kitchen, Support, and Barista.
+- Current team names: Dining, Barista, Kitchen, Support, and Tournant / Expo.
 - Basic Bistro language: FOH, BOH, expo, runner, all day, heard, 86, and call-back.
 - Station orientation, side work, stocking, menu awareness, and role practice.
 - Training and mock service only; no soft opening or public service.
@@ -369,3 +369,10 @@ Grade weights are not established by this pacing guide.
 - [Daily Teaching Guide Standard](../../09_Workflows/Daily_Teaching_Guide_Standard.md)
 - [2026-2027 Calendar Week Mapping](../../00_Core/2026-07-20_Calendar_Week_Mapping.md)
 - [Culinary 1 Unit Package](Culinary-1-Curriculum/)
+
+
+## Current Five-Team Training and Rotation
+
+Use Dining, Barista, Kitchen, Support, and Tournant / Expo. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+
+Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
