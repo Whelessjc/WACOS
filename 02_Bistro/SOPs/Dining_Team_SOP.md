@@ -4,7 +4,9 @@ Current as of 2026-08-26. Source: real Server Side Work Checklist and current Bi
 
 ## Purpose
 
-Dining owns the guest experience: arrival, queue-number flow, seating, menu communication, order accuracy, table service, guest care, clearing, and reset.
+Dining owns the guest experience: arrival, queue-number flow, dining-room readiness, menu communication, order accuracy, table service, guest care, clearing, and reset.
+
+Guests **seat themselves at any available spot**. Dining does not assign tables or escort guests to seats.
 
 **Expo is not a Dining responsibility. Expo is anchored with the Tournant / Expo team.**
 
@@ -12,6 +14,7 @@ Dining owns the guest experience: arrival, queue-number flow, seating, menu comm
 
 - Clean and organize the host stand, server station, foyer, and dining room.
 - Clean/sanitize and balance tables, chairs, and booths; sweep dining-room floors.
+- Make sure all available seating is clearly usable and ready for guests to choose themselves.
 - Set centerpieces/flowers and start approved background music.
 - Count, organize, and stage the current queue numbers so they are ready to issue and can be accounted for during/after service.
 - Review current reservations and any instructor-confirmed special requests.
@@ -20,7 +23,7 @@ Dining owns the guest experience: arrival, queue-number flow, seating, menu comm
 - Confirm Square/order devices are ready for student use as directed; stock receipt paper, pens, menus, and order materials.
 - Polish/stock utensils and glasses; roll/stage utensil sets as needed.
 - Stock napkins, straws, take-out packaging, trays, stands, and other durable service essentials.
-- Assign Dining jobs for the shift: host, server(s), runner/busser as staffing requires.
+- Assign Dining jobs for the shift: greeter/host, server(s), runner/busser as staffing requires. The greeter/host welcomes and explains the system; this role does not assign seating.
 
 Variable service-day information such as reservation counts, specials, expected covers, current menu knowledge, and unusual packaging needs belongs on the current Dining readiness/service sheet rather than this durable SOP.
 
@@ -28,15 +31,16 @@ Variable service-day information such as reservation counts, specials, expected 
 
 - Welcome guests and determine who is ordering; each ordering guest receives a queue number. A person not ordering receives no number.
 - Keep the queue-number system controlled and understandable; do not allow numbers to become scattered or unaccounted for.
+- Explain that guests may choose any available seat; do not assign tables or escort guests to a specific seat.
 - Handle reservations using the current Bistro process; reservations do not replace the Square/payment process.
-- Greet seated guests promptly; introduce yourself, communicate the current menu/special clearly, and offer beverages.
+- Greet guests promptly after they have chosen a seat; introduce yourself, communicate the current menu/special clearly, and offer beverages.
 - Take and repeat orders accurately; write unusual requests clearly.
 - Never guess about dietary restrictions or allergens - involve the instructor.
 - Use current service standards: 30-Second Greet, appropriate table service, Left-Lower-Leave, and professional clearing.
 - Communicate orders and guest needs clearly to the appropriate station.
 - Receive completed Kitchen orders through Tournant / Expo and completed Barista orders through the Barista handoff.
 - Run completed food/drinks to the correct guest without auctioning the order.
-- Check back, refill/assist as appropriate, clear finished tables, and reset them for the next guest.
+- Check back, refill/assist as appropriate, clear finished tables, and reset them promptly so another guest may self-seat there.
 - Use LATTE for ordinary service recovery within assigned authority; involve the instructor for refunds/comps, allergen or food-safety concerns, repeated remakes, escalating behavior, or unresolved complaints.
 - Keep the dining room, host stand, and server area calm, clean, stocked, and guest-ready throughout service.
 
@@ -44,6 +48,7 @@ Variable service-day information such as reservation counts, specials, expected 
 
 - Collect and account for the queue numbers; return them to their designated storage location ready for the next service.
 - Clear and reset all tables; clean/sanitize tables, chairs, booths, host stand, and server station.
+- Leave all available seating visibly ready for the next self-seating service.
 - Sweep the dining room and foyer; complete any instructor-directed floor reset.
 - Restock/prepare menus, napkins, utensil sets, take-out supplies, receipt paper, and other service essentials for the next shift.
 - Return order devices, reservation materials, and borrowed equipment to the designated location.
