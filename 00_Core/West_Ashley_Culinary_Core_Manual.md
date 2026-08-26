@@ -877,3 +877,22 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 |---|---|---|
 | 1.0 | 2026-07-03 | Initial Core Manual synthesized from WACOS v2.1, research archive, and current instructor-confirmed decisions. |
 | 1.1 | 2026-08-22 | Added Culinary 1 product stewardship and centralized the ServSafe Food Handler case-by-case safety topic in one governing statement. |
+
+
+## Stable Five-Team Bistro Structure — Approved August 26, 2026
+
+The current instructional and Bistro teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. This instructor-confirmed structure replaces the former four-team model. The same five instructional teams carry into Bistro service to reduce confusion and build continuity.
+
+Each team remains in one Bistro position for **two consecutive services** before rotating. Service 1 develops familiarity with the position; Service 2 develops improved performance and independence. Five positions across two services form one repeating ten-service cycle shared by Culinary 1 and Culinary 2. The instructor selects the starting assignments for Teams 1–5.
+
+Thursday Bistro Prep does not replace weekly lab responsibilities. Monday through Thursday, students retain their assigned Dishes, Counters & Surfaces, Storage, Floors, or Laundry job while participating in production. Friday Bistro Service is the exception: students operate according to their Bistro position and its Opening, During Service, and Closing responsibilities.
+
+- **Dining owns the guest experience:** host, server, runner, busser, room readiness, guest communication, service, clearing, and reset. Expo is not a Dining responsibility.
+- **Barista owns beverage and pastry production and service.**
+- **Kitchen owns food production.**
+- **Support owns stewarding and operational cleanliness.**
+- **Tournant / Expo owns operational flow.** Expo is the team’s home base. During active service, one Tournant student remains responsible for Expo/pass while other trained and authorized Tournant students deploy to operational needs.
+
+Tournant / Expo uses the operating loop **Expo → Kitchen → Dining → Barista → Support → Expo** and the professional-thinking questions **What do you notice? What does it mean? What needs to happen next?** Tournant does not mean standby or free time. Students assist only within existing training, authorization, safety, and instructor-control boundaries.
+
+Durable team SOPs use Opening, During Service, and Closing. Current menus, pars, specials, inventories, drink builds, ingredients, and menu-specific mise en place remain in current prep, stock, menu, recipe, and production references. Existing LATTE expectations, instructor escalation, food-safety and equipment authority, and instructor/Teaching Assistant financial controls remain unchanged.
