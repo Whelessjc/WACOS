@@ -117,7 +117,7 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 - Friday, September 4 is early release and may be used for additional training while the instructor is out of town.
 - Bistro opening and first public service target: Friday, September 11, 2026, in Week 5.
 - The instructor may reduce, postpone, modify, or pause service for readiness or safety.
-- Do not invent classroom jobs, rotation boards, management roles, or student authority structures. The five current rotations are Dining, Barista, Kitchen, Support, and Tournant. Tournant is prioritized flexible coverage, not a fixed station.
+- Do not invent classroom jobs, rotation boards, management roles, or student authority structures. The five current instructional and Bistro teams are Dining, Barista, Kitchen, Support, and Tournant / Expo. Expo is Tournant / Expo's home base. Teams stay in each position for two consecutive services in one shared ten-service cycle.
 
 ### Annual Startup
 
@@ -280,3 +280,12 @@ Review and update this file whenever a permanent change affects a high-frequency
 ## Missing Work and Reassessment
 
 For an excused absence, enter 1 for missing work. The five-day maximums are 90, 80, 70, 60, and 50; after day five the grade becomes 0. Bistro makeups are instructor-approved and choice-based. After attendance verification and consideration of documented circumstances, an unexcused no-call/no-show on a clearly communicated major-project day earns 0. Bistro improvement is shown through later observations and the next accumulated grade rather than recreating a service.
+
+
+## Current Five-Team Training and Rotation
+
+Use **Dining, Barista, Kitchen, Support, and Tournant / Expo**. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+
+Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position duties.
+
+Tournant / Expo owns operational flow, with Expo as its home base. During active service one Tournant student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Kitchen → Dining → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
