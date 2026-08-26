@@ -7,7 +7,7 @@ Define student responsibility in daily labs, Bistro service, cleanup, and advanc
 Leadership should emerge through competence. Culinary 2 should feel like an honor and a higher-responsibility space, but not an elitist club and not a generic leadership camp.
 
 ## Current Bistro Teams
-Student leadership is organized around the four current Bistro teams: **Dining, Kitchen, Support, and Barista**. See `02_Bistro/SOPs/` for team-specific opening/service/closing duties. "FOH/BOH," "Management Staff," and "Service Staff" are retired team labels and should not appear in current role documentation.
+Student leadership is organized around the five current Bistro teams: **Dining, Barista, Kitchen, Support, and Tournant / Expo**. See `02_Bistro/SOPs/` for team-specific opening/service/closing duties. "FOH/BOH," "Management Staff," and "Service Staff" are retired team labels and should not appear in current role documentation.
 
 ## Role Framework
 | Role | Team | Duties |
@@ -33,3 +33,10 @@ Student leaders may coordinate, remind, report, and model. They may not shame pe
 - Protects safety and sanitation.
 - Leaves clear notes.
 - Makes others better without taking over.
+
+
+## Current Five-Team Training and Rotation
+
+Use Dining, Barista, Kitchen, Support, and Tournant / Expo. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+
+Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
