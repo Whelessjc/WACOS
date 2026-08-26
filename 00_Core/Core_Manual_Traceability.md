@@ -74,3 +74,5 @@ When a source conflict appears, add it to the conflict table before changing pol
 When an operational decision changes, update both the Current Program Decisions section and the traceability row that supports it.
 
 When a subordinate SOP, recipe bank, grading tool, or AI assistant is created, cite the relevant Core Manual section in that document.
+
+| Five-team Bistro structure | Instructor-confirmed 2026-08-26 decision | Dining, Barista, Kitchen, Support, and Tournant / Expo; two services per position; shared ten-service cycle; Thursday weekly lab jobs retained; Friday Bistro positions govern |
