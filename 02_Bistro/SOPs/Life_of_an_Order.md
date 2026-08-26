@@ -34,15 +34,19 @@ This moment sets the tone - not the food, not the price. The welcome.
 
 Ask: Are we looking up? Are the queue numbers organized and accounted for? Are we explaining the system clearly? Are we calm when the line grows?
 
-### 2. Seating and Dining Readiness
+### 2. Guest Finds a Seat
 
-The guest is seated. This depends on a clean table, chairs straight, utensils and service items ready, and a dining room prepared for guests. Those conditions depend on Dining, Support, and the rest of the operation having done their opening work.
+Guests seat themselves at any available spot. Dining does **not** assign tables or escort guests to a specific seat.
+
+Dining's responsibility is to make sure the dining room is ready for self-seating: clean tables, straight chairs, utensils and service items ready, and no confusing or unusable spaces.
+
+Those conditions depend on Dining, Support, and the rest of the operation having done their opening work.
 
 Every station connects to the next.
 
 ### 3. Server Approach
 
-The server approaches. What matters: eye contact, voice, confidence, menu knowledge, and awareness of the guest.
+The server approaches the guest after the guest has chosen an available seat. What matters: eye contact, voice, confidence, menu knowledge, and awareness of the guest.
 
 Rushing this part or not knowing the menu breaks the guest's confidence immediately.
 
@@ -96,7 +100,7 @@ Refunds, guest comps, financial adjustments, allergen or food-safety concerns, r
 
 ### 10. Clearing, Thank You, and Guest Departure
 
-When the guest is finished, Dining clears appropriately, thanks the guest, and resets the table for the next person.
+When the guest is finished, Dining clears appropriately, thanks the guest, and resets the table so the next guest can self-seat there.
 
 The financial transaction has already been handled through the service workflow; this step is about finishing the hospitality experience correctly.
 
