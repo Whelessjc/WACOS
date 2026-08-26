@@ -54,7 +54,7 @@ Flag conflicts instead of inventing policy.
 - Thursday Bistro Prep and Friday Bistro Service are current operating decisions.
 - Weeks 1-4 are Monday-Friday instructional/readiness weeks; do not apply the post-launch Bistro rhythm before Bistro operations begin.
 - Plan from the Weekly Anchor and learning sequence. Daily labels are suggested starting points, not automatic stopping boundaries.
-- Dining, Kitchen, Support, and Barista are the current Bistro teams. Do not invent classroom jobs, rotation boards, teams, management roles, or student authority structures; structural changes require an instructor-approved Program Decision.
+- Dining, Barista, Kitchen, Support, and Tournant / Expo are the five current teams. Teams remain in each position for two consecutive services using one common Culinary 1/Culinary 2 system. Do not invent additional teams or student authority structures.
 - Safety, sanitation, equipment authorization, grading, discipline, and compliance require instructor authority.
 
 ## What AI May Do
@@ -291,3 +291,10 @@ Requirements:
 - Encourage professional habits and reflection.
 - Escalate unclear or safety-sensitive issues to the instructor.
 ```
+
+
+## Stable Five-Team Bistro Decision — August 26, 2026
+
+The five current instructional and Bistro teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. The same teams carry into service. Each team remains in one position for two consecutive services before rotating through one repeating ten-service cycle shared by Culinary 1 and Culinary 2. Thursday Bistro Prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position Opening, During Service, and Closing responsibilities.
+
+Dining owns the guest experience; Barista beverage and pastry production/service; Kitchen food production; Support stewarding and operational cleanliness; and Tournant / Expo operational flow, with Expo as its home base. Use **Expo → Kitchen → Dining → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
