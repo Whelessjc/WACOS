@@ -38,3 +38,12 @@ Students meeting normal expectations do not need a note every day. The instructo
 - Your group result is not automatically your individual grade.
 - You should receive timely feedback and a clear next step.
 - Approved accommodations and supports are honored.
+
+
+## Missing Bistro Work and Improvement
+
+Bistro is normally Friday. If you will miss or have missed service, communicate with the instructor. For an excused absence, the gradebook initially shows 1 for missing work. You have five days to complete an approved choice-based makeup. The highest possible score is 90 on day 1, 80 on day 2, 70 on day 3, 60 on day 4, and 50 on day 5; after that the grade becomes 0. Possible makeups include ILT work, a morning shift, a restaurant review, making a dish at home, or another option approved by the instructor.
+
+An unexcused no-call/no-show on a clearly communicated Bistro or major-project day earns 0 after the instructor verifies the official attendance classification and documented circumstances.
+
+A missed Bistro service is not recreated. Later observation records and the next accumulated Bistro grade provide the opportunity to demonstrate improvement. A lab or applied skill may be reassessed case by case through an instructor-approved direct demonstration or focused practical.
