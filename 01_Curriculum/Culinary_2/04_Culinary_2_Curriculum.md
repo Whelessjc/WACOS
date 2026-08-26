@@ -41,7 +41,7 @@ The working philosophy is **fundamentals under pressure**. Students enter with u
 - Build product knowledge: proteins, grains, vegetables, spices, dairy.
 - Use Bistro menus as applied practice.
 - Introduce costing and menu math through actual Bistro items.
-- Rotate through Dining, Kitchen, Support, and Barista roles.
+- Rotate through Dining, Barista, Kitchen, Support, and Tournant / Expo roles.
 - Mentor newer students when appropriate.
 
 ## Culinary 2 Is Higher Standard, Not Looser Standard
@@ -58,3 +58,10 @@ Uniform, footwear, punctuality, station readiness, and sanitation expectations s
 
 ## Related Decisions
 See [DECISION_REGISTER.md](../../00_Core/DECISION_REGISTER.md) for credential, official title, Bistro launch, and semester sequence decisions.
+
+
+## Current Five-Team Training and Rotation
+
+Use Dining, Barista, Kitchen, Support, and Tournant / Expo. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+
+Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
