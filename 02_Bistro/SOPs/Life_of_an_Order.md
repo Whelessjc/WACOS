@@ -145,3 +145,8 @@ Then ask:
 **Where could this order break?**
 
 Have students identify at least one failure point for Dining, Barista, Kitchen, Support, and Tournant / Expo, and explain how that failure would affect the guest or another station.
+
+
+## Current Expo Ownership
+
+Tournant / Expo owns the pass and active kitchen ticket holder. Each active ticket remains on the holder until the completed order leaves the kitchen; it then moves to the completed-ticket stabber. Tournant / Expo coordinates Kitchen-to-Dining handoff. Dining receives and delivers the completed order.
