@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-08-26 - Adopt Stable Five-Team Bistro Structure
+
+- Replaced the four-team structure with Dining, Barista, Kitchen, Support, and Tournant / Expo.
+- Adopted two consecutive services per position in one shared ten-service cycle.
+- Kept weekly lab jobs active during Thursday prep; Friday uses Bistro-position duties.
+- Removed Expo from Dining and made it Tournant / Expo's home base.
+- Updated durable SOPs and current curriculum, assessment, AI, administration, workflow, decision, and traceability guidance.
+- Preserved LATTE, safety/equipment authority, and instructor/Teaching Assistant financial controls.
+
+
 ## 2026-08-23 - Add Weekly Professional-Language Planning
 
 ### Quick Edit
