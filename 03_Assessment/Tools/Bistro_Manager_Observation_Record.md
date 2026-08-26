@@ -1,43 +1,24 @@
-# Bistro Manager Observation Record
+# Bistro Observation Record
 
-> Print one page per observer or class section. Observer records evidence; instructor assigns the final grade.
+> One universal paper record for instructor and Teaching Assistant use across all five rotations. The observer records evidence; the instructor assigns the final grade.
 
 **Date:** __________  **Class:** __________  **Observer/initials:** __________
 
-**Menu/service:** ____________________  **Coverage (team/station/area/students):** ____________________
+| Student | Rotation | Opening / Readiness | Active Service | Closing / Reset | Brief note | Initials |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
+|  | Dining / Barista / Kitchen / Support / Tournant |  |  |  |  |  |
 
-**Codes:** `E` exceptional evidence/leadership · `M` meets · `C` coaching needed · `N` not met · `NO` not observed/insufficient evidence
-
-| Student | Team / station / service area | Opening | Service | Closing | Note # |
-|---|---|:---:|:---:|:---:|:---:|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-## Window Check
-
-- **Opening:** Kitchen Mode readiness, role understood, area ready, missing needs identified.
-- **Service:** safe/correct work, organization/sanitation, communication/teamwork, response to coaching/change, assignment standard protected.
-- **Closing:** shutdown/cleaning complete, items stored/returned, area reset, engaged until released.
-
-## Exceptional Evidence, Context, or Incidents
-
-| # | Student / time | Brief observable evidence or context; mark safety incidents for separate instructor review |
-|---|---|---|
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
+**Evidence codes:** E = exceptional evidence · M = meets · C = coaching needed · N = not met · NO = not observed/insufficient evidence
 
 **Reassignments / partial service / absences:** ______________________________________________
 
-**Record combined with observer:** ____________________  **Instructor review:** _______________
+**Service-wide note:** ____________________________________________________________________
+
+Use the same evidence language regardless of observer or rotation. NO is not failure. This record supplies evidence for an accumulated Bistro grade; it is not mechanically averaged.
