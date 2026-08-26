@@ -17,7 +17,7 @@ The Bistro gives students the opportunity to apply kitchen and hospitality skill
 The Bistro should open only after students have practiced safety, sanitation, dish systems, menu knowledge, roles, stocking, Life of an Order, and mock service. For 2026-2027, Weeks 1-3 build readiness. Week 4 (August 31-September 4) continues Bistro systems, training, and mock service only; there is no soft opening or public service. Friday, September 4 is an early-release day and may be used for additional training while the instructor is out of town. The Bistro opening and first public-service target is Friday, September 11 in Week 5. The instructor retains authority to reduce, postpone, modify, or pause service for readiness and safety. See `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` and `../../00_Core/DECISION_REGISTER.md` (D002).
 
 ## Life of an Order
-The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: a guest is scanned in and given a queue number, seated, ordered, fired in the kitchen, coordinated through Kitchen/Dining handoff, recovered from calmly if there is an issue using HEARD, and the table/station is reset.
+The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: each individual ordering receives a queue number upon entry, while non-ordering guests receive no number. Reservations guarantee advance preparation through the Google Form but still require arrival, individual numbering, Square entry, and payment before release. Orders move through the station ticket-holder/stabber flow, guests receive LATTE recovery when needed, and the table/station is reset.
 
 ## Bistro Teams
 Bistro roles are organized into four current teams: **Dining, Kitchen, Support, and Barista**. "FOH/BOH," "Management Staff," and "Service Staff" are retired team labels. Team-specific opening/service/closing duties are documented in `02_Bistro/SOPs/`:
@@ -52,7 +52,7 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 - Instructor and co-teacher should facilitate, coach, observe, and grade live when possible.
 - Students should not depend on adults to find every spoon, condiment, container, or ingredient.
 - One missed role can break the entire restaurant; students must understand interdependence.
-- Guest recovery should be taught explicitly using the HEARD method: Hear, Empathize, Apologize, Resolve, Diagnose.
+- Guest recovery is taught explicitly through LATTE: Listen, Acknowledge, Take action, Thank, and Ensure satisfaction. Students act within role authority and involve the instructor for financial, safety, escalating, or unresolved concerns.
 
 ## Payment and Redemption
 

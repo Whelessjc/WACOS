@@ -79,7 +79,7 @@ Keep the layer concise. Do not turn every micro-skill into a standalone objectiv
 
 Employability Skills means observable professional habits such as readiness, punctuality, uniform, communication, teamwork, initiative, coachability, station responsibility, and reset habits. Do not substitute vague participation or attitude language.
 
-The prior weekly 100-point automatic-deduction model is retired. Employability uses meaningful exceptions, repeated patterns, improvement, and instructor judgment while retaining its 20% weight.
+Enter one Employability grade each week. The weekly baseline is 90 for arriving ready and meeting expectations. Use fast paper readiness and exception evidence: minor concerns generally -5, repeated/significant concerns generally -10 or instructor review, and meaningful exceptional evidence +5 up to 100. Absence or insufficient evidence is not an automatic deduction.
 
 ## Weekly Operating Rhythm
 
@@ -128,13 +128,16 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 
 ### Guest Recovery
 
-Use **HEARD** for guest-facing recovery:
+Use **LATTE** for guest-facing recovery:
 
-- Hear.
-- Empathize.
-- Apologize.
-- Resolve.
-- Diagnose.
+- Listen.
+- Acknowledge.
+- Take action within assigned authority.
+- Thank.
+- Ensure satisfaction.
+
+Students involve the instructor for refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalation, or unresolved complaints.
+
 
 ### Payments and Deposits
 
@@ -155,7 +158,7 @@ PBIS and Bistro coins:
 - Do not record these as gift card, other payment, cash, or check.
 - Use net sales and payment-method totals for deposit reconciliation and the comp report for PBIS and Bistro coin activity.
 
-Still unresolved: reservation versus queue workflow, refund and guest-comp authorization, count verification, till variance rules, and final Square outage re-entry method.
+Only ordering guests receive individual queue numbers upon entry. Teachers retain front-of-line priority. Reservations submitted through Google Forms guarantee advance preparation but still require individual queue numbers, Square entry, standing in the payment line, and payment before release. The instructor or Teaching Assistant may independently reconcile and deliver the deposit. Still unresolved: cash-drawer starting amounts, till-variance rules, and the final Square outage re-entry method.
 
 ## Safety and Instructor Authority
 

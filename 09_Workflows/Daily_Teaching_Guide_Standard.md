@@ -54,8 +54,8 @@ When equipment is relevant, Equipment Literacy means that students hear or read 
 Different class periods may receive different instructional minutes on the same day. The goal is equivalent weekly learning, not identical daily pacing.
 
 - Culinary 1 meets in paths 1-2 and 3-4.
-- Culinary 2 meets in paths 5-8.
-- PACK is the advisory/lunch period each day. The instructor does not teach a PACK advisory and uses this window for planning; the planning assignment is associated with paths 6-7.
+- Culinary 2 is one double-path class spanning Paths 5 and 8.
+- PACK is the advisory/lunch period each day. The instructor does not teach a PACK advisory. Instructor planning follows Culinary 2 during Paths 6 and 7.
 - The instructor stretches or tightens Monday-Wednesday learning so sections are generally aligned by Wednesday.
 - Thursday is normally Bistro Prep after Bistro operations begin.
 - Friday is normally Bistro Service and reflection after Bistro operations begin.

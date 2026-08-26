@@ -1,8 +1,8 @@
 # WACOS TODO
 
 ## Highest Priority Instructor Decisions
-- Confirm Culinary 2 official and informal naming. See D003.
-- Confirm Bistro payment types, queue/reservations interaction, refunds/comps, and cash/till procedures. See D006.
+- Confirm Bistro cash-drawer starting amounts, till-variance rules, and the final Square outage-recovery entry method. See D006.
+- Finalize the planned five-station Bistro rotation, including names, responsibilities, staffing, and checklist organization, before replacing the current four-team SOP structure.
 - Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
 
 ## Missing Documentation

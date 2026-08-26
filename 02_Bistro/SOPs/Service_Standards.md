@@ -76,17 +76,18 @@ Do:
 
 Every server should be able to speak to: proper presentation and appearance of a dish, basic cooking procedure, main ingredients, correct pronunciation, and a guest-facing description that doesn't overclaim or ramble.
 
-## Guest Complaint Recovery: HEARD
+## Guest Recovery: LATTE
 
-Use HEARD when a guest brings a complaint directly (see `04_Bistro_Integration.md` for the separate internal Service Recovery protocol used for kitchen/station mistakes):
+Everyone gets a LATTE, even if they do not order one:
 
-- **H - Hear**: listen without interrupting.
-- **E - Empathize**: show genuine understanding.
-- **A - Apologize**: a real apology, even if it wasn't the student's fault.
-- **R - Resolve**: take a concrete step to fix it.
-- **D - Diagnose**: identify the root cause so it doesn't happen again.
+- **L - Listen:** give the guest your full attention and do not interrupt.
+- **A - Acknowledge:** recognize the concern and show that it matters.
+- **T - Take action:** correct the ordinary service problem within your assigned authority.
+- **T - Thank:** thank the guest for bringing the concern forward.
+- **E - Ensure satisfaction:** return and confirm that the correction solved the problem.
 
-Involve the instructor for anything beyond a simple, student-authorized fix.
+Students may act immediately on ordinary service needs such as missing utensils, condiments, napkins, drinks, incomplete table setup, and communicating a missing or incorrect item to the responsible station. Students may carry out replacements already authorized by station procedure. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and complaints that remain unresolved after a reasonable first correction require instructor involvement.
+
 
 ## Restaurant Lingo
 

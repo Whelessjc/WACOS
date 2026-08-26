@@ -14,7 +14,9 @@ This script is written as a talk-track. Deliver it as a conversation - ask the q
 
 A guest walks in. Front of house (host/server) owns this moment.
 
-The very first action: scan the guest in and assign a queue number. The number controls order, keeps things fair, and protects the flow of the room. (Teachers get front-of-line privileges - they're on a planning period with limited time; hospitality means reading the room and honoring people's time.)
+The first action is to determine who is ordering. Each individual ordering something receives a queue number upon entry; a person who is not ordering receives no number. Teachers retain front-of-line priority because they may be using a limited planning period.
+
+Reservations are current and are submitted through a Google Form. A reservation guarantees that the order is prepared for the scheduled arrival, but it is not a Square transaction. Each ordering guest still receives an individual queue number, stands in the payment line, has the order entered into Square, and pays before the prepared order is released. The reservation removes the production wait; it does not remove the payment requirement.
 
 This moment sets the tone - not the food, not the price. The welcome.
 
@@ -34,7 +36,7 @@ The order is taken. What has to be right: repeat it back, note modifications, co
 
 ### 5. Ticket Enters the System
 
-The ticket hits the kitchen - POS, ticket printer, or handwritten slip. Expo/the line owns it now. This is the brain of the kitchen; where the ticket goes and what order it's worked in matters.
+The ticket enters the appropriate station through Square, the ticket printer, or the approved backup slip. Expo keeps each active kitchen ticket on the ticket holder until the completed order leaves the kitchen, then places it on the ticket stabber. Barista follows the same active-ticket-holder to completed-ticket-stabber sequence. Where the ticket goes and the order in which it is worked protect the flow.
 
 ### 6. Cooking
 

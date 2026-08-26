@@ -148,17 +148,17 @@ When something goes wrong in the kitchen or at a station, students should learn 
 
 Do not let students hide mistakes until the ticket fails.
 
-## Guest Complaint Recovery (HEARD)
+## Guest Recovery (LATTE)
 
-Service Recovery above is for internal kitchen/station problems. When a guest brings a complaint directly, students use HEARD instead:
+Service Recovery above is for internal kitchen/station problems. When a guest brings a concern directly, students use LATTE:
 
-- **Hear** - listen to the guest's concern without interrupting.
-- **Empathize** - show genuine understanding for how the guest feels.
-- **Apologize** - offer a real apology, even if the issue wasn't the student's fault.
-- **Resolve** - take a concrete step to fix the issue.
-- **Diagnose** - identify what caused it so it doesn't happen again.
+- **Listen**
+- **Acknowledge**
+- **Take action**
+- **Thank**
+- **Ensure satisfaction**
 
-Involve the instructor for anything beyond a simple fix (comps, refunds, anything the student isn't authorized to decide alone).
+Students correct ordinary service problems within assigned authority and check back with the guest. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and unresolved complaints require instructor involvement.
 
 ## What to Assess During Bistro
 

@@ -52,7 +52,7 @@ The behaviors behind each window are:
 | Does not yet meet the service standard | Repeated or significant unmet standards show that the student did not yet perform the assignment safely, correctly, or reliably. |
 | Insufficient evidence | Available evidence cannot support a defensible judgment. |
 
-Exact numeric ranges for Canvas or gradebook entry require instructor approval before adoption. Do not invent precision by averaging codes. A recommended implementation is one approved narrow value or range per band, entered only after the instructor confirms the conversion.
+Use fixed gradebook values for the four gradable Bistro bands: Exceeds = 100, Meets = 90, Approaching = 80, and Does Not Yet Meet = 60. Insufficient evidence receives no score until sufficient evidence exists. Do not average the live letter codes mechanically. Every public service may be assessed on paper; enter 1-2 accumulated Bistro Summative grades per 4.5-week progress-report period, producing 2-4 entries per nine-week report-card period.
 
 ### Bistro Evidence Exceptions
 
@@ -77,7 +77,7 @@ Use the [Lab Observation Record](Tools/Lab_Observation_Record.md) for Culinary 1
 
 The five evidence areas are readiness and planning; safe, sanitary, and organized work; technique and process; product result; and shutdown, reset, and reflection. Product quality should reflect the stated target and should not outweigh technique, safety, or process when those are the lesson focus.
 
-Routine line checks are instructional reinforcement: use missed responses for brief reteaching, demonstration, immediate repetition, and pattern tracking rather than grading each isolated answer. When the instructor deliberately schedules a separate applied skills check with direct demonstration, use the same record with only the target, one or two focus criteria, checkpoint, direct demonstration, and result completed. Unused areas are `NO`, not failures.
+Convert a final lab level to a fixed gradebook value: 4 = 100, 3 = 90, 2 = 80, and 1 = 60. `NO` means insufficient evidence and receives no score until sufficient evidence exists. Routine line checks are instructional reinforcement: use missed responses for brief reteaching, demonstration, immediate repetition, and pattern tracking rather than grading each isolated answer. When the instructor deliberately schedules a separate applied skills check with direct demonstration, use the same record with only the target, one or two focus criteria, checkpoint, direct demonstration, and result completed. Unused areas are `NO`, not failures.
 
 ### Partner and Group Labs
 
@@ -89,7 +89,7 @@ Use the current WACOS reassessment or missing-work process when confirmed for th
 
 ## Employability Assessment Procedure
 
-Employability is 20% of the quarter grade and measures observable professional habits, not attitude or generic participation. Use the [Employability Observation Log](Tools/Employability_Observation_Log.md) to record exceptions across a defined grading period.
+Employability is 20% of the quarter grade and measures observable professional habits, not attitude or generic participation. Enter one Employability grade each week. Use the [Employability Observation Log](Tools/Employability_Observation_Log.md) as a fast paper readiness and exception record.
 
 Normal performance requires no daily narrative. Record concise evidence for:
 
@@ -118,7 +118,7 @@ Normal performance requires no daily narrative. Record concise evidence for:
 | Does not yet meet expectations | Significant or persistent evidence shows the student is not yet meeting core professional-habit expectations. |
 | Insufficient evidence | Attendance, assignment, or other circumstances leave too little evidence for a defensible decision. |
 
-Coaching notes are formative until the instructor identifies them as part of a repeated or significant pattern used for the grade. Significant incidents may become formal evidence immediately after instructor review. The prior weekly 100-point automatic-deduction model is retired. Exact numeric conversions and the frequency of gradebook entry remain unconfirmed and must not be invented.
+The weekly baseline is 90 for a student who arrives ready and meets normal expectations. Minor readiness or work-habit exceptions generally deduct 5 points. Repeated or significant concerns generally deduct 10 points or trigger instructor review. Meaningful exceptional ownership, initiative, leadership, or stewardship may add 5 points; repeated meaningful exceptional evidence may raise the weekly grade to 100. Absence or insufficient evidence is not an automatic deduction. Coaching notes remain formative until they become part of a repeated or significant pattern, and significant incidents may become formal evidence immediately after instructor review. Proper footwear and other safety requirements remain participation gates; the grade consequence documents readiness and does not replace the safety response.
 
 ## Assessment Consistency Rules
 
@@ -143,8 +143,5 @@ The [Student Assessment Quick Guide](Tools/Student_Assessment_Quick_Guide.md) ex
 
 ## Decisions Still Requiring Instructor Confirmation
 
-- Exact numeric band-to-gradebook conversion ranges.
-- Exact frequency of Employability grade entry.
-- Whether Bistro evidence becomes one grade per service or a pattern across multiple services.
-- Whether the instructor and Teacher Assistant use identical records or area-specific versions.
+- Whether the instructor and Teaching Assistant use identical records or area-specific versions.
 - Final Canvas setup and missing-work/reassessment implementation.

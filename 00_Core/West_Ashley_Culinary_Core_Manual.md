@@ -368,7 +368,7 @@ Speaking is part of leadership because leadership requires articulation.
 
 ### Guest Recovery
 
-Guest issues should be handled calmly using the HEARD method: Hear the concern without interrupting, Empathize with the guest's experience, Apologize genuinely even if the issue wasn't the student's fault, Resolve the issue quickly, and Diagnose the root cause so it doesn't happen again. The deeper standard is consistent: students should respond with respect, communicate the issue, and involve the instructor when needed.
+Guest issues are handled through the Bistro LATTE process: Listen, Acknowledge, Take action, Thank, and Ensure satisfaction. Students are expected to correct ordinary service problems within their assigned authority and then check back with the guest. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and complaints that remain unresolved after a reasonable first correction require instructor involvement.
 
 ---
 
@@ -484,7 +484,7 @@ Employability Skills grades measure observable professional behavior and readine
 
 Employability Skills are not a soft extra. In culinary and hospitality work, employability is part of competence.
 
-Employability evidence uses meaningful exceptions, repeated patterns, improvement, and instructor judgment. Normal performance does not require constant notation. Coaching is formative and is not automatically a deduction. The previously recorded weekly 100-point automatic-deduction model is retired; this does not change the approved 20% Employability Skills weight.
+Employability uses one weekly grade and a paper exception record designed for fast arrival-readiness checks and meaningful evidence during instruction. A student who arrives ready and meets normal expectations begins from a weekly baseline of 90. Minor readiness or work-habit exceptions generally deduct 5 points; repeated or significant concerns generally deduct 10 points or trigger instructor review. Meaningful exceptional ownership, initiative, leadership, or stewardship may add 5 points, with repeated exceptional evidence allowing a grade up to 100. Absence or insufficient evidence is not an automatic deduction. Safety and participation responses remain separate from the calculation and under instructor authority.
 
 ### Formative Assessments and Labs
 
@@ -498,7 +498,7 @@ Summative work should test readiness, not trivia. Students should be able to sho
 
 ### Observation Evidence
 
-Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception-based notes, repeated evidence, and instructor judgment. A checklist code is evidence rather than an automatic grade. Not observed is not failure. Group performance does not automatically become each student's individual grade, and the same behavior should not be automatically penalized in more than one category. Serious safety, sanitation, or conduct concerns require immediate intervention and separate instructor review when necessary.
+Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception-based notes, repeated evidence, and instructor judgment. Bistro and lab bands convert to fixed gradebook values: Exceeds/4 = 100, Meets/3 = 90, Approaching/2 = 80, and Does Not Yet Meet/1 = 60; insufficient evidence receives no score until a defensible judgment is possible. Every public Bistro service may be assessed on paper, while 1-2 accumulated Bistro Summative grades are normally entered per 4.5-week progress-report period, producing 2-4 per nine-week report-card period. A checklist code is evidence rather than a score to average mechanically. Not observed is not failure. Group performance does not automatically become each student's individual grade, and the same behavior should not be automatically penalized in more than one category. Serious safety, sanitation, or conduct concerns require immediate intervention and separate instructor review when necessary.
 
 The current procedures and printable records are maintained in `03_Assessment/06_Assessment_System.md` and `03_Assessment/Tools/`.
 
@@ -847,7 +847,7 @@ The following items require future confirmation in subordinate documents. They s
 
 ### Bistro Operations
 
-Current POS, payment, reservations, cash handling, customer rules, and service calendars require current operating documents.
+Current Bistro operating documents govern queue numbers, reservations, Square entry, payment, refunds, comps, and cash handling. Till starting amounts, till-variance rules, and the final Square outage re-entry method remain unresolved.
 
 ### Facility SOPs
 

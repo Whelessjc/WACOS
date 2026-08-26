@@ -72,13 +72,13 @@ The exact Square re-entry method after an outage remains an instructor-controlle
 - Complete the deposit on Friday when time permits.
 - If Friday completion is not practical, secure the funds and complete the deposit Monday.
 - Follow current district and bookkeeper requirements for custody, signatures, storage, delivery, and record retention.
+- The instructor or Teaching Assistant may independently reconcile cash and checks, assemble the deposit materials, and deliver them to the bookkeeper. Students do not perform final reconciliation or deposit delivery.
+- Refunds, guest comps, and financial adjustments require instructor approval. Students may complete ordinary LATTE service recovery within their assigned authority.
 
 ## Control Boundaries
 
 This workflow does not independently establish:
 
-- Refund or guest-comp authorization.
-- Who must witness or verify a count.
 - Cash-drawer starting amounts or till variance rules.
 - District records-retention requirements.
 - The final Square recovery method after an outage.
