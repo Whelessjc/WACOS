@@ -104,3 +104,15 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 - Record live grading notes before memory fades.
 - Download the detailed Square transactions report, reconcile cash and checks, review PBIS and Bistro coin comps, and assemble the deposit packet.
 - Complete the deposit Friday when time permits; otherwise secure it and complete the deposit Monday.
+
+
+## Stable Five-Team Bistro Decision — August 26, 2026
+
+The five current instructional and Bistro teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. The same teams carry into service. Each team remains in one position for two consecutive services before rotating through one repeating ten-service cycle shared by Culinary 1 and Culinary 2. Thursday Bistro Prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position Opening, During Service, and Closing responsibilities.
+
+Dining owns the guest experience; Barista beverage and pastry production/service; Kitchen food production; Support stewarding and operational cleanliness; and Tournant / Expo operational flow, with Expo as its home base. Use **Expo → Kitchen → Dining → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
+
+
+### Training Sequence
+
+Life of an Order remains the whole-operation foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Teach minimum safe and useful entry skills, then coach on the job.
