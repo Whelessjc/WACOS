@@ -19,17 +19,25 @@ The Bistro should open only after students have practiced safety, sanitation, di
 ## Life of an Order
 The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: each individual ordering receives a queue number upon entry, while non-ordering guests receive no number. Reservations guarantee advance preparation through the Google Form but still require arrival, individual numbering, Square entry, and payment before release. Orders move through the station ticket-holder/stabber flow, guests receive LATTE recovery when needed, and the table/station is reset.
 
-## Bistro Teams
-Bistro roles are organized into four current teams: **Dining, Kitchen, Support, and Barista**. "FOH/BOH," "Management Staff," and "Service Staff" are retired team labels. Team-specific opening/service/closing duties are documented in `02_Bistro/SOPs/`:
+## Bistro Rotations
 
-| Team | Example Roles | SOP |
-|---|---|---|
-| Kitchen | Prep, hot line, cold station, baking, dish handoff, expeditor | `Kitchen_Team_SOP.md` |
-| Dining | Host, server, expo, runner, busser, customer service | `Dining_Team_SOP.md` |
-| Support | Stocking, labels, laundry, trash, sanitizer, dish room, smallwares | `Support_Team_SOP.md` |
-| Barista | Espresso/drink prep, station stocking, beverage service | `Barista_Team_SOP.md` |
+The five current Bistro rotations are **Dining, Barista, Kitchen, Support, and Tournant**.
 
-Leadership development may occur within an assigned current team. It does not create a fifth Bistro team or grant student authority beyond the instructor-approved assignment.
+Tournant is flexible coverage, not a fixed station. Its priority order is:
+
+1. Fill an absence.
+2. Respond to the most immediate operational need.
+3. Complete assigned delivery, running, or lunch-opening work.
+4. Help a rotation that is falling behind.
+5. Restock and reset.
+6. Cross-train.
+7. Find other useful work.
+
+**Standby does not mean standing around.** The instructor assigns or redirects the Tournant as service conditions change. Leadership within a rotation does not create another team or expand student authority.
+
+Each rotation uses one checklist organized as Opening, During Service, and Closing/Reset. Dining may divide duties into Host, Server, and Expo. Earlier classes reset for the next class. Culinary 2, during the double path of Paths 5 and 8, performs final closing and shutdown; Planning follows in Paths 6 and 7. The five-rotation structure will be reviewed after one full cycle.
+
+See [Tournant Rotation SOP](../SOPs/Tournant_Rotation_SOP.md).
 
 ## Bistro Assessment
 
