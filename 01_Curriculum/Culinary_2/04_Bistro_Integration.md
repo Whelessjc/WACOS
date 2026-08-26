@@ -6,7 +6,7 @@ Bistro is applied kitchen training.
 
 ## Teams
 
-Bistro is organized into four teams: **Dining, Kitchen, Support, and Barista.** Culinary 2 students already know these roles from Culinary 1 - use the same names consistently rather than reintroducing new ones.
+Bistro is organized into five teams: **Dining, Barista, Kitchen, Support, and Tournant / Expo.** Culinary 2 students already know these roles from Culinary 1 - use the same names consistently rather than reintroducing new ones.
 
 ## Purpose
 
@@ -186,3 +186,10 @@ Ask:
 - What was one quality issue?
 - What communication helped?
 - What has to change next service?
+
+
+## Current Five-Team Training and Rotation
+
+Use Dining, Barista, Kitchen, Support, and Tournant / Expo. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+
+Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
