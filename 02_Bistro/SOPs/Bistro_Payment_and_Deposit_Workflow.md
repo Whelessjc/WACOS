@@ -44,15 +44,39 @@ Square includes comped items in gross item activity because gross sales are calc
 
 ## If Square Is Unavailable
 
-Use the backup receipt system so the kitchen receives clear order information and the instructor retains a numbered or otherwise traceable sales record.
+1. Use sequentially numbered backup receipts.
+2. Record the order, amount, payment type, and receipt number.
+3. Communicate the order directly to Kitchen and/or Barista.
+4. When Square returns, the instructor or Teaching Assistant re-enters every sale individually.
+5. Enter the actual items, correct tender, and backup receipt number; do not enter a lump total.
+6. Prevent duplicate production by marking and communicating that the re-entry is a completed outage transaction.
+7. Reconcile the re-entry total to backup receipts and collected payments.
+8. Retain backup receipts with the deposit documentation.
 
-- Record each order, amount, and payment type.
-- Mark PBIS incentives and Bistro coins as noncash redemptions.
-- Retain all backup receipts.
-- When Square becomes available, reconcile the backup receipts to cash, checks, and redemptions.
-- Follow the instructor's current recovery method for any needed Square entry without creating duplicate revenue.
+## Starting Till
 
-The exact Square re-entry method after an outage remains an instructor-controlled implementation choice because it depends on how Square reports delayed entries.
+The approved starting till is **$180**:
+
+| Denomination | Quantity | Amount |
+| --- | ---: | ---: |
+| $20 | 3 | $60 |
+| $10 | 5 | $50 |
+| $5 | 10 | $50 |
+| $1 | 20 | $20 |
+| **Total** |  | **$180** |
+
+## Till Variance
+
+For every variance, regardless of amount:
+
+1. Recount the drawer.
+2. Confirm the $180 starting till.
+3. Compare cash and checks to Square.
+4. Review comps, voids, refunds, and backup receipts.
+5. Document any remaining variance.
+6. Notify the bookkeeper.
+
+No unexplained variance is acceptable. A variance alone must not be used to charge, accuse, discipline, or grade a student.
 
 ## Service Close
 
@@ -77,13 +101,7 @@ The exact Square re-entry method after an outage remains an instructor-controlle
 
 ## Control Boundaries
 
-This workflow does not independently establish:
-
-- Cash-drawer starting amounts or till variance rules.
-- District records-retention requirements.
-- The final Square recovery method after an outage.
-
-Use current district and bookkeeper instructions where they govern. Record future confirmed decisions through the [WACOS Update Workflow](../../00_Core/WACOS_Update_Workflow.md).
+District and bookkeeper requirements govern custody, signatures, storage, delivery, and record retention. The instructor and Teaching Assistant handle cash; either may complete reconciliation and deliver the deposit to the bookkeeper.
 
 ## Square References
 
