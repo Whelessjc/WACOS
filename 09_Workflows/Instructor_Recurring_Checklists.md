@@ -39,7 +39,7 @@ Use this as the single recurring startup checklist. Dated items below apply only
 
 - [ ] Continue instruction, kitchen systems, safety, sanitation, Employability, lab routines, and Bistro readiness.
 - [ ] Use Monday-Friday instruction and readiness. Do not impose the post-launch Thursday prep/Friday service rhythm.
-- [ ] Train and assess the current Bistro teams: Dining, Kitchen, Support, and Barista.
+- [ ] Train and assess the current Bistro teams: Dining, Barista, Kitchen, Support, and Tournant / Expo.
 - [ ] Do not create classroom jobs, leadership boards, manager rotations, additional teams, or student authority structures without an instructor-approved Program Decision.
 
 ### Week 4: August 31-September 4, 2026
@@ -130,3 +130,12 @@ Use this as the single recurring startup checklist. Dated items below apply only
 - [ ] Review the Core Manual, Decision Register, TODO, and current calendar dependencies.
 - [ ] Archive or retire obsolete working materials where appropriate.
 - [ ] Submit durable program changes through the WACOS Update Workflow.
+
+
+### Five-Team Rotation Check
+
+- [ ] Keep the same five instructional teams for Bistro service.
+- [ ] Keep each team in its position for two consecutive services.
+- [ ] Continue weekly lab jobs during Thursday Bistro Prep.
+- [ ] Use Bistro-position duties during Friday service.
+- [ ] Confirm one Tournant / Expo student anchors Expo during active service.
