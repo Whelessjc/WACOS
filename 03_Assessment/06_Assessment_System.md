@@ -28,7 +28,7 @@ Codes are evidence, not automatic grades. A serious safety, sanitation, or condu
 
 ## Bistro Manager Observation Method
 
-Use the [Bistro Manager Observation Record](Tools/Bistro_Manager_Observation_Record.md) during opening/readiness, active service, and closing/reset. The instructor and Teacher Assistant may divide the room by named students, team, station, or service area. Current teams are Dining, Kitchen, Support, and Barista.
+Use the [Bistro Manager Observation Record](Tools/Bistro_Manager_Observation_Record.md) during opening/readiness, active service, and closing/reset. The instructor and Teacher Assistant may divide the room by named students, team, station, or service area. Current teams are Dining, Barista, Kitchen, Support, and Tournant / Expo.
 
 1. Before service, each observer writes initials and assigned coverage.
 2. During each natural observation window, record one quick code when useful. Do not narrate routine performance.
@@ -154,3 +154,8 @@ For an excused absence, enter 1 to signify missing work. The student has five da
 Students know Bistro is normally Friday and are responsible for communicating before or after an absence. After the instructor verifies official attendance and considers documented emergencies, accommodations, and school-directed circumstances, an unexcused no-call/no-show on a clearly communicated Bistro or major-project day earns 0.
 
 Bistro is not recreated for reassessment. Improvement is documented in later paper evidence and the next accumulated grade. Labs or applied skills may be reassessed case by case through a direct demonstration or focused practical. Reassessment is not automatic and does not replace safety or discipline responses.
+
+
+## Five-Team Observation and Support
+
+Current teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. Teams remain in each position for two consecutive services. When observing Tournant / Expo, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
