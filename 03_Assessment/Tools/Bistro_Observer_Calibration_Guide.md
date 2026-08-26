@@ -7,7 +7,7 @@ The instructor and Teacher Assistant use the same evidence language while coveri
 ## Before Service
 
 - Divide coverage by named student, team, station, or service area.
-- Confirm current teams: Dining, Kitchen, Support, and Barista.
+- Confirm current teams: Dining, Barista, Kitchen, Support, and Tournant / Expo.
 - Review the day's assignment standard and any student supports the instructor identifies.
 - Agree on where records will be combined after service.
 
@@ -38,3 +38,8 @@ Intervene and escalate immediately for safety, sanitation, injury, serious confl
 - Add reassignment, partial-service, or absence context.
 - Flag disagreements or insufficient evidence for instructor review.
 - The instructor assigns the final grade.
+
+
+## Five-Team Observation and Support
+
+Current teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. Teams remain in each position for two consecutive services. When observing Tournant / Expo, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
