@@ -1,32 +1,27 @@
-# Support Team SOP (Dish Room and Stewarding)
+# Support Team SOP
 
-Current as of 2026-07. Source: real Support Staff Side Work Checklist in current use. This ties directly to the Basic Tasks fundamentals taught in Culinary 1 (hand sink/3-comp sink setup, sanitizer ppm, test strips) - this SOP is where those skills get applied for real, every service.
+Current as of August 26, 2026
+
+## Mission
+
+**Support owns stewarding and operational cleanliness** and prevents dish flow from becoming an operational bottleneck.
 
 ## Opening
 
-- All sinks filled:
-  - Hot, soapy water.
-  - Hot, clean water.
-  - Room-temperature, sanitized water - checked with a **quat test strip**.
-- Dishwasher set up:
-  - Checked with a **chlorine test strip** during the sanitize cycle.
-  - Utensil presoak on the right.
-  - Large trash can staged.
-  - Scrubbers, squeegee, and sponges ready.
+- Set up dish systems, sanitizer verification, and dish-machine check.
+- Establish scrape/presort, wash, rinse, sanitize, air-dry, and clean-return areas.
+- Prepare racks, towels, laundry, trash, and floor tools.
+- Report broken or failing equipment; do not create workarounds.
 
 ## During Service
 
-- Regularly scan the room for dirty dishes.
-- Sweep the entire kitchen (not just your station) for dishes that need collecting.
-- Wipe down all surfaces.
-- Keep floors, counters, and laundry areas clean throughout service, not just at the end.
-
-You are responsible for: dishes, counters, storage, floors, laundry, and basic maintenance. If something is broken, report it - don't work around it.
+- Collect, scrape, presort, wash, rinse, sanitize, air-dry, and return clean items.
+- Maintain sanitizer, counters, surfaces, storage support, floors, laundry, and trash.
+- Protect dish flow and request Tournant / Expo help before a bottleneck develops.
+- Recognize how upstream behavior affects downstream stewarding work.
 
 ## Closing
 
-- All dishes washed, rinsed, sanitized, and air-dried.
-- All sinks emptied.
-- All sinks wiped clean.
-- Mop around the dish area and place a HAZARD sign.
-- Dishwasher racks emptied and stored.
+- Complete dish, stewarding, counters, storage support, floors, laundry, trash, machine cleaning, and reset.
+- Report shortages, damage, or failure.
+- Earlier classes reset for the next class; Culinary 2 completes final shutdown.
