@@ -145,3 +145,12 @@ The [Student Assessment Quick Guide](Tools/Student_Assessment_Quick_Guide.md) ex
 
 - Whether the instructor and Teaching Assistant use identical records or area-specific versions.
 - Final Canvas setup and missing-work/reassessment implementation.
+
+
+## Current Missing-Work and Reassessment Rules — Approved August 26, 2026
+
+For an excused absence, enter 1 to signify missing work. The student has five days to complete an instructor-approved makeup; maximum scores are 90 on day 1, 80 on day 2, 70 on day 3, 60 on day 4, and 50 on day 5. After day 5, the grade becomes 0. Bistro makeup is selected case by case from instructor-approved choices such as ILT work, a morning shift, a restaurant review, preparing a dish at home, or an equivalent option.
+
+Students know Bistro is normally Friday and are responsible for communicating before or after an absence. After the instructor verifies official attendance and considers documented emergencies, accommodations, and school-directed circumstances, an unexcused no-call/no-show on a clearly communicated Bistro or major-project day earns 0.
+
+Bistro is not recreated for reassessment. Improvement is documented in later paper evidence and the next accumulated grade. Labs or applied skills may be reassessed case by case through a direct demonstration or focused practical. Reassessment is not automatic and does not replace safety or discipline responses.
