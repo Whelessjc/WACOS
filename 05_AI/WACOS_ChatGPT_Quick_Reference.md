@@ -117,7 +117,7 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 - Friday, September 4 is early release and may be used for additional training while the instructor is out of town.
 - Bistro opening and first public service target: Friday, September 11, 2026, in Week 5.
 - The instructor may reduce, postpone, modify, or pause service for readiness or safety.
-- Do not invent classroom jobs, rotation boards, teams, management roles, or student authority structures. The current teams remain Dining, Kitchen, Support, and Barista.
+- Do not invent classroom jobs, rotation boards, management roles, or student authority structures. The five current rotations are Dining, Barista, Kitchen, Support, and Tournant. Tournant is prioritized flexible coverage, not a fixed station.
 
 ### Annual Startup
 
@@ -158,7 +158,7 @@ PBIS and Bistro coins:
 - Do not record these as gift card, other payment, cash, or check.
 - Use net sales and payment-method totals for deposit reconciliation and the comp report for PBIS and Bistro coin activity.
 
-Only ordering guests receive individual queue numbers upon entry. Teachers retain front-of-line priority. Reservations submitted through Google Forms guarantee advance preparation but still require individual queue numbers, Square entry, standing in the payment line, and payment before release. The instructor or Teaching Assistant may independently reconcile and deliver the deposit. Still unresolved: cash-drawer starting amounts, till-variance rules, and the final Square outage re-entry method.
+Only ordering guests receive individual queue numbers upon entry. Teachers retain front-of-line priority. Reservations submitted through Google Forms guarantee advance preparation but still require individual queue numbers, Square entry, standing in the payment line, and payment before release. The instructor or Teaching Assistant may independently reconcile and deliver the deposit. The starting till is $180: 3 twenties, 5 tens, 10 fives, and 20 ones. Every variance is recounted, reconciled, documented, and reported. Square outages use numbered receipts and individual later re-entry with actual items, correct tender, receipt number, duplicate-production prevention, and full reconciliation.
 
 ## Safety and Instructor Authority
 
@@ -275,3 +275,8 @@ For an existing WACOS recipe, begin with `04_Recipes/Recipe_Bank/README.md` and 
 ## Maintenance Rule
 
 Review and update this file whenever a permanent change affects a high-frequency fact listed here. Keep it concise. Put detailed procedures in their governing WACOS documents and link to them rather than expanding this file into a second manual.
+
+
+## Missing Work and Reassessment
+
+For an excused absence, enter 1 for missing work. The five-day maximums are 90, 80, 70, 60, and 50; after day five the grade becomes 0. Bistro makeups are instructor-approved and choice-based. After attendance verification and consideration of documented circumstances, an unexcused no-call/no-show on a clearly communicated major-project day earns 0. Bistro improvement is shown through later observations and the next accumulated grade rather than recreating a service.
