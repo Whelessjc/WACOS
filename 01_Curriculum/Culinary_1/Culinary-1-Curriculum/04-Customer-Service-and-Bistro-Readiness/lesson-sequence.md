@@ -4,7 +4,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 
 ## Day 1: Life of an Order and Service vs. Hospitality
 - Opening routine: entry, agenda check, huddle.
-- Demo or mini-lesson: Life of an Order - guest arrival to farewell. Teach the distinction explicitly: "Service is what you do to someone. Hospitality is how you make someone feel." Introduce the four teams: Dining, Kitchen, Support, Barista - what each is responsible for.
+- Demo or mini-lesson: Life of an Order - guest arrival to farewell. Teach the distinction explicitly: "Service is what you do to someone. Hospitality is how you make someone feel." Introduce the five teams: Dining owns guest experience; Barista owns beverage and pastry service; Kitchen owns food production; Support owns stewarding and operational cleanliness; Tournant / Expo owns flow with Expo as home base.
 - Student work: trace an order through greeting, ticket, cooking, expo, running, clearing, dish, reset.
 - Lab/application: role-play simple service flow using the real script pattern (host greets, seats, hands off to server; server introduces self, tells the special, offers a drink).
 - Cleanup/reset: guest area, service area, and dish path reset after role-play.
@@ -36,8 +36,17 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 
 ## Day 5: Early-Release Full Mock Service
 - Opening routine: readiness check, huddle, roles confirmed.
-- Demo or mini-lesson: final service reminders - HEARD as the response if a guest raises a concern (Hear, Empathize, Apologize, Resolve, Diagnose), and a reminder that dietary restrictions get flagged to the kitchen immediately, not guessed at.
-- Student work: assigned prep and service setup using the appropriate side-work checklist (Server/Host, Cooks, Support Staff, or Barista).
+- Demo or mini-lesson: final service reminders - LATTE as the response if a guest raises a concern (Listen, Acknowledge, Take action, Thank, Ensure satisfaction), and a reminder that dietary restrictions get flagged to the kitchen immediately, not guessed at.
+- Student work: assigned prep and service setup using the appropriate side-work checklist (Dining, Barista, Kitchen, Support, or Tournant / Expo).
 - Lab/application: shortened full mock service with no public guests. Practice ticket flow, expo, running, clearing, dish, and reset without treating the day as public service.
 - Cleanup/reset: full service reset.
 - Exit check: debrief one success and one system to improve before the first normal public service on Friday, September 11.
+
+
+## Current Five-Team Training and Rotation
+
+Use **Dining, Barista, Kitchen, Support, and Tournant / Expo**. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+
+Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Week 4 remains training and mock service only, with no public guests or soft opening. Thursday prep retains weekly lab jobs; Friday service follows Bistro-position duties.
+
+Tournant / Expo owns operational flow, with Expo as its home base. During active service one Tournant student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Kitchen → Dining → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
