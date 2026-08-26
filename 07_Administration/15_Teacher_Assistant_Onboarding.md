@@ -27,7 +27,7 @@ The Teacher Assistant helps the room function and develops instructional skill u
 - Learn uniform/material expectations.
 - Shadow entry, briefing, work period, and closing.
 - Record repeated student questions, unclear directions, missing supports, and routines that need reteaching.
-- Observe Dining, Kitchen, Support, and Barista routines before supporting students within the assigned supervision boundary.
+- Observe Dining, Barista, Kitchen, Support, and Tournant / Expo routines before supporting students within the assigned supervision boundary.
 
 ## Daily Support Tasks
 - Help monitor readiness and materials.
@@ -60,3 +60,11 @@ The TA should not:
 
 ## Escalation
 Escalate immediately for injuries, unsafe equipment, chemical issues, suspected contamination, serious conflict, repeated refusal, guest complaints, or anything involving school policy.
+
+
+## Five-Team Observation and Support
+
+Current teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. Teams remain in each position for two consecutive services. When observing Tournant / Expo, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+
+
+The Teaching Assistant helps verify that Expo remains covered during active service. Final financial reconciliation and deposit delivery remain limited to the instructor and Teaching Assistant.
