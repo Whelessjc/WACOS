@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: August 23, 2026
+Last updated: August 27, 2026
 
 ## Purpose
 
@@ -45,7 +45,7 @@ Each Weekly Teaching Guide identifies a limited **New Vocabulary / Professional 
 Every new daily lesson plan, or daily/sequence block within a Weekly Teaching Guide, must identify:
 
 1. **Primary target** - the main knowledge or performance purpose.
-2. **Required supporting systems** - cumulative routines such as Kitchen Mode, communication, sanitation, mise en place, workflow, clean-as-you-go, and reset.
+2. **Required supporting systems** - cumulative routines such as Kitchen Mode, **Notebook. Pen. Plan. workflow readiness**, communication, sanitation, mise en place, workflow, clean-as-you-go, and reset.
 3. **Expected just-in-time micro-skills** - small actions likely to be required by the product, equipment, or process.
 4. **Safety and authorization gates** - instruction, demonstration, verification, supervision, or authorization required before action.
 5. **Flexible extensions** - useful refinements taught when time, readiness, or student questions permit; these are not automatic mastery requirements.
@@ -53,6 +53,10 @@ Every new daily lesson plan, or daily/sequence block within a Weekly Teaching Gu
 7. **Micro-skills revealed during instruction** - a compact capture area for small skills exposed by questions, errors, or production conditions.
 
 Keep the layer concise. Do not turn every micro-skill into a standalone objective, worksheet, checklist item, or grade. Verify safety-critical items, repeat recurring fundamentals, keep product-specific items with the lab, and promote emergent micro-skills into permanent guidance only after review.
+
+## Daily Work Readiness
+
+Work begins with **Notebook. Pen. Plan.** Students enter Kitchen Mode with the issued pocket notebook and a pen out and ready, then write the immediate task or workflow before beginning. The notebook is a working culinary tool for recipes, techniques, notes, ideas, workflow, prep lists, station tasks, service notes, questions, and reminders. It is not a traditional daily journal or separate graded assignment. Repeated lack of the required materials or failure to prepare the immediate workflow may become Employability readiness evidence.
 
 ## Courses
 
@@ -90,7 +94,7 @@ Enter one Employability grade each week. The weekly baseline is 90 for arriving 
 
 Normal class flow:
 
-1. Entry and readiness check.
+1. Entry and readiness check: attendance, uniform/materials, **Notebook. Pen. Plan.**, objective, and safety focus.
 2. Briefing, agenda, learning targets, roles, and safety focus.
 3. Demonstration, instruction, production, or practice.
 4. Instructor checkpoints and live assessment.
@@ -137,7 +141,6 @@ Use **LATTE** for guest-facing recovery:
 - Ensure satisfaction.
 
 Students involve the instructor for refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalation, or unresolved complaints.
-
 
 ### Payments and Deposits
 
@@ -276,11 +279,9 @@ For an existing WACOS recipe, begin with `04_Recipes/Recipe_Bank/README.md` and 
 
 Review and update this file whenever a permanent change affects a high-frequency fact listed here. Keep it concise. Put detailed procedures in their governing WACOS documents and link to them rather than expanding this file into a second manual.
 
-
 ## Missing Work and Reassessment
 
 For an excused absence, enter 1 for missing work. The five-day maximums are 90, 80, 70, 60, and 50; after day five the grade becomes 0. Bistro makeups are instructor-approved and choice-based. After attendance verification and consideration of documented circumstances, an unexcused no-call/no-show on a clearly communicated major-project day earns 0. Bistro improvement is shown through later observations and the next accumulated grade rather than recreating a service.
-
 
 ## Current Five-Team Training and Rotation
 
