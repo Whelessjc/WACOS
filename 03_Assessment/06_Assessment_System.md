@@ -94,11 +94,14 @@ Employability is 20% of the quarter grade and measures observable professional h
 Normal performance requires no daily narrative. Record concise evidence for:
 
 - readiness, punctuality, uniform, and required materials;
+- **daily workflow readiness: issued pocket notebook and pen out, with the immediate task or workflow written before work begins;**
 - communication, teamwork, initiative, and coachability;
 - station responsibility and productive use of time;
 - cleanup, reset, and stewardship of the kitchen and equipment;
 - exceptional ownership or leadership;
 - coaching, repeated concerns, or significant incidents.
+
+The pocket notebook is a working culinary tool. Students may use it for recipes, techniques, notes, ideas, workflow, prep lists, station tasks, service notes, questions, and reminders. It is not a separate daily journal or standalone graded assignment. Repeated failure to bring the required notebook/pen or to prepare the immediate workflow may become readiness evidence; one isolated omission should be handled through normal coaching unless the broader pattern warrants formal evidence.
 
 ### Evidence Cycle
 
