@@ -6,12 +6,20 @@ Document repeatable routines that keep instruction, production, cleaning, planni
 ## Daily Flow
 | Stage | Actions |
 |---|---|
-| Entry | Attendance, uniform/material check, objective, safety focus |
+| Entry | Attendance, uniform/material check, **notebook and pen out**, write the immediate workflow or first task, objective, safety focus |
 | Briefing | Demo, roles, timeline, quality standard, shutdown time |
 | Work | Production, coaching, station checks, live assessment |
 | Flames off | Heat off 15 minutes before bell or earlier by schedule |
 | Close | Storage, labels, dish, laundry, equipment shutdown, floors, station sign-off |
 | Reflection | Exit ticket, self-grade, improvement target, production note |
+
+## Daily Readiness Checkpoint
+
+Work begins with a written plan. Students enter Kitchen Mode with the issued pocket notebook and a pen out and ready, then write what they are about to do before beginning.
+
+The entry should be brief and useful. Depending on the day, it may be a first task, workflow, prep list, sequence, recipe note, technique reminder, station responsibility, service note, question, or idea. The notebook is a working culinary tool, not a traditional daily journal and not a separate graded assignment.
+
+The checkpoint is intentionally fast: **Notebook. Pen. Plan.** Repeated lack of the required materials or refusal to prepare the immediate workflow may become Employability readiness evidence under the current assessment system.
 
 ## Weekly Culinary 2 Rhythm
 | Day | System |
