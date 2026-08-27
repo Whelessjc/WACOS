@@ -19,7 +19,9 @@ Normal expectations do not require daily notation. Record observable exceptions 
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-**Standards:** readiness · punctuality · uniform/materials · communication · teamwork · initiative · coachability · station responsibility · productive time · cleanup/reset · stewardship
+**Standards:** readiness · punctuality · uniform/materials · **notebook/pen/workflow plan** · communication · teamwork · initiative · coachability · station responsibility · productive time · cleanup/reset · stewardship
+
+**Daily readiness shorthand:** **Notebook. Pen. Plan.** Students enter Kitchen Mode with the issued pocket notebook and a pen ready and write the immediate task or workflow before beginning. The notebook is a working culinary tool for recipes, techniques, notes, ideas, workflow, prep lists, station tasks, service notes, questions, and reminders. It is not a separate daily journal or standalone grade.
 
 ## Pattern Review
 
