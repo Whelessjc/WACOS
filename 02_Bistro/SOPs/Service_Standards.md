@@ -93,6 +93,14 @@ Students may act immediately on ordinary service needs such as missing utensils,
 
 86, expo, ticket, fire, all day, FOH/BOH, bus, runner - taught explicitly in Culinary 1 Unit 4, not assumed to be picked up by osmosis.
 
-## Pilfering
+## Pilfering and Product Stewardship
 
-Definition: taking something of relatively small value without permission. Framed to students as a trust and integrity issue, not just a rule.
+Pilfering means taking something of relatively small value without permission. In Culinary and Bistro work, food has an instructor-approved purpose. **Availability is not permission.**
+
+Unauthorized consumption or removal of ingredients, produce, beverages, garnishes, baking ingredients, or finished product affects inventory, production, trust, and professional operation even when the amount seems small. Teach and correct this as stewardship and integrity, not merely a rule violation.
+
+Use the professional noticing habit:
+
+**Expected inventory -> actual inventory -> identify the difference -> report.**
+
+This guidance does not create a separate inventory-control system or disciplinary consequence. Instructor judgment and existing school procedures remain unchanged.
