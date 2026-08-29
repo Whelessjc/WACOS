@@ -50,6 +50,24 @@ Possible lab ingredients may include:
 - [ ] Counter clean and usable
 - [ ] Teacher checkpoint complete before cooking
 
+## Mystery Mise Release Process
+For the peanut butter pretzel bar lab:
+
+1. Watch the whole-group butter demonstration. The instructor cuts the butter; students do not cut butter at a rotation station.
+2. Begin at your team's assigned numbered station pair.
+3. Read the written station directions before touching materials.
+4. Complete the measurement or thinking task and record the result in the passport.
+5. Clean and reset the station.
+6. Stay at the station until the instructor gives the rotation signal.
+7. Move to the next posted pair and repeat until all ten stations are complete.
+8. Finish the passport, organize the recipe tray, complete the mise check, and identify the first three production moves.
+9. Bring the completed record and tray to the instructor checkpoint.
+10. Begin peanut butter pretzel bar production only after the instructor releases the team.
+
+**Required flow:** Measuring stations -> completed passport and mise record -> instructor checkpoint -> release to production.
+
+During production, combine the chocolate chips and shortening in a microwave-safe container. Microwave for 10 seconds, stir, and repeat in 10-second increments only until melted and smooth.
+
 ## Procedure
 1. Complete the entry routine, agenda check, huddle, and handwashing.
 2. Read the recipe all the way through.
