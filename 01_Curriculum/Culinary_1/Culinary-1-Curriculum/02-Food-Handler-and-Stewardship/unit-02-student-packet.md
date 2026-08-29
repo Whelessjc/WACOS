@@ -29,6 +29,15 @@ A kitchen only works when people can trust each other. Food safety is not just s
 - Temperature gives evidence.
 - Stewardship means taking care of the shared kitchen.
 
+## Product Stewardship
+Food in the Culinary kitchen has an instructor-approved purpose. **Availability is not permission.**
+
+Taking or consuming even a small amount without approval - such as an ingredient, piece of produce, beverage, garnish, or baking ingredient - affects inventory, production, trust, and the professional operation.
+
+Use this habit when something does not match:
+
+**Expected inventory -> actual inventory -> identify the difference -> report.**
+
 ## Kitchen Communication
 Use short, clear words so people know what is happening:
 - "Behind"
