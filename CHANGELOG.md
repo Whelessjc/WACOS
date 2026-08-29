@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-08-29 - Integrate August 24-28 Weekly Reflection
+
+### Quick Edits
+
+- Rebuilt the Culinary 1 Mystery Mise measuring sequence for five teams and ten stations, with a whole-group butter demonstration, separate confectioners' sugar and chocolate-chip stations, a passport record, instructor-controlled rotations, and an explicit checkpoint before peanut butter pretzel bar production.
+- Added verified 10-second microwave increments with stirring for butter softening and chocolate melting; no temperature, power level, or additional timing rule was invented.
+- Preferred practical Food Handler and safety stations over a long whole-class question review when they meet the same instructional purpose.
+- Kept Equipment Literacy introductions at approximately 10 minutes and required unfinished material to carry forward.
+- Corrected the Quick Reference five-team list, Dining self-seating language, and the obsolete four-team TODO item.
+- Reinforced product stewardship and pilfering as integrity, trust, production, and inventory concerns without creating discipline consequences or new inventory controls.
+
+### Development Evidence - Not Current Policy
+
+- Added August 24-28 Culinary 2 evidence to D012 and the annual-adjustment record without adopting a new current-year or future opening curriculum.
+- Recorded uneven retained experience, the difference between knowing and demonstrating safety, concrete production-based situational-awareness prompts, recipes as production vehicles, and the instructor-directed to coached to increasingly student-directed progression.
+- Preserved the orange activity as implementation evidence rather than prohibiting it.
+- Recorded lab-team size, emerging instructional language, DTG/page-design, and document-density observations as hypotheses still under development.
+- Added the unresolved ServSafe/readiness administrative pathway as a follow-up question only; no third-attempt policy was adopted.
+
 ## 2026-08-26 - Adopt Stable Five-Team Bistro Structure
 
 - Replaced the four-team structure with Dining, Barista, Kitchen, Support, and Tournant / Expo.
