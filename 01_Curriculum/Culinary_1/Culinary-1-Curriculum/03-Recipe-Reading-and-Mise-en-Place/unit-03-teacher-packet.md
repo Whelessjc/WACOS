@@ -19,8 +19,8 @@ Students finish Food Handler review and assessment, then practice reading recipe
 ### Monday: Food Handler Review and Assessment
 - Opening: entry routine, agenda check, huddle, readiness check, handwashing.
 - Mini-lesson/demo: review safety habits that must continue during recipe work.
-- Student work: Food Handler review questions or assessment as planned.
-- Application: quick sanitation and cross-contamination scenarios.
+- Student work: use practical, in-person Food Handler and workplace-safety stations when they meet the same review purpose more efficiently than a long whole-class question set.
+- Application: clearly numbered sanitation and safety scenarios with written directions, assigned starting points, an intentional rotation order, and movement only on the instructor signal.
 - Prompt: "Which safety habit still matters when the recipe looks simple?"
 - Reset: return materials, wipe tables or stations, handle trash, and reset the room.
 
@@ -32,13 +32,16 @@ Students finish Food Handler review and assessment, then practice reading recipe
 - Prompt: "What should your group know before you pick up food?"
 - Reset: return tools, close shared ingredients, wipe surfaces, and reset tables.
 
-### Wednesday: Peanut Butter Bars
-- Opening: entry routine, handwashing, station setup
-- Mini-lesson/demo: measuring accuracy, reading the whole recipe, and following sequence. Add a physical Equipment Literacy demonstration of no more than 10 minutes covering 2-, 4-, 8-, 12-, and 22-quart Cambros; 22- and 33-quart Lexans; 8-, 16-, and 32-ounce deli cups (1 cup, 1 pint, and 1 quart); 1- and 2-ounce disposable soufflé cups; and correct lid matching. Deli cups share one lid. Demonstrate Cambro lid matching physically without requiring students to memorize the color system.
-- Student work: assign roles, make a simple prep list, and set mise en place.
-- Application: prepare peanut butter bars as directed.
+### Wednesday: Mystery Mise Measuring Stations and Peanut Butter Pretzel Bars
+- Opening: entry routine, handwashing, recipe reading, five-team assignments, and assigned starting station pairs.
+- Equipment Literacy: use a physical introduction of approximately 10 minutes covering the planned storage-container families and lid matching. If the introduction cannot be finished without crowding the day, carry the unfinished content forward to the next relevant production lesson.
+- Whole-group butter demonstration: the instructor demonstrates how to cut the required 3/8 cup butter (6 tablespoons, 3/4 stick, or 3 ounces). Soften it in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until softened. Butter cutting is not a student rotation station.
+- Measuring stations: five teams complete two stations per round across ten clearly numbered stations. Students read the written directions, complete the measurement or distractor task, record the result in the passport, reset the station, and rotate only on the instructor signal. Confectioners' sugar and chocolate chips are separate recipe stations.
+- Required student process: **Measuring stations -> completed passport and mise record -> instructor checkpoint -> release to production.**
+- Instructor checkpoint: verify the completed passport, recipe tray, correct quantities, lined 1/8 sheet pan, first three production moves, possible overlapping work, and clean stopping point. Do not release a team to production until the checkpoint is complete.
+- Production: prepare the peanut butter pretzel bars. Combine chocolate chips and shortening in a microwave-safe container; microwave for 10 seconds, stir, and repeat in 10-second increments only until melted and smooth.
 - Prompt: "How did mise en place prevent a mistake today?"
-- Reset: dishes routed correctly, counters sanitized, ingredients stored, tools returned, towels handled, floor checked.
+- Reset: dishes routed correctly, counters and microwave area sanitized, ingredients stored, tools returned, towels handled, floor checked.
 
 ### Thursday: Rice Cookery and Ratios
 - Opening: agenda check, huddle, handwashing, station readiness.
@@ -48,7 +51,7 @@ Students finish Food Handler review and assessment, then practice reading recipe
 - Prompt: "Why does measuring matter before heat is involved?"
 - Reset: pots or rice cooker cleaned as directed, counters sanitized, rice stored or discarded as directed, floor checked.
 
-Equipment Literacy is checked through correct named-item retrieval and return during kitchen work. It does not require a separate identification worksheet or quiz. KitchenAid mixer bowls and cutting full parchment sheets to fit sheet-pan sizes remain just-in-time micro-skills when those items are first used.
+Equipment Literacy is checked through correct named-item retrieval and return during kitchen work. It does not require a separate identification worksheet or quiz. Keep introductions to approximately 10 minutes and carry unfinished content forward rather than cramming it into an already full week. KitchenAid mixer bowls and cutting full parchment sheets to fit sheet-pan sizes remain just-in-time micro-skills when those items are first used.
 
 ### Friday: Fried Rice or Simple Stir Fry
 - Opening: handwashing, station check, prep list check.
@@ -62,6 +65,7 @@ Equipment Literacy is checked through correct named-item retrieval and return du
 - Prepare Food Handler review or assessment materials for Monday.
 - Choose simple recipes for annotation and lab use.
 - Stage measuring tools, mixing bowls, sheet pans, rice cookers or pots, saute pans or woks, spatulas, spoons, towels, sanitizer, and dish supplies.
+- For Mystery Mise, stage ten numbered stations in five pairs, the five-team rotation chart, passports, recipe trays, microwave-safe containers, and the instructor-controlled butter demonstration.
 - Stage ingredients in a way that limits crowding and supports shared ingredient stewardship.
 - Decide whether Friday stir fry heat work is student-managed, teacher-managed, or teacher-led.
 
@@ -76,6 +80,8 @@ Before each lab, confirm:
 - "Read before cooking. Organize before acting."
 - "A recipe is directions for action."
 - "Do not touch ingredients until your group can explain the recipe."
+- "Stay at your assigned station until the instructor signal."
+- "Your passport and mise check are your record; production begins only after the instructor checkpoint."
 - "Mise en place includes tools, ingredients, towels, trash, dishes, and a clean workspace."
 - "Measure over a separate bowl, not over the main container."
 - "Clean while the recipe is happening, not after the station falls apart."
@@ -87,6 +93,7 @@ Before each lab, confirm:
 - Use hot pan and steam language during rice and stir fry work.
 - Keep handles turned in and walk carefully around cooking stations.
 - Report spills and broken glass immediately.
+- Use only microwave-safe containers. For butter softening and chocolate melting, use 10-second increments, stir after every increment, and stop when the required consistency is reached.
 
 ## Classroom Management Reminders
 - Require a recipe check before lab release.
