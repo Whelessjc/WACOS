@@ -14,7 +14,8 @@ Current as of August 26, 2026
 
 ## During Service
 
-- Greet, seat, communicate, and enter orders accurately.
+- Greet guests promptly and support the current self-seating system. Guests choose any available spot; Dining does not assign tables or escort guests to seats.
+- Communicate clearly and enter orders accurately.
 - Follow current beverage, delivery, check-back, clearing, and reset standards.
 - Receive completed orders from Tournant / Expo and deliver them correctly.
 - Use LATTE: Listen, Acknowledge, Take action, Thank, and Ensure satisfaction.
