@@ -175,6 +175,17 @@ Teach the reset through short explanations, demonstrations, kitchen drills, simp
 
 Preserve the planned knife-control progression, but slow, repeat, or simplify the product when attention, sanitation, communication, or workflow breaks down. Readiness is demonstrated through useful action from setup through reset, not assumed from prior Culinary 1 completion.
 
+### August 24-28 Implementation Evidence
+
+This is current-year evidence supporting D012, not adoption of a new permanent opening curriculum.
+
+- Students entered with highly uneven retained experience and could sometimes state safety concepts without demonstrating them consistently.
+- The emerging course distinction is: **Culinary 1 learns the systems. Culinary 2 integrates the systems and makes decisions.**
+- Abstract sensory or mindfulness instruction did not transfer well with this cohort. The orange activity remains a usable lesson option, but this implementation did not produce the intended transfer.
+- Train situational awareness first inside concrete production. Ask: **What do you notice? What does it mean? What needs to happen next?**
+- Recipes are production vehicles through which students integrate fundamentals under pressure. Harder recipes alone do not make Culinary 2 more rigorous.
+- Continue moving from instructor-directed to coached to increasingly student-directed work. Instructor authority over safety, equipment, allergens, food release, and other controlled decisions does not change.
+
 Core skill focus:
 
 - medium dice
