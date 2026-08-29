@@ -2,7 +2,6 @@
 
 ## Highest Priority Instructor Decisions
 - Confirm Bistro cash-drawer starting amounts, till-variance rules, and the final Square outage-recovery entry method. See D006.
-- Finalize the planned five-station Bistro rotation, including names, responsibilities, staffing, and checklist organization, before replacing the current four-team SOP structure.
 - Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
 
 ## Missing Documentation
@@ -25,6 +24,26 @@
 - Decide which archive source packets can be public, private-instructor-only, or retired.
 
 ## Future-Year Development
+
+### August 24-28, 2026 Development Evidence - Not Current Policy
+
+- Five smaller lab teams appeared to improve participation and organization. Three-person teams may be preferable when space allows, but smaller teams may increase dishes and food use. Continue observing before adopting a permanent team-size standard.
+- "Calm station / clear mind / better work" is useful emerging instructional language; continue testing it before promoting it into permanent guidance.
+- The Daily Teaching Guide remains a prototype. One day/one primary working page is a current design hypothesis, not a permanent DTG standard.
+- ChatGPT/Work artifacts need better information density and readability. Exact document-design specifications remain under testing.
+- No permanent third-attempt ServSafe failure pathway has been approved.
+
+### ServSafe/Readiness Administrative Follow-Up - No Policy Adopted
+
+Ask administration what approved pathway applies when a Culinary 1 student repeatedly fails the required ServSafe/readiness assessment after normal instruction and retest opportunities. Confirm:
+
+- whether an outside ServSafe Food Handler course or assessment may be required;
+- whether a no-cost alternative must be provided;
+- whether advance syllabus or parent communication is required;
+- how IEP/504 accommodations or other documented needs affect the pathway; and
+- what instructional participation is appropriate while the readiness requirement remains unmet.
+
+Do not place student-specific disability, discipline, grade, or personally identifiable information in WACOS.
 
 - Collect concise evidence during the 2026-2027 Culinary 2 reset: retained fundamentals, recurring gaps, effective drills, needed repetitions, time to regained independence, and transfer into later production.
 - Review D012 in spring 2027 and decide whether to adopt a two- to four-week common-baseline opening for Culinary 2 in 2027-2028.
