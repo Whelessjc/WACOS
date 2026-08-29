@@ -4,6 +4,8 @@
 - Choose the day application: peanut butter bars, rice cookery, fried rice, or simple stir fry.
 - Prepare recipe copies or display the recipe clearly.
 - Stage ingredients so students can practice shared ingredient stewardship without crowding.
+- For Mystery Mise, stage ten numbered stations in five pairs, a five-team rotation chart, passports, recipe trays, and microwave-safe containers. Assign starting pairs before class.
+- Keep the butter cutting and softening setup under instructor control. Demonstrate 3/8 cup butter (6 tablespoons, 3/4 stick, or 3 ounces), then soften it in 10-second microwave increments, stirring after each increment and repeating only until softened. Students do not cut butter at a station.
 - Stage measuring tools, bowls, pans, pots, rice cookers, saute pans or woks, spatulas, spoons, towels, sanitizer, and dish supplies as needed.
 - Set the dish-flow, towel, trash, floor, and reset expectations before students begin.
 - Decide whether heat work is student-managed, teacher-approved, or teacher-led.
@@ -45,8 +47,16 @@
 - Towel, dish, trash, and cleaning plan are clear.
 - Station is organized enough to begin.
 
+## Mystery Mise Control and Release
+- Five teams complete two stations per round across ten numbered stations.
+- Post the starting pairs and rotation order. Students move only on the instructor signal.
+- Require each written task and passport entry before the station is reset.
+- After all rounds, require the completed passport, organized recipe tray, mise check, and production plan.
+- Release teams to production only after the instructor checkpoint.
+- For the chocolate layer, combine chocolate chips and shortening in a microwave-safe container; microwave for 10 seconds, stir, and repeat in 10-second increments only until melted and smooth.
+
 ## Lab Application Notes
-- Peanut butter bars: emphasize measuring, sequence, shared tools, and dish control.
+- Peanut butter pretzel bars: emphasize measuring, sequence, shared tools, microwave control, and dish control.
 - Rice cookery: emphasize ratio, timing, steam safety, and waiting without opening equipment repeatedly.
 - Fried rice or stir fry: emphasize prep before heat, hot pan awareness, batch work, and order of operations.
 
