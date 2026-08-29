@@ -3,8 +3,8 @@
 ## Day 1: Food Handler Review and Assessment
 - Opening routine: entry, agenda check, huddle, handwashing.
 - Demo or mini-lesson: review safety habits from Week 2.
-- Student work: Food Handler review and questions.
-- Lab/application: sanitation scenario practice.
+- Student work: practical, in-person Food Handler and workplace-safety review stations when they meet the same instructional purpose as a long whole-class question review.
+- Lab/application: students begin at assigned numbered stations, follow the posted rotation order, complete the written task and record, reset the station, and rotate only on the instructor signal.
 - Cleanup/reset: station and materials reset.
 - Exit check: one safety habit that must continue.
 
@@ -16,12 +16,13 @@
 - Cleanup/reset: return tools, close ingredients, wipe surfaces, and reset tables.
 - Exit check: what should you know before touching ingredients?
 
-## Day 3: Peanut Butter Bars
-- Opening routine: readiness, handwashing, station setup.
-- Demo or mini-lesson: measuring and recipe sequence.
-- Student work: team roles and mise en place.
-- Lab/application: prepare peanut butter bars.
-- Cleanup/reset: dishes, counters, tools, storage, and floor.
+## Day 3: Mystery Mise Measuring Stations and Peanut Butter Pretzel Bars
+- Opening routine: readiness, handwashing, recipe reading, and five-team setup.
+- Whole-group demonstration: the instructor demonstrates how to cut the required butter amount, then softens it in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until softened. Students do not cut butter at a rotation station.
+- Measuring stations: five teams complete two stations per round across ten numbered stations. Confectioners' sugar and chocolate chips are separate recipe stations. Students complete the passport record, reset each station, and rotate only on the instructor signal.
+- Required release sequence: **Measuring stations -> completed student passport and mise record -> instructor checkpoint -> release to peanut butter pretzel bar production.**
+- Production: after release, prepare the bars. Melt the chocolate chips and shortening in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until melted and smooth.
+- Cleanup/reset: dishes, counters, tools, storage, microwave area, and floor.
 - Exit check: what step did mise en place make easier?
 
 ## Day 4: Rice Cookery and Ratios
