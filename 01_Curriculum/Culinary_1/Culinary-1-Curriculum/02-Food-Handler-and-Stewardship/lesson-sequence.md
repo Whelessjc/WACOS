@@ -16,11 +16,12 @@
 - Cleanup/reset: full dish system and station reset.
 - Exit check: explain one difference between washing and sanitizing.
 
-## Day 3: Cross-Contamination, and Storage
-- Opening routine: agenda check and safety reminder.
-- Demo or mini-lesson: cutting boards, storage order, clean tools.
-- Lab/application: bake brownies while maintaining clean stations.
-- Cleanup/reset: counters sanitized, tools returned, storage checked.
+## Day 3: Cross-Contamination, Storage, and Product Stewardship
+- Opening routine: agenda check, safety reminder, and approved product plan.
+- Demo or mini-lesson: cutting boards, storage order, clean tools, portion plan, approved destination, and professional handling. Food in the Culinary kitchen has an instructor-approved purpose; availability is not permission.
+- Lab/application: bake, portion, package, distribute, or store brownies according to the instructor-approved plan while maintaining clean stations.
+- Stewardship check: compare expected product or ingredient inventory with what is actually present, identify any difference, and report it to the instructor. Do not invent controls or consequences.
+- Cleanup/reset: counters sanitized, tools returned, product and ingredients stored as directed, storage checked.
 
 ## Day 4: Time, Temperature, and Thermometers
 - Opening routine: huddle with thermometer purpose.
