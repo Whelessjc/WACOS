@@ -79,6 +79,9 @@ Before the chicken breast temperature lab, confirm:
 - "Sanitize after cleaning, not instead of cleaning."
 - "Temperature is evidence."
 - "Stewardship means taking care of the shared kitchen."
+- "Food in this kitchen has an instructor-approved purpose. Availability is not permission."
+- "Small amounts still affect inventory, production, trust, and the professional operation."
+- "Expected inventory -> actual inventory -> identify the difference -> report."
 - "Just because you made it does not mean you made it for yourself."
 - "In Culinary, we are usually cooking for someone else."
 - "Do the job so the next group can trust the station."
@@ -92,6 +95,11 @@ Before the chicken breast temperature lab, confirm:
 - Clean thermometer probes before and after use.
 - Keep dish, laundry, and floor areas controlled.
 - Follow teacher directions for the three-compartment sink and dish machine.
+
+## Product Stewardship and Integrity
+Small unauthorized consumption or removal of ingredients, produce, beverages, garnishes, baking ingredients, or finished product is pilfering. Teach it as stewardship and integrity rather than merely a rule violation. A small amount can still change inventory, interrupt production, weaken trust, or affect the next class or service.
+
+Use the professional noticing habit: **expected inventory -> actual inventory -> identify the difference -> report**. This reinforces awareness and honest reporting without creating a new inventory-control system or discipline policy.
 
 ## Classroom Management Reminders
 - Assign stewardship jobs early and rotate them fairly.
