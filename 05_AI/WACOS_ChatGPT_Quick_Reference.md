@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: August 27, 2026
+Last updated: August 29, 2026
 
 ## Purpose
 
@@ -108,9 +108,10 @@ One documented deep clean is required each quarter.
 ### Current Teams
 
 - Dining.
+- Barista.
 - Kitchen.
 - Support.
-- Barista.
+- Tournant / Expo.
 
 Management Staff and Service Staff are retired team names. FOH and BOH may be taught as industry vocabulary, but they are not the current WACOS team structure.
 
