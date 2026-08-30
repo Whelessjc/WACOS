@@ -1,38 +1,67 @@
 # Service Standards
 
-Current as of 2026-07. Consolidates the real, currently-taught dining room service standards in one place, so they don't live only inside a single unit's lesson plan.
+Current as of August 29, 2026. Consolidates the instructor-confirmed Bistro hospitality, service, communication, and recovery standards.
 
-## Service vs. Hospitality
+## Service and Hospitality
 
-Service is what you do to someone. Hospitality is how you make someone feel. Both matter; hospitality is the harder, more important one to teach.
+Service is what we do for a guest. Hospitality is how we make the guest feel. Both depend on disciplined systems, awareness, and follow-through.
 
-## The 30-Second Greet
+## Greet First
 
-Greet a seated guest within 30 seconds. Warm, sincere smile, positive attitude, energy. Placing a beverage napkin or coaster at the greet signals to the rest of the team - manager and coworkers included - that the table has been acknowledged. The greet achieves four things: it shows guests we care, sets a positive first impression, allows efficient service, and communicates status to the team.
+The host/hostess is the face of the Bistro. Look up, smile, and greet every arriving student with **“Good morning.”** Do not judge whether someone belongs before greeting. Complete the OnTime and ILT check-in flow only after the welcome.
 
-## Table Setting Standard
+At POS and throughout service, make eye contact, smile, speak clearly, and acknowledge guests promptly.
 
-- Solids from the left, liquids from the right.
-- Plate centered.
-- Napkin in lap.
-- Knife pointing toward the plate.
-- Refill beverages from the right.
+## POS Order Standard
 
-## Serving Guideline: Left, Lower, Leave
+- The Square POS host/cashier calls the guest’s queue number and takes the order.
+- Confirm the order, modifications, and dietary alerts; never guess.
+- Repeat the order back before entering or sending it.
+- Dining service staff do not take seated-table orders.
 
-- **Left**: approach the guest from their left side.
-- **Lower**: gently lower and place the plate.
-- **Leave**: announce the dish ("Please enjoy!") and step back.
+## Queue-Number Standard
 
-Serve with the left hand. Never reach across one guest to serve another.
+- Give an individual queue number only to a guest who is dining or ordering.
+- The number stays with the guest while any Kitchen or Barista item is outstanding.
+- Queue numbers are not transferable.
+- Whenever Dining delivers any item, ask whether the guest needs anything else or is still waiting on Kitchen or Barista.
+- Leave the number if the guest is still waiting; retrieve it promptly when the order is complete.
+- Do not argue over a questionable number. Say **“Let me check on that for you,”** use LATTE, and escalate only as needed.
 
-## Clearing the Table
+## Dining Awareness and Anticipation
 
-- Wait for all guests to finish.
-- Remove used flatware and condiments first.
-- Clear from the right.
-- Don't stack dishes at the table.
-- When picking up plates: fingers pull the base of the plate in toward the palm, just below the thumb; keep plates level so sauces/juices don't run; thumbs and fingers stay off the rim; limit to two plates per trip.
+Dining owns the guest experience after the order enters Square. Continuously scan for:
+
+- low or empty beverages
+- finished plates
+- missing flatware, condiments, or napkins
+- food or trash on the floor
+- guests looking for help
+- guest body language
+- waiting food or drinks
+- queue numbers ready to be returned
+
+Use: **What do you notice? What does it mean? What needs to happen next?** Act before a small need becomes a guest problem.
+
+## Self-Seating and Table Readiness
+
+Guests choose any available seat. Dining does not assign or escort guests to tables. Keep every available table clean, straight, stocked, and ready.
+
+## Table Setting and Serving
+
+- Solids from the left; liquids from the right.
+- Center the plate and place flatware correctly, with the knife blade toward the plate.
+- Approach safely, announce the item, place it carefully, and avoid reaching across guests.
+- Deliver the correct item to the correct guest; do not auction food.
+- Refill beverages from the right when it can be done safely.
+
+## Clearing
+
+- Clear finished items promptly without rushing the guest.
+- Remove used flatware and condiments as appropriate.
+- Clear from the right and do not stack dirty dishes at the table.
+- Keep fingers away from food-contact surfaces and limit loads to safe, controlled quantities.
+- Reset tables, chairs, supplies, and floors for the next guest.
 
 ## Order Shorthand
 
@@ -48,59 +77,52 @@ Serve with the left hand. Never reach across one guest to serve another.
 | Q | Quiche |
 | SOS | Sauce on the side |
 
-Write out any special order in full rather than guessing at a shorthand for it.
+Write any special order or unclear modification in full rather than inventing shorthand.
 
 ## Service Time Benchmarks
 
 | Stage | Target |
 |---|---|
-| Greeting guests | 30 seconds or less |
-| Serving beverages | 2 minutes or less |
-| Serving appetizers/salads | 6-8 minutes |
-| Serving entrees | 10-12 minutes |
-| Serving desserts | 6-8 minutes |
-| Delivering the check | Lunch: with the entree, unless obviously not business-focused - then offer dessert first. Dinner: after guests order dessert, or decline it. |
+| Acknowledge an arriving or waiting guest | Promptly; host greeting occurs before check-in questions |
+| Serve available beverages | 2 minutes or less when production permits |
+| Serve appetizers or salads | 6-8 minutes |
+| Serve entrees | 10-12 minutes |
+| Serve desserts | 6-8 minutes |
 
-## Suggestive Selling
-
-Recommending items to guests - not pushy, informed. Purpose: maximizes guest satisfaction and increases the average check. Depends on product knowledge, effective communication, and knowing which items pair well together.
-
-Do:
-- Mention daily specials with active, descriptive language.
-- Confirm a guest's choice enthusiastically once they've decided.
-- Learn which menu items complement each other.
-- Anticipate needs and suggest add-ons.
-- Reference what's popular or well-loved, honestly.
-
-## Menu Training
-
-Every server should be able to speak to: proper presentation and appearance of a dish, basic cooking procedure, main ingredients, correct pronunciation, and a guest-facing description that doesn't overclaim or ramble.
+Benchmarks guide awareness and early communication. They do not override food safety, correct production, or honest status updates.
 
 ## Guest Recovery: LATTE
 
-Everyone gets a LATTE, even if they do not order one:
+Protect the system, assume good faith, and do not turn recovery into an argument.
 
-- **L - Listen:** give the guest your full attention and do not interrupt.
-- **A - Acknowledge:** recognize the concern and show that it matters.
-- **T - Take action:** correct the ordinary service problem within your assigned authority.
-- **T - Thank:** thank the guest for bringing the concern forward.
-- **E - Ensure satisfaction:** return and confirm that the correction solved the problem.
+- **Listen**: give the guest full attention without interrupting.
+- **Acknowledge**: recognize the concern and its effect.
+- **Take action**: make the student-authorized correction or get the person who can.
+- **Thank**: thank the guest for bringing the concern forward.
+- **Ensure satisfaction**: return and confirm that the response resolved the concern.
 
-Students may act immediately on ordinary service needs such as missing utensils, condiments, napkins, drinks, incomplete table setup, and communicating a missing or incorrect item to the responsible station. Students may carry out replacements already authorized by station procedure. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and complaints that remain unresolved after a reasonable first correction require instructor involvement.
+Students may act immediately on ordinary service needs such as missing utensils, condiments, napkins, drinks, incomplete table setup, and communicating a missing or incorrect item. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remakes, escalating behavior, and unresolved complaints require instructor involvement.
 
+## Restaurant Language in Use
 
-## Restaurant Lingo
+- Expo calls **“Order in”** when a new Kitchen ticket enters production; Barista calls **“Order in: [items]”** for a new Barista ticket.
+- Kitchen and Barista use a **callback** or **“Heard”** to confirm the call.
+- **“Fire the ___”** starts the named item.
+- **All day** is the total currently needed across all active tickets.
+- **On the fly** identifies an urgent priority that must still be completed safely and correctly.
+- **86** means an item is unavailable.
+- **Getting low** warns that stock is nearing a critical level; **backup** requests or identifies replenishment or help.
+- **In the weeds** means a station is falling behind and needs communication or support.
+- A **lowboy** is under-counter refrigerated storage at the line.
+- **Expo** owns Kitchen tickets, calls items, tracks the whole order, verifies quality and completeness, and manages Kitchen-to-Dining handoff.
+- A **ticket** is the printed production record owned by Tournant / Expo for Kitchen or by Barista for Barista production.
 
-86, expo, ticket, fire, all day, FOH/BOH, bus, runner - taught explicitly in Culinary 1 Unit 4, not assumed to be picked up by osmosis.
+## Menu Knowledge and Suggestive Service
+
+Students working POS or serving guests should know the current menu’s main ingredients, preparation, presentation, common modifications, unavailable items, and honest guest-facing description. Recommend items helpfully rather than pushily and never overstate what the team can provide.
 
 ## Pilfering and Product Stewardship
 
-Pilfering means taking something of relatively small value without permission. In Culinary and Bistro work, food has an instructor-approved purpose. **Availability is not permission.**
+Pilfering means taking something of relatively small value without permission. In Culinary and Bistro work, food has an instructor-approved purpose. **Availability is not permission.** Treat unauthorized consumption or removal as stewardship and integrity concerns that affect inventory, production, trust, and professional operation.
 
-Unauthorized consumption or removal of ingredients, produce, beverages, garnishes, baking ingredients, or finished product affects inventory, production, trust, and professional operation even when the amount seems small. Teach and correct this as stewardship and integrity, not merely a rule violation.
-
-Use the professional noticing habit:
-
-**Expected inventory -> actual inventory -> identify the difference -> report.**
-
-This guidance does not create a separate inventory-control system or disciplinary consequence. Instructor judgment and existing school procedures remain unchanged.
+Use: **Expected inventory → actual inventory → identify the difference → report.** Instructor judgment and existing school procedures remain unchanged.

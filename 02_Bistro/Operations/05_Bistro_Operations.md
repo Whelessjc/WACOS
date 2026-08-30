@@ -19,7 +19,7 @@ During Thursday Bistro Prep, students retain their current weekly lab cleaning r
 The Bistro should open only after students have practiced safety, sanitation, dish systems, menu knowledge, roles, stocking, Life of an Order, and mock service. For 2026-2027, Weeks 1-3 build readiness. Week 4 (August 31-September 4) continues Bistro systems, training, and mock service only; there is no soft opening or public service. Friday, September 4 is an early-release day and may be used for additional training while the instructor is out of town. The Bistro opening and first public-service target is Friday, September 11 in Week 5. The instructor retains authority to reduce, postpone, modify, or pause service for readiness and safety. See `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` and `../../00_Core/DECISION_REGISTER.md` (D002).
 
 ## Life of an Order
-The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: each individual ordering receives a queue number upon entry, while non-ordering guests receive no number. Reservations guarantee advance preparation through the Google Form but still require arrival, individual numbering, Square entry, and payment before release. Orders may create Kitchen tickets, Barista tickets, or both. Tournant / Expo anchors Kitchen ticket flow and Kitchen-to-Dining handoff; Barista manages its own active-ticket-holder to completed-ticket-stabber flow. Guests receive LATTE recovery when needed, and the table/station is reset.
+The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: the host greets first and completes OnTime/ILT check-in; ordering guests receive an individual queue number while non-ordering guests receive no number; POS takes and confirms the order; reservations still require arrival, individual numbering, Square entry, and payment; Barista owns Barista tickets and Tournant / Expo owns Kitchen tickets; Kitchen works from Expo calls, callbacks, and physical production cues; Dining owns the guest experience and delivery; LATTE governs recovery; and every station resets its own area while Support protects shared shutdown flow.
 
 ## Bistro Rotations
 
@@ -79,12 +79,17 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 - Timelines posted.
 - Expo ticket holder/stabber and Kitchen-to-Dining handoff area ready.
 - Student leaders know escalation path.
+- OnTime check-in, queue numbers, hall passes, ticket printers, ticket holders, handoff tables, and stabbers ready.
 
 ## During Service
 - Instructor and Teaching Assistant should facilitate, coach, observe, and grade live when possible.
 - Students should not depend on adults to find every spoon, condiment, container, or ingredient.
 - One missed role can break the entire restaurant; students must understand interdependence.
-- Guest recovery is taught explicitly through LATTE: Listen, Acknowledge, Take action, Thank, and Ensure satisfaction. Students act within role authority and involve the instructor for financial, safety, escalating, or unresolved concerns.
+- POS is the order-taking point; Dining service staff do not take seated-table orders.
+- Tournant / Expo owns Kitchen tickets. Kitchen works from calls, callbacks, physical cues, sequencing, and status communication rather than seeing or reading tickets.
+- Dining owns the guest experience after the order enters Square and anticipates needs by continually scanning the room.
+- Guest recovery uses LATTE: Listen, Acknowledge, Take action, Thank, Ensure satisfaction. Protect the system, assume good faith, do not argue, act within role authority, and involve the instructor for financial, safety, escalating, or unresolved concerns.
+- Every station cleans its own station. Support protects dish flow, stewarding, shared cleanliness, and the progressive back-to-front shutdown.
 
 ## Payment and Redemption
 

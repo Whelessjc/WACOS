@@ -85,8 +85,10 @@ Before service:
 
 During service:
 
-- call tickets clearly
-- answer calls clearly
+- Expo owns and reads Kitchen tickets; Kitchen does not see or read them
+- call new Kitchen tickets with **order in** and answer with a callback or **heard**
+- place a physical production cue immediately for each called dish
+- use **fire, all day, on the fly, 86, getting low, backup, in the weeds,** and **lowboy** in real operating context
 - communicate delays early
 - keep station clean
 - protect product quality
@@ -106,7 +108,7 @@ After service:
 
 Common roles:
 
-- expo or caller
+- Tournant / Expo
 - hot station
 - cold station
 - prep support
@@ -122,7 +124,15 @@ Use short, consistent language.
 
 Examples:
 
+- Order in.
 - Heard.
+- Fire the Bodega.
+- All day: four Bodegas, three grits bowls, five waffle bites.
+- On the fly.
+- 86.
+- Getting low.
+- Backup.
+- In the weeds.
 - Working.
 - Two minutes.
 - I need help on this.
@@ -134,6 +144,10 @@ Examples:
 - Corner.
 - Sharp.
 - Hot.
+
+**All day** means the total currently needed across all active tickets. Kitchen works from Expo’s calls, callbacks, physical cues, sequencing, and status communication. Expo tracks the whole order, watches the cooks and cues, verifies quality and completeness, coordinates Kitchen-to-Dining handoff, and moves the ticket to the stabber only after the order leaves Kitchen.
+
+Expo is the home base of the Tournant / Expo team. One trained Tournant remains on Expo during active Kitchen ticket flow. Other trained Tournant students deploy through **Expo → Kitchen → Dining → Barista → Support → Expo** using **Scan → Identify → Communicate → Act → Reassess**.
 
 ## Service Recovery
 
@@ -150,15 +164,15 @@ Do not let students hide mistakes until the ticket fails.
 
 ## Guest Recovery (LATTE)
 
-Service Recovery above is for internal kitchen/station problems. When a guest brings a concern directly, students use LATTE:
+Service Recovery above is for internal kitchen/station problems. When a guest raises a concern, students protect the system, assume good faith, avoid an argument, and use LATTE:
 
-- **Listen**
-- **Acknowledge**
-- **Take action**
-- **Thank**
-- **Ensure satisfaction**
+- **Listen** - give the guest full attention without interrupting.
+- **Acknowledge** - recognize the concern and its effect.
+- **Take action** - make the student-authorized correction or get the person who can.
+- **Thank** - thank the guest for bringing the concern forward.
+- **Ensure satisfaction** - check back and confirm that the response resolved the concern.
 
-Students correct ordinary service problems within assigned authority and check back with the guest. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and unresolved complaints require instructor involvement.
+For a questionable queue-number situation, use **“Let me check on that for you.”** Students correct ordinary service problems within assigned authority and check back with the guest. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and unresolved complaints require instructor involvement.
 
 ## What to Assess During Bistro
 

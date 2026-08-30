@@ -129,11 +129,12 @@ Use current [Bistro Operations](../02_Bistro/Operations/05_Bistro_Operations.md)
 - Walk the room.
 - Verify sinks, sanitizer, stations, equipment, and coolers.
 - Confirm labels, holding, recipes, and service supplies.
-- Print reservations or queue sheets as currently required.
+- Stage OnTime check-in, queue numbers, sign-out, and hall passes for the current ILT guest flow.
 - Open Square and other approved external service systems.
 - Confirm cash and check payment types and the `PBIS Incentive` and `Bistro Coin` comp reasons are available.
 - Confirm the backup receipt system is ready.
 - Brief roles, menu, guest flow, standards, and escalation paths.
+- Confirm POS, Barista, and Kitchen ticket printers; Barista ticket holder and handoff; Expo station and stabber; physical Kitchen cues; and Dining handoff routes.
 
 ### During Service
 
@@ -141,11 +142,12 @@ Use current [Bistro Operations](../02_Bistro/Operations/05_Bistro_Operations.md)
 - Coach and observe.
 - Capture live assessment evidence.
 - Maintain food safety, quality, communication, and hospitality standards.
-- Handle guest recovery using the current HEARD method.
+- Protect POS-only order-taking, Tournant / Expo and Barista ticket ownership, Kitchen calls and physical cues, Dining anticipation and queue-number retrieval, and progressive Support shutdown.
+- Handle guest recovery using LATTE: Listen, Acknowledge, Take action, Thank, Ensure satisfaction.
 
 ### Close
 
-- Complete the full kitchen, dish-area, dining, support, and Barista close.
+- Complete the full Dining, Barista, Kitchen, Support, and Tournant / Expo close.
 - Close all Square tickets and confirm payment and comp types.
 - Count and secure cash and checks; confirm checks are payable to WAHS.
 - Download the detailed Square transactions report.

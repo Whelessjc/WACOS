@@ -28,6 +28,22 @@
 - Updated durable SOPs and current curriculum, assessment, AI, administration, workflow, decision, and traceability guidance.
 - Preserved LATTE, safety/equipment authority, and instructor/Teaching Assistant financial controls.
 
+## 2026-08-29 - Adopt Instructor-Confirmed Bistro Operating Workflow
+
+### Program Decision
+
+- Adopted the instructor-confirmed host/OnTime/ILT check-in flow, POS-only order-taking, nontransferable queue-number control, and Dining ownership of the guest experience after Square entry.
+- Replaced HEARD with LATTE for guest-facing recovery while preserving “Heard” as an operational callback; established the stance to protect the system, assume good faith, and avoid arguing with guests.
+- Established Barista ownership of Barista tickets through grouped handoff and Tournant / Expo ownership of Kitchen tickets. Kitchen now works from Expo calls, callbacks, physical production cues, sequencing, and status communication rather than seeing or reading tickets.
+- Defined Expo calls and whole-order responsibilities, including **order in, fire, all day, on the fly, 86, getting low, backup, in the weeds,** and **lowboy**.
+- Clarified that each station cleans its own area while Support owns stewarding, dish flow, shared operational cleanliness, and progressive back-to-front shutdown.
+- Added the Tournant / Expo rotation with Expo as home base, continuous trained Expo coverage during active Kitchen ticket flow, **Expo → Kitchen → Dining → Barista → Support → Expo**, and **Scan → Identify → Communicate → Act → Reassess**.
+
+### Implementation
+
+- Updated the Core Manual, Decision Register, Glossary, traceability record, Bistro Operations, Life of an Order, team SOPs, Service Standards, leadership guide, Bistro Integration Guide, Weekly Teacher Workflow, affected current Culinary 1 Bistro training sources, Bistro indexes, and ChatGPT Quick Reference.
+- Updated `02_Bistro/SOPs/Tournant_Rotation_SOP.md` as the durable Tournant / Expo team and Expo ticket-ownership source.
+- Removed conflicting seated-table order-taking, unresolved queue-flow, Kitchen-ticket-reading, and HEARD guest-recovery guidance from current authorities.
 
 ## 2026-08-23 - Add Weekly Professional-Language Planning
 

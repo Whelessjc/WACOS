@@ -26,9 +26,9 @@ This folder contains current Bistro operating materials.
 
 The Bistro is the central instructional model for West Ashley Culinary. Bistro documents must protect safety, learning, hospitality, service flow, and student responsibility.
 
-## Caution
+## Confirmation Boundary
 
-POS, payment, reservation, customer, and cash-handling procedures require current instructor/admin confirmation before being treated as official.
+Use the current SOPs for the instructor-confirmed host/OnTime/ILT check-in, queue-number, POS order-taking, ticket, handoff, Dining, recovery, Support, and Tournant / Expo procedures. Payment, refund, comp, cash-handling, and other administrative controls remain subject to the current instructor/admin-confirmed workflow.
 
 ## Current SOP Set
 

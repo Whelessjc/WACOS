@@ -34,7 +34,7 @@ Students debrief the mock service, retrain stations, clarify roles, practice tic
 
 ### Wednesday: Ticket Flow and Communication Standards
 - Opening: call-back practice.
-- Mini-lesson/demo: clear ticket language, expo communication, and respectful corrections.
+- Mini-lesson/demo: Expo ownership of Kitchen tickets, clear calls and callbacks, physical production cues, Barista ticket handoff, and respectful corrections.
 - Student work: practice ticket scenarios.
 - Application: mock service 2.0 with a planned reset pause.
 - Prompt: "What phrase helped the team stay organized?"
@@ -113,7 +113,7 @@ Skills practiced:
 
 Suggested roles:
 - Station lead: owns role clarity and tools
-- Ticket/expo lead: watches ticket movement
+- Tournant / Expo: owns Kitchen tickets, watches production cues and order status, and coordinates Kitchen-to-Dining handoff
 - Prep lead: checks prep list completion
 - Guest/service lead: watches guest experience
 - Steward: leads dish, towels, trash, floors, and final reset

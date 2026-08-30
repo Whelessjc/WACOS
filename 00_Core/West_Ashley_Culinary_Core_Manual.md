@@ -306,7 +306,7 @@ Students set the station before work begins. Tools, product, recipes, timelines,
 
 ### Communication
 
-Students use professional kitchen language and clear service communication. They practice calls such as behind, corner, hot, sharp, heard, and walking in. They speak with purpose, listen for confirmation, and report problems early.
+Students use professional kitchen language and clear service communication. They practice calls such as behind, corner, hot, sharp, order in, heard, fire, all day, on the fly, 86, getting low, backup, in the weeds, lowboy, and walking in. They speak with purpose, listen for confirmation, and report problems early. “Heard” is an operational callback confirming that a call was received and understood.
 
 ### Awareness
 
@@ -368,7 +368,7 @@ Speaking is part of leadership because leadership requires articulation.
 
 ### Guest Recovery
 
-Guest issues are handled through the Bistro LATTE process: Listen, Acknowledge, Take action, Thank, and Ensure satisfaction. Students are expected to correct ordinary service problems within their assigned authority and then check back with the guest. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and complaints that remain unresolved after a reasonable first correction require instructor involvement.
+Guest issues are handled through LATTE: Listen without interrupting, Acknowledge the concern and its effect, Take the student-authorized action or get the person who can, Thank the guest for speaking up, and Ensure satisfaction by checking back. Students protect the operating system, assume good faith, and do not turn recovery into an argument. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and complaints that remain unresolved after a reasonable first correction require instructor involvement.
 
 ---
 
@@ -422,13 +422,14 @@ The program uses a readiness-based launch model. For 2026-2027, Weeks 1-3 build 
 
 Students should understand service as a connected system:
 
-1. Guests check in or enter the service flow.
-2. Guests are seated or assigned a service point.
-3. Orders are taken or called.
-4. The order is fired in the kitchen.
-5. Kitchen, expo, and front-of-house coordinate timing and handoff.
-6. Guest issues are handled calmly and escalated when appropriate.
-7. Tables, dishes, stations, storage, and equipment are reset.
+1. The host greets first, checks ILT participation through OnTime, and assigns a queue number only to an ordering guest.
+2. The Square POS host/cashier calls the number, takes and confirms the order, and enters it; Dining does not take seated-table orders.
+3. Barista owns its production ticket. Tournant / Expo owns and reads Kitchen tickets and calls the items; Kitchen callbacks and places physical production cues rather than reading tickets.
+4. Barista and Kitchen produce with explicit status communication while Expo tracks the whole Kitchen order.
+5. Expo and Barista verify their completed orders and release them to Dining; tickets move to the stabber only after their completed order leaves the station.
+6. Dining owns the guest experience after Square entry, delivers available items without unnecessarily waiting for other stations, anticipates needs, and retrieves the queue number only when nothing remains outstanding.
+7. Guest concerns are handled with LATTE, good faith, and appropriate escalation.
+8. Every station cleans its own area while Support protects dish flow and progressively closes shared operations from the back forward.
 
 ### Interdependence
 
@@ -438,9 +439,9 @@ The Bistro should teach this directly. Students are not only completing individu
 
 ### Role Rotation
 
-Students should rotate through back-of-house, front-of-house, support, and leadership roles. Rotation helps students understand the whole operation and prevents them from defining culinary skill too narrowly.
+Students should rotate through the five current teams—Dining, Barista, Kitchen, Support, and Tournant / Expo—and authorized leadership responsibilities. Rotation helps students understand the whole operation and prevents them from defining culinary skill too narrowly.
 
-Common roles include prep, hot line, cold station, baking, dish, stewarding, expeditor, host, order support, runner, busser, beverage, customer service, stocking, labels, laundry, trash, sanitizer, Bistro manager, station lead, sanitation lead, and inventory assistant.
+Common roles include prep, hot line, cold station, baking, dish, stewarding, host, POS, runner, busser, beverage, customer service, stocking, labels, laundry, trash, sanitizer, Bistro manager, station lead, sanitation lead, inventory assistant, and trained Tournant / Expo. Expo is the Tournant / Expo team’s home base; one trained Tournant remains on Expo during active Kitchen ticket flow while other trained and authorized team members deploy according to operational need.
 
 ### Bistro Documentation
 

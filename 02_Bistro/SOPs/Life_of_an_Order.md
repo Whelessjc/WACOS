@@ -1,152 +1,98 @@
 # Life of an Order
 
-Current as of 2026-08-26. Source: real Bistro training script, used to teach students the whole operation before they lock into a single station.
+Current as of 2026-08-29. Source: instructor-confirmed Bistro operating workflow.
 
 ## Purpose
 
-Before any student is assigned a station, they need to see how a single order moves through the entire Bistro - from the second a guest walks in to the moment the guest leaves and the operation resets. Understanding a job in isolation misses the point: every role connects to the next one.
-
-This script is written as a talk-track. Deliver it as a conversation - ask the question, wait for students to answer, then add the detail. When possible, physically walk one sample order through the Bistro so students become the system rather than only hearing about it.
+Every Bistro role connects to the next. This walkthrough follows one order from arrival through production, handoff, guest care, and reset so students protect the whole system rather than only their station.
 
 ## The Five Bistro Teams
 
-The current Bistro teams are:
+- **Dining** owns the guest experience.
+- **Barista** owns beverage and pastry production and service.
+- **Kitchen** owns food production.
+- **Support** owns stewarding and operational cleanliness.
+- **Tournant / Expo** owns operational flow, with Expo as the team’s home base and anchor responsibility.
 
-- **Dining** - owns the guest experience.
-- **Barista** - owns beverage and pastry production/service.
-- **Kitchen** - owns food production.
-- **Support** - owns stewarding and operational cleanliness.
-- **Tournant / Expo** - owns the flow of the operation, with Expo as the team's home base and anchor responsibility.
+The same instructional teams carry into service. Each team normally remains in a position for two consecutive services in the shared ten-service cycle.
 
-Every team protects the same guest experience from a different point in the system.
+## 1. Welcome and ILT Check-In
 
-## The Eleven Steps
+The Dining host/hostess is the face of the Bistro. Greet every student first with **“Good morning.”** Do not decide whether the student belongs before greeting.
 
-### 1. Guest Arrival and Queue Number
+1. Ask whether the student is joining the Bistro for ILT.
+2. If yes, have the student scan into OnTime.
+3. If OnTime approves, ask whether the student is dining or just hanging out.
+4. Give an individual queue number only to a guest who is dining or ordering. A non-ordering guest receives no number.
+5. If OnTime denies entry, apologize and wish the student a good day.
 
-A guest arrives. Dining owns this moment.
+Students leaving the ILT space must sign out and take a hall pass. Teachers retain front-of-line priority because they may be using a limited planning period.
 
-The first action is to determine who is ordering. Each individual ordering something receives a queue number upon entry; a person who is not ordering receives no number. Teachers retain front-of-line priority because they may be using a limited planning period.
+Reservations submitted through the current Google Form guarantee advance preparation, not release or payment. Each ordering guest still completes arrival, individual numbering, Square entry, and the current payment process before the prepared order is released.
 
-Reservations are submitted through the current Google Form. A reservation guarantees that the order is prepared for the scheduled arrival, but it is not a Square transaction. Each ordering guest still receives an individual queue number and completes the normal arrival, Square-entry, and payment process before the prepared order is released. The reservation removes the production wait; it does not remove the payment requirement.
+## 2. Guest Finds a Seat
 
-This moment sets the tone - not the food, not the price. The welcome.
+Guests seat themselves at any available spot. Dining does not assign tables or escort guests to a specific seat. Dining keeps the room ready for self-seating: clean tables, straight chairs, clear floors, available service items, and no confusing or unusable spaces.
 
-Ask: Are we looking up? Are the queue numbers organized and accounted for? Are we explaining the system clearly? Are we calm when the line grows?
+## 3. POS Takes the Order
 
-### 2. Guest Finds a Seat
+The Square POS host/cashier calls the queue number, makes eye contact, smiles, greets the guest, takes the order, repeats it back, confirms modifications or dietary alerts without guessing, and enters it into Square. Dining service staff do not take seated-table orders.
 
-Guests seat themselves at any available spot. Dining does **not** assign tables or escort guests to a specific seat.
+The current payment and comp workflow governs transaction completion. Students do not independently make refunds, comps, or financial adjustments outside assigned authority.
 
-Dining's responsibility is to make sure the dining room is ready for self-seating: clean tables, straight chairs, utensils and service items ready, and no confusing or unusable spaces.
+## 4. Tickets Enter Production
 
-Those conditions depend on Dining, Support, and the rest of the operation having done their opening work.
+An order may create a Barista ticket, a Kitchen ticket, or both.
 
-Every station connects to the next.
+- The Barista ticket prints on the small table between POS and Barista. Barista retrieves it, calls **“Order in: [items],”** receives callbacks, and places the active ticket on the Barista holder.
+- Tournant / Expo owns and reads Kitchen tickets. Kitchen does not see or read them. Expo calls the items; Kitchen callbacks with **“Heard”** and immediately places a physical production cue for each dish, such as its plate, pan, vessel, or key food component.
 
-### 3. Server Approach
+## 5. Production and Communication
 
-The server approaches the guest after the guest has chosen an available seat. What matters: eye contact, voice, confidence, menu knowledge, and awareness of the guest.
+Kitchen works from Expo’s calls, callbacks, physical cues, sequencing, and status communication. Expo watches the cooks and cues and uses **order in, fire, all day, on the fly, 86, getting low, backup, in the weeds,** and **lowboy** in real operating context.
 
-Rushing this part or not knowing the menu breaks the guest's confidence immediately.
+**All day** means the total currently needed across all active tickets. Example: **“All day: four Bodegas, three grits bowls, five waffle bites.”**
 
-### 4. Taking the Order, Square Entry, and Payment
+Barista prepares the complete Barista order from its active ticket. Barista does not wait on Kitchen except for true delivery orders.
 
-The order is taken. The server repeats it back, records modifications clearly, and confirms what the guest actually wants.
+## 6. Quality Check and Handoff
 
-The order is entered into Square using the current service workflow. The actual payment type is recorded as required before the prepared order is released. Approved PBIS incentives and Bistro coins follow the current comp workflow. Students do not independently make refunds, comps, or other financial adjustments outside their assigned authority.
+Tournant / Expo tracks the whole Kitchen order, verifies completeness, accuracy, quality, and presentation, and coordinates Kitchen-to-Dining handoff. The Kitchen ticket moves to the stabber only after the completed order leaves Kitchen.
 
-Getting this step wrong ripples forward - wrong food, wrong drink, wasted time, inaccurate records, a stressed kitchen, and an unhappy guest.
+When the Barista order is complete, Barista groups all its items together, places the ticket with them on the handoff table, calls the order ready, and releases it to Dining. The Barista ticket moves to the stabber only after the order leaves Barista.
 
-### 5. Tickets Enter Production
+Dine-in and takeout guests may receive beverages or pastries while hot food is still working.
 
-The order may create a Kitchen ticket, a Barista ticket, or both.
+## 7. Dining Delivers and Anticipates
 
-**Tournant / Expo** anchors the Kitchen ticket flow. Expo keeps each active Kitchen ticket on the ticket holder until the complete order leaves the Kitchen, then places the completed ticket on the ticket stabber.
+Dining owns the guest experience after the order enters Square. Dining delivers each available item accurately and continuously scans for low or empty beverages, finished plates, missing flatware, condiments or napkins, food or trash on the floor, guests looking for help, guest body language, waiting food or drinks, and queue numbers ready to be returned.
 
-**Barista** follows the same active-ticket-holder to completed-ticket-stabber sequence for Barista orders.
+After delivering any item, ask whether the guest needs anything else or is still waiting on Kitchen or Barista. Leave the queue number if anything remains outstanding; retrieve it promptly when the order is complete. Queue numbers are not transferable.
 
-Where the ticket goes, the order in which it is worked, and the communication between stations protect the flow.
+Use: **What do you notice? What does it mean? What needs to happen next?**
 
-### 6. Production
+## 8. Recover Without Arguing
 
-Kitchen owns food production. Barista owns beverage and pastry production.
+For a questionable queue-number situation or another guest concern, protect the system, assume good faith, and do not argue. Say **“Let me check on that for you,”** and use LATTE: **Listen, Acknowledge, Take action, Thank, Ensure satisfaction.**
 
-What matters: mise en place, timing, temperature and quality controls where required, communication, station organization, and staying calm under pressure.
+Students correct ordinary service problems within assigned authority. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remakes, escalating behavior, and unresolved complaints require instructor involvement.
 
-If one station is slow, disorganized, or silent, the guest feels it somewhere else in the system.
+## 9. Clear and Thank
 
-### 7. Expo, Quality Check, and Handoff
+Dining clears appropriately, thanks the guest, and resets the table for self-seating. Queue numbers return to their assigned location after the guest has received every Kitchen and Barista item.
 
-Tournant / Expo is the bridge between Kitchen and Dining.
+## 10. Close and Reset
 
-Before food leaves the Kitchen, Expo compares the completed order to the active ticket, checks that the order is complete and presentable, communicates missing or delayed items, and protects the handoff to Dining.
-
-Expo is not a Dining responsibility. It is the anchor responsibility of the Tournant / Expo team.
-
-### 8. Running the Food and Drinks
-
-Dining runs completed orders to the correct guest with confidence. Tournant may assist with running or delivery when the operation needs it.
-
-Right person, right item, no auctioning the food. Announce the item appropriately and protect the guest experience during the handoff.
-
-### 9. Check Back and Guest Care
-
-Dining checks back, handles ordinary service needs, and communicates missing items or problems.
-
-Use LATTE for ordinary service recovery within assigned authority: Listen, Acknowledge, Take action, Thank, Ensure satisfaction.
-
-Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalating behavior, and unresolved complaints require instructor involvement.
-
-### 10. Clearing, Thank You, and Guest Departure
-
-When the guest is finished, Dining clears appropriately, thanks the guest, and resets the table so the next guest can self-seat there.
-
-The financial transaction has already been handled through the service workflow; this step is about finishing the hospitality experience correctly.
-
-### 11. Support, Dishes, and Reset
-
-Everything returns through Support: scrape/presort, wash, rinse/sanitize as applicable, air dry, return clean equipment, maintain floors/counters/laundry, and keep the operation moving.
-
-The next guest's experience begins with the previous guest's reset.
-
-Full circle.
+Every station cleans and closes its own station. Support protects dish flow and shared operational cleanliness while progressively closing the kitchen from the back forward. Food is stored, labeled, and date marked; equipment and wares move through the correct cleaning flow; and the operation is left ready for the next service.
 
 ## Tournant / Expo Operating Loop
 
-Tournant / Expo has a home base but must see the whole operation.
+One trained Tournant remains responsible for Expo/pass during active Kitchen ticket flow. Other trained and authorized Tournant students deploy according to need through:
 
-Use the loop:
+**Expo → Kitchen → Dining → Barista → Support → Expo**
 
-**Expo -> Kitchen -> Dining -> Barista -> Support -> Expo**
-
-Ask:
-
-- What do you notice?
-- What does it mean?
-- What needs to happen next?
-
-One Tournant student keeps Expo covered while other Tournant students may cover absences, run/deliver, retrieve supplies, support a bottleneck, restock/reset, or cross-train within existing training and authorization boundaries.
-
-**Standby does not mean standing around.**
+Use: **Scan → Identify → Communicate → Act → Reassess.**
 
 ## The Point
 
-Every step matters. If one part is weak, the whole system feels it. Students do not just work a station - they protect the flow.
-
-This is hospitality. Not just cooking. Not just cleaning. Taking care of people through systems.
-
-## Recommended Training Close
-
-Physically run one sample order through all five teams.
-
-Then ask:
-
-**Where could this order break?**
-
-Have students identify at least one failure point for Dining, Barista, Kitchen, Support, and Tournant / Expo, and explain how that failure would affect the guest or another station.
-
-
-## Current Expo Ownership
-
-Tournant / Expo owns the pass and active kitchen ticket holder. Each active ticket remains on the holder until the completed order leaves the kitchen; it then moves to the completed-ticket stabber. Tournant / Expo coordinates Kitchen-to-Dining handoff. Dining receives and delivers the completed order.
+Hospitality is taking care of people through dependable systems. Greet first, communicate clearly, anticipate needs, complete every handoff, recover calmly, and reset the operation.

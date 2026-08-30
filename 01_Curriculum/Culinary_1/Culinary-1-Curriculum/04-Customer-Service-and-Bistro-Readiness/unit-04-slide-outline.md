@@ -40,10 +40,10 @@
 - Stewardship belongs to every role
 
 ## Slide 7: Ticket Flow
-- Read the ticket
-- Send it to the right place
-- Call back key information
-- Keep tickets visible
+- Barista retrieves and owns the Barista ticket
+- Expo reads and owns the Kitchen ticket
+- Expo calls the order; Kitchen callbacks and places a physical cue
+- Keep active tickets controlled by their owning station
 
 ## Slide 8: Expo
 - Organizes food before it leaves

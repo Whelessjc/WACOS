@@ -75,4 +75,4 @@ When an operational decision changes, update both the Current Program Decisions 
 
 When a subordinate SOP, recipe bank, grading tool, or AI assistant is created, cite the relevant Core Manual section in that document.
 
-| Five-team Bistro structure | Instructor-confirmed 2026-08-26 decision | Dining, Barista, Kitchen, Support, and Tournant / Expo; two services per position; shared ten-service cycle; Thursday weekly lab jobs retained; Friday Bistro positions govern |
+| Five-team Bistro structure and operating workflow | Instructor-confirmed 2026-08-26 and 2026-08-29 decisions | Dining, Barista, Kitchen, Support, and Tournant / Expo; two services per position; shared ten-service cycle; host/OnTime/ILT check-in; POS-only order-taking; queue-number control; Barista and Expo ticket ownership; Kitchen call-and-cue production; Dining anticipation; LATTE; progressive Support shutdown; Thursday weekly lab jobs retained; Friday Bistro positions govern |

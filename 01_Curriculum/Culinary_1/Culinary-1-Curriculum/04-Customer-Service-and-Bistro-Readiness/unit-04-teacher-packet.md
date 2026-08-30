@@ -34,7 +34,7 @@ Students learn the Life of an Order from guest arrival to farewell. The week is 
 
 ### Wednesday: Ticket Flow and Mock Service
 - Opening: agenda check and communication practice.
-- Mini-lesson/demo: reading tickets, call-backs, expo basics, and respectful corrections.
+- Mini-lesson/demo: Expo reading and calling Kitchen tickets, Kitchen callbacks and physical production cues, Barista ticket flow, and respectful corrections.
 - Student work: practice ticket language.
 - Application: mock service with simple orders.
 - Prompt: "What phrase helped the order keep moving?"
@@ -114,7 +114,7 @@ Skills practiced:
 
 Suggested roles:
 - Host/greeter: welcomes guest and starts the order path
-- Order taker: records the order clearly
+- POS order taker: calls the queue number, greets, takes and confirms the order, and enters it in Square
 - Cook/station worker: completes assigned station task
 - Expo: checks and organizes orders before they leave
 - Runner/clearer: runs food, checks back, clears, and supports reset

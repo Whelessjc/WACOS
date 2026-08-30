@@ -131,6 +131,16 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 - Student-name Anki cards are a Week 1 task, not a pre-arrival task, and student data stays in approved systems.
 - A Teacher Assistant supports the program in 2026-2027 within the boundaries in `07_Administration/15_Teacher_Assistant_Onboarding.md`; the role is not a co-teacher.
 
+### Current Guest and Order Flow
+
+- The host greets first with “Good morning,” asks about Bistro ILT, and uses OnTime before assigning a queue number.
+- Ordering guests receive a nontransferable queue number; non-ordering guests do not. The number stays with the guest until all Kitchen and Barista items are received.
+- The Square POS host/cashier takes and confirms every order. Dining does not take seated-table orders.
+- Barista owns Barista tickets through grouped handoff. Tournant / Expo owns and reads Kitchen tickets; Kitchen works from Expo calls, callbacks, physical production cues, sequencing, and status communication.
+- Dining owns the guest experience after the order enters Square and continuously anticipates needs.
+- Every station cleans its own station. Support owns stewarding, dish flow, shared operational cleanliness, and progressive back-to-front shutdown.
+- Expo is the home base and anchor responsibility of the Tournant / Expo team.
+
 ### Guest Recovery
 
 Use **LATTE** for guest-facing recovery:
@@ -141,7 +151,7 @@ Use **LATTE** for guest-facing recovery:
 - Thank.
 - Ensure satisfaction.
 
-Students involve the instructor for refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalation, or unresolved complaints.
+Protect the system, assume good faith, and do not argue. “Heard” remains an operational callback, not the guest-recovery acronym. Students involve the instructor for refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalation, or unresolved complaints.
 
 ### Payments and Deposits
 
@@ -270,6 +280,7 @@ For an existing WACOS recipe, begin with `04_Recipes/Recipe_Bank/README.md` and 
 | Weekly instructor workflow | `09_Workflows/Weekly_Teacher_Workflow.md` |
 | Recurring instructor checklists | `09_Workflows/Instructor_Recurring_Checklists.md` |
 | Bistro operations | `02_Bistro/Operations/05_Bistro_Operations.md` |
+| Bistro guest/order flow and team SOPs | `02_Bistro/SOPs/Life_of_an_Order.md` and `02_Bistro/SOPs/README.md` |
 | Bistro payments and deposits | `02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md` |
 | Assessment system | `03_Assessment/06_Assessment_System.md` |
 | Existing recipe retrieval | `04_Recipes/Recipe_Bank/README.md` and the relevant Markdown category file |

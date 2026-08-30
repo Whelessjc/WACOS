@@ -53,7 +53,7 @@ Bistro service is not just cooking. It is a team system. Guests notice how we co
 1. Guest arrives.
 2. Guest is greeted.
 3. Order is taken.
-4. Ticket moves to the correct station.
+4. Barista retrieves its ticket; Expo owns and calls the Kitchen ticket.
 5. Food is prepared.
 6. Expo checks the order.
 7. Food is run or handed off.

@@ -5,17 +5,17 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 ## Day 1: Labor Day - No School
 - No student instruction. Move the Week 4 debrief into Day 2's opening huddle.
 
-## Day 2: Week 4 Debrief, LATTE, and Side Work
+## Day 2: Week 4 Debrief, LATTE, and Station Ownership
 - Opening routine: debrief Week 4 with facts, not blame; name one strength, one guest-impact issue, and one station problem before moving into role focus.
-- Demo or mini-lesson: the LATTE method for guest recovery - Listen, Acknowledge, Take action, Thank, and Ensure satisfaction. Walk through two real scenarios: a guest who received the wrong order after a long wait, and a guest who found a hair in their food. For each, work through what to say at every LATTE step. Cover dietary restrictions: flag them to the kitchen immediately and never guess. Brief, direct note on pilfering (taking small amounts of food/supplies without permission) as a trust and integrity issue, not just a rule.
-- Student work: in pairs, script a LATTE response to each scenario; review the appropriate side-work checklist for your station (Dining, Barista, Kitchen, Support, or Tournant / Expo) and identify one task you weren't already doing.
+- Demo or mini-lesson: LATTE for guest concerns—Listen, Acknowledge, Take action, Thank, Ensure satisfaction. Protect the system, assume good faith, do not argue, and use “Let me check on that for you” when a queue-number situation is questionable. Cover dietary restrictions: flag them immediately and never guess. Reinforce that every station cleans its own station and Support is not everyone else’s cleaning crew.
+- Student work: in pairs, script a LATTE response to each scenario; review the current Dining, Barista, Kitchen, Support, or Tournant / Expo SOP and identify one responsibility that protects another team’s flow.
 - Lab/application: station setup, task rehearsal, and reset practice.
 - Cleanup/reset: station inspection for tools, sanitizer, towels, trash, and floor.
-- Exit check: what does each letter in LATTE stand for, and why does checking satisfaction matter?
+- Exit check: what does each letter in LATTE stand for, and how does “Ensure satisfaction” close the recovery loop?
 
 ## Day 3: Practice Round and Expo
 - Opening routine: call-back practice.
-- Demo or mini-lesson: split the class - half preps service, half preps food. Demonstrate and explain the expo role specifically (the person who checks food before it leaves the kitchen, calls tickets, and coordinates timing).
+- Demo or mini-lesson: split the class—half preps service, half preps food. Demonstrate Expo ownership of Kitchen tickets, order-in calls, Kitchen callbacks, immediate physical production cues, all-day counts, whole-order checks, handoff, and stabbing the ticket only after the order leaves Kitchen.
 - Student work: practice ticket scenarios with call-backs and "heard."
 - Lab/application: practice round - one team runs food prep (including a successful griddle pancake run), the other runs service; mock ordering off the real menu, with every student rotating through at least one station they haven't worked yet.
 - Cleanup/reset: dish, counter, station, service area, and floor reset.
@@ -25,13 +25,13 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Opening routine: prep huddle.
 - Demo or mini-lesson: suggestive selling - what it is (recommending items to guests), why it matters (guest satisfaction and average check), and how it works (product knowledge, effective communication, knowing what pairs well, suggesting add-ons). Menu training basics: proper presentation, appearance, pronunciation, and description of menu items.
 - Student work: practice describing two real menu items using suggestive-selling language; practice pronunciation of any less-familiar menu terms.
-- Lab/application: full Mock Service Day - greet and seat guests, share the menu (QR code if available), practice suggestive selling, take orders, deliver mock plates, check on guests. Guests complete a paper peer-evaluation rubric together as a table group. Calculate the total check including an 11% tax rate; guests calculate a 20% tip and the final total.
+- Lab/application: full Mock Service Day—practice host/OnTime/ILT check-in, ordering-guest queue numbers, POS order-taking, Expo and Barista ticket ownership, Kitchen calls and physical cues, Dining delivery and anticipation, queue-number retrieval, and LATTE recovery. Guests complete the existing peer-evaluation and check-calculation work as directed.
 - Cleanup/reset: label, store, clean, reset.
 - Exit check: what is one thing you said today that used suggestive-selling language on purpose?
 
 ## Day 5: First Normal Public Bistro Service
 - Opening routine: readiness check, huddle, roles confirmed.
-- Demo or mini-lesson: walk through the real Bistro block timing schedule (start class, prep lists, take drink order, serve drinks and take food order, serve food, finish clearing, leave) so students understand the actual minute-by-minute rhythm of a service block. Review Dining, Barista, Kitchen, Support, and Tournant / Expo and confirm the two-consecutive-service rotation.
+- Demo or mini-lesson: review the current Bistro block sequence from setup through close, including POS-only order-taking, partial Barista delivery while Kitchen food is working, Dining queue-number checks, and progressive Support shutdown. Review Dining, Barista, Kitchen, Support, and Tournant / Expo and confirm the two-consecutive-service rotation.
 - Student work: complete assigned prep or service role under real timing.
 - Lab/application: first normal public Bistro service, subject to instructor readiness and safety authority; service, dish flow, guest awareness, reset, and debrief under controlled menu volume.
 - Cleanup/reset: full room reset before reflection.
