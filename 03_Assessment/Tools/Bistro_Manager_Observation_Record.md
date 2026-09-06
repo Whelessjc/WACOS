@@ -6,14 +6,14 @@
 
 | Student | Rotation | Opening / Readiness | Active Service | Closing / Reset | Brief note | Initials |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
-|  | Dining / Barista / Kitchen / Support / Tournant / Expo |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
 
 **Evidence codes:** E = exceptional evidence · M = meets · C = coaching needed · N = not met · NO = not observed/insufficient evidence
 
@@ -26,4 +26,4 @@ Use the same evidence language regardless of observer or rotation. NO is not fai
 
 ## Five-Team Observation and Support
 
-Current teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. Teams remain in each position for two consecutive services. When observing Tournant / Expo, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+Current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Teams remain in each position for two consecutive services. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.

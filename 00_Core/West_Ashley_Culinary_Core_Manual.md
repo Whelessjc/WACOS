@@ -294,7 +294,11 @@ Students arrive on time, in uniform, with required materials, and ready to work.
 
 Safety governs all work. Students follow knife, heat, equipment, chemical, movement, and emergency procedures. No production goal justifies unsafe work.
 
-Allergen training occurs through ServSafe Food Handler. Outside that credential instruction, allergen situations are handled case by case by the instructor rather than embedded as separate WACOS curriculum, recipe fields, assessment prompts, or operating checklists.
+Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. A student who does not meet these requirements does not enter the kitchen for that day's practical work. The student completes the current handwritten Kitchen Alternate Learning Assignment tied to the Learning Target and, when a lab was missed, also completes the online Culinary Missed Lab / Make-Up Form. The first is in-period learning; the second documents the missed practical experience and initiates the established recovery process. West Ashley Culinary does not routinely recreate missed labs.
+
+A student may enter class ready and later be **Removed from Kitchen Duty** by the instructor when continued participation is inappropriate for that day. Do not call this “firing.” The student completes the alternate assignment, its return reflection, and the missed-lab form when applicable. Instructor judgment governs removal; discipline, parent contact, Employability evidence, and other school responses remain separate decisions.
+
+Allergen response is operationally **STOP → COMMUNICATE CLEARLY → DO NOT GUESS → PREVENT CROSS-CONTACT → INVOLVE THE INSTRUCTOR**. Students do not receive independent allergen authority.
 
 ### Sanitation
 
@@ -423,11 +427,11 @@ The program uses a readiness-based launch model. For 2026-2027, Weeks 1-3 build 
 Students should understand service as a connected system:
 
 1. The host greets first, checks ILT participation through OnTime, and assigns a queue number only to an ordering guest.
-2. The Square POS host/cashier calls the number, takes and confirms the order, and enters it; Dining does not take seated-table orders.
-3. Barista owns its production ticket. Tournant / Expo owns and reads Kitchen tickets and calls the items; Kitchen callbacks and places physical production cues rather than reading tickets.
-4. Barista and Kitchen produce with explicit status communication while Expo tracks the whole Kitchen order.
-5. Expo and Barista verify their completed orders and release them to Dining; tickets move to the stabber only after their completed order leaves the station.
-6. Dining owns the guest experience after Square entry, delivers available items without unnecessarily waiting for other stations, anticipates needs, and retrieves the queue number only when nothing remains outstanding.
+2. The Square POS host/cashier calls the number, takes and confirms the order, and enters it; Service does not take seated-table orders.
+3. Barista owns its production ticket. Expo / Floaters owns and reads production tickets and calls the items; Line Cooks call back and place physical production cues rather than reading tickets.
+4. Barista and Line Cooks produce with explicit status communication while Expo tracks the whole food order.
+5. Expo and Barista verify their completed orders and release them to Service; tickets move to the stabber only after their completed order leaves the station.
+6. Service owns the guest experience after Square entry, delivers available items without unnecessarily waiting for other stations, anticipates needs, and retrieves the queue number only when nothing remains outstanding.
 7. Guest concerns are handled with LATTE, good faith, and appropriate escalation.
 8. Every station cleans its own area while Support protects dish flow and progressively closes shared operations from the back forward.
 
@@ -439,9 +443,9 @@ The Bistro should teach this directly. Students are not only completing individu
 
 ### Role Rotation
 
-Students should rotate through the five current teams—Dining, Barista, Kitchen, Support, and Tournant / Expo—and authorized leadership responsibilities. Rotation helps students understand the whole operation and prevents them from defining culinary skill too narrowly.
+Students should rotate through the five current teams—Service, Barista, Line Cooks, Support, and Expo / Floaters—and authorized leadership responsibilities. Rotation helps students understand the whole operation and prevents them from defining culinary skill too narrowly.
 
-Common roles include prep, hot line, cold station, baking, dish, stewarding, host, POS, runner, busser, beverage, customer service, stocking, labels, laundry, trash, sanitizer, Bistro manager, station lead, sanitation lead, inventory assistant, and trained Tournant / Expo. Expo is the Tournant / Expo team’s home base; one trained Tournant remains on Expo during active Kitchen ticket flow while other trained and authorized team members deploy according to operational need.
+Common roles include prep, hot line, cold station, baking, dish, stewarding, host, POS, runner, busser, beverage, customer service, stocking, labels, laundry, trash, sanitizer, Bistro manager, station lead, sanitation lead, inventory assistant, and trained Expo / Floaters. Expo is the Expo / Floaters team’s home base; one trained Floater remains on Expo during active production ticket flow while other trained and authorized team members deploy according to operational need.
 
 ### Bistro Documentation
 
@@ -490,6 +494,8 @@ Employability uses one weekly grade and a paper exception record designed for fa
 ### Formative Assessments and Labs
 
 Formative Assessments and Labs measure developing knowledge and performance through checks for understanding, practice, process, safety, technique, product, station work, teamwork, cleanup, and reflection. They should reward how students learn and work, not only how the final plate looks.
+
+Alternate work may demonstrate knowledge, planning, and Professional Thinking, but paperwork does not fabricate physical-skill evidence. A skill not performed remains not observed unless it is later demonstrated through an authentic instructor-approved opportunity.
 
 ### Summative Assessments: Projects, Tests, and Bistro
 
@@ -599,6 +605,10 @@ Students cannot be held to invisible standards. The instructor should make expec
 
 Brief instruction, demonstration, circulation, live correction, and coaching should drive daily teaching. Students should spend significant time doing culinary work, not only hearing about it.
 
+### Protect the Daily Close
+
+The kitchen does not end the day “mostly clean.” It ends reset. Adult priorities are **SAFE + RESET SPACE → TOMORROW'S READINESS → REQUIRED OPERATIONS → GRADING / DESK WORK**. The final adult walkthrough verifies dish/warewasher completion, surfaces, storage, floors, laundry, sinks, tools/smallwares, coolers, Bistro/special production, and loose product or materials using **LOOK UP → LOOK DOWN → LOOK AROUND → OPEN THE COOLERS**.
+
 ### Build Interruption-Ready Plans
 
 School calendars include testing, field trips, guest speakers, weather, early release, pep rallies, school events, and partner programs. Plans should be modular enough to survive interruption.
@@ -694,6 +704,10 @@ Current preferred certification pathway:
 
 - Culinary 1 emphasizes ServSafe Food Handler.
 - Culinary 2 aligns to Certified Kitchen Cook.
+
+The approved online ServSafe Food Handler course and assessment are the primary Culinary 1 credential-content delivery method. Access is confirmed in Week 1, progress is checked in Week 2, and completion is recorded during Week 3. Students may use the platform's three attempts. Completion is blended: independent by default with limited supervised class access for launch, accommodations, and intervention. Students email certificates to the instructor; student credential information is never stored in public WACOS.
+
+**ServSafe Food Handler = credential knowledge and certification. West Ashley Culinary = repeated safe food-handling performance in a working kitchen.** Culinary 1 develops safe practice; Culinary 2 develops safety fluency while managing workflow, deadlines, communication, quality, and reset. Passing the credential does not by itself establish practical competence.
 
 The National ProStart Certificate of Achievement is no longer part of the program.
 
@@ -878,22 +892,23 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 |---|---|---|
 | 1.0 | 2026-07-03 | Initial Core Manual synthesized from WACOS v2.1, research archive, and current instructor-confirmed decisions. |
 | 1.1 | 2026-08-22 | Added Culinary 1 product stewardship and centralized the ServSafe Food Handler case-by-case safety topic in one governing statement. |
+| 1.2 | 2026-09-06 | Integrated Week 4 decisions for Bistro team names, Kitchen Readiness and removal terminology, online ServSafe delivery, practical-evidence limits, and verified daily kitchen close. |
 
 
 ## Stable Five-Team Bistro Structure — Approved August 26, 2026
 
-The current instructional and Bistro teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. This instructor-confirmed structure replaces the former four-team model. The same five instructional teams carry into Bistro service to reduce confusion and build continuity.
+The current instructional and Bistro teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. This instructor-confirmed structure replaces the former four-team model. The same five instructional teams carry into Bistro service to reduce confusion and build continuity.
 
 Each team remains in one Bistro position for **two consecutive services** before rotating. Service 1 develops familiarity with the position; Service 2 develops improved performance and independence. Five positions across two services form one repeating ten-service cycle shared by Culinary 1 and Culinary 2. The instructor selects the starting assignments for Teams 1–5.
 
 Thursday Bistro Prep does not replace weekly lab responsibilities. Monday through Thursday, students retain their assigned Dishes, Counters & Surfaces, Storage, Floors, or Laundry job while participating in production. Friday Bistro Service is the exception: students operate according to their Bistro position and its Opening, During Service, and Closing responsibilities.
 
-- **Dining owns the guest experience:** host, server, runner, busser, room readiness, guest communication, service, clearing, and reset. Expo is not a Dining responsibility.
+- **Service owns the guest experience:** host, server, runner, busser, room readiness, guest communication, service, clearing, and reset. Expo is not a Service responsibility.
 - **Barista owns beverage and pastry production and service.**
-- **Kitchen owns food production.**
+- **Line Cooks own food production.**
 - **Support owns stewarding and operational cleanliness.**
-- **Tournant / Expo owns operational flow.** Expo is the team’s home base. During active service, one Tournant student remains responsible for Expo/pass while other trained and authorized Tournant students deploy to operational needs.
+- **Expo / Floaters owns operational flow.** Expo is the team’s home base. During active service, one Expo student remains responsible for Expo/pass while other trained and authorized Floaters deploy to operational needs.
 
-Tournant / Expo uses the operating loop **Expo → Kitchen → Dining → Barista → Support → Expo** and the professional-thinking questions **What do you notice? What does it mean? What needs to happen next?** Tournant does not mean standby or free time. Students assist only within existing training, authorization, safety, and instructor-control boundaries.
+Expo / Floaters uses the operating loop **Expo → Line Cooks → Service → Barista → Support → Expo** and the professional-thinking questions **What do you notice? What does it mean? What needs to happen next?** Floater does not mean standby or free time. Students assist only within existing training, authorization, safety, and instructor-control boundaries.
 
 Durable team SOPs use Opening, During Service, and Closing. Current menus, pars, specials, inventories, drink builds, ingredients, and menu-specific mise en place remain in current prep, stock, menu, recipe, and production references. Existing LATTE expectations, instructor escalation, food-safety and equipment authority, and instructor/Teaching Assistant financial controls remain unchanged.

@@ -46,7 +46,7 @@ Square includes comped items in gross item activity because gross sales are calc
 
 1. Use sequentially numbered backup receipts.
 2. Record the order, amount, payment type, and receipt number.
-3. Communicate the order directly to Kitchen and/or Barista.
+3. Communicate the order directly to Line Cooks and/or Barista.
 4. When Square returns, the instructor or Teaching Assistant re-enters every sale individually.
 5. Enter the actual items, correct tender, and backup receipt number; do not enter a lump total.
 6. Prevent duplicate production by marking and communicating that the re-entry is a completed outage transaction.

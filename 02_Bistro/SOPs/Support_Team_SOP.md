@@ -21,7 +21,7 @@ Current as of August 29, 2026.
 - Maintain sanitizer, shared counters and storage, floors, laundry, and trash.
 - Return clean wares and communicate shortages early.
 - Require each station to move its dirty equipment and dishes into dish flow and clean its own work area.
-- Request Tournant / Expo help before a bottleneck develops.
+- Request Expo / Floaters help before a bottleneck develops.
 
 ## Progressive Shutdown
 

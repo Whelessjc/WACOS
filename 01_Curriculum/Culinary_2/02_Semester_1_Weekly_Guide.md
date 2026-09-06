@@ -51,7 +51,7 @@ Every class should have:
 
 **Actual sequence:** re-entry -> knowledge baseline -> knife demonstration/reteach and baseline -> sautéed vegetables over rice.
 
-**Implementation finding:** students needed a knife demonstration/reteach before independent work. Do not assume retained Culinary 1 technique. The planned standalone Bistro/sanitation readiness circuit did not occur; embed sanitizer verification, labels/FIFO, thermometer calibration, dish flow, storage, towels, and reset into authentic production instead.
+**Implementation finding:** students needed a knife demonstration/reteach before independent work. Do not assume retained Culinary 1 technique. The planned standalone Bistro/sanitation readiness circuit did not occur; embed sanitizer verification, labels/FIFO, thermometer calibration, dish flow, storage, towels, and reset into authentic production instead. A later unannounced check found zero students independently completing the full clocked-in, locked-in, phone-parked, notebook-out, pen-out, first-steps-written routine. This is developmental evidence, not a new punitive policy: **knowing the expectation is different from independently executing it.** Train professional routines through **TEACH → DEMONSTRATE → PRACTICE → CHECK → REPEAT → EXPECT FLUENCY**.
 
 Core skill focus:
 

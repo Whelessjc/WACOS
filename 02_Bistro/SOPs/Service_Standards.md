@@ -17,20 +17,20 @@ At POS and throughout service, make eye contact, smile, speak clearly, and ackno
 - The Square POS host/cashier calls the guest’s queue number and takes the order.
 - Confirm the order, modifications, and dietary alerts; never guess.
 - Repeat the order back before entering or sending it.
-- Dining service staff do not take seated-table orders.
+- Service students do not take seated-table orders.
 
 ## Queue-Number Standard
 
 - Give an individual queue number only to a guest who is dining or ordering.
-- The number stays with the guest while any Kitchen or Barista item is outstanding.
+- The number stays with the guest while any food or Barista item is outstanding.
 - Queue numbers are not transferable.
-- Whenever Dining delivers any item, ask whether the guest needs anything else or is still waiting on Kitchen or Barista.
+- Whenever Service delivers any item, ask whether the guest needs anything else or is still waiting on food or Barista items.
 - Leave the number if the guest is still waiting; retrieve it promptly when the order is complete.
 - Do not argue over a questionable number. Say **“Let me check on that for you,”** use LATTE, and escalate only as needed.
 
-## Dining Awareness and Anticipation
+## Service Awareness and Anticipation
 
-Dining owns the guest experience after the order enters Square. Continuously scan for:
+Service owns the guest experience after the order enters Square. Continuously scan for:
 
 - low or empty beverages
 - finished plates
@@ -45,7 +45,7 @@ Use: **What do you notice? What does it mean? What needs to happen next?** Act b
 
 ## Self-Seating and Table Readiness
 
-Guests choose any available seat. Dining does not assign or escort guests to tables. Keep every available table clean, straight, stocked, and ready.
+Guests choose any available seat. Service does not assign or escort guests to tables. Keep every available table clean, straight, stocked, and ready.
 
 ## Table Setting and Serving
 
@@ -105,8 +105,8 @@ Students may act immediately on ordinary service needs such as missing utensils,
 
 ## Restaurant Language in Use
 
-- Expo calls **“Order in”** when a new Kitchen ticket enters production; Barista calls **“Order in: [items]”** for a new Barista ticket.
-- Kitchen and Barista use a **callback** or **“Heard”** to confirm the call.
+- Expo calls **“Order in”** when a new production ticket enters production; Barista calls **“Order in: [items]”** for a new Barista ticket.
+- Line Cooks and Barista use a **callback** or **“Heard”** to confirm the call.
 - **“Fire the ___”** starts the named item.
 - **All day** is the total currently needed across all active tickets.
 - **On the fly** identifies an urgent priority that must still be completed safely and correctly.
@@ -114,8 +114,8 @@ Students may act immediately on ordinary service needs such as missing utensils,
 - **Getting low** warns that stock is nearing a critical level; **backup** requests or identifies replenishment or help.
 - **In the weeds** means a station is falling behind and needs communication or support.
 - A **lowboy** is under-counter refrigerated storage at the line.
-- **Expo** owns Kitchen tickets, calls items, tracks the whole order, verifies quality and completeness, and manages Kitchen-to-Dining handoff.
-- A **ticket** is the printed production record owned by Tournant / Expo for Kitchen or by Barista for Barista production.
+- **Expo** owns production tickets, calls items, tracks the whole order, verifies quality and completeness, and manages Line Cooks-to-Service handoff.
+- A **ticket** is the printed production record owned by Expo / Floaters for food production or by Barista for Barista production.
 
 ## Menu Knowledge and Suggestive Service
 

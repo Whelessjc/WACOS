@@ -10,8 +10,8 @@
 | Culinary 2 | Full-year depth and operations course |
 | Hospitality Work-Based Learning | Application stage after or alongside advanced pathway work |
 | Bistro | Student-led restaurant/service experience |
-| Dining, Barista, Kitchen, Support, Tournant / Expo | The five current instructional and Bistro team names |
-| Tournant / Expo | Current Bistro team that owns operational flow, with Expo as its home base and anchor responsibility |
+| Service, Barista, Line Cooks, Support, Expo / Floaters | The five current instructional and Bistro team names |
+| Expo / Floaters | Current Bistro team that owns operational flow, with Expo as its home base and anchor responsibility |
 | LATTE | Guest recovery method: Listen, Acknowledge, Take action, Thank, Ensure satisfaction |
 | Heard | Operational callback confirming that a call was received and understood; not the guest-recovery method |
 | Food Handler | Culinary 1 credential target unless updated |
@@ -27,7 +27,7 @@
 | Advanced | Avoid as the main description for Culinary 2 unless explaining that the course is deeper, not simply fancier. |
 | Culinary 3 | Use only as informal shorthand; official language should be Hospitality Work-Based Learning until confirmed. |
 | ServSafe Manager | Retired from the current Culinary 2 credential pathway; use CKC instead. |
-| Kitchen + Classroom | Retired public identity phrase; rewrite naturally using current program language. |
-| FOH / BOH, Management Staff, Service Staff | Retired Bistro team labels; use Dining, Barista, Kitchen, Support, and Tournant / Expo instead. FOH/BOH may still be taught as general restaurant-industry lingo, but should not describe the current Bistro team structure. |
+| Line Cooks + Classroom | Retired public identity phrase; rewrite naturally using current program language. |
+| FOH / BOH, Management Staff, Service Staff | Retired Bistro team labels; use Service, Barista, Line Cooks, Support, and Expo / Floaters instead. FOH/BOH may still be taught as general restaurant-industry lingo, but should not describe the current Bistro team structure. |
 | HEARD | Retired as the guest-recovery acronym; use LATTE. “Heard” remains valid as an operational callback. |
 | "Listen, apologize, thank, act" | Retired guest-recovery language; use LATTE instead. |

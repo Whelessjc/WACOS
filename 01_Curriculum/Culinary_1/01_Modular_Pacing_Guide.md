@@ -96,6 +96,8 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 
 **Evidence:** Students locate essential spaces, use communication in context, follow the recipe with support, and complete a reset.
 
+**Credential connection:** Launch the approved online ServSafe Food Handler course and confirm student access. Completion is independent by default, with limited supervised class access for launch, accommodations, and intervention.
+
 **Print plan:** One pancake recipe per group, reused Thursday and Friday. No explanatory slide deck or additional student worksheet is required.
 
 **Detailed plans:** [Week 1 package](Week_01_2026/README.md)
@@ -118,7 +120,7 @@ The spring calendar retains May 17-27 as a buffer for testing, make-up work, por
 
 **Evidence:** Students demonstrate selected procedures at stations. A verbal answer alone does not satisfy a procedural check.
 
-**Credential connection:** Begin ServSafe Food Handler preparation.
+**Credential connection:** Continue the approved online ServSafe Food Handler course and record one progress checkpoint. Culinary instructional time remains focused on applied safety in the working kitchen.
 
 **Fall 2026 integration-lab finding:** Friday's simple chicken lab primarily taught correct thermometer use: probe sanitation, placement, temperature-taking, and verification. It also required students to combine the cumulative knowledge and routines from the preceding seven or eight instructional days, including navigation, verbal communication, safety, three-compartment-sink setup, pre-soaks, dish-machine operation, sanitizer testing, workflow, and clean-as-you-go.
 
@@ -136,7 +138,7 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 **Core learning:**
 
-- Complete Food Handler review and assessment when students are ready.
+- Complete the approved online ServSafe Food Handler course and assessment during Week 3. The platform permits up to three attempts; students email certificates to the instructor, and no student credential data is stored in public WACOS.
 - Identify yield, ingredients, equipment, measurements, action verbs, heat cues, doneness cues, and reset expectations.
 - Identify what the recipe is producing, who or what it is for, the approved portion plan and destination, required handling or storage, and the plan for remaining product.
 - Build practical Equipment Literacy through three physical demonstrations of no more than 10 minutes each: Tuesday covers hotel pans, sheet pans, fitted racks, and perforated pans; Wednesday covers food-storage containers and lid matching; Thursday covers high-use cookware and strainers.
@@ -150,18 +152,20 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 
 ### Week 4 - Life of an Order and Controlled Bistro Practice
 
-**Weekly anchor:** Students can explain and rehearse how a guest request moves through Dining, Barista, Kitchen, Support, and Tournant / Expo work from arrival through reset.
+**Weekly anchor:** Students can explain and rehearse how a guest request moves through Service, Barista, Line Cooks, Support, and Expo / Floaters work from arrival through reset.
 
 **Core learning:**
 
 - Service versus hospitality.
 - Life of an Order: greeting, order information, ticket, production, expo, running, check-back, clearing, dish, and reset.
-- Current team names: Dining, Barista, Kitchen, Support, and Tournant / Expo.
+- Current team names: Service, Barista, Line Cooks, Support, and Expo / Floaters.
 - Basic Bistro language: FOH, BOH, expo, runner, all day, heard, 86, and call-back.
 - Station orientation, side work, stocking, menu awareness, and role practice.
 - Training and mock service only; no soft opening or public service.
 
 **Calendar adjustment:** Fall Friday, Sep 4 is early release and may be used for additional training while the instructor is out of town.
+
+**Actual fall implementation:** Line Cooks and Expo trained together earlier than originally planned because Expo sits between production and Service handoff. Future Week 4 plans may adjust the station-training order rather than hard-locking a team to a particular day. On Friday, students report to their actual starting Bistro positions and complete **OPEN → MOCK SERVICE → CLOSE / RESET**. The adult leading the readiness check captures interventions, unclear duties, broken order flow, repeated questions, and systems requiring Week 5 retraining.
 
 **Evidence:** Role rehearsal, ticket-flow check, menu/space awareness, and reset.
 
@@ -172,6 +176,7 @@ This early application does not move or replace the formal Weeks 16-17 chicken s
 **Core learning:**
 
 - Debrief Week 4 and retrain the weakest system.
+- Use evidence from the Friday mock to target Tuesday/Wednesday retraining before Thursday Prep and Friday opening.
 - Clarify roles, handoffs, call-backs, guest awareness, side work, dish flow, and expo.
 - Reinforce labels, storage, receiving awareness, and station readiness.
 - Practice suggestive selling and menu knowledge only to the depth required for the current menu.
@@ -373,6 +378,6 @@ Grade weights are not established by this pacing guide.
 
 ## Current Five-Team Training and Rotation
 
-Use Dining, Barista, Kitchen, Support, and Tournant / Expo. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+Use Service, Barista, Line Cooks, Support, and Expo / Floaters. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
 
-Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
+Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.

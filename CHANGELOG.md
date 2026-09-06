@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-09-06 - Integrate Week 4 Reflections and Operating Decisions
+
+- Adopted the final Bistro team names: Service, Barista, Line Cooks, Support, and Expo / Floaters; renamed the three affected team SOP files and updated canonical current references without rewriting archives or generated exports.
+- Corrected the actual Week 4 implementation: Line Cooks and Expo trained together, Friday used students' actual starting positions, and the readiness mock follows **OPEN → MOCK SERVICE → CLOSE / RESET** with evidence routed into Week 5 retraining.
+- Clarified position-specific recipe knowledge, digital recipe access, and the permanent-SOP versus service-day-reference architecture.
+- Established daily Kitchen Readiness as ID, proper footwear, notebook, and pen; separated the in-period Alternate Learning Assignment from the online Missed Lab / Make-Up Form; adopted **Removed from Kitchen Duty**; and preserved authentic-performance evidence rules.
+- Shifted primary ServSafe Food Handler credential content to the approved online course/assessment with Week 1 access, Week 2 progress, Week 3 completion, up to three attempts, blended access, emailed certificates, and no public student credential records. Applied safety remains central to Culinary instruction.
+- Protected verified daily kitchen close ahead of routine desk work and added the adult walkthrough and cooler check.
+- Preserved Prototype D, paperwork reduction, TA delegation, Employability language, and Culinary 2 readiness findings at the appropriate governing or developmental level; recorded the repeated-readiness escalation threshold as an administrative question rather than automatic policy.
+
 ## 2026-08-29 - Integrate August 24-28 Weekly Reflection
 
 ### Quick Edits

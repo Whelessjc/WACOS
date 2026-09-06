@@ -1,5 +1,7 @@
 # Lesson Sequence: Food Handler and Stewardship
 
+The approved online ServSafe Food Handler course and assessment provide primary credential-content delivery. Students work independently by default, receive limited supervised class access when needed, and complete one progress checkpoint during this week. Culinary instructional time emphasizes applied food-safety and workplace-safety performance.
+
 ## Day 1: Food Safety and Personal Hygiene
 - Opening routine: entry, uniform/readiness, agenda check, huddle, handwashing.
 - Demo or mini-lesson: why food safety matters and when to wash hands.
@@ -38,3 +40,4 @@
 - Lab/application: station reset challenge or dish-system timed practice.
 - Cleanup/reset: complete full kitchen stewardship sweep.
 - Exit check: name one system the class must keep improving.
+- Credential checkpoint: record online-course progress and identify students who need access, accommodation, or intervention support before Week 3 completion.

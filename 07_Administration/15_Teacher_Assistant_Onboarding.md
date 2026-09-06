@@ -27,7 +27,7 @@ The Teacher Assistant helps the room function and develops instructional skill u
 - Learn uniform/material expectations.
 - Shadow entry, briefing, work period, and closing.
 - Record repeated student questions, unclear directions, missing supports, and routines that need reteaching.
-- Observe Dining, Barista, Kitchen, Support, and Tournant / Expo routines before supporting students within the assigned supervision boundary.
+- Observe Service, Barista, Line Cooks, Support, and Expo / Floaters routines before supporting students within the assigned supervision boundary.
 
 ## Daily Support Tasks
 - Help monitor readiness and materials.
@@ -37,9 +37,12 @@ The Teacher Assistant helps the room function and develops instructional skill u
 - Support live grading evidence collection if assigned.
 - When assigned to Bistro observation, use the [Bistro Observer Calibration Guide](../03_Assessment/Tools/Bistro_Observer_Calibration_Guide.md) and record only the area, students, or stations assigned by the instructor.
 - Help close and reset.
+- Protect the final kitchen close with the instructor before routine desk work. Verify dishes/warewasher, surfaces, storage, floors, laundry, sinks, tools/smallwares, coolers, Bistro/special-production items, and loose product/materials.
 - Report recurring issues to instructor.
 - For actionable items, identify the capture point and report evidence so the instructor can assign the destination, owner, next action, and confirmation.
 - Lead an instructor-approved opening, closure, routine, or micro-lesson when assigned; review the plan before teaching and debrief afterward.
+
+When the instructor is away for Professional Learning or otherwise unavailable for planning/work time, the Teaching Assistant receives a defined priority list covering only authorized work such as kitchen readiness/close, inventory and ordering support, required deposits or paperwork, material preparation, Bistro preparation, operational punch-list items, maintenance follow-up, and organization projects. This does not transfer instructor-only safety, grading, discipline, policy, equipment, allergen, or program decisions.
 
 ## Teacher-in-Training Progression
 
@@ -64,7 +67,7 @@ Escalate immediately for injuries, unsafe equipment, chemical issues, suspected 
 
 ## Five-Team Observation and Support
 
-Current teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. Teams remain in each position for two consecutive services. When observing Tournant / Expo, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+Current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Teams remain in each position for two consecutive services. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
 
 
 The Teaching Assistant helps verify that Expo remains covered during active service. Final financial reconciliation and deposit delivery remain limited to the instructor and Teaching Assistant.

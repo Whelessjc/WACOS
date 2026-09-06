@@ -23,17 +23,17 @@ Current as of August 29, 2026.
 4. Place the active ticket on the Barista ticket holder.
 5. Prepare the complete Barista order from the ticket using current recipes and confirmed modifications.
 6. Group all completed Barista items together and place the ticket with them on the handoff table.
-7. Call the order ready. Dining takes and delivers it.
+7. Call the order ready. Service takes and delivers it.
 8. Move the ticket to the stabber only after the order leaves Barista.
 
-Barista does not wait on Kitchen except for true delivery orders. Dine-in and takeout guests may receive beverages or pastries while hot food is still working.
+Barista does not wait on Line Cooks except for true delivery orders. Dine-in and takeout guests may receive beverages or pastries while hot food is still working.
 
 ## During Service
 
 - Keep active tickets controlled on the holder and the handoff table organized.
 - Work safely, clean as you go, and follow current recipes and quality standards.
 - Communicate **getting low, backup, 86,** delays, modifications, and completed orders early and clearly.
-- Coordinate handoff with Dining and operational status with Tournant / Expo.
+- Coordinate handoff with Service and operational status with Expo / Floaters.
 
 ## Closing
 

@@ -1,12 +1,13 @@
 # Lesson Sequence: Recipe Reading and Mise en Place
 
-## Day 1: Food Handler Review and Assessment
+## Day 1: Applied Safety Check and Online Credential Completion
 - Opening routine: entry, agenda check, huddle, handwashing.
-- Demo or mini-lesson: review safety habits from Week 2.
-- Student work: practical, in-person Food Handler and workplace-safety review stations when they meet the same instructional purpose as a long whole-class question review.
+- Demo or mini-lesson: review safety habits revealed as weak during Week 2 application.
+- Student work: practical, in-person food-safety and workplace-safety stations plus limited supervised online ServSafe access for students who need completion, accommodation, or intervention support.
 - Lab/application: students begin at assigned numbered stations, follow the posted rotation order, complete the written task and record, reset the station, and rotate only on the instructor signal.
 - Cleanup/reset: station and materials reset.
 - Exit check: one safety habit that must continue.
+- Credential record: complete the approved online course and assessment during Week 3, using up to three platform attempts. Students email certificates to the instructor; do not store student credential information in public WACOS.
 
 ## Day 2: Recipe Reading
 - Opening routine: huddle on "read before cooking."

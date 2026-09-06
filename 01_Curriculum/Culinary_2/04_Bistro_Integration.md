@@ -6,7 +6,7 @@ Bistro is applied kitchen training.
 
 ## Teams
 
-Bistro is organized into five teams: **Dining, Barista, Kitchen, Support, and Tournant / Expo.** Culinary 2 students already know these roles from Culinary 1 - use the same names consistently rather than reintroducing new ones.
+Bistro is organized into five teams: **Service, Barista, Line Cooks, Support, and Expo / Floaters.** Culinary 2 students already know these roles from Culinary 1 - use the same names consistently rather than reintroducing new ones.
 
 ## Purpose
 
@@ -85,8 +85,8 @@ Before service:
 
 During service:
 
-- Expo owns and reads Kitchen tickets; Kitchen does not see or read them
-- call new Kitchen tickets with **order in** and answer with a callback or **heard**
+- Expo owns and reads production tickets; Line Cooks do not see or read them
+- call new production tickets with **order in** and answer with a callback or **heard**
 - place a physical production cue immediately for each called dish
 - use **fire, all day, on the fly, 86, getting low, backup, in the weeds,** and **lowboy** in real operating context
 - communicate delays early
@@ -108,7 +108,7 @@ After service:
 
 Common roles:
 
-- Tournant / Expo
+- Expo / Floaters
 - hot station
 - cold station
 - prep support
@@ -145,9 +145,9 @@ Examples:
 - Sharp.
 - Hot.
 
-**All day** means the total currently needed across all active tickets. Kitchen works from Expo’s calls, callbacks, physical cues, sequencing, and status communication. Expo tracks the whole order, watches the cooks and cues, verifies quality and completeness, coordinates Kitchen-to-Dining handoff, and moves the ticket to the stabber only after the order leaves Kitchen.
+**All day** means the total currently needed across all active tickets. Line Cooks work from Expo’s calls, callbacks, physical cues, sequencing, and status communication. Expo tracks the whole order, watches the cooks and cues, verifies quality and completeness, coordinates Line Cooks-to-Service handoff, and moves the ticket to the stabber only after the order leaves the line.
 
-Expo is the home base of the Tournant / Expo team. One trained Tournant remains on Expo during active Kitchen ticket flow. Other trained Tournant students deploy through **Expo → Kitchen → Dining → Barista → Support → Expo** using **Scan → Identify → Communicate → Act → Reassess**.
+Expo is the home base of the Expo / Floaters team. One trained Floater remains on Expo during active production ticket flow. Other trained Floaters deploy through **Expo → Line Cooks → Service → Barista → Support → Expo** using **Scan → Identify → Communicate → Act → Reassess**.
 
 ## Service Recovery
 
@@ -204,6 +204,6 @@ Ask:
 
 ## Current Five-Team Training and Rotation
 
-Use Dining, Barista, Kitchen, Support, and Tournant / Expo. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+Use Service, Barista, Line Cooks, Support, and Expo / Floaters. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
 
-Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
+Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.

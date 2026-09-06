@@ -4,6 +4,12 @@
 **Adopted:** July 24, 2026
 **Last revised:** August 27, 2026
 
+## Current Pilot Note — Prototype D
+
+Prototype D is the current developmental direction, not a replacement for this permanent standard. The pilot uses one clean instructor working page with a centered day/title and course/week identification; Learning Target; compact Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Watch For; If There Is Extra Time; Clean Stop; and Notes for Next Time. The Instructor and Teaching Assistant use the same page rather than separate TA content.
+
+Evaluate it by asking whether the instructor can immediately identify preparation, instruction/demonstration, student learning and work, likely problems, and the clean stopping point. Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** before considering adoption.
+
 ## Purpose
 
 A Weekly Teaching Guide is the primary operational layer between the curriculum and classroom instruction. It gives the instructor and TA enough direction to teach confidently while preserving judgment when time, enrollment, equipment, or student readiness changes. Older Daily Teaching Guides may remain as supporting or historical sources, but active navigation should point to one canonical weekly guide per course/week.

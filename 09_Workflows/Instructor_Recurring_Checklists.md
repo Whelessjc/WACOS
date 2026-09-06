@@ -39,14 +39,15 @@ Use this as the single recurring startup checklist. Dated items below apply only
 
 - [ ] Continue instruction, kitchen systems, safety, sanitation, Employability, lab routines, and Bistro readiness.
 - [ ] Use Monday-Friday instruction and readiness. Do not impose the post-launch Thursday prep/Friday service rhythm.
-- [ ] Train and assess the current Bistro teams: Dining, Barista, Kitchen, Support, and Tournant / Expo.
+- [ ] Train and assess the current Bistro teams: Service, Barista, Line Cooks, Support, and Expo / Floaters.
 - [ ] Do not create classroom jobs, leadership boards, manager rotations, additional teams, or student authority structures without an instructor-approved Program Decision.
 
 ### Week 4: August 31-September 4, 2026
 
 - [ ] Continue Bistro systems and conduct mock service.
 - [ ] Conduct training and mock service only; do not hold a soft opening or public service this week.
-- [ ] Use the early-release Friday, September 4 for additional training while the instructor is out of town.
+- [ ] On early-release Friday, September 4, students report to their actual starting Bistro positions for **OPEN → MOCK SERVICE → CLOSE / RESET** while the instructor is out.
+- [ ] Have the adult leading the mock capture adult interventions, unclear responsibilities, broken order flow, repeated questions, and the station/system requiring targeted Week 5 retraining.
 - [ ] Confirm Week 5 purchasing, staffing, menu, equipment, safety, guest-flow, payment, and communication readiness.
 - [ ] Continue treating all five days as instruction/readiness; Week 4 does not establish the normal Bistro rhythm.
 
@@ -84,8 +85,10 @@ Use this as the single recurring startup checklist. Dated items below apply only
 
 ### End of Day
 
-- [ ] Safety and cleanliness walkthrough complete.
-- [ ] Food stored and labeled; equipment secured; room reset.
+- [ ] Protect the close in this order: **SAFE + RESET SPACE → TOMORROW'S READINESS → REQUIRED OPERATIONS → GRADING / DESK WORK.**
+- [ ] Complete the final adult walkthrough: dishes/warewasher, counters/surfaces, storage, floors, laundry, sinks, tools/smallwares, coolers, Bistro/specials, and loose product/materials.
+- [ ] Use **LOOK UP → LOOK DOWN → LOOK AROUND → OPEN THE COOLERS**; correct obvious covering, labeling, storage, organization, and product issues using current food-safety guidance.
+- [ ] Verify side towels, buckets/containers, final warewasher load, food in sinks, and loose production items are resolved. The kitchen ends reset, not mostly clean.
 - [ ] Lab or live-assessment evidence recorded.
 - [ ] Grades updated when scheduled.
 - [ ] Daily journal or reflection completed.
@@ -138,4 +141,4 @@ Use this as the single recurring startup checklist. Dated items below apply only
 - [ ] Keep each team in its position for two consecutive services.
 - [ ] Continue weekly lab jobs during Thursday Bistro Prep.
 - [ ] Use Bistro-position duties during Friday service.
-- [ ] Confirm one Tournant / Expo student anchors Expo during active service.
+- [ ] Confirm one Expo / Floaters student anchors Expo during active service.

@@ -19,23 +19,25 @@ During Thursday Bistro Prep, students retain their current weekly lab cleaning r
 The Bistro should open only after students have practiced safety, sanitation, dish systems, menu knowledge, roles, stocking, Life of an Order, and mock service. For 2026-2027, Weeks 1-3 build readiness. Week 4 (August 31-September 4) continues Bistro systems, training, and mock service only; there is no soft opening or public service. Friday, September 4 is an early-release day and may be used for additional training while the instructor is out of town. The Bistro opening and first public-service target is Friday, September 11 in Week 5. The instructor retains authority to reduce, postpone, modify, or pause service for readiness and safety. See `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` and `../../00_Core/DECISION_REGISTER.md` (D002).
 
 ## Life of an Order
-The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: the host greets first and completes OnTime/ILT check-in; ordering guests receive an individual queue number while non-ordering guests receive no number; POS takes and confirms the order; reservations still require arrival, individual numbering, Square entry, and payment; Barista owns Barista tickets and Tournant / Expo owns Kitchen tickets; Kitchen works from Expo calls, callbacks, and physical production cues; Dining owns the guest experience and delivery; LATTE governs recovery; and every station resets its own area while Support protects shared shutdown flow.
+The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: the host greets first and completes OnTime/ILT check-in; ordering guests receive an individual queue number while non-ordering guests receive no number; POS takes and confirms the order; reservations still require arrival, individual numbering, Square entry, and payment; Barista owns Barista tickets and Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, and physical production cues; Service owns the guest experience and delivery; LATTE governs recovery; and every station resets its own area while Support protects shared shutdown flow.
 
 ## Bistro Rotations
 
-The five current Bistro rotations are **Dining, Barista, Kitchen, Support, and Tournant / Expo**.
+The five current Bistro rotations are **Service, Barista, Line Cooks, Support, and Expo / Floaters**.
+
+Students receive their starting Bistro positions before opening week and remain in each position for two consecutive services before rotating. Students may use the current digital menu/recipe folder as a professional reference; they are not required to memorize every recipe. **Everybody understands the operation. Each position goes deeper where its responsibilities require it.** Line Cooks and Barista know recipes relevant to assigned production; Service knows the menu well enough to describe it accurately without guessing about allergens; Support maintains operational awareness; Expo / Floaters maintains broad menu and order recognition sufficient to verify completeness and protect flow.
 
 | Rotation | Primary Ownership |
 |---|---|
-| Dining | Guest experience: host, server, runner/busser, table service and reset |
+| Service | Guest experience: host, server, runner/busser, table service and reset |
 | Barista | Beverage and pastry production/service |
-| Kitchen | Food production |
+| Line Cooks | Food production |
 | Support | Stewarding and operational cleanliness |
-| Tournant / Expo | Flow of the operation; Expo/pass plus flexible coverage |
+| Expo / Floaters | Flow of the operation; Expo/pass plus flexible coverage |
 
-### Tournant / Expo
+### Expo / Floaters
 
-Expo is the Tournant team's home base and anchor responsibility. One Tournant student keeps Expo covered during active Kitchen ticket flow while other Tournant students may deploy according to this priority order:
+Expo is the Expo / Floaters team's home base and anchor responsibility. One Expo student keeps Expo covered during active production ticket flow while other Floaters may deploy according to this priority order:
 
 1. Fill an absence or instructor-assigned gap.
 2. Respond to the most immediate operational need.
@@ -45,19 +47,21 @@ Expo is the Tournant team's home base and anchor responsibility. One Tournant st
 6. Cross-train when the operation is under control.
 7. Find other useful work.
 
-**Standby does not mean standing around.** The instructor assigns or redirects Tournant students as service conditions change. Leadership within a rotation does not create another team or expand student authority.
+**Standby does not mean standing around.** The instructor assigns or redirects Floaters as service conditions change. Leadership within a rotation does not create another team or expand student authority.
 
-Use the Tournant operating loop:
+Use the Expo / Floaters operating loop:
 
-**Expo -> Kitchen -> Dining -> Barista -> Support -> Expo**
+**Expo -> Line Cooks -> Service -> Barista -> Support -> Expo**
 
-See [Tournant / Expo Team SOP](../SOPs/Tournant_Rotation_SOP.md).
+See [Expo / Floaters Team SOP](../SOPs/Expo_Floaters_Team_SOP.md).
 
 ### Rotation Rhythm
 
 Teams normally remain in a Bistro rotation for two consecutive Bistro services before moving to the next rotation. The first service emphasizes learning the position; the second emphasizes improved execution and independence. One common five-team rotation system is used rather than separate Culinary 1 and Culinary 2 rotation systems unless the instructor directs otherwise.
 
 Each rotation uses durable guidance organized as Opening, During Service, and Closing/Reset. Variable service-day information such as current menu, pars, prep quantities, specials, reservations, stock counts, and new-item details belongs on current readiness/prep references rather than being hard-coded into the durable station SOP.
+
+**The station checklist changes when the operation changes. The service-day sheet changes when the menu changes.**
 
 Earlier classes reset for the next class. Culinary 2, during the double path of Paths 5 and 8, performs final closing and shutdown; Planning follows in Paths 6 and 7.
 
@@ -72,12 +76,12 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 - Prep list visible.
 - Five rotations assigned.
 - Sanitizer set and checked.
-- Dining, Barista, Kitchen, Support, and Tournant / Expo stations/areas prepared per their current SOP/readiness sheet.
+- Service, Barista, Line Cooks, Support, and Expo / Floaters stations/areas prepared per their current SOP/readiness sheet.
 - Queue numbers accounted for and ready.
 - Labels and storage containers ready.
 - Recipes/current menu references printed or linked.
 - Timelines posted.
-- Expo ticket holder/stabber and Kitchen-to-Dining handoff area ready.
+- Expo ticket holder/stabber and Line Cooks-to-Service handoff area ready.
 - Student leaders know escalation path.
 - OnTime check-in, queue numbers, hall passes, ticket printers, ticket holders, handoff tables, and stabbers ready.
 
@@ -85,9 +89,9 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 - Instructor and Teaching Assistant should facilitate, coach, observe, and grade live when possible.
 - Students should not depend on adults to find every spoon, condiment, container, or ingredient.
 - One missed role can break the entire restaurant; students must understand interdependence.
-- POS is the order-taking point; Dining service staff do not take seated-table orders.
-- Tournant / Expo owns Kitchen tickets. Kitchen works from calls, callbacks, physical cues, sequencing, and status communication rather than seeing or reading tickets.
-- Dining owns the guest experience after the order enters Square and anticipates needs by continually scanning the room.
+- POS is the order-taking point; Service students do not take seated-table orders.
+- Expo / Floaters owns production tickets. Line Cooks work from calls, callbacks, physical cues, sequencing, and status communication rather than seeing or reading tickets.
+- Service owns the guest experience after the order enters Square and anticipates needs by continually scanning the room.
 - Guest recovery uses LATTE: Listen, Acknowledge, Take action, Thank, Ensure satisfaction. Protect the system, assume good faith, do not argue, act within role authority, and involve the instructor for financial, safety, escalating, or unresolved concerns.
 - Every station cleans its own station. Support protects dish flow, stewarding, shared cleanliness, and the progressive back-to-front shutdown.
 
@@ -113,11 +117,11 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 
 ## Stable Five-Team Bistro Decision — August 26, 2026
 
-The five current instructional and Bistro teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. The same teams carry into service. Each team remains in one position for two consecutive services before rotating through one repeating ten-service cycle shared by Culinary 1 and Culinary 2. Thursday Bistro Prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position Opening, During Service, and Closing responsibilities.
+The five current instructional and Bistro teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. The same teams carry into service. Each team remains in one position for two consecutive services before rotating through one repeating ten-service cycle shared by Culinary 1 and Culinary 2. Thursday Bistro Prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position Opening, During Service, and Closing responsibilities.
 
-Dining owns the guest experience; Barista beverage and pastry production/service; Kitchen food production; Support stewarding and operational cleanliness; and Tournant / Expo operational flow, with Expo as its home base. Use **Expo → Kitchen → Dining → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
+Service owns the guest experience; Barista beverage and pastry production/service; Line Cooks food production; Support stewarding and operational cleanliness; and Expo / Floaters operational flow, with Expo as its home base. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
 
 
 ### Training Sequence
 
-Life of an Order remains the whole-operation foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Teach minimum safe and useful entry skills, then coach on the job.
+Life of an Order remains the whole-operation foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Teach minimum safe and useful entry skills, then coach on the job.

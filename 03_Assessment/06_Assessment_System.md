@@ -28,7 +28,7 @@ Codes are evidence, not automatic grades. A serious safety, sanitation, or condu
 
 ## Bistro Manager Observation Method
 
-Use the [Bistro Manager Observation Record](Tools/Bistro_Manager_Observation_Record.md) during opening/readiness, active service, and closing/reset. The instructor and Teacher Assistant may divide the room by named students, team, station, or service area. Current teams are Dining, Barista, Kitchen, Support, and Tournant / Expo.
+Use the [Bistro Manager Observation Record](Tools/Bistro_Manager_Observation_Record.md) during opening/readiness, active service, and closing/reset. The instructor and Teacher Assistant may divide the room by named students, team, station, or service area. Current teams are Service, Barista, Line Cooks, Support, and Expo / Floaters.
 
 1. Before service, each observer writes initials and assigned coverage.
 2. During each natural observation window, record one quick code when useful. Do not narrate routine performance.
@@ -91,6 +91,8 @@ Use the current WACOS reassessment or missing-work process when confirmed for th
 
 Employability is 20% of the quarter grade and measures observable professional habits, not attitude or generic participation. Enter one Employability grade each week. Use the [Employability Observation Log](Tools/Employability_Observation_Log.md) as a fast paper readiness and exception record.
 
+**Employability is professional development happening now.** Useful instructional language is **SHOW UP. BE READY. PAY ATTENTION. BE USEFUL. KEEP LEARNING.** Treat the behaviors—not the phrase as branding—as the curriculum: punctuality, work readiness, appropriate dress, pen/notebook use, presence, coachability, initiative, awareness, anticipation, helping, research, and maintaining a current resume.
+
 Normal performance requires no daily narrative. Record concise evidence for:
 
 - readiness, punctuality, uniform, and required materials;
@@ -122,6 +124,14 @@ The pocket notebook is a working culinary tool. Students may use it for recipes,
 | Insufficient evidence | Attendance, assignment, or other circumstances leave too little evidence for a defensible decision. |
 
 The weekly baseline is 90 for a student who arrives ready and meets normal expectations. Minor readiness or work-habit exceptions generally deduct 5 points. Repeated or significant concerns generally deduct 10 points or trigger instructor review. Meaningful exceptional ownership, initiative, leadership, or stewardship may add 5 points; repeated meaningful exceptional evidence may raise the weekly grade to 100. Absence or insufficient evidence is not an automatic deduction. Coaching notes remain formative until they become part of a repeated or significant pattern, and significant incidents may become formal evidence immediately after instructor review. Proper footwear and other safety requirements remain participation gates; the grade consequence documents readiness and does not replace the safety response.
+
+### Kitchen Readiness and Missed Practical Work
+
+Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. A student who does not meet these requirements does not enter the kitchen for that day's practical work and completes the current handwritten Kitchen Alternate Learning Assignment tied to the actual Learning Target. When a lab is missed, the student also completes the online Culinary Missed Lab / Make-Up Form.
+
+**Alternate Learning Assignment = in-period learning. Missed Lab / Make-Up Form = documentation and initiation of the existing recovery process.** Alternate work can demonstrate knowledge, planning, and Professional Thinking. Physical skill that was not performed remains `NO`/not observed unless later demonstrated through an authentic instructor-approved opportunity. The program does not routinely recreate missed labs.
+
+Use **Removed from Kitchen Duty**, not “fired,” when the instructor ends a student's practical participation for the day. The alternate assignment, return reflection, and missed-lab form apply when relevant. Employability evidence, discipline, parent contact, and other school responses remain separate instructor decisions; do not double-penalize automatically.
 
 ## Assessment Consistency Rules
 
@@ -161,4 +171,4 @@ Bistro is not recreated for reassessment. Improvement is documented in later pap
 
 ## Five-Team Observation and Support
 
-Current teams are **Dining, Barista, Kitchen, Support, and Tournant / Expo**. Teams remain in each position for two consecutive services. When observing Tournant / Expo, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+Current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Teams remain in each position for two consecutive services. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.

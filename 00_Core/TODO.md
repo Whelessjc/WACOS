@@ -3,6 +3,7 @@
 ## Highest Priority Instructor Decisions
 - Confirm Bistro cash-drawer starting amounts, till-variance rules, and the final Square outage-recovery entry method. See D006.
 - Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
+- Ask administration when repeated inability or refusal to meet Kitchen Readiness should trigger parent contact, counseling intervention, administrative conference, or reconsideration of course placement. See D013. Do not create an automatic removal threshold in WACOS.
 
 ## Missing Documentation
 - Official school/district course names and course codes.
@@ -31,7 +32,14 @@
 - "Calm station / clear mind / better work" is useful emerging instructional language; continue testing it before promoting it into permanent guidance.
 - The Daily Teaching Guide remains a prototype. One day/one primary working page is a current design hypothesis, not a permanent DTG standard.
 - ChatGPT/Work artifacts need better information density and readability. Exact document-design specifications remain under testing.
-- No permanent third-attempt ServSafe failure pathway has been approved.
+- The online ServSafe platform permits up to three attempts. No permanent response has been approved for a student who does not complete or pass after those attempts.
+
+### Week 4 Development Evidence - Not Current Policy
+
+- Prototype D is the current Daily Teaching Guide pilot direction: one clean instructor working page with centered title/course/week, Learning Target, compact Knowledge / Skill / Professional Thinking, Key Terms, Before Class — Set Up, Teach / Show, Students Do, Micro-Skills / If They Come Up, Watch For, If There Is Extra Time, Clean Stop, and Notes for Next Time. Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** before deciding whether it replaces the permanent standard.
+- Reduce paperwork using the working principle: do not print information simply because it exists; print it because someone needs it physically while doing the work. Continue testing the teaching-binder, active-clipboard, point-of-use laminated-reference, and digital-library organization without making exact storage arrangements permanent policy.
+- An unannounced Culinary 2 readiness check found zero students fully completing the expected clocked-in, locked-in, phone-parked, notebook-out, pen-out, first-steps-written routine. Use the evidence to strengthen the proposed opening/reset design through **TEACH → DEMONSTRATE → PRACTICE → CHECK → REPEAT → EXPECT FLUENCY**; do not create a new punitive policy.
+- Continue developing Instructor/Teaching Assistant delegation, especially clearly assigned priority work during instructor absence, while preserving existing authority boundaries and neutral role labels.
 
 ### ServSafe/Readiness Administrative Follow-Up - No Policy Adopted
 

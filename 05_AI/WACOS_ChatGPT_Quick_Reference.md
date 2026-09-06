@@ -65,6 +65,7 @@ Work begins with **Notebook. Pen. Plan.** Students enter Kitchen Mode with the i
 - One-semester foundation and exploration course.
 - Focuses on safety, sanitation, kitchen systems, basic cooking, Employability, Bistro exposure, and readiness.
 - Current credential: **ServSafe Food Handler**.
+- Use the approved online course/assessment for primary credential-content delivery: access confirmed Week 1, progress checked Week 2, completion during Week 3, with up to three platform attempts. Delivery is blended; students email certificates to the instructor, and student credential information is not stored in public WACOS. Culinary class time emphasizes applied safety in the working kitchen.
 
 ### Culinary 2
 
@@ -107,11 +108,11 @@ One documented deep clean is required each quarter.
 
 ### Current Teams
 
-- Dining.
+- Service.
 - Barista.
-- Kitchen.
+- Line Cooks.
 - Support.
-- Tournant / Expo.
+- Expo / Floaters.
 
 Management Staff and Service Staff are retired team names. FOH and BOH may be taught as industry vocabulary, but they are not the current WACOS team structure.
 
@@ -122,7 +123,7 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 - Friday, September 4 is early release and may be used for additional training while the instructor is out of town.
 - Bistro opening and first public service target: Friday, September 11, 2026, in Week 5.
 - The instructor may reduce, postpone, modify, or pause service for readiness or safety.
-- Do not invent classroom jobs, rotation boards, management roles, or student authority structures. The five current instructional and Bistro teams are Dining, Barista, Kitchen, Support, and Tournant / Expo. Expo is Tournant / Expo's home base. Teams stay in each position for two consecutive services in one shared ten-service cycle.
+- Do not invent classroom jobs, rotation boards, management roles, or student authority structures. The five current instructional and Bistro teams are Service, Barista, Line Cooks, Support, and Expo / Floaters. Expo is the Expo / Floaters home base. Teams stay in each position for two consecutive services in one shared ten-service cycle.
 
 ### Annual Startup
 
@@ -134,12 +135,12 @@ Management Staff and Service Staff are retired team names. FOH and BOH may be ta
 ### Current Guest and Order Flow
 
 - The host greets first with “Good morning,” asks about Bistro ILT, and uses OnTime before assigning a queue number.
-- Ordering guests receive a nontransferable queue number; non-ordering guests do not. The number stays with the guest until all Kitchen and Barista items are received.
-- The Square POS host/cashier takes and confirms every order. Dining does not take seated-table orders.
-- Barista owns Barista tickets through grouped handoff. Tournant / Expo owns and reads Kitchen tickets; Kitchen works from Expo calls, callbacks, physical production cues, sequencing, and status communication.
-- Dining owns the guest experience after the order enters Square and continuously anticipates needs.
+- Ordering guests receive a nontransferable queue number; non-ordering guests do not. The number stays with the guest until all food and Barista items are received.
+- The Square POS host/cashier takes and confirms every order. Service does not take seated-table orders.
+- Barista owns Barista tickets through grouped handoff. Expo / Floaters owns and reads production tickets; Line Cooks work from Expo calls, callbacks, physical production cues, sequencing, and status communication.
+- Service owns the guest experience after the order enters Square and continuously anticipates needs.
 - Every station cleans its own station. Support owns stewarding, dish flow, shared operational cleanliness, and progressive back-to-front shutdown.
-- Expo is the home base and anchor responsibility of the Tournant / Expo team.
+- Expo is the home base and anchor responsibility of the Expo / Floaters team.
 
 ### Guest Recovery
 
@@ -175,6 +176,8 @@ PBIS and Bistro coins:
 Only ordering guests receive individual queue numbers upon entry. Teachers retain front-of-line priority. Reservations submitted through Google Forms guarantee advance preparation but still require individual queue numbers, Square entry, standing in the payment line, and payment before release. The instructor or Teaching Assistant may independently reconcile and deliver the deposit. The starting till is $180: 3 twenties, 5 tens, 10 fives, and 20 ones. Every variance is recounted, reconciled, documented, and reported. Square outages use numbered receipts and individual later re-entry with actual items, correct tender, receipt number, duplicate-production prevention, and full reconciliation.
 
 ## Safety and Instructor Authority
+
+Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. Students who are not ready do not enter the kitchen for that day's practical work; they complete the handwritten Kitchen Alternate Learning Assignment and, when a lab is missed, the online Culinary Missed Lab / Make-Up Form. Use **Removed from Kitchen Duty**, not “fired.” Unperformed physical skill remains not observed unless later demonstrated authentically.
 
 Safety governs all work. AI, students, student leaders, and support adults do not make final decisions about:
 
@@ -297,8 +300,8 @@ For an excused absence, enter 1 for missing work. The five-day maximums are 90, 
 
 ## Current Five-Team Training and Rotation
 
-Use **Dining, Barista, Kitchen, Support, and Tournant / Expo**. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+Use **Service, Barista, Line Cooks, Support, and Expo / Floaters**. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
 
-Life of an Order remains the foundation. Train Life of an Order; Dining + Barista; Kitchen + Support; Tournant / Expo + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position duties.
+Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position duties.
 
-Tournant / Expo owns operational flow, with Expo as its home base. During active service one Tournant student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Kitchen → Dining → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
+Expo / Floaters owns operational flow, with Expo as its home base. During active service one Expo student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**

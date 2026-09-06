@@ -17,6 +17,7 @@ What is Culinary Arts Management 1, and how do we work in this room?
 - Introduce the focus for Week 1: learn the room before cooking.
 - Review broad expectations for respect, effort, safety, participation, and responsibility.
 - Introduce uniform expectations and explain why uniforms matter for safety, sanitation, and professionalism.
+- Launch access to the approved online ServSafe Food Handler course. Confirm that every student can sign in; independent completion continues outside class unless supervised access is needed for launch, accommodations, or intervention.
 
 ### Student Tasks
 - Practice entering the room calmly and going to the assigned starting place.

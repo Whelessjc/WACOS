@@ -1,17 +1,17 @@
-# Dining Team SOP
+# Service Team SOP
 
 Current as of August 29, 2026.
 
 ## Mission
 
-**Dining owns the guest experience.** Dining responsibilities include host/check-in, POS, runner, busser, dining-room readiness, guest communication, delivery, clearing, and reset. Expo belongs to Tournant / Expo.
+**Service owns the guest experience.** Service responsibilities include host/check-in, POS, runner, busser, dining-room readiness, guest communication, delivery, clearing, and reset. Expo belongs to Expo / Floaters.
 
 ## Opening
 
 - Prepare and clean the host stand, POS area, dining room, self-seating tables, menus, reservations, specials, service supplies, handoff routes, and serviceware.
 - Confirm Square and receipt supplies under instructor/Teaching Assistant control.
 - Stage OnTime check-in, queue numbers, sign-out, and hall passes.
-- Review dietary-alert escalation, LATTE, current unavailable items, and Tournant / Expo and Barista handoffs.
+- Review dietary-alert escalation, LATTE, current unavailable items, and Expo / Floaters and Barista handoffs.
 
 ## Host and ILT Check-In
 
@@ -23,21 +23,21 @@ Current as of August 29, 2026.
 6. Give an individual queue number to a guest who is dining or ordering. Give no number to a non-ordering guest.
 7. If OnTime denies entry, apologize and wish the student a good day.
 
-Students leaving the ILT space sign out and take a hall pass. Guests choose any available seat; Dining does not assign or escort guests to tables.
+Students leaving the ILT space sign out and take a hall pass. Guests choose any available seat; Service does not assign or escort guests to tables.
 
 ## POS Order-Taking
 
 - The Square POS host/cashier calls the queue number, makes eye contact, smiles, and greets the guest.
 - Take and confirm the order, repeat it back, record modifications accurately, and flag dietary alerts without guessing.
 - Enter the order in Square through the current transaction workflow.
-- Dining service staff do **not** take seated-table orders.
+- Service students do **not** take seated-table orders.
 
 ## During Service
 
-- Receive completed Kitchen orders from Tournant / Expo and completed Barista orders from the Barista handoff; deliver them accurately and promptly.
+- Receive completed food orders from Expo / Floaters and completed Barista orders from the Barista handoff; deliver them accurately and promptly.
 - Continuously scan for low or empty beverages, finished plates, missing flatware, condiments or napkins, food or trash on the floor, guests looking for help, guest body language, waiting food or drinks, and queue numbers ready to be returned.
 - Use: **What do you notice? What does it mean? What needs to happen next?**
-- Whenever delivering a drink, pastry, food, flatware, condiment, or other item, ask whether the guest needs anything else or is still waiting on Kitchen or Barista.
+- Whenever delivering a drink, pastry, food, flatware, condiment, or other item, ask whether the guest needs anything else or is still waiting on food or Barista items.
 - Leave the queue number while anything remains outstanding; retrieve it promptly when the order is complete. Queue numbers are not transferable.
 - Clear and reset tables promptly without rushing guests.
 
@@ -55,4 +55,4 @@ Students leaving the ILT space sign out and take a hall pass. Guests choose any 
 - Restock approved supplies and report shortages or failures.
 - Earlier classes reset for the next class; Culinary 2 completes final shutdown.
 
-Dining does not perform final financial reconciliation or deposit delivery. Those controls remain with the instructor and Teaching Assistant.
+Service does not perform final financial reconciliation or deposit delivery. Those controls remain with the instructor and Teaching Assistant.

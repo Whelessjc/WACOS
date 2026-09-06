@@ -1,40 +1,40 @@
-# Tournant / Expo Team SOP
+# Expo / Floaters Team SOP
 
 Current as of August 29, 2026.
 
 ## Mission and Home Base
 
-**Tournant / Expo owns the flow of the operation.** Expo is the team’s home base. During active Kitchen ticket flow, one trained Tournant remains responsible for Expo/pass while other trained and authorized team members deploy according to operational need.
+**Expo / Floaters own the flow of the operation.** Expo is the team’s home base. During active production ticket flow, one trained Floater remains responsible for Expo/pass while other trained and authorized team members deploy according to operational need.
 
 Use:
 
-**Expo → Kitchen → Dining → Barista → Support → Expo**
+**Expo → Line Cooks → Service → Barista → Support → Expo**
 
 **Scan → Identify → Communicate → Act → Reassess**
 
 ## Opening
 
 - Clean, sanitize, organize, and stock Expo/pass.
-- Prepare the active Kitchen ticket holder and completed-ticket stabber.
-- Confirm the Kitchen-to-Dining handoff area and physical production-cue system.
+- Prepare the active production ticket holder and completed-ticket stabber.
+- Confirm the Line Cooks-to-Service handoff area and physical production-cue system.
 - Review absences, gaps, deliveries, lunch-opening needs, and bottlenecks.
 - Assign the Expo anchor.
 
 ## Expo Ticket Ownership
 
-**Tournant / Expo owns and reads Kitchen tickets. Kitchen does not see or read them.**
+**Expo / Floaters own and read production tickets. Line Cooks do not see or read them.**
 
-1. Retrieve and sequence active Kitchen tickets.
+1. Retrieve and sequence active production tickets.
 2. Call each new ticket with **“Order in”** and the required items.
-3. Listen for Kitchen callbacks or **“Heard.”** Repeat or clarify any unconfirmed call.
-4. Verify that Kitchen immediately places a physical production cue for each dish.
+3. Listen for the Line Cooks callback or **“Heard.”** Repeat or clarify any unconfirmed call.
+4. Verify that Line Cooks immediately place a physical production cue for each dish.
 5. Watch cooks and cues, track timing and whole-order status, and communicate what must happen next.
-6. Verify quality, accuracy, and completeness; coordinate Kitchen-to-Dining handoff.
-7. Move the ticket to the stabber only after the completed order leaves Kitchen.
+6. Verify quality, accuracy, and completeness; coordinate Line Cooks-to-Service handoff.
+7. Move the ticket to the stabber only after the completed order leaves the line.
 
 ## Expo Calls
 
-- **Order in**: a new Kitchen ticket is entering production.
+- **Order in**: a new production ticket is entering production.
 - **Callback / Heard**: confirms the team received and understood the call.
 - **Fire the ___**: begin the named item now.
 - **All day**: the total currently needed across all active tickets. Example: **“All day: four Bodegas, three grits bowls, five waffle bites.”**
@@ -47,18 +47,18 @@ Use:
 
 ## Floating Priorities
 
-The Expo anchor stays at Expo whenever Kitchen tickets are active. Other trained and authorized Tournant students scan from the Expo home base, identify the strongest need, communicate the deployment, act, reassess, and return toward Expo.
+The Expo anchor stays at Expo whenever production tickets are active. Other trained and authorized Floaters scan from the Expo home base, identify the strongest need, communicate the deployment, act, reassess, and return toward Expo.
 
 1. Cover an absence or instructor-assigned gap.
 2. Respond to the most immediate operational need.
 3. Complete authorized delivery, running, or lunch-opening support.
-4. Support a Kitchen station that is getting low or in the weeds.
-5. Clear a Dining, Barista, Support, or handoff bottleneck within training and authorization.
+4. Support a Line Cooks station that is getting low or in the weeds.
+5. Clear a Service, Barista, Support, or handoff bottleneck within training and authorization.
 6. Retrieve or restock supplies and reset shared areas.
 7. Cross-train when the operation is under control.
 8. Return to Expo, report status, and reassess.
 
-**Tournant does not mean standby or free time.** Team members communicate before leaving or entering a station, do not take over another student’s role without direction, and do not perform tasks for which they are not trained or authorized.
+**Floater does not mean standby or free time.** Team members communicate before leaving or entering a station, do not take over another student’s role without direction, and do not perform tasks for which they are not trained or authorized.
 
 ## Closing
 
