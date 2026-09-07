@@ -12,6 +12,7 @@ This folder is not curriculum, policy, a student handbook, or a replacement for 
 - [Weekly Teacher Workflow](Weekly_Teacher_Workflow.md) - recurring work organized by day.
 - [Instructor Recurring Checklists](Instructor_Recurring_Checklists.md) - authoritative annual startup workflow plus printable daily, weekly, quarterly, and semester checks.
 - [Weekly Teaching Guide Standard](Daily_Teaching_Guide_Standard.md) - weekly-first operational planning standard for flex-mod teaching, compact professional-language planning, section continuation, and first-ten-day elasticity.
+- [Document Design Standard](Document_Design_Standard.md) - default visual language for Google Docs-friendly teaching guides, activities, stations, scavenger hunts, checklists, student handouts, and other working documents.
 - [ChatGPT EDU Capability Matrix](ChatGPT_EDU_Capability_Matrix.md) - current AI environment, boundaries, and external systems.
 - [Artifact Publishing Workflow](Artifact_Publishing_Workflow.md) - moves reviewed WACOS-based materials into the durable Google Drive usable-materials library.
 - [Published Artifact Index](Published_Artifact_Index.md) - lightweight record of accepted artifacts, governing sources, destinations, and review status.
