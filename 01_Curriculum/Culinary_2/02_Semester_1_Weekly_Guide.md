@@ -1,1051 +1,186 @@
-# Semester 1 Weekly Lesson Plan Guide
+# Culinary 2 Semester 1 Weekly Lesson Plan Guide
 
-This guide covers Weeks 1-18.
+This guide covers Weeks 1-18 and is a planning spine, not a locked calendar. Use the current calendar as date authority and the current Bistro operating documents for Thursday/Friday systems.
 
-It is built for a real culinary lab. Use it as a planning spine, not a locked calendar.
+## Opening Architecture
 
-## 2026-2027 Calendar Anchors
+Every Culinary 2 cohort recalibrates to the **current WACOS operating system** regardless of where or when prior Culinary experience occurred. Prior credit does not prove current competence. Accelerate only when students demonstrate the current standard.
 
-Use `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` as the date authority. Key Semester 1 interruptions are built into the affected daily plans below:
+Bistro is the performance environment for the fundamentals, not a separate unit.
 
-| Week | Dates | Adjustment |
-| --- | --- | --- |
-| 1 | Aug 10-14 | Students begin Tuesday, Aug 11. |
-| 4 | Aug 31-Sep 4 | Friday early release; training and mock service only, with no soft opening or public service. |
-| 5 | Sep 7-11 | Monday closed for Labor Day; Bistro opening and first public service Friday. |
-| 9 | Oct 5-9 | Friday half day. |
-| 10 | Oct 12-16 | Monday has no students. |
-| 13 | Nov 2-6 | Tuesday closed for Election Day. |
-| 18 | Dec 14-18 | Friday half day; practical completed before Friday. |
+- Weeks 1-3: rebuild/recalibrate the component fundamentals.
+- Week 4: assemble current Prep and Service systems through required outcomes rather than a rigid daily sequence.
+- Week 5: normal first-public-service target when readiness, safety, and calendar allow.
+- Once Bistro operates: **Monday-Wednesday — BUILD THE FUNDAMENTALS; Thursday — PLAN THE WORK; Friday — WORK THE PLAN.**
 
-The course stays technique-first. Lowcountry, Southern, student-favorite, and occasional international dishes are used as vehicles for skill practice and foodways/place connections.
+See `../../02_Bistro/Operations/Bistro_Rhythms.md`.
 
 ## Standing Rules
 
-- Flames off 15 minutes before the bell.
-- Real production time is usually about 60 minutes on long blocks.
-- Thursday is Bistro prep once Bistro begins.
-- Friday is Bistro service once Bistro begins.
-- Recipes are usually printed and linked digitally.
-- Canvas is a reference hub, not the main delivery system.
-- Students mostly work in groups of 3.
-- Line Checks happen at least twice weekly.
-- The last Tuesday of each month is High School Hospitality Scholars with Explore Charleston.
+- Work Ready and Kitchen Ready are taught, practiced, checked, repeated, then expected with increasing fluency.
+- Normally stop cooking/production at least 15 minutes before the bell.
+- Recipe/Production Preflight, mise en place, clean-as-you-go, clean stop, handoff when needed, and reset are cumulative systems.
+- Thursday Bistro Prep normally uses individual production assignments; pairs are used when justified. Monday-Thursday cleaning jobs remain active.
+- Friday uses the five current Bistro teams: Service, Barista, Line Cooks, Support, Expo / Floaters.
+- Teams remain in each Bistro position for two consecutive services.
+- Recipes are production vehicles; harder recipes alone do not create Culinary 2 rigor.
+- Food/workplace safety is cumulative. The destination is **safety fluency under pressure**.
+- Situational awareness belongs to every team: **What do you notice? What does it mean? What needs to happen next?**
+- The instructor may interrupt planned technical content for targeted retraining when authentic Bistro evidence reveals a fundamental operating deficiency.
 
-## Daily Planning Template
+## Week 1 — Current-System Re-entry and Baseline
 
-Every class should have:
+**Purpose:** Establish that current WACOS procedure—not prior course history—is the baseline.
 
-- posted agenda
-- quick huddle
-- "I can..." target
-- brief demo or micro lesson
-- lab/application
-- teacher circulation and coaching
-- flames off and reset
-- short debrief
+**Core learning:**
 
-## Week 1: Re-entry, Trust, and Baseline (Aug 10-14; Students Begin Tuesday)
+- Work Ready: ID, Clock In, Lock In, Park It, Notebook, Pen, a Plan.
+- Kitchen Ready and current safety/access expectations.
+- Current room/equipment navigation and communication.
+- Recipe reading and early Production Preflight habit.
+- Mise en place, station setup, clean-as-you-go, clean stop, reset.
+- Knife/heat/sanitation baseline through authentic production after demonstration/authorization as needed.
 
-**Classroom-ready package and actual implementation record:** Use [`Week_01_2026/README.md`](Week_01_2026/README.md) and the canonical weekly teaching guide. The original day-labeled DTGs preserve planning context but do not prove completion.
+**2026 implementation evidence:** Students needed explicit knife reteaching and did not independently execute the complete readiness routine. Treat this as evidence for **TEACH → DEMONSTRATE → PRACTICE → CHECK → REPEAT → EXPECT FLUENCY**, not as a punitive policy.
 
-**Actual sequence:** re-entry -> knowledge baseline -> knife demonstration/reteach and baseline -> sautéed vegetables over rice.
+**Suggested vehicle:** sautéed vegetables over rice or another low-cost production task that exposes retained fundamentals.
 
-**Implementation finding:** students needed a knife demonstration/reteach before independent work. Do not assume retained Culinary 1 technique. The planned standalone Bistro/sanitation readiness circuit did not occur; embed sanitizer verification, labels/FIFO, thermometer calibration, dish flow, storage, towels, and reset into authentic production instead. A later unannounced check found zero students independently completing the full clocked-in, locked-in, phone-parked, notebook-out, pen-out, first-steps-written routine. This is developmental evidence, not a new punitive policy: **knowing the expectation is different from independently executing it.** Train professional routines through **TEACH → DEMONSTRATE → PRACTICE → CHECK → REPEAT → EXPECT FLUENCY**.
+**Evidence:** Students demonstrate current procedures through action rather than relying on prior credit or verbal recall.
 
-Core skill focus:
+## Week 2 — Fundamentals Under Pressure: Heat, Mise, Safety, and Stewardship
 
-- daily systems
-- knowledge baseline and recipe reasoning
-- station setup
-- sanitation reset
-- baseline knife control
+**Purpose:** Use simple production to rebuild dependable execution.
 
-Foodways/place connection:
+**Core learning:**
 
-- Food has a place. Students name foods they see at home, in Charleston, in restaurants, at family events, and at school. Keep it quick. This sets up Foodways and Place without turning it into a lecture.
+- heat observation and adjustment;
+- mise en place and sequencing;
+- recipe math/scaling in authentic work;
+- seasoning/tasting when appropriate;
+- sanitation, dish flow, labels/storage, and cleaning jobs embedded in production;
+- clean stop and complete reset.
 
-Suggested recipes or recipe types:
+**Evidence:** Students can explain the immediate plan, execute safely, notice problems, and leave the work/space ready for what comes next.
 
-- sautéed vegetables over rice
-- vinaigrette tasting if time allows
+## Week 3 — Production Control and Current-System Integration
 
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | No student instruction. | Teacher preparation for the first student day. | Confirm stations, safety materials, cleaning roles, and baseline tasks. |
-| Tuesday | I can re-enter Culinary 2 expectations and show what I currently know. | Course re-entry and knowledge-baseline directions. | Re-entry followed by a low-stakes knowledge baseline. |
-| Wednesday | I can rebuild a safe knife station and make controlled cuts after demonstration and coaching. | Explicit knife demonstration/reteach: board stability, claw, grip, cut path, pace, scrap control, and cut-size purpose. | Controlled baseline cuts after authorization; teacher observes current control and response to coaching. |
-| Thursday | Continue the weekly sequence according to section readiness. | Address baseline gaps and prepare the named production work. | Read, plan, and prepare for sautéed vegetables over rice; embed only the sanitation checks authentically encountered. The planned standalone readiness circuit did not occur. |
-| Friday | I can produce sautéed vegetables over rice and leave my station reset. | Rice sequence, sauté pan heat, clean-as-you-go, tasting, and shutdown. | Sautéed vegetables over rice; short station observation and full reset. |
+**Purpose:** Move from knowing individual fundamentals toward integrating them with less adult rescue.
 
-Line Check prompts:
+Use appropriate knife/production vehicles while reinforcing:
 
-- What does flames off mean?
-- When are you actually done?
-- What should be marked on a recipe before you cook?
-- What does clean-as-you-go look like before the food is finished?
+- Work Ready and Kitchen Ready;
+- recipe/prep-list reading;
+- equipment retrieval/return;
+- Production Preflight;
+- mise, workflow, sequencing;
+- communication and clean-as-you-go;
+- purposeful movement and situational awareness;
+- usefulness without constant supervision;
+- clean stop, storage/handoff, reset.
 
-Differentiation note:
+Preserve technique practice, but slow/repeat/simplify product when attention, sanitation, communication, or workflow breaks down.
 
-- Let students show readiness through action first. Some will need a printed visual station checklist; others can be asked to explain the next step before moving.
+## Week 4 — Assemble Bistro Systems
 
-CKC alignment:
+**Weekly target:** Students can enter, operate, and reset the current Bistro system with coaching before public service.
 
-- sanitation (named specifically Thursday: hand sink/3-comp sink setup, sanitizer ppm, thermometer calibration, thawing, labeling), equipment identification, recipe reading, professional readiness
+Week 4 is **outcome-based, not a rigid Monday-Friday script**. Arrange/combine training according to section progress and calendar.
 
-Bistro prep/service notes:
+Required outcomes:
 
-- No true Bistro service yet. Use Thursday and Friday to teach where things live and what reset means.
+1. Life of an Order and all five teams.
+2. Graceful-urgency arrival/opening rehearsal.
+3. Whole-group, instructor-led Service simulation in a populated dining room; Teaching Assistant reinforces/coaches afterward.
+4. Barista operating-system training: **Open → Organize → Receive Ticket → Use Build Reference → Produce → Verify → Handoff → Complete Ticket → Clean/Restock → Reset/Close**.
+5. Situational awareness across all teams.
+6. Practice Bistro Prep using low-stakes/non-menu production work.
+7. Production Preflight: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No checkoff → no production.**
+8. Clean-stop and handoff-note practice.
+9. Whole-operation Reset & Closing rehearsal with adult inspection/correction.
+10. At least one complete mock-service cycle; it may be brief and use simulated/simplified food.
 
-Flex notes:
+Teach the distinction:
 
-- Cut the foodways brainstorm if needed.
-- Protect daily rhythm, recipe marking, station setup, and flames-off reset.
+- **Clean as You Go** — maintain while operating.
+- **Reset** — leave ready for whoever comes next.
+- **Close** — final shutdown when required.
 
-## Week 2: Heat, Rice, Mise, and Seasoning
+## Week 5 — Bistro Opening
 
-Core skill focus:
+**Weekly target:** Students apply the current operating system during real Prep and Service.
 
-- sweating vs sauteing
-- rice/grain timing
-- mise en place
-- seasoning in layers
+**Monday-Wednesday:** Build/reinforce fundamentals and make targeted corrections from Week 4 evidence.
 
-Foodways/place connection:
+**Thursday — PLAN THE WORK:**
 
-- Carolina rice culture can be named briefly while teaching rice as a technique. Use Carolina Gold if practical, but regular long-grain rice still teaches the method.
+- brief Bistro Huddle for current-service differences;
+- individual production assignments by default, pairs when justified;
+- weekly cleaning jobs remain active;
+- read, station setup, mise;
+- Production Preflight/checkoff;
+- produce/clean as you go;
+- clean stop;
+- storage/labeling under current procedures, handoff notes when work continues, reset.
 
-Suggested recipes or recipe types:
+**Friday — WORK THE PLAN:**
 
-- basic rice
-- Hoppin' John base
-- red rice prep
-- sauteed vegetables
-- simple vinaigrette
+1. Arrive On Time and Work Ready.
+2. Open Your Station.
+3. Own Your Area.
+4. Communicate.
+5. Stay Aware — See the Whole Operation.
+6. Be Useful.
+7. Do the Work.
+8. Clean as You Go.
+9. Reset Your Station.
+10. Close When Required.
 
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can tell the difference between sweating and sauteing. | Pan heat, moisture, color, sound, and when to lower heat. | Onion base two ways; students compare sweat vs saute and record one sensory cue orally. |
-| Tuesday | I can season in layers and taste with purpose. | Salt, acid, fat, heat; how to taste without guessing. | Taste plain rice or vegetables, then adjust with salt, acid, herbs, or pepper vinegar. |
-| Wednesday | I can cook rice or grains with controlled timing, and scale the ratio for a different batch size. | Rinse or no rinse, ratio, simmer, cover, rest, fluff. BASIC TASK CALLBACK: Scale the rice ratio from a 4-serving base to a 12-serving batch - direct application of the recipe-scaling skill Culinary 1 taught, now applied to a real production quantity instead of a worksheet. | Basic rice, Hoppin' John-style rice and peas, or red rice starter depending on supplies; at least one group scales their batch up or down and checks the math before cooking. |
-| Thursday | I can prep, label, and store items for later use. | Label format, covered storage, what carries safely. | Bistro prep practice: aromatics, rice/starch prep, simple sauces, or cold items. |
-| Friday | I can produce a simple composed item with clean timing. | Plate timing and final seasoning. | Vegetable and rice bowl, Hoppin' John variation, or simple red rice plate. |
+Instructor teaching language may use: **I don't need to know if you can cook. I need to know if you can work.**
 
-Line Check prompts:
+### 2026 Week 5 implementation evidence
 
-- What are signs a pan is too cold?
-- What are signs a pan is too hot?
-- Why does rice need to rest?
-- What does "season in layers" mean?
+The first public service showed strong demand and successful food production but exposed operating gaps in independent Thursday production management, Service circulation/guest care, Barista execution, queue/order control, safety/sanitation, and complete reset/closing. This evidence justified immediate targeted retraining rather than layering new technical content onto unstable systems.
 
-Differentiation note:
+## Week 6 — 2026 Recovery / Future Flexible Technical Week
 
-- Provide the rice method as a short numbered procedure for students who need it. Push ready students to explain what adjustment they made and why.
+### Current 2026 implementation
 
-CKC alignment:
+Delay the planned new technical sequence for targeted Bistro-system recovery:
 
-- recipe reading, cooking methods, basic kitchen math, seasoning, sanitation
+- **Monday — Service Reset:** whole-room guest-service training, graceful urgency, Life of an Order in motion, circulation rather than hovering, guest needs, situational awareness.
+- **Tuesday — Reset & Closing + Barista Recovery:** physically rehearse Clean as You Go vs Reset vs Close; adults inspect completion; retrain Barista operating rhythm/build-reference use.
+- **Wednesday — Practice Bistro Prep:** low-stakes/non-menu production using Huddle → Assignment → Weekly Job Setup → Read → Mise → Production Preflight → Produce → Clean Stop → Handoff/Store → Reset.
+- **Thursday — Real Bistro Prep:** use the same Prep Rhythm with real production.
+- **Friday — Bistro Service:** existing two-service rotation continues.
 
-Bistro prep/service notes:
+### Future-year use
 
-- Still training. Use Thursday to practice label discipline and storage decisions.
+When opening systems are stable, Week 6 may begin the planned technical progression. If authentic Bistro evidence reveals a fundamental deficiency, targeted retraining may temporarily supersede new technical content. Resume the technical progression after the operating foundation is stabilized.
 
-Flex notes:
+## Weeks 7-18 — Technique Progression with Bistro Integration
 
-- Cut the vinaigrette if the week gets short.
-- Protect rice method, heat observation, and station reset.
+Continue the approved Culinary 2 technique progression: knife control, proteins/heat/doneness, sauces/moist heat/rice structure, eggs/batter/frying/baking control, and CKC-aligned fundamentals. Use current recipes and weekly guides as vehicles.
 
-## Week 3: Knife Control for Production
+Once Bistro is active, protect the weekly arc:
 
-### Immediate Instructional Reset - Begin August 24
+- Monday-Wednesday: build fundamentals and respond to evidence.
+- Thursday: Plan the Work.
+- Friday: Work the Plan.
 
-Use Week 3 and the following production work to reset the habits that the first two weeks showed students do not yet apply consistently. This is not a lecture-heavy restart or a replacement for the Culinary 2 framework. Keep the existing knife and production vehicles, but use them to rebuild:
+Do not sacrifice safety, recipe literacy, mise, communication, clean stop, handoff, or reset for novelty or menu complexity.
 
-- Kitchen Mode and a fundamentals-first mindset
-- attention, sensory awareness, and staying locked in
-- recipe and prep-list reading
-- retained Equipment Literacy and efficient equipment retrieval
-- mise en place, workflow, and sequencing
-- clear communication and clean-as-you-go
-- purposeful movement, awareness, and scanning
-- looking for the next useful task
-- follow-through and usefulness without constant supervision
+## Current Five-Team Service Language
 
-Teach the reset through short explanations, demonstrations, kitchen drills, simple production tasks, immediate feedback, correction, and repetition. Ask students to use sight, sound, smell, touch when safe, and taste when appropriate to explain what the food, equipment, station, and team need next. Revisit missed habits during the same class whenever possible instead of postponing correction to a later lecture.
+Use Service, Barista, Line Cooks, Support, and Expo / Floaters. Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, physical cues, sequencing, and status communication. Use current Life of an Order and team SOPs for detailed procedures.
 
-Preserve the planned knife-control progression, but slow, repeat, or simplify the product when attention, sanitation, communication, or workflow breaks down. Readiness is demonstrated through useful action from setup through reset, not assumed from prior Culinary 1 completion.
+## Reflection
 
-### August 24-28 Implementation Evidence
+Keep reflection short and grounded in actual work:
 
-This is current-year evidence supporting D012, not adoption of a new permanent opening curriculum.
+- What worked?
+- What slowed us down?
+- What did you notice?
+- What did it mean?
+- What needs to happen next?
 
-- Students entered with highly uneven retained experience and could sometimes state safety concepts without demonstrating them consistently.
-- The emerging course distinction is: **Culinary 1 learns the systems. Culinary 2 integrates the systems and makes decisions.**
-- Abstract sensory or mindfulness instruction did not transfer well with this cohort. The orange activity remains a usable lesson option, but this implementation did not produce the intended transfer.
-- Train situational awareness first inside concrete production. Ask: **What do you notice? What does it mean? What needs to happen next?**
-- Recipes are production vehicles through which students integrate fundamentals under pressure. Harder recipes alone do not make Culinary 2 more rigorous.
-- Continue moving from instructor-directed to coached to increasingly student-directed work. Instructor authority over safety, equipment, allergens, food release, and other controlled decisions does not change.
-
-Core skill focus:
-
-- medium dice
-- small dice
-- julienne
-- chiffonade
-- prep sequencing
-- waste awareness
-
-Foodways/place connection:
-
-- Knife skills can live inside red rice prep, soup base, chow chow, salsa, mirepoix, trinity, sofrito, or curry base. Name the base, then keep the focus on cut quality and workflow.
-
-Suggested recipes or recipe types:
-
-- chow chow-style vegetable prep
-- soup base
-- red rice prep
-- slaw with vinaigrette
-- herb garnish
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can make controlled medium and small dice for production. | Cut path, square-off strategy, waste control. | Onion, celery, pepper, carrot, or tomato prep for soup/red rice base. |
-| Tuesday | I can make julienne and chiffonade without rushing. | Knife angle, herb handling, safe speed. | Slaw, herb garnish, or chow chow prep. If Hospitality Scholars occurs, use Wednesday for the practical reps. |
-| Wednesday | I can build and follow a prep sequence that accounts for equipment. | Before students write: a brief physical refresher on the confirmed major equipment families, then Product -> Ingredients -> Equipment -> Sequence -> Ownership -> Deadline. Ask when each item is needed, who needs it, and whether sharing or availability could become a bottleneck. | Teams write a prep list, retrieve the correct equipment efficiently, and produce a simple soup base, slaw, or red rice mise. |
-| Thursday | I can set Bistro prep so another person could continue the work. | Station bins, par levels, labels, covered storage. | Bistro prep setup: cold station, sauces, vegetables, labels, dish flow. |
-| Friday | I can produce one menu item under service timing. | Graceful urgency, product standard, quick reset. | Mock Bistro item: pimento cheese toast, slaw cup, rice bowl, or soup sample. |
-
-Line Check prompts:
-
-- Why does cut size matter?
-- What should be on your board before the knife moves?
-- What makes prep complete?
-- Which equipment will you need, when will you need it, and could its availability slow production?
-- What information belongs on a label?
-
-Differentiation note:
-
-- For students still unsafe with speed, require slower cuts and clean board control. For students ready for more, add yield expectations and timing.
-
-CKC alignment:
-
-- knife skills, Equipment Literacy, equipment planning, mise en place, workflow, labels
-
-Bistro prep/service notes:
-
-- Friday can be a mock service with limited tickets. The point is not volume yet.
-
-Flex notes:
-
-- Cut the second cut style if time is short.
-- Protect safe board setup, prep sequencing, and label practice.
-
-## Week 4: Bistro Systems Week 1 (Aug 31-Sep 4; Friday Early Release)
-
-Core skill focus:
-
-- ticket flow
-- station communication
-- role clarity
-- service language
-- prep continuity
-
-Foodways/place connection:
-
-- Use simple Bistro items that feel connected to students and the community: pimento cheese, red rice cups, slaw, soup samples, or student-favorite specials. Keep the systems as the main teaching point.
-
-Suggested recipes or recipe types:
-
-- pimento cheese
-- simple soup
-- red rice or grain cups
-- cold sandwiches
-- vinaigrette-based salad
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can explain how a ticket moves through service. | Ticket call, heard/working, fire, hold, pickup. | Mock tickets with dry runs; students practice call-backs and timing language. |
-| Tuesday | I can communicate clearly when I am ready or not ready. | Short service phrases: heard, working, two minutes, I need help. | Role rotation and service recovery scenarios. If Hospitality Scholars occurs, connect it to guest communication. |
-| Wednesday | I can set a station and run a controlled mock service. | Opening checklist, product check, reset after pickup. | Timed station setup and mock service with low-volume items. |
-| Thursday | I can prep Bistro items with teacher checkpoints. | First product check before batch continues. | Real Bistro prep: labels, storage, sauces, cold items, simple batch work. |
-| Friday | I can participate in additional training and a full mock service calmly. | Early-release training huddle, mock-service expectations, and debrief language. | Additional training and full mock service only; no guests or public service while the instructor is out of town. |
-
-Line Check prompts:
-
-- What do you say when you hear a call?
-- What do you say when you are not ready?
-- What is the first move when a ticket is late?
-- What makes a station open?
-
-Differentiation note:
-
-- Keep the menu small so students can focus on communication. Prompt quieter students with exact service phrases until the language becomes familiar.
-
-CKC alignment:
-
-- communication, safety, workflow, professional readiness, sanitation
-
-Bistro prep/service notes:
-
-- This is a training week. The early-release Friday is for additional training and may include a full mock service; there is no soft opening or public service. The Bistro opens Friday, September 11 in Week 5.
-
-Flex notes:
-
-- Cut menu complexity first.
-- Protect ticket language, station setup, labels, and reset.
-
-## Week 5: Bistro Systems Week 2 (Sep 7-11; Monday Labor Day)
-
-Core skill focus:
-
-- quality control
-- timing
-- service recovery
-- station ownership
-- prep carryover
-
-Foodways/place connection:
-
-- A simple local or student-favorite Bistro item can carry the week: pimento cheese, red rice, soup, shrimp item if ready, or mac and cheese sample. The dish is secondary to service discipline.
-
-Suggested recipes or recipe types:
-
-- pimento cheese
-- simple soup or chowder base
-- red rice
-- cold sandwich station
-- basic sauce or dressing
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | No student instruction. | Labor Day; schools closed. | No lab or service work. |
-| Tuesday | I can explain safe prep carryover and check food for service quality. | Cooling, labeling, storage, taste, texture, portion, temperature, and garnish. | Combined prep-continuity audit and focused quality-control tasting. |
-| Wednesday | I can run a station with fewer teacher prompts. | Timing board, call-backs, recovery language. | Service rehearsal with real prep and timed tickets. |
-| Thursday | I can complete a Bistro prep list and reset the station. | Student prep list check before starting. | Bistro prep with students carrying more of the setup and labels. |
-| Friday | I can support the Bistro opening and recover from small problems. | Pre-service huddle, controlled-menu expectations, and post-service debrief. | Bistro opening and first public service, subject to readiness and safety; teacher observes communication, timing, and reset. |
-
-Line Check prompts:
-
-- What must be labeled?
-- What makes a product service-ready?
-- How do you communicate a delay?
-- What should you do if you see a quality issue?
-
-Differentiation note:
-
-- Give students who need structure a short station checklist. Give students who are ready one extra quality-control responsibility.
-
-CKC alignment:
-
-- safe storage, temperatures, labels, communication, workflow
-
-Bistro prep/service notes:
-
-- Friday should feel closer to real service, but keep the menu narrow.
-
-Flex notes:
-
-- Cut the tasting comparison if needed.
-- Protect prep list use, labels, quality check, and Friday debrief.
-
-## Week 6: Chicken, Safety, and Doneness
-
-Core skill focus:
-
-- raw protein workflow
-- cross-contamination prevention
-- thermometer use
-- carryover cooking
-- basic chicken cookery
-
-Foodways/place connection:
-
-- Stewed chicken or chicken with rice connects protein safety to Southern and family-style cooking. Keep the foodways note brief and focus on safe, controlled protein handling.
-
-Suggested recipes or recipe types:
-
-- pan-roasted chicken thighs
-- stewed chicken
-- chicken and rice
-- simple pan jus
-- sauteed vegetables
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can set up safely for raw chicken. | Raw protein station, glove use, board change, sanitizer. | Chicken handling drill plus thermometer placement practice. |
-| Tuesday | I can check doneness without guessing. | Thermometer placement, carryover, rest time. | Temperature stations with cooked samples or quick chicken pieces. |
-| Wednesday | I can pan-roast chicken and verify safe doneness. | Sear, oven finish, rest, slice, check temp. | Pan-roasted chicken thighs with rice or vegetables. |
-| Thursday | I can prep Bistro items while protecting food safety. | Raw/cooked separation during prep. | Bistro prep with protein handling standards reinforced. |
-| Friday | I can apply safe handling during Bistro service. | Holding and reheating checks. | Bistro service; teacher watches protein workflow and timing. |
-
-Line Check prompts:
-
-- Where does the thermometer go?
-- What gets cleaned after raw chicken?
-- What does carryover cooking mean?
-- What is one sign your station is not safe?
-
-Differentiation note:
-
-- Pair verbal reminders with visual sanitation checkpoints. Push ready students to name the risk before the teacher does.
-
-CKC alignment:
-
-- food safety, thermometer use, raw protein handling, cooking temperatures
-
-Bistro prep/service notes:
-
-- Use Bistro as evidence that students can keep raw and ready-to-eat work separate.
-
-Flex notes:
-
-- Cut the extra vegetable component.
-- Protect raw protein setup, thermometer use, and full reset.
-
-## Week 7: Searing, Browning, and Pan Control
-
-Core skill focus:
-
-- searing
-- pan temperature
-- browning control
-- resting
-- simple pan sauce
-
-Foodways/place connection:
-
-- Pan control can support stewed chicken, chicken perloo components, or a simple chicken plate. The local connection can be the rice or side rather than the protein.
-
-Suggested recipes or recipe types:
-
-- seared chicken breast
-- pork cutlet
-- chicken with pan sauce
-- rice and greens
-- pepper vinegar vegetable
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can create browning without burning the pan. | Preheat, dry protein, oil shimmer, do not crowd. Quick fire-safety callback: what to do if oil starts smoking heavily or flames - lower heat, never add water, know where the extinguisher is. | Seared chicken breast or pork cutlet; rest and slice. |
-| Tuesday | I can explain what the pan is telling me. | Sound, steam, fond, sticking, smoke. | Short pan vocabulary check and line checks; Hospitality Scholars may replace lab. |
-| Wednesday | I can build a simple plate with protein, starch, and vegetable. | Timing multiple components, finishing seasoning. | Protein plate with rice/grain and vegetable. Optional quick pan jus. |
-| Thursday | I can prep Bistro items from a written prep list. | Student-built prep list before teacher approval. | Bistro prep; students track timing and station needs. |
-| Friday | I can communicate during service before I fall behind. | Delay language and support calls. | Bistro service; teacher observes timing and communication. |
-
-Line Check prompts:
-
-- What does a good sear need?
-- Why do proteins stick?
-- When should you lower the heat?
-- What is fond?
-
-Differentiation note:
-
-- Students who need support get one protein and one side. Ready students manage sauce or final plate timing.
-
-CKC alignment:
-
-- cooking methods, equipment use, workflow, communication
-
-Bistro prep/service notes:
-
-- Ask students to call one timing estimate before the teacher asks.
-
-Flex notes:
-
-- Cut pan sauce if time is tight.
-- Protect browning practice and service communication.
-
-## Week 8: Shrimp, Beef, Doneness, and Simple Sauces
-
-Core skill focus:
-
-- quick-cooking proteins
-- steak or beef doneness
-- shrimp timing
-- pan sauce or Alfredo-style sauce
-- holding quality
-
-Foodways/place connection:
-
-- Shrimp is a strong Lowcountry vehicle. Shrimp Alfredo is allowed here because it teaches pasta timing, shrimp cookery, sauce consistency, emulsification, seasoning, and holding quality.
-
-Suggested recipes or recipe types:
-
-- shrimp and grits
-- shrimp Alfredo
-- steak with pan sauce
-- Charleston crab cake as stretch/demo
-- sauteed vegetables
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can cook shrimp without overcooking it. | Shrimp size, visual doneness, carryover, seasoning timing. | Shrimp with grits, rice, or simple sauce. |
-| Tuesday | I can compare visual cues and thermometer use for doneness. | Steak doneness, rest, slice, carryover. | Short doneness station or small steak demo; line checks. |
-| Wednesday | I can make a simple sauce and control protein timing. | Deglaze/reduce or Alfredo consistency; sauce should coat, not glue. | Shrimp Alfredo, steak with pan sauce, or shrimp and grits depending on supplies. |
-| Thursday | I can prep Bistro proteins or sauces with holding quality in mind. | What holds well, what must be cooked closer to service. | Bistro prep; sauce and protein holding decisions. |
-| Friday | I can maintain product quality during Bistro service. | Taste and texture check before pickup. | Bistro service with product quality observation. |
-
-Line Check prompts:
-
-- Why does shrimp overcook quickly?
-- What does rest time do for steak?
-- What does deglaze mean?
-- How do you know a sauce is too thick?
-
-Differentiation note:
-
-- Keep shrimp portions small for repetition. Ready students can manage sauce timing; others focus on doneness and clean station control.
-
-CKC alignment:
-
-- cooking methods, temperatures, seafood handling, sauce basics
-
-Bistro prep/service notes:
-
-- Do not use shrimp for Bistro unless timing and food safety can be controlled.
-
-Flex notes:
-
-- Cut either shrimp or steak, not both.
-- Protect quick-protein timing and sauce consistency.
-
-## Week 9: CKC Practical Push and Kitchen Usefulness (Oct 5-9; Friday Half Day)
-
-Core skill focus:
-
-- CKC readiness
-- recipe scaling
-- station setup
-- knife, sanitation, cooking method, tasting, reset
-
-Foodways/place connection:
-
-- Use familiar local or student-favorite dishes as CKC vehicles: rice dish, sauteed vegetable, simple protein, or sauce. The credential should document kitchen competence, not replace it.
-
-Suggested recipes or recipe types:
-
-- scaled rice or red rice
-- sauteed vegetables
-- simple chicken or shrimp item
-- basic sauce
-- Bistro prep item
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can scale a recipe and build a mise list before cooking. | Yield, conversion factor, equipment check. | Scale a simple recipe; write mise and equipment list. |
-| Tuesday | I can answer CKC kitchen questions out loud and apply them. | Safety, sanitation, equipment, temperatures, workflow. | Line Check rotation; short station/equipment identification. |
-| Wednesday | I can complete a practical station check from setup to reset. | Practical check expectations and timing. | CKC-style practical: knife cut, simple cooking method, taste/adjust, clean reset. |
-| Thursday | I can apply CKC standards during real Bistro prep. | Teacher checks labels, safety, workflow, communication. | Bistro prep as credential evidence. |
-| Friday | I can show readiness during an abbreviated service block or practical debrief. | Half-day evidence priorities: communication, sanitation, follow-through, and reset. | Abbreviated service evidence, make-up check, or practical debrief; do not depend on a normal service block. |
-
-Line Check prompts:
-
-- What is your first step before scaling a recipe?
-- What is the danger zone?
-- What are three signs of professional station setup?
-- What is the difference between cleaning and sanitizing?
-
-Differentiation note:
-
-- Let students demonstrate CKC readiness through a narrower task if needed, but do not lower the sanitation or reset standard.
-
-CKC alignment:
-
-- This is the main Semester 1 CKC push. Formal testing can happen this week if students and logistics are ready.
-
-Bistro prep/service notes:
-
-- Thursday and Friday count as real readiness evidence.
-
-Flex notes:
-
-- If interrupted, move the formal CKC attempt.
-- Protect the practical check and station reset.
-
-## Week 10: Fish, Frying Setup, and Delicate Heat (Oct 12-16; Monday No Students)
-
-Core skill focus:
-
-- fish handling
-- delicate heat
-- dredging/breading systems
-- oil temperature
-- draining and immediate seasoning
-
-Foodways/place connection:
-
-- Fried whiting, fried flounder, fried shrimp, and catfish are strong local vehicles. Use what is affordable and available.
-
-Suggested recipes or recipe types:
-
-- fried whiting or flounder
-- fried shrimp
-- seared fish
-- gently poached fish
-- remoulade or comeback sauce
-- simple slaw
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | No student instruction. | Family Data Conferences/teacher workday. | No lab or service work. |
-| Tuesday | I can handle fish or seafood gently and safely. | Fish doneness, flake test, moisture control, and poaching liquid held below a boil. | Seared or gently poached fish sample with slaw or rice. |
-| Wednesday | I can set up a clean breading station and fry with controlled oil temperature. | Dry hand/wet hand, pan order, oil temperature, batch size, draining, immediate seasoning, and grease-fire response. | Combined breading/frying application using fish, shrimp, or another approved vehicle. |
-| Thursday | I can prep Bistro items without creating cross-contamination. | Fry station mise and holding limits. | Bistro prep; cold sauce, slaw, portioning, station bins. |
-| Friday | I can keep service clean when the station gets busy. | Fry/service cleanup and recovery. | Bistro service; focus on clean station under pressure. |
-
-Line Check prompts:
-
-- Why is fish less forgiving?
-- What happens when oil is too cold?
-- How do you keep breading organized?
-- When do you season fried food?
-
-Differentiation note:
-
-- Students who are not ready for hot oil can prep sauce, slaw, or dredge setup while still being held to station standards.
-
-CKC alignment:
-
-- seafood safety, cooking methods, equipment safety, sanitation
-
-Bistro prep/service notes:
-
-- Frying for Bistro requires teacher review. Use it only if station control is strong.
-
-Flex notes:
-
-- Cut fish searing or sauce if short.
-- Protect breading setup, oil safety, and cleanup.
-
-## Week 11: Roux, Bechamel, and Macaroni and Cheese
-
-Core skill focus:
-
-- roux control
-- bechamel
-- pasta timing
-- sauce texture
-- seasoning correction
-
-Foodways/place connection:
-
-- Macaroni and cheese is a community and student-favorite vehicle. It is not fluff. It teaches sauce structure, pasta timing, holding quality, and seasoning.
-
-Suggested recipes or recipe types:
-
-- stovetop mac and cheese
-- baked mac and cheese as stretch
-- bechamel
-- cheese sauce
-- simple vegetable side
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can make a roux without scorching it. | Fat/flour ratio, whisking, color, heat control. | White and blond roux samples; turn one into bechamel. |
-| Tuesday | I can adjust a sauce that is too thick, thin, bland, or lumpy. | Napper, simmer, scorch, strain, loosen, season. | Sauce repair stations or quick sauce vocabulary line checks. |
-| Wednesday | I can make macaroni and cheese with controlled sauce texture. | Pasta timing, sauce hold, cheese off high heat. | Stovetop mac and cheese; compare holding quality. |
-| Thursday | I can prep sauce-based Bistro items without breaking them. | Cooling, reheating, loosening, tasting again. | Bistro prep; sauce items reviewed before storage. |
-| Friday | I can serve sauce-based food at the right texture. | Final texture and seasoning check. | Bistro service; sauce quality observed under pressure. |
-
-Line Check prompts:
-
-- What burns first in a roux?
-- How do you prevent lumps?
-- What should you do if a sauce is too thick?
-- Why can cheese sauce break?
-
-Differentiation note:
-
-- Give students who need support one sauce target. Ready students troubleshoot a broken or too-thick sample.
-
-CKC alignment:
-
-- cooking methods, equipment, sauce basics, sanitation, recipe following
-
-Bistro prep/service notes:
-
-- Sauce holding is the focus. Students should taste after reheating, not assume.
-
-Flex notes:
-
-- Cut baked mac if time is tight.
-- Protect roux, sauce texture, and pasta timing.
-
-## Week 12: Reductions, Emulsions, and Shrimp Alfredo
-
-Core skill focus:
-
-- reduction
-- emulsification
-- pasta timing
-- shrimp cookery review
-- sauce consistency and holding
-
-Foodways/place connection:
-
-- Shrimp Alfredo is a useful student-favorite vehicle. It also opens an honest conversation: not every valued classroom dish has to be "traditional" to teach real kitchen judgment.
-
-Suggested recipes or recipe types:
-
-- shrimp Alfredo
-- pan sauce
-- vinaigrette or remoulade
-- pepper vinegar or herb sauce
-- shrimp and grits as alternate
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can reduce a liquid and taste how flavor changes. | Reduction, salt timing, concentration. | Simple pan sauce or stock reduction with tasting checkpoints. |
-| Tuesday | I can make and fix a basic emulsion. | Temporary vs stable emulsion, broken sauce signs. | Vinaigrette, remoulade, or herb sauce practice. |
-| Wednesday | I can coordinate pasta, shrimp, and sauce timing. | Pasta water, sauce consistency, shrimp carryover, holding. | Shrimp Alfredo or shrimp and grits. |
-| Thursday | I can prep Bistro sauces and cold items for service. | Sauce labels, storage, reheating plan. | Bistro prep; sauce mise and quality check. |
-| Friday | I can hold and serve sauce-based food without letting quality collapse. | Final service tasting and adjustment. | Bistro service; sauce and communication evidence. |
-
-Line Check prompts:
-
-- Why can a reduced sauce become too salty?
-- What does emulsion mean?
-- How do you loosen Alfredo without making soup?
-- Why does shrimp timing matter?
-
-Differentiation note:
-
-- Use fewer moving parts for groups that need it. Ready groups can manage shrimp, pasta, and sauce without teacher timing calls.
-
-CKC alignment:
-
-- cooking methods, recipe timing, seafood handling, sauce preparation
-
-Bistro prep/service notes:
-
-- Shrimp Alfredo should only be a Bistro item if the holding plan is realistic. Otherwise keep it as a lab.
-
-Flex notes:
-
-- Cut either reduction or emulsion station if needed.
-- Protect sauce consistency and timing.
-
-## Week 13: Soup Structure and Simmer Control (Nov 2-6; Tuesday Election Day)
-
-Core skill focus:
-
-- soup structure
-- simmer control
-- seasoning liquid
-- blending safety
-- garnish and holding
-
-Foodways/place connection:
-
-- She-crab soup, okra soup/gumbo, catfish stew, and collards with potlikker can all support soup and simmer lessons. Use the one that fits budget and schedule.
-
-Suggested recipes or recipe types:
-
-- broth-based soup
-- pureed soup
-- cream soup or chowder
-- okra soup
-- she-crab soup as demo or stretch
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can build a soup in the right order. | Sweat aromatics, add liquid, simmer, skim, season. | Broth-based soup or okra soup structure. |
-| Tuesday | No student instruction. | Election Day; schools closed. | No lab or service work. |
-| Wednesday | I can control texture in a pureed, thickened, or cream soup without scorching or breaking it. | Blending safety, viscosity, dairy control, simmer vs. boil, and final seasoning. | Combined texture-control soup station or teacher demo with student tasting. |
-| Thursday | I can batch soup for Bistro with safe cooling and labels. | Cooling shallow, label, reheat plan. | Bistro prep; soup batch production or component prep. |
-| Friday | I can serve soup at the right temperature, texture, and portion. | Holding and garnish control. | Bistro service; soup service if on menu. |
-
-Line Check prompts:
-
-- What order do soup ingredients enter the pot?
-- Why simmer instead of boil?
-- How do you fix a flat soup?
-- What makes soup unsafe to store?
-
-Differentiation note:
-
-- Students who need support can own one soup stage. Ready students manage seasoning adjustment and garnish quality.
-
-CKC alignment:
-
-- cooking methods, temperatures, cooling, reheating, sanitation
-
-Bistro prep/service notes:
-
-- Soup is a strong Bistro item if cooling and reheating are controlled.
-
-Flex notes:
-
-- Cut pureed soup if the week is interrupted.
-- Protect simmer control, seasoning, and cooling safety.
-
-## Week 14: Moist Heat, Rice Dishes, and Batch Production
-
-Core skill focus:
-
-- braising/stewing
-- rice dish structure
-- long cooking inside school blocks
-- batch production
-- reheating without damage
-
-Foodways/place connection:
-
-- Chicken bog, chicken perloo, red rice, crab rice, Hoppin' John, collards with potlikker, lima beans with rice, and Country Captain can all teach structure, timing, and place.
-
-Suggested recipes or recipe types:
-
-- chicken perloo or chicken bog
-- red rice
-- Hoppin' John
-- collards with potlikker
-- stewed chicken
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can explain the steps of braising or stewing. | Sear, aromatics, liquid, cover, low heat, finish. | Stewed chicken start or braise method demo. |
-| Tuesday | I can plan a long-cook dish around class time. | What starts early, what can hold, what finishes last. | Timeline plan for perloo, red rice, or braise; Hospitality Scholars may replace lab. |
-| Wednesday | I can produce a rice or moist-heat dish with controlled texture. | Rice absorption, liquid ratio, covered cooking, rest. | Chicken perloo, red rice, Hoppin' John, or stewed chicken with rice. |
-| Thursday | I can prep a batch item for Bistro without losing quality. | Reheat, hold, adjust liquid, taste again. | Bistro prep; batch rice, stew, greens, beans, or sauce. |
-| Friday | I can serve a batch item consistently. | Portion, texture, heat, product check. | Bistro service; focus on holding and portion consistency. |
-
-Line Check prompts:
-
-- Why sear before braising?
-- How much liquid does a braise need?
-- Why does rice need rest time?
-- What changes when a recipe is scaled up?
-
-Differentiation note:
-
-- Give students a timeline skeleton if they need it. Ready students write the timeline and identify risk points.
-
-CKC alignment:
-
-- recipe scaling, cooking methods, temperatures, workflow, holding
-
-Bistro prep/service notes:
-
-- This is a good week to let students lead parts of Thursday prep, with teacher approval before cooking.
-
-Flex notes:
-
-- Cut the second rice dish option.
-- Protect timeline planning, rice texture, and holding quality.
-
-## Week 15: Eggs, Cold Station, and Emulsions
-
-Core skill focus:
-
-- egg cookery
-- cold station organization
-- emulsions
-- seasoning adjustment
-- clean service prep
-
-Foodways/place connection:
-
-- Deviled eggs and pimento cheese are practical Lowcountry/Southern and student-friendly vehicles for cold station standards, seasoning, and service prep.
-
-Suggested recipes or recipe types:
-
-- deviled eggs
-- pimento cheese
-- egg salad
-- remoulade
-- simple composed cold plate
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can cook eggs to the correct doneness and cool them safely. | Boiling, shocking, peeling, carryover, storage. | Hard-cooked eggs for deviled eggs or egg salad. |
-| Tuesday | I can make a cold item with balanced seasoning and clean presentation. | Emulsion, texture, salt/acid/heat. | Deviled eggs, pimento cheese, or remoulade. |
-| Wednesday | I can organize a cold station for service. | Portioning, holding cold, garnish, clean tools. | Cold plate or Bistro-ready cold item; quality check before service. |
-| Thursday | I can prep cold Bistro items safely and neatly. | Time out of temperature control, labels, covered storage. | Bistro prep; cold station focus. |
-| Friday | I can keep cold station service organized under pressure. | Pickup readiness and restocking. | Bistro service; cold station observation. |
-
-Line Check prompts:
-
-- How do you cool eggs safely?
-- What does an emulsion do?
-- What does acid add to a cold item?
-- What makes a cold station service-ready?
-
-Differentiation note:
-
-- Students who need support can focus on clean portioning and station setup. Ready students adjust seasoning and presentation.
-
-CKC alignment:
-
-- cold holding, sanitation, recipe reading, seasoning, service readiness
-
-Bistro prep/service notes:
-
-- Strong week for pimento cheese or deviled eggs as Bistro items if storage and service are manageable.
-
-Flex notes:
-
-- Cut one cold item.
-- Protect egg safety, seasoning, and cold holding.
-
-## Week 16: Batter, Breading, and Frying Control
-
-Core skill focus:
-
-- batter consistency
-- dredging and breading
-- oil temperature
-- fry station cleanliness
-- draining and seasoning
-
-Foodways/place connection:
-
-- Fried green tomatoes, fried shrimp, fried whiting/flounder, and fried catfish connect directly to local and student food culture while teaching fry-station discipline.
-
-Suggested recipes or recipe types:
-
-- fried green tomatoes
-- fried shrimp
-- fried fish
-- remoulade or comeback sauce
-- slaw or chow chow
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can set up a dredging or batter station cleanly. | Pan order, dry/wet hand, batch size, station mess control. | Fried green tomato prep or breading practice. |
-| Tuesday | I can explain how oil temperature affects fried food. | Too cold, too hot, recovery time, draining. | Small fry demo or oil-temperature line checks. |
-| Wednesday | I can fry food cleanly and season it at the right time. | Fry, drain, season, hold, reset. | Fried green tomatoes, fried shrimp, or fried fish with sauce. |
-| Thursday | I can prep Bistro items without letting fry work take over the kitchen. | Fry station planning and cleanup plan. | Bistro prep; sauces, slaw/chow chow, portions, station bins. |
-| Friday | I can maintain a clean station during a high-mess service. | Trash, towels, pans, floor awareness. | Bistro service; station cleanliness under pressure. |
-
-Line Check prompts:
-
-- What happens when oil is too cold?
-- What happens when oil is too hot?
-- When do you season fried food?
-- How do you keep a breading station clean?
-
-Differentiation note:
-
-- If hot oil is too much for a student, keep them in sauce, slaw, setup, or quality check while still requiring clear communication and clean work.
-
-CKC alignment:
-
-- equipment safety, cooking methods, sanitation, workflow
-
-Bistro prep/service notes:
-
-- Frying in Bistro should be teacher-approved only. The class must prove station control first.
-
-Flex notes:
-
-- Cut seafood if cost or time is tight; use fried green tomatoes.
-- Protect fry setup, oil safety, and cleanup.
-
-## Week 17: Baking Control, Biscuits, and Practical Review
-
-Core skill focus:
-
-- measuring
-- mixing method
-- oven timing
-- batter/dough handling
-- practical review
-
-Foodways/place connection:
-
-- Biscuits, banana pudding, benne wafers, chewies, and sweet potato pie can all teach precision. For Semester 1, keep it simple: biscuits or banana pudding are realistic entry points.
-
-Suggested recipes or recipe types:
-
-- biscuits
-- banana pudding
-- one reliable cake
-- simple custard-based dessert
-- simple quick bread or muffin
-- practical check components
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can measure and mix with more precision than a cooking lab usually requires. | Dry vs liquid measure, grams if available, overmixing. | Biscuit or quick bread prep. |
-| Tuesday | I can explain how mixing affects texture. | Gluten development, tenderness, oven timing. | Biscuit comparison, banana pudding prep, or practical review line checks. |
-| Wednesday | I can complete a practical review lab with clean timing. | Review weak spots: knife, sauce, protein, rice, station reset. | Teacher-selected practical review lab based on class need. |
-| Thursday | I can prep Bistro while protecting baking or dessert quality. | Cooling, covering, portioning, storage. | Bistro prep; dessert or bread component if useful. |
-| Friday | I can serve and reset without losing focus at the end of the semester. | Follow-through and final station reset. | Bistro service; teacher tracks independence and follow-through. |
-
-Line Check prompts:
-
-- Why does overmixing matter?
-- What is the difference between cooking by feel and measuring for baking?
-- What kitchen habit still breaks down for you?
-- What makes a station trustworthy?
-
-Differentiation note:
-
-- Some students need a measured mise tray before mixing. Ready students can troubleshoot texture and timing.
-
-CKC alignment:
-
-- recipe accuracy, measuring, equipment, workflow, practical readiness
-
-Bistro prep/service notes:
-
-- Dessert or biscuit items can support Bistro if they do not crowd the prep day.
-
-Flex notes:
-
-- Cut banana pudding or dessert component.
-- Protect one baking-control rep and practical review.
-
-## Week 18: Semester Practical and Culmination (Dec 14-18; Friday Half Day)
-
-Core skill focus:
-
-- practical execution
-- station ownership
-- timing
-- tasting and adjustment
-- composure under pressure
-
-Foodways/place connection:
-
-- Let the practical use a familiar vehicle from the semester: rice dish, simple protein, sauce, vegetable, cold item, or fry item. The goal is usefulness, not surprise.
-
-Suggested recipes or recipe types:
-
-- simple composed plate
-- rice plus protein plus sauce/vegetable
-- Bistro station practical
-- teacher-selected skill check
-
-| Day | I can... | Mini Lesson / Micro Demo | Lab / Application |
-| --- | --- | --- | --- |
-| Monday | I can prepare for a practical by naming the standard and the likely risks. | Practical expectations, timing, station reset. | Review station setup, recipe marking, and weak class skills. |
-| Tuesday | I can answer line checks and make small corrections before the final practical. | Rapid recall: safety, heat, sauce, rice, service. | Line Check rotation or small station checks; Hospitality Scholars may replace this. |
-| Wednesday | I can complete a timed practical from setup to reset. | Minimal demo; clarify target and time. | Semester practical: teacher-selected task with tasting, sanitation, communication, and reset evidence. |
-| Thursday | I can support Bistro prep or semester kitchen reset responsibly. | What the kitchen needs before break. | Bistro prep if service is active; otherwise deep reset and inventory support. |
-| Friday | I can finish the semester with an abbreviated reset and honest reflection. | Half-day debrief: what improved and what still breaks under pressure. | Final reset, practical debrief, and reflection; do not schedule a normal Bistro service. |
-
-Line Check prompts:
-
-- What do you do when you fall behind?
-- What does useful without supervision look like?
-- What is one adjustment you made this semester?
-- What must be protected during the last 15 minutes?
-
-Differentiation note:
-
-- Keep the practical focused enough that students can show real skill. Do not make the final a scavenger hunt of every skill in the course.
-
-CKC alignment:
-
-- cumulative practical evidence: safety, sanitation, recipe reading, cooking method, communication, reset
-
-Bistro prep/service notes:
-
-- If Bistro service continues, use it as performance evidence. If the calendar is disrupted, prioritize kitchen reset and practical completion.
-
-Flex notes:
-
-- Cut reflection length and extra products.
-- Protect the practical, station reset, and closure conversation.
+Reflection/retraining occurs when evidence requires it; do not create a special formal Service 1/Service 2 curriculum beyond the existing two-service rotation.
