@@ -4,32 +4,127 @@
 Document the Bistro as the program's student-led restaurant experience and central applied-learning system.
 
 ## Mission
-The Bistro gives students the opportunity to apply kitchen and hospitality skills through preparation, service, teamwork, communication, and guest interaction in a working environment. It supports uniforms, food, equipment, class library, tools, field trips, competitions, and other program needs.
+The Bistro gives students the opportunity to apply kitchen and hospitality skills through preparation, service, teamwork, communication, and guest interaction in a working environment. Learning and safety remain more important than maximum sales volume.
+
+Bistro is not a separate curriculum unit. It is the authentic performance environment for fundamentals students build from Day 1.
 
 ## Weekly Rhythm
+
 | Day | Role |
 |---|---|
-| Monday-Wednesday | New learning, skill labs, prep foundations, menu reinforcement |
-| Thursday | Bistro prep, production planning, station setup, labels, holding/storage |
-| Friday | Bistro service, guest interaction, closing, reflection |
+| Monday-Wednesday | **BUILD THE FUNDAMENTALS** — instruction, practice, correction, food/workplace safety, recipe literacy, technique, communication, Professional Thinking |
+| Thursday | **PLAN THE WORK** — Bistro Prep Rhythm |
+| Friday | **WORK THE PLAN** — Bistro Rhythm, guest interaction, reset/closing, reflection |
 
-During Thursday Bistro Prep, students retain their current weekly lab cleaning responsibilities while completing production work. Friday Bistro Service uses the Bistro rotation's opening, service, and closing responsibilities instead of the Monday-Thursday lab-job structure.
+See [Bistro Prep and Service Rhythms](Bistro_Rhythms.md).
+
+During Thursday Bistro Prep, students retain their current weekly lab cleaning responsibilities while completing individual/pair production work. Friday Bistro Service uses the Bistro rotation's Opening, During Service, and Reset/Closing responsibilities instead of the Monday-Thursday lab-job structure.
 
 ## Launch Model
-The Bistro should open only after students have practiced safety, sanitation, dish systems, menu knowledge, roles, stocking, Life of an Order, and mock service. For 2026-2027, Weeks 1-3 build readiness. Week 4 (August 31-September 4) continues Bistro systems, training, and mock service only; there is no soft opening or public service. Friday, September 4 is an early-release day and may be used for additional training while the instructor is out of town. The Bistro opening and first public-service target is Friday, September 11 in Week 5. The instructor retains authority to reduce, postpone, modify, or pause service for readiness and safety. See `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` and `../../00_Core/DECISION_REGISTER.md` (D002).
+
+Week 5 is the normal first-public-service target for both fall and spring Culinary 1 cohorts and the aligned operating-program opening/relaunch target when the calendar allows. The instructor retains authority to reduce, postpone, modify, or pause service for readiness, safety, or calendar conditions.
+
+Weeks 1-3 deliberately build the fundamentals Bistro will test. Week 4 assembles those fundamentals into Prep and Service systems. Week 5 begins authentic performance.
+
+Culinary 2 recalibrates to the **current** WACOS operating system before opening regardless of where or when students previously took Culinary. Prior experience does not substitute for current-system training; the instructor may accelerate when current competence is demonstrated.
+
+### Required Pre-Opening Outcomes
+
+Before first public service, students experience:
+
+- Work Ready and Kitchen Ready routines;
+- Life of an Order and all five current teams;
+- graceful-urgency arrival/opening rehearsal;
+- whole-group Service simulation in a populated dining room;
+- Barista operating-system training;
+- situational awareness across all five teams;
+- Practice Bistro Prep using low-stakes/non-menu production work;
+- Production Preflight;
+- clean-stop and handoff-note practice;
+- whole-operation Reset & Closing rehearsal;
+- cumulative food-safety and workplace-safety application;
+- at least one complete mock-service cycle, which may be brief and use simulated/simplified food.
+
+Week 4 is governed by these required outcomes, not a rigid Monday-Friday training sequence. Rearrange, combine, extend, or accelerate according to calendar and demonstrated readiness.
+
+## Work Ready, Kitchen Ready, and Graceful Urgency
+
+**Work Ready** is the broad program readiness concept. Current Bistro arrival language includes:
+
+**ID → Clock In → Lock In → Park It → Stow Belongings → Notebook → Pen → A Plan → Report to Station**
+
+**Kitchen Ready** remains the specific safety/access gate for practical kitchen participation and includes the current confirmed footwear/material requirements.
+
+Students may arrive from very different parts of the school day while guests are already present. Teach **graceful urgency**: purposeful movement, calm communication, and immediate action without running, panic, or chaos.
+
+## Thursday Bistro Prep — Plan the Work
+
+Thursday Prep is production work, not a normal team lab.
+
+### Bistro Huddle
+
+Begin every real Prep with a brief whole-group huddle covering only current-service differences: menu/specials, special guests or reservations, expected volume, timing/schedule changes, shortages/86s, unusual conditions, and important carryover learning. Permanent expectations stay on checklists.
+
+### Production Assignments
+
+Students normally receive individual production assignments. Use pairs when the work reasonably benefits from two people. Students retain Dishes, Counters & Surfaces, Storage, Floors, and Laundry responsibilities while owning assigned production.
+
+### Production Preflight
+
+Before production, the student identifies product, recipe yield, assigned quantity, scaling status, units, complete procedure, complete mise en place, and first step. Notebook plus brief instructor/Teaching Assistant verification is sufficient unless another current form is required.
+
+**No checkoff → no production.**
+
+### Clean Stop and Handoff
+
+Normally stop production at least 15 minutes before the bell. Unfinished work stops at a logical point, follows current storage/labeling requirements, and receives useful handoff notes stating what it is, what is complete, what happens next, and where components are located. Clean and reset before leaving.
+
+### Practice Bistro Prep
+
+Before the first real Prep, students complete Practice Bistro Prep using low-stakes/non-menu work. The purpose is rehearsing the production-management system, not gaining an extra day of real Bistro production.
+
+## Friday Bistro Service — Work the Plan
+
+Use the permanent Bistro Rhythm:
+
+1. **Arrive On Time and Work Ready**
+2. **Open Your Station**
+3. **Own Your Area**
+4. **Communicate**
+5. **Stay Aware — See the Whole Operation**
+6. **Be Useful**
+7. **Do the Work**
+8. **Clean as You Go**
+9. **Reset Your Station**
+10. **Close When Required**
+
+Instructor teaching language may use:
+
+**I don't need to know if you can cook. I need to know if you can work.**
+
+Every team uses:
+
+**What do you notice? What does it mean? What needs to happen next?**
+
+Awareness does not mean abandoning assigned responsibilities. Students respond within their role, training, and authorization.
 
 ## Life of an Order
-The full guest-to-reset walkthrough lives in `02_Bistro/SOPs/Life_of_an_Order.md`, which is the current source of record. At a summary level: the host greets first and completes OnTime/ILT check-in; ordering guests receive an individual queue number while non-ordering guests receive no number; POS takes and confirms the order; reservations still require arrival, individual numbering, Square entry, and payment; Barista owns Barista tickets and Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, and physical production cues; Service owns the guest experience and delivery; LATTE governs recovery; and every station resets its own area while Support protects shared shutdown flow.
+
+The full guest-to-reset walkthrough lives in `../SOPs/Life_of_an_Order.md`, which is the current source of record. Students learn both the sequence and how to see it unfolding in real time across the Bistro.
+
+At a summary level: the host greets first and completes OnTime/ILT check-in; ordering guests receive an individual queue number while non-ordering guests receive no number; POS takes and confirms the order; Barista owns Barista tickets and Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, and physical production cues; Service owns the guest experience and delivery; LATTE governs recovery; and every station resets its own area while Support protects shared shutdown flow.
 
 ## Bistro Rotations
 
 The five current Bistro rotations are **Service, Barista, Line Cooks, Support, and Expo / Floaters**.
 
-Students receive their starting Bistro positions before opening week and remain in each position for two consecutive services before rotating. Students may use the current digital menu/recipe folder as a professional reference; they are not required to memorize every recipe. **Everybody understands the operation. Each position goes deeper where its responsibilities require it.** Line Cooks and Barista know recipes relevant to assigned production; Service knows the menu well enough to describe it accurately without guessing about allergens; Support maintains operational awareness; Expo / Floaters maintains broad menu and order recognition sufficient to verify completeness and protect flow.
+Students receive their starting Bistro positions before opening week and remain in each position for two consecutive services before rotating. Do not create a separate special Service 1/Service 2 curriculum beyond the existing rotation.
+
+Students may use the current digital menu/recipe folder as a professional reference; they are not required to memorize every recipe. **Everybody understands the operation. Each position goes deeper where its responsibilities require it.**
 
 | Rotation | Primary Ownership |
 |---|---|
-| Service | Guest experience: host, server, runner/busser, table service and reset |
+| Service | Guest experience: host/check-in, POS, runner/busser, dining-room service and reset |
 | Barista | Beverage and pastry production/service |
 | Line Cooks | Food production |
 | Support | Stewarding and operational cleanliness |
@@ -37,91 +132,91 @@ Students receive their starting Bistro positions before opening week and remain 
 
 ### Expo / Floaters
 
-Expo is the Expo / Floaters team's home base and anchor responsibility. One Expo student keeps Expo covered during active production ticket flow while other Floaters may deploy according to this priority order:
-
-1. Fill an absence or instructor-assigned gap.
-2. Respond to the most immediate operational need.
-3. Complete assigned delivery, running, or lunch-opening work.
-4. Help a rotation that is falling behind within training/authorization.
-5. Retrieve/restock supplies and reset shared areas.
-6. Cross-train when the operation is under control.
-7. Find other useful work.
-
-**Standby does not mean standing around.** The instructor assigns or redirects Floaters as service conditions change. Leadership within a rotation does not create another team or expand student authority.
+Expo is the Expo / Floaters team's home base and anchor responsibility. One trained Expo student keeps Expo covered during active production ticket flow while other Floaters may deploy according to current priorities and authorization.
 
 Use the Expo / Floaters operating loop:
 
-**Expo -> Line Cooks -> Service -> Barista -> Support -> Expo**
+**Expo → Line Cooks → Service → Barista → Support → Expo**
 
-See [Expo / Floaters Team SOP](../SOPs/Expo_Floaters_Team_SOP.md).
+Use **Scan → Identify → Communicate → Act → Reassess**.
 
-### Rotation Rhythm
+## Service Training
 
-Teams normally remain in a Bistro rotation for two consecutive Bistro services before moving to the next rotation. The first service emphasizes learning the position; the second emphasizes improved execution and independence. One common five-team rotation system is used rather than separate Culinary 1 and Culinary 2 rotation systems unless the instructor directs otherwise.
+Initial Service training is whole-group and instructor-led with a populated dining room so students can see the complete guest experience. The Teaching Assistant reinforces and coaches the established system afterward.
 
-Each rotation uses durable guidance organized as Opening, During Service, and Closing/Reset. Variable service-day information such as current menu, pars, prep quantities, specials, reservations, stock counts, and new-item details belongs on current readiness/prep references rather than being hard-coded into the durable station SOP.
+Train guest acknowledgment, queue-number flow, purposeful circulation rather than hovering, accurate delivery, refills, clearing, table reset, and recognizing where guests/orders are in the Life of an Order.
 
-**The station checklist changes when the operation changes. The service-day sheet changes when the menu changes.**
+## Barista Training
 
-Earlier classes reset for the next class. Culinary 2, during the double path of Paths 5 and 8, performs final closing and shutdown; Planning follows in Paths 6 and 7.
+Students do not need to memorize every drink before service. They need to know how to operate the station:
+
+**Open → Organize → Receive Ticket → Use Build Reference → Produce → Verify → Handoff → Complete Ticket → Clean/Restock → Reset/Close**
+
+Current drink-build references remain at the station.
+
+## Clean as You Go, Reset, and Close
+
+These are distinct:
+
+- **Clean as You Go:** maintain the station while operating.
+- **Reset:** leave the station ready for the next class, shift, or service.
+- **Close:** perform final shutdown when required.
+
+Week 4 includes a whole-operation Reset & Closing rehearsal. Students physically execute current checklists and adults inspect the completed operation before release.
+
+Earlier classes reset for the next class. The final responsible class completes shutdown under the current schedule and station SOPs.
+
+## Cumulative Safety Performance
+
+Bistro Prep and Service are cumulative food-safety and workplace-safety performance environments. In Culinary 1, expectations accumulate as practices are introduced. Culinary 2 recalibrates to current systems and moves toward **safety fluency under pressure**.
+
+Once a practice has been taught, students are expected to apply it during authentic work without the instructor announcing it as the day's safety target.
 
 ## Bistro Assessment
 
-Bistro performance remains in Summative Assessments: Projects, Tests, and Bistro. During live service, the instructor and Teaching Assistant may divide observation coverage by named student, current team, station, or service area. Evidence is gathered during opening/readiness, active service, and closing/reset using the concise [Bistro Manager Observation Record](../../03_Assessment/Tools/Bistro_Manager_Observation_Record.md). The [Assessment System](../../03_Assessment/06_Assessment_System.md) governs codes, insufficient evidence, combined observer records, holistic bands, and instructor authority.
+Bistro performance remains in Summative Assessments: Projects, Tests, and Bistro. During live service, the instructor and Teaching Assistant may divide observation coverage by named student, current team, station, or service area. Evidence is gathered during opening/readiness, active service, and reset/closing using the current Bistro observation system.
 
 Observers record evidence. The instructor assigns the final grade. A serious safety, sanitation, or conduct concern requires immediate intervention and separate instructor review when needed.
 
 ## Before Service Checklist
-- Menu, sides, condiments, and specials reviewed.
-- Prep list visible.
+
+- Current menu, sides, condiments, and specials reviewed.
 - Five rotations assigned.
-- Sanitizer set and checked.
-- Service, Barista, Line Cooks, Support, and Expo / Floaters stations/areas prepared per their current SOP/readiness sheet.
+- Current station SOP/readiness references available.
+- Sanitizer and applicable safety systems ready.
 - Queue numbers accounted for and ready.
-- Labels and storage containers ready.
-- Recipes/current menu references printed or linked.
-- Timelines posted.
-- Expo ticket holder/stabber and Line Cooks-to-Service handoff area ready.
-- Student leaders know escalation path.
+- Recipes/current menu/build references available where needed.
 - OnTime check-in, queue numbers, hall passes, ticket printers, ticket holders, handoff tables, and stabbers ready.
 
 ## During Service
-- Instructor and Teaching Assistant should facilitate, coach, observe, and grade live when possible.
-- Students should not depend on adults to find every spoon, condiment, container, or ingredient.
+
+- Instructor and Teaching Assistant facilitate, coach, observe, and grade live when possible.
+- Students use station resources rather than depending on adults to find every item or narrate every next step.
 - One missed role can break the entire restaurant; students must understand interdependence.
 - POS is the order-taking point; Service students do not take seated-table orders.
-- Expo / Floaters owns production tickets. Line Cooks work from calls, callbacks, physical cues, sequencing, and status communication rather than seeing or reading tickets.
-- Service owns the guest experience after the order enters Square and anticipates needs by continually scanning the room.
-- Guest recovery uses LATTE: Listen, Acknowledge, Take action, Thank, Ensure satisfaction. Protect the system, assume good faith, do not argue, act within role authority, and involve the instructor for financial, safety, escalating, or unresolved concerns.
-- Every station cleans its own station. Support protects dish flow, stewarding, shared cleanliness, and the progressive back-to-front shutdown.
+- Expo / Floaters owns production tickets. Line Cooks work from calls, callbacks, physical cues, sequencing, and status communication rather than seeing/reading tickets.
+- Service owns the guest experience after the order enters Square and anticipates needs by scanning the room.
+- Guest recovery uses LATTE within existing authority.
+- Every station cleans its own station. Support protects dish flow, stewarding, shared cleanliness, and progressive shutdown.
 
 ## Payment and Redemption
 
-- The Bistro accepts cash and checks payable to **WAHS**.
-- Square records sales and produces station tickets; it does not process the current cash/check payments.
-- Approved PBIS incentives and Bistro coins are noncash meal redemptions.
-- Ring the actual meal, send the appropriate station ticket(s), and apply the approved `PBIS Incentive` or `Bistro Coin` comp reason.
-- Use the backup receipt system if Square is unavailable.
-- Follow the complete [Bistro Payment and Deposit Workflow](../SOPs/Bistro_Payment_and_Deposit_Workflow.md).
+Current payment, comp, deposit, and Square-outage controls remain governed by `../SOPs/Bistro_Payment_and_Deposit_Workflow.md`. This curriculum/operating update does not change those financial controls.
 
 ## After Service
-- Store and label food.
-- Record waste, shortages, and menu issues.
-- Complete rotation closing checklist.
+
+- Store and label food under current procedures.
+- Record waste, shortages, and menu issues as required.
+- Complete rotation reset/closing checklist.
 - Complete dish, laundry, trash, floors, equipment, and cooler reset.
-- Submit self-reflection/self-grade when assigned.
-- Record live grading notes before memory fades.
-- Download the detailed Square transactions report, reconcile cash and checks, review PBIS and Bistro coin comps, and assemble the deposit packet.
-- Complete the deposit Friday when time permits; otherwise secure it and complete the deposit Monday.
+- Complete assigned reflection/assessment evidence when used.
+- Complete current financial/deposit workflow.
 
+## Operational Follow-Up
 
-## Stable Five-Team Bistro Decision — August 26, 2026
+The Week 5 first-service implementation exposed two issues requiring separate operational review rather than invented curriculum rules:
 
-The five current instructional and Bistro teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. The same teams carry into service. Each team remains in one position for two consecutive services before rotating through one repeating ten-service cycle shared by Culinary 1 and Culinary 2. Thursday Bistro Prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position Opening, During Service, and Closing responsibilities.
+- a reliable approved fallback when OnTime/Kiosk guest check-in fails;
+- a reliable process for accepted phone/email/remote orders to enter Square promptly rather than operating as loose parallel paper orders.
 
-Service owns the guest experience; Barista beverage and pastry production/service; Line Cooks food production; Support stewarding and operational cleanliness; and Expo / Floaters operational flow, with Expo as its home base. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
-
-
-### Training Sequence
-
-Life of an Order remains the whole-operation foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Teach minimum safe and useful entry skills, then coach on the job.
+These are tracked separately and do not change existing district attendance or financial controls until confirmed.
