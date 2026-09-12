@@ -2,382 +2,187 @@
 
 ## Purpose
 
-This is the one-semester planning spine for Culinary 1. It organizes the existing 11-unit curriculum across 18 instructional weeks while preserving instructor judgment when enrollment, block length, equipment, product, school events, or student readiness changes.
+This is the one-semester planning spine for Culinary 1. Use it to decide what must be learned by the end of each week; use Daily Teaching Guides to decide how a section gets there.
 
-Use this guide to decide **what must be learned by the end of each week**. Use Daily Teaching Guides to decide how a specific section gets there.
+Culinary 1 is a foundation and exploration course. The Bistro is the authentic performance environment for the fundamentals students build from Day 1.
 
-The sequence is modular on purpose. The calendar will move. Safety, readiness, and durable beginner competence remain the priorities.
+## Governing Opening Architecture
 
-## Course Identity
+- **Weeks 1-3:** deliberately build the component fundamentals Bistro will test.
+- **Week 4:** assemble those fundamentals into current Prep and Service systems through required outcomes rather than a rigid daily sequence.
+- **Week 5:** normal first-public-service target when readiness, safety, and calendar allow.
+- Once Bistro operates: **Monday-Wednesday — BUILD THE FUNDAMENTALS; Thursday — PLAN THE WORK; Friday — WORK THE PLAN.**
+- The instructor may reduce, postpone, modify, or pause Bistro for readiness, safety, or calendar.
 
-Culinary 1 is a foundation and exploration course. It should give every student:
-
-- practical safety and sanitation habits;
-- a ServSafe Food Handler credential target;
-- basic recipe, measurement, knife, heat, flavor, and protein experience;
-- authentic Bistro exposure after readiness is demonstrated;
-- durable cooking and employability skills whether or not the student continues to Culinary 2.
-
-Culinary 1 should not attempt to become restaurant school in one semester. Foundations come before expensive product, speed, or complexity.
+See `../../02_Bistro/Operations/Bistro_Rhythms.md` and `../../00_Core/2026-09-12_Bistro_Opening_and_Rhythms_Decision.md`.
 
 ## Governing Planning Rules
 
-- Culinary 1 meets in paths 1-2 and 3-4.
-- Plan for equivalent weekly learning, not identical daily pacing.
-- Core Learning protects the weekly anchor in shorter blocks; Flexible Learning absorbs additional time.
-- First-ten-day plans must tolerate enrollment changes, IDs, schedule corrections, and interrupted class time.
-- Treat early production as systems-integration work. The food product is a vehicle for students to combine Kitchen Mode, navigation, communication, safety, sanitation, equipment use, workflow, clean-as-you-go, and reset; it is not the only learning target.
-- Treat food produced in Culinary as a product with an instructor-approved purpose. Making it does not make it automatic student food. Students identify the intended use, expected yield, portion plan, approved destination, and required handling or storage before production begins.
-- Teach through movement and kitchen practice when a worksheet or explanatory slide does not improve learning.
-- Minimize front-loading before labs. Give safety and equipment instruction when students need it.
-- Print only materials students must mark, use during production, or retain as evidence.
-- Flames are off at least 15 minutes before the bell.
-- No lab is complete until storage, dish, laundry, equipment, counters, trash, floors, and station reset are addressed.
-- Thursday normally becomes Bistro prep and Friday Bistro service after launch, subject to readiness, safety, and the school calendar.
-- The instructor may reduce, postpone, modify, or pause Bistro work at any time.
+- Plan equivalent weekly learning, not identical daily pacing.
+- First-ten-day plans must tolerate enrollment/schedule/accountability interruptions.
+- Teach Work Ready and Kitchen Ready explicitly; do not assume routines become habits because they were explained once.
+- Treat early production as systems-integration work. Food is a vehicle for navigation, communication, safety, sanitation, recipe literacy, mise en place, workflow, clean-as-you-go, clean stop, and reset.
+- Begin recipe preflight with the earliest labs and increase independence: **READ → IDENTIFY PRODUCT/YIELD → CONFIRM QUANTITY/UNITS → PLAN → MISE → CHECK → BEGIN**.
+- Teach clean-stop thinking early. Normally stop cooking/production at least 15 minutes before the bell and protect storage/labeling when applicable, communication/handoff, cleaning, and reset.
+- Teach through movement and authentic kitchen practice when worksheets/slides do not improve learning.
+- Print only materials students need physically while doing the work or retaining evidence.
+- Food produced in Culinary has an instructor-approved purpose; making it does not make it automatic student food.
 
 ## Calendar Use
 
-The week labels below follow the adopted [2026-2027 Calendar Week Mapping](../../00_Core/2026-07-20_Calendar_Week_Mapping.md).
-
-Culinary 1 runs as two one-semester cohorts. The spring cohort repeats the same 18-course-week sequence using program Weeks 19-36.
-
-| Course Week | Fall 2026 Cohort | Spring 2027 Cohort | Known Calendar Condition |
-| ---: | --- | --- | --- |
-| 1 | Aug 10-14 | Jan 4-8 | Fall students begin Tuesday, Aug 11; spring students return Tuesday, Jan 5. |
-| 2 | Aug 17-21 | Jan 11-15 | Full week. |
-| 3 | Aug 24-28 | Jan 18-22 | Spring Monday is MLK Day. |
-| 4 | Aug 31-Sep 4 | Jan 25-29 | Fall Friday is early release; training and mock service only, with no soft opening or public service. Spring is the preferred Culinary 2 Bistro relaunch week, aligned to Culinary 1 readiness. |
-| 5 | Sep 7-11 | Feb 1-5 | Fall Monday is Labor Day. Fall Bistro opening and first public service target is Friday, Sep 11. Spring is the readiness fallback for the Bistro relaunch. |
-| 6 | Sep 14-18 | Feb 8-12 | Spring Friday is early release. |
-| 7 | Sep 21-25 | Feb 15-19 | Spring Monday is Presidents' Day. |
-| 8 | Sep 28-Oct 2 | Feb 22-26 | Full week. |
-| 9 | Oct 5-9 | Mar 1-5 | Fall Friday is a half day. |
-| 10 | Oct 12-16 | Mar 8-12 | Fall Monday has no students; spring Friday is early release. |
-| 11 | Oct 19-23 | Mar 15-19 | Spring Monday has no students. |
-| 12 | Oct 26-30 | Mar 22-26 | Full week. |
-| 13 | Nov 2-6 | Apr 5-9 | Fall Tuesday is Election Day; schools are closed. |
-| 14 | Nov 9-13 | Apr 12-16 | Full week. |
-| 15 | Nov 16-20 | Apr 19-23 | Full week. |
-| 16 | Nov 30-Dec 4 | Apr 26-30 | Thanksgiving week is skipped in fall; spring Monday has no students unless used as a weather make-up day. |
-| 17 | Dec 7-11 | May 3-7 | Testing or school events may interrupt spring. |
-| 18 | Dec 14-18 | May 10-14 | Fall Friday is a half day; complete the practical before Friday. Spring testing may interrupt. |
-
-The spring calendar retains May 17-27 as a buffer for testing, make-up work, portfolio completion, inventory, deep cleaning, equipment shutdown, and graduation-related disruptions. Do not add a new required unit to that buffer.
+Use the adopted `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` for dated planning. Culinary 1 runs as fall and spring one-semester cohorts. Week 5 remains the normal opening target for both cohorts, with instructor authority to delay when required.
 
 ## Semester Module Map
 
-| Module | Weeks | Main Work | Evidence / Readiness Gate |
-| --- | ---: | --- | --- |
-| 1. Orientation and Systems | 1 | Room knowledge, Kitchen Mode, live communication, recipe reading, introductory pancake lab | Students move safely, locate essential areas, read before acting, and reset with support. |
-| 2. Food Handler and Stewardship | 2 | Hygiene, cleaning and sanitizing, dish systems, cross-contamination, storage, time and temperature, brownie packaging | Students demonstrate procedures, portion the finished product, and complete the instructor-approved product plan. |
-| 3. Recipe Reading, Equipment Literacy, and Mise en Place | 3 | Food Handler assessment, recipe literacy, major equipment families, measuring, prep lists, rice, pasta, simple production | Food Handler evidence plus correct equipment retrieval and an organized no-surprise lab setup. |
-| 4. Bistro Launch Foundations | 4-5 | Life of an Order, guest awareness, roles, ticket flow, dish flow, mock service, controlled launch | Pre-Bistro fundamentals demonstrated; instructor authorizes service participation. |
-| 5. Knife Skills Progression | 6-9 | Grip, claw, board setup, useful cuts, prep lists, speed with control, deep clean | Safe knife practical and usable prep produced from practice cuts. |
-| 6. Heat Control | 10-12 | Saute, browning, roasting, simmering, ratios, rice, beans/lentils | Students recognize heat cues and adjust without abandoning safety or reset. |
-| 7. Frying and Oil Management | 13 | Oil safety, batch control, crisp vs. greasy, draining and seasoning | Controlled frying application and oil-station reset. |
-| 8. Flavor Systems | 14-15 | Salt, acid, fat, aromatics, herbs, spices, vinaigrette, quick pickle, respectful comparison | Students taste safely, describe, adjust, and explain one flavor decision. |
-| 9. Protein as Application | 16-17 | Eggs, ground turkey, tofu, chicken, temperature, searing, resting, slicing, pan sauce | Safe protein handling, thermometer evidence, doneness judgment, and clean execution. |
-| 10. Bridge to Culinary 2 | 18 | Skill inventory, independent prep list, limited ownership, final practical, reflection | Final practical, self-assessment, and readiness conversation. |
+| Phase | Weeks | Main Work | Evidence / Destination |
+|---|---:|---|---|
+| 1. Learn the Room and Work Ready | 1 | navigation, communication, readiness, handwashing, recipe preflight, first lab, reset | students locate, read before acting, work safely with support, reset |
+| 2. Applied Safety and Stewardship | 2 | hygiene, cleaning/sanitizing, dish systems, storage, time/temperature, cleaning jobs | students demonstrate procedures in authentic work |
+| 3. Recipe Literacy and Production Organization | 3 | Food Handler completion, equipment literacy, yield/units/scaling, mise, prep lists, clean stop/handoff | organized no-surprise setup and accurate production planning |
+| 4. Assemble Bistro Systems | 4 | Life of an Order, five teams, Service, Barista, graceful urgency, Practice Prep, Reset/Closing, mock service | required pre-opening outcomes experienced/demonstrated |
+| 5. Bistro Launch | 5 | targeted correction, real Prep, first public service | safe/useful participation and complete reset |
+| 6. Knife Skills Progression | 6-9, adjusted when authentic evidence requires retraining | safe knife setup, useful cuts, consistency, production | safe practical and usable prep |
+| 7. Heat Control | 10-12 | saute, browning, roasting, simmering, ratios | heat cues and adjustment |
+| 8. Frying | 13 | oil safety, batch control, draining/seasoning | controlled frying and reset |
+| 9. Flavor Systems | 14-15 | salt, acid, fat, aromatics, herbs/spices, vinaigrette, quick pickle | taste/adjust/explain |
+| 10. Protein Applications | 16-17 | eggs, ground turkey, tofu, chicken, thermometer, searing/resting/pan sauce | safe handling and doneness judgment |
+| 11. Bridge to Culinary 2 | 18 | skill inventory, independent planning, final practical/reflection | readiness conversation |
 
-## Week-by-Week Pacing
+## Week 1 — Learn the Room and Begin Work Ready
 
-### Week 1 - Learn the Room and Begin Kitchen Mode
-
-**Weekly anchor:** Students can enter Kitchen Mode, locate essential kitchen areas and tools, read before acting, work with a team, and help reset a station.
-
-**Core learning:**
-
-- Guided kitchen orientation without requiring a student worksheet.
-- Live movement and communication practice: behind, hot pan, corner, sharp knife, heavy load, coming down the line, and oven open.
-- Handwashing and the minimum routines needed for safe participation.
-- Read and mark the approved pancake recipe; stage a simple mise en place.
-- Friday pancake lab begins promptly with the group's marked recipe and just-in-time safety instruction.
-
-**Evidence:** Students locate essential spaces, use communication in context, follow the recipe with support, and complete a reset.
-
-**Credential connection:** Launch the approved online ServSafe Food Handler course and confirm student access. Completion is independent by default, with limited supervised class access for launch, accommodations, and intervention.
-
-**Print plan:** One pancake recipe per group, reused Thursday and Friday. No explanatory slide deck or additional student worksheet is required.
-
-**Detailed plans:** [Week 1 package](Week_01_2026/README.md)
-
-### Week 2 - Food Handler and Stewardship
-
-**Weekly anchor:** Students can protect people and the kitchen through correct hygiene, sanitation, dish, storage, and temperature-control habits.
+**Weekly anchor:** Students can enter the current Culinary operating system, locate essential areas/tools, communicate safely, read before acting, complete a first production task with support, and reset.
 
 **Core learning:**
 
-- Personal hygiene and handwashing decisions.
-- Cleaning versus sanitizing.
-- Hand-sink setup and three-compartment sink wash-rinse-sanitize sequence.
-- Mix sanitizer to the instructor-approved ppm and read a test strip.
-- Dish machine workflow, including what is hand-washed and what goes through the machine.
-- Cross-contamination, storage order, labels, dates, FIFO, thawing, and cooling awareness.
-- Thermometer cleaning, probe placement, and ice-point calibration.
-- Brownie yield and portioning: one brownie per team member, then package remaining brownies with gloves according to current ServSafe Food Handler guidance.
-- Use the instructor's approved plan to distribute or store the packaged product. Welcoming new teachers is the preferred first distribution application; gratitude, community hospitality, Bistro awareness, and informal marketing are legitimate outcomes.
+- Scavenger hunt / guided room navigation: where things are and where they go.
+- Work Ready: ID, Clock In/Lock In/Park It as applicable, Notebook, Pen, a Plan.
+- Kitchen Ready and the minimum current safety requirements for practical participation.
+- Live communication: behind, hot pan, corner, sharp knife, heavy load, oven open, and other just-in-time calls.
+- Handwashing and minimum safe participation routines.
+- Read/mark the approved pancake recipe. Identify product, yield, ingredients, equipment, sequence, and first steps before acting.
+- Stage mise en place and complete the first lab with instructor support.
+- Introduce the idea that students are not done when food is done; clean stop and reset are part of the work.
 
-**Evidence:** Students demonstrate selected procedures at stations. A verbal answer alone does not satisfy a procedural check.
+**Evidence:** navigation, communication in context, marked recipe/preflight thinking, mise, first production, reset.
 
-**Credential connection:** Continue the approved online ServSafe Food Handler course and record one progress checkpoint. Culinary instructional time remains focused on applied safety in the working kitchen.
+**Credential:** launch approved online ServSafe Food Handler course and confirm access.
 
-**Fall 2026 integration-lab finding:** Friday's simple chicken lab primarily taught correct thermometer use: probe sanitation, placement, temperature-taking, and verification. It also required students to combine the cumulative knowledge and routines from the preceding seven or eight instructional days, including navigation, verbal communication, safety, three-compartment-sink setup, pre-soaks, dish-machine operation, sanitizer testing, workflow, and clean-as-you-go.
+## Week 2 — Applied Food Safety and Stewardship
 
-The instructor may add just-in-time micro-skills when the product, questions, time, and student readiness make them useful. In this lab those included seasoning, introductory grilling cues, grate preparation and oil use, when to flip, managing oversized chicken breasts, using plastic wrap and a meat mallet to create consistent thickness, and slicing against the grain. These are flexible extensions, not required Week 2 mastery targets. Student grill operation remains subject to the existing equipment-specific SOP, ventilation and fire-safety checks, instruction and demonstration, supervision, and individual authorization gates.
-
-This early application does not move or replace the formal Weeks 16-17 chicken sequence, where safe chicken handling, heat control, doneness judgment, resting, slicing, and pan-sauce work receive sustained attention.
-
-### Week 3 - Read, Measure, and Organize Before Cooking
-
-**Weekly anchor:** Students can read a recipe, identify the work and common equipment, retrieve the correct item, prepare mise en place, measure accurately enough for the task, and follow a useful sequence.
-
-**New Vocabulary / Professional Language:** mise en place; yield; workflow; sequence; prep list.
-
-**Just-in-time Equipment Literacy language:** sheet pan; hotel pan; fitted rack; perforated pan; deli container (deli cup); Cambro / Lexan; stockpot; saucepan; sauté pan; rondeau; wok; strainer; blast chiller. The practical Week 3 target is recognition and correct professional naming in context, not formal mastery of every equipment term in one week.
+**Weekly anchor:** Students can protect people and the kitchen through applied hygiene, sanitation, dish, storage, temperature-control, cleaning-job, and reset habits.
 
 **Core learning:**
 
-- Complete the approved online ServSafe Food Handler course and assessment during Week 3. The platform permits up to three attempts; students email certificates to the instructor, and no student credential data is stored in public WACOS.
-- Identify yield, ingredients, equipment, measurements, action verbs, heat cues, doneness cues, and reset expectations.
-- Identify what the recipe is producing, who or what it is for, the approved portion plan and destination, required handling or storage, and the plan for remaining product.
-- Build practical Equipment Literacy through three physical demonstrations of no more than 10 minutes each: Tuesday covers hotel pans, sheet pans, fitted racks, and perforated pans; Wednesday covers food-storage containers and lid matching; Thursday covers high-use cookware and strainers.
-- Reinforce each demonstration through named-item retrieval and correct return. Do not add a separate identification worksheet or memorization quiz.
-- Build a basic prep list and divide work across a group.
-- Practice fractions, common measurements, and simple scaling.
-- Apply recipe reading through low-cost vehicles such as rice, fried rice/stir fry, peanut butter bars, or dried pasta with basic tomato sauce.
-- Cover, label, store, and reset shared product correctly.
+- personal hygiene/handwashing decisions;
+- cleaning vs sanitizing;
+- current hand-sink / three-compartment sink / dish-machine procedures;
+- sanitizer/test-strip use under current approved procedure;
+- cross-contamination prevention;
+- storage order, labels/dates, FIFO, thawing/cooling concepts as taught;
+- thermometer cleaning, placement, calibration/practice as scheduled;
+- weekly cleaning jobs: Dishes, Counters & Surfaces, Storage, Floors, Laundry;
+- product stewardship through the approved production vehicle;
+- clean-as-you-go, clean stop, and reset.
 
-**Evidence:** Marked recipe, product-purpose and portion plan, correct retrieval and return of a named common item, mise en place check, measurement check, and finished product carried through its approved destination or storage plan with station reset.
+**Evidence:** students demonstrate selected procedures; verbal recall alone does not satisfy a procedural check.
 
-### Week 4 - Life of an Order and Controlled Bistro Practice
+**Credential:** online Food Handler progress checkpoint.
 
-**Weekly anchor:** Students can explain and rehearse how a guest request moves through Service, Barista, Line Cooks, Support, and Expo / Floaters work from arrival through reset.
+## Week 3 — Read, Measure, and Organize Before Cooking
 
-**Core learning:**
+**Weekly anchor:** Students can read a recipe, identify the work/equipment, confirm quantity and units, prepare mise en place, measure accurately enough for the task, and follow a useful sequence.
 
-- Service versus hospitality.
-- Life of an Order: greeting, order information, ticket, production, expo, running, check-back, clearing, dish, and reset.
-- Current team names: Service, Barista, Line Cooks, Support, and Expo / Floaters.
-- Basic Bistro language: FOH, BOH, expo, runner, all day, heard, 86, and call-back.
-- Station orientation, side work, stocking, menu awareness, and role practice.
-- Training and mock service only; no soft opening or public service.
-
-**Calendar adjustment:** Fall Friday, Sep 4 is early release and may be used for additional training while the instructor is out of town.
-
-**Actual fall implementation:** Line Cooks and Expo trained together earlier than originally planned because Expo sits between production and Service handoff. Future Week 4 plans may adjust the station-training order rather than hard-locking a team to a particular day. On Friday, students report to their actual starting Bistro positions and complete **OPEN → MOCK SERVICE → CLOSE / RESET**. The adult leading the readiness check captures interventions, unclear duties, broken order flow, repeated questions, and systems requiring Week 5 retraining.
-
-**Evidence:** Role rehearsal, ticket-flow check, menu/space awareness, and reset.
-
-### Week 5 - Stabilize Bistro Systems
-
-**Weekly anchor:** Students can perform one assigned Bistro role with clear communication, safe work, and a complete reset.
+**Core language:** mise en place; yield; workflow; sequence; prep list.
 
 **Core learning:**
 
-- Debrief Week 4 and retrain the weakest system.
-- Use evidence from the Friday mock to target Tuesday/Wednesday retraining before Thursday Prep and Friday opening.
-- Clarify roles, handoffs, call-backs, guest awareness, side work, dish flow, and expo.
-- Reinforce labels, storage, receiving awareness, and station readiness.
-- Practice suggestive selling and menu knowledge only to the depth required for the current menu.
-- Complete a final rehearsal before normal service.
+- complete approved online Food Handler course/assessment; students email certificates to instructor; no public WACOS credential records;
+- identify product, yield, ingredients, equipment, measurements/units, action verbs, sequence, heat/doneness cues, intended destination, storage/reset expectations;
+- practical Equipment Literacy through short physical demonstrations and named-item retrieval/return;
+- fractions, common measurements, quantity and simple scaling in authentic recipes;
+- basic prep list and work division;
+- progressively independent recipe preflight;
+- cover/label/store under current procedures and leave a useful clean stop/handoff when work continues.
 
-**Calendar adjustment:** Fall Monday is Labor Day. The Bistro opening and first public service target is Friday, Sep 11, subject to instructor approval.
+**Evidence:** marked recipe, preflight, correct equipment retrieval/return, mise check, measurement check, product carried through destination/storage/reset.
 
-**Evidence:** Role checklist, service observation, menu check, and post-service reset.
+## Week 4 — Assemble Bistro Systems
 
-### Week 6 - Knife Safety, Grip, Claw, and Useful Cuts
+**Weekly anchor:** Students can enter, operate, and reset the current Bistro system with coaching before public service.
 
-**Weekly anchor:** Students can set up a safe cutting station and make controlled rough chops and slices.
+Week 4 is governed by **required outcomes, not a rigid day-by-day sequence**. Arrange/combine according to section progress and calendar.
 
-**Core learning:** Board stability, knife transport, grip, claw, blade path, scrap control, knife cleaning, and useful rough chop/slice practice.
+Required outcomes:
 
-**Application:** Cook what students cut through soup base, roasted vegetables, sauteed vegetables, or current Bistro prep.
+1. Life of an Order and current five teams: Service, Barista, Line Cooks, Support, Expo / Floaters.
+2. Graceful-urgency arrival/opening rehearsal.
+3. Whole-group instructor-led Service simulation in a populated dining room; Teaching Assistant reinforces/coaches afterward.
+4. Barista operating-system practice using build references rather than drink memorization.
+5. Situational awareness across all teams: **What do you notice? What does it mean? What needs to happen next?**
+6. Practice Bistro Prep using low-stakes/non-menu production work.
+7. Production Preflight: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No checkoff → no production.**
+8. Clean-stop/handoff-note practice.
+9. Whole-operation Reset & Closing rehearsal with adult inspection/correction.
+10. At least one complete mock-service cycle, which may be brief and use simulated/simplified food.
 
-**Evidence:** Individual safety check plus usable group prep.
+Teach **Clean as You Go vs Reset vs Close**.
 
-### Week 7 - Dice, Mince, and Prep Lists
+No public service/soft opening is required in Week 4.
 
-**Weekly anchor:** Students can produce usable dice and mince while following a simple prep list.
+## Week 5 — Bistro Launch
 
-**Core learning:** Consistency before speed, onion/garlic handling, cut-size purpose, dividing prep, labeling, storage, and tool accountability.
+**Weekly anchor:** Students apply the current operating system during real Prep and Service.
 
-**Calendar adjustment:** Spring Monday is Presidents' Day; compress repetitions without removing the safety check.
+**Monday-Wednesday — BUILD THE FUNDAMENTALS:** use Week 4 evidence to correct the weakest systems while continuing appropriate instruction.
 
-**Evidence:** Cut-quality sample, completed prep list, and clean knife-station reset.
+**Thursday — PLAN THE WORK:**
 
-### Week 8 - Julienne, Batonnet, Roasting, and Fries Preparation
+- brief Bistro Huddle for current-service differences;
+- individual production assignments by default; pairs when justified;
+- weekly cleaning jobs remain active;
+- read, station setup, mise;
+- Production Preflight/checkoff;
+- produce/clean as you go;
+- clean stop;
+- store/label under current procedures, leave handoff notes when work continues, reset.
 
-**Weekly anchor:** Students can select and produce a cut that supports the intended cooking method.
+**Friday — WORK THE PLAN:**
 
-**Core learning:** Julienne and batonnet, sizing for even cooking, roasting preparation, potato preparation, waste control, and storage.
+1. Arrive On Time and Work Ready.
+2. Open Your Station.
+3. Own Your Area.
+4. Communicate.
+5. Stay Aware — See the Whole Operation.
+6. Be Useful.
+7. Do the Work.
+8. Clean as You Go.
+9. Reset Your Station.
+10. Close When Required.
 
-**Application:** Roasted vegetables, stir fry, fries preparation, or current Bistro component.
+Week 5 is the normal first-public-service target, subject to instructor readiness/safety/calendar authority.
 
-**Evidence:** Cut consistency, yield/waste check, and finished application.
+## Week 6 — Knife Skills Opening / 2026 Recovery Exception
 
-### Week 9 - Speed With Control and Knife-Skills Check
+**Normal future sequence:** begin safe cutting-station setup, grip, claw, blade path, scrap control, knife cleaning, and useful rough chop/slice work.
 
-**Weekly anchor:** Students can work more efficiently without losing control, awareness, or sanitation.
+**2026 implementation exception:** First-service evidence requires targeted Bistro-system recovery before new knife content:
 
-**Core learning:** Timed but controlled prep, station organization, communication around knives, prep-list completion, and deep-clean reset.
+- Monday — Service Reset.
+- Tuesday — Reset & Closing + Barista Recovery.
+- Wednesday — Practice Bistro Prep.
+- Thursday — real Bistro Prep.
+- Friday — Bistro Service.
 
-**Calendar adjustment:** Fall Friday is a half day. Complete the practical evidence before Friday; use Friday for abbreviated evidence, reset, or debrief.
+Resume knife progression after the operating foundation is stabilized. This is evidence-based curriculum adjustment, not abandonment of knife skills.
 
-**Evidence:** Knife-safety practical, prep output, and deep-clean sign-off.
+## Weeks 7-18
 
-### Week 10 - Saute and Pan Heat
+Continue the approved knife, heat, frying, flavor, protein, and bridge progression. Once Bistro is active, Thursday/Friday remain Prep/Service when readiness and calendar allow. Monday-Wednesday technical work should reinforce the same cumulative systems: Work Ready, Kitchen Ready, recipe preflight, mise, communication, safety, clean-as-you-go, situational awareness, clean stop/handoff, and reset.
 
-**Weekly anchor:** Students can preheat a pan, recognize useful heat cues, and saute without defaulting to steaming or burning.
+## Professional Thinking
 
-**Core learning:** Pan preheat, oil cues, batch size, browning versus steaming, aromatics, movement, tasting, and hot-station reset.
+The Bistro tests whether students can combine the fundamentals under authentic conditions. Instructor teaching language may use:
 
-**Application:** Sauteed vegetables, simple aromatics, or a Bistro component.
+**I don't need to know if you can cook. I need to know if you can work.**
 
-**Calendar adjustment:** Fall Monday has no students; begin Tuesday and protect the hands-on heat comparison. Spring Friday is early release; abbreviate service/application.
-
-**Evidence:** Heat-cue explanation paired with a cooked result.
-
-### Week 11 - Roasting and Oven Control
-
-**Weekly anchor:** Students can use spacing, timing, and visual cues to roast food evenly and safely.
-
-**Core learning:** Oven safety, oven-open callout, rack awareness, pan spacing, browning, caramelization, texture, rotation, and removal.
-
-**Application:** Roasted vegetables, potatoes, or a current Bistro component.
-
-**Calendar adjustment:** Spring Monday has no students; compress planning and preserve the main roasting repetition.
-
-**Evidence:** Roasting result, doneness explanation, and oven-area reset.
-
-### Week 12 - Moist Heat, Ratios, and Texture
-
-**Weekly anchor:** Students can distinguish simmering from boiling and use a basic liquid ratio to produce a controlled result.
-
-**Core learning:** Simmer versus boil, rice/liquid ratios, beans or lentils, texture monitoring, seasoning, safe cooling, labeling, and storage.
-
-**Application:** Rice, beans/lentils, soup, or a combined heat-control dish.
-
-**Evidence:** Ratio calculation, texture check, and correctly cooled/labeled product when applicable.
-
-### Week 13 - Frying and Oil Management
-
-**Weekly anchor:** Students can work around hot oil safely and explain how temperature and batch size affect texture.
-
-**Core learning:** Oil hazards, authorized equipment use, temperature control, small batches, overcrowding, draining, seasoning timing, shutdown, and oil-station reset.
-
-**Application:** Potato batonnet/fries, vegetable fritter, onion ring, or another instructor-approved low-cost vehicle.
-
-**Calendar adjustment:** Fall Tuesday is Election Day and schools are closed. Protect the safety lesson and one controlled application; move optional repetitions.
-
-**Evidence:** Safe station behavior, crisp-versus-greasy comparison, and complete oil-area reset.
-
-### Week 14 - Flavor Basics
-
-**Weekly anchor:** Students can taste safely, use useful flavor language, and make a small adjustment with a reason.
-
-**Core learning:** Salt, acid, fat, aromatics, herbs, spices, balance, safe tasting, and respectful description.
-
-**Application:** Basic vinaigrette with simple green salad, aromatic comparison, or Bistro flavor adjustment.
-
-**Evidence:** Before/after tasting note and one justified adjustment.
-
-### Week 15 - Flavor Systems and Respectful Comparison
-
-**Weekly anchor:** Students can compare flavor systems without treating cuisines as stereotypes and can balance a simple preparation.
-
-**Core learning:** Compare combinations such as soy/ginger, vinegar/herbs, chili/citrus, yogurt/spice, or coconut/curry while naming sources accurately.
-
-**Application:** Team flavor adjustment and a teacher-approved quick pickle for labeled, refrigerated, same-day use only.
-
-**Evidence:** Balanced product, label, and brief explanation of the team's decision.
-
-### Week 16 - Protein Safety, Eggs, Ground Turkey, and Tofu
-
-**Weekly anchor:** Students can set up and reset a protein station, prevent cross-contamination, and verify doneness appropriately.
-
-**Core learning:** Protein safety reset, thermometer cleaning and placement, eggs, ground turkey, required tofu application, doneness, and safe holding.
-
-**Application:** Egg preparation, ground-turkey application, tofu application, or another approved low-cost protein vehicle.
-
-**Calendar adjustment:** Spring Monday has no students unless used as a weather make-up day; preserve the safety setup and at least one full application.
-
-**Evidence:** Station setup, temperature/doneness check, product evaluation, and sanitation reset.
-
-### Week 17 - Chicken, Searing, Resting, Slicing, and Basic Pan Sauce
-
-**Weekly anchor:** Students can handle chicken safely, control heat, verify doneness, rest and slice properly, and build a basic pan sauce with support.
-
-**Core learning:** Chicken setup, cross-contamination prevention, searing, temperature, carryover cooking, resting, slicing, fond, simple pan-sauce construction, and cleanup.
-
-**Boundary:** Whole-chicken breakdown is not a required Culinary 1 skill; it belongs in Culinary 2.
-
-**Evidence:** Safe chicken lab, temperature record, slice/doneness evaluation, and basic pan sauce.
-
-### Week 18 - Final Practical and Bridge to Culinary 2
-
-**Weekly anchor:** Students can show safer, more organized, and more independent kitchen work than they could at the beginning of the semester.
-
-**Core learning:** Skill inventory, independent prep list, limited station or service ownership, final practical, honest self-assessment, and Culinary 2 interest/readiness conversation.
-
-**Calendar adjustment:** Complete the fall practical by Wednesday because Friday is a half day. Use remaining time for reflection, make-up evidence, inventory, deep cleaning, and shutdown. Protect the same sequence during spring testing interruptions.
-
-**Evidence:** Final practical, skill inventory, self-assessment, and instructor readiness note.
-
-## Bistro Integration After Launch
-
-After Week 5, technical units continue alongside Bistro work when service is active:
-
-- Monday-Wednesday: new technique, practice, practical checks, and production foundation.
-- Thursday: Bistro prep using the current unit's skills where practical.
-- Friday: Bistro service, abbreviated application, or reflection/reset depending on readiness and calendar conditions.
-
-Service does not replace the weekly technical anchor. Technical learning should improve Bistro work, and Bistro work should provide repeated evidence of safety, organization, communication, and stewardship.
-
-## Assessment Anchors
-
-- ServSafe Food Handler credential target.
-- Basic-tasks demonstrations and sign-offs.
-- Pre-Bistro readiness gate.
-- Recipe-reading and mise en place evidence.
-- Knife-safety practical.
-- Heat-control and frying applications.
-- Flavor-adjustment evidence.
-- Protein safety and doneness evidence.
-- Bistro role performance after launch.
-- Final practical, skill inventory, and self-assessment.
-
-Grade weights are not established by this pacing guide.
-
-## Print and Slide Standard
-
-- Default to live demonstration and kitchen practice.
-- Do not create a worksheet for a skill students can practice directly and safely in the room.
-- Use one group production document when one copy can serve Thursday prep and Friday application.
-- Use slides only when they reduce confusion; do not build explanatory decks for routines better taught in motion.
-- Keep required student printing visible in each weekly package.
-
-## Dependencies and Instructor Decisions
-
-- Exact Hospitality Scholars, guest, testing, and school-event dates.
-- Menu and product availability.
-- Section enrollment and readiness.
-- Equipment-specific SOP and individual authorization before broiler/grill use.
-- Approved tofu recipe before the required tofu lab.
-- Approved quick-pickle formula, label, refrigeration, and same-day discard procedure before use.
-- Instructor confirmation of when each cohort is ready for public Bistro participation.
-
-## Related Sources
-
-- [Culinary 1 Curriculum](03_Culinary_1_Curriculum.md)
-- [Basic Tasks and Fundamentals Coverage Map](Culinary_1_Basic_Tasks_and_Fundamentals_Coverage_Map.md)
-- [Daily Teaching Guide Standard](../../09_Workflows/Daily_Teaching_Guide_Standard.md)
-- [2026-2027 Calendar Week Mapping](../../00_Core/2026-07-20_Calendar_Week_Mapping.md)
-- [Culinary 1 Unit Package](Culinary-1-Curriculum/)
-
-
-## Current Five-Team Training and Rotation
-
-Use Service, Barista, Line Cooks, Support, and Expo / Floaters. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
-
-Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
+This does not diminish cooking skill. It emphasizes that professional work includes preparation, execution, safety, communication, awareness, usefulness, handoff, and reset around the food.
