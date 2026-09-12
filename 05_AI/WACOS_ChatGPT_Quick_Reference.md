@@ -1,307 +1,208 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: August 29, 2026
+Last updated: September 12, 2026
 
 ## Purpose
 
-This is the fast Project Knowledge reference for the West Ashley Culinary ChatGPT Project. Use it for common program questions without running a full GitHub search.
-
-This file is a retrieval aid, not a separate authority. For policy-sensitive questions, detailed procedures, recent changes, or conflicts, verify against the connected `Whelessjc/WACOS` GitHub repository on `main`.
+Fast retrieval aid for common West Ashley Culinary questions. It is not a separate authority. Verify policy-sensitive, recent, detailed, or conflicting information against current WACOS on `main`.
 
 ## Authority Order
 
-When information conflicts, use this order:
-
 1. Current instructor-confirmed decisions.
 2. `00_Core/West_Ashley_Culinary_Core_Manual.md`.
-3. Current WACOS operating documents.
-4. Current subordinate documents and SOPs.
-5. Archived documents only as historical evidence.
-
-Do not use working chats, AI memory, generated documents, or archived files as the permanent source of truth.
+3. Current operating documents and adopted decision records.
+4. Current subordinate documents/SOPs.
+5. Archives as historical evidence only.
 
 ## Program Identity
 
-- Formal name: West Ashley High School Culinary Arts Program.
-- Common name: West Ashley Culinary.
-- Operating system: WACOS, the West Ashley Culinary Operating System.
-- Approved program language: **High School, High Standards**.
-- The Bistro is the central instructional model.
 - West Ashley Culinary is a working kitchen inside a high school.
+- Approved language: **High School, High Standards**.
 - Governing statement: **We are not training chefs. We are training students to think like chefs.**
-- The kitchen is the classroom. Culinary is the vehicle. Professional thinking is the destination.
+- Bistro is the central authentic performance environment, not a separate enrichment unit.
+- Recipes are vehicles for fundamentals and Professional Thinking.
 - AI supports the instructor; it does not replace instructor judgment.
-
-Use practical, professional, direct language grounded in real classroom and kitchen work. Avoid educational jargon, promotional language, and generic culinary-school assumptions.
-
-When creating or substantively revising a lesson, unit, assessment, instructor guide, or prompt, identify the Knowledge, Skill, and Professional Thinking being developed. Use `00_Core/Professional_Thinking_Framework.md` as the governing reference.
-
-## Current Lesson-Planning Standard
-
-Before producing a daily or weekly lesson plan, use the current `09_Workflows/Daily_Teaching_Guide_Standard.md`, the relevant current course pacing/weekly guide, and the current calendar. Do not copy the structure of an older Daily Teaching Guide as if it were the current standard.
-
-Each Weekly Teaching Guide identifies a limited **New Vocabulary / Professional Language** set: new culinary, hospitality, equipment, and operational terms students need to understand the work, communicate in the kitchen, or carry forward. Teach the terms in context through instruction, production, demonstration, and repeated professional use. Do not list every technical word, require daily lists, or create separate vocabulary assignments or assessments unless they serve a specific instructional purpose. Keep equipment terminology as just-in-time Equipment Literacy language when it is not a core weekly mastery target.
-
-Every new daily lesson plan, or daily/sequence block within a Weekly Teaching Guide, must identify:
-
-1. **Primary target** - the main knowledge or performance purpose.
-2. **Required supporting systems** - cumulative routines such as Kitchen Mode, **Notebook. Pen. Plan. workflow readiness**, communication, sanitation, mise en place, workflow, clean-as-you-go, and reset.
-3. **Expected just-in-time micro-skills** - small actions likely to be required by the product, equipment, or process.
-4. **Safety and authorization gates** - instruction, demonstration, verification, supervision, or authorization required before action.
-5. **Flexible extensions** - useful refinements taught when time, readiness, or student questions permit; these are not automatic mastery requirements.
-6. **Integrated performance evidence** - how students combine the target, systems, and relevant micro-skills in useful performance.
-7. **Micro-skills revealed during instruction** - a compact capture area for small skills exposed by questions, errors, or production conditions.
-
-Keep the layer concise. Do not turn every micro-skill into a standalone objective, worksheet, checklist item, or grade. Verify safety-critical items, repeat recurring fundamentals, keep product-specific items with the lab, and promote emergent micro-skills into permanent guidance only after review.
-
-## Daily Work Readiness
-
-Work begins with **Notebook. Pen. Plan.** Students enter Kitchen Mode with the issued pocket notebook and a pen out and ready, then write the immediate task or workflow before beginning. The notebook is a working culinary tool for recipes, techniques, notes, ideas, workflow, prep lists, station tasks, service notes, questions, and reminders. It is not a traditional daily journal or separate graded assignment. Repeated lack of the required materials or failure to prepare the immediate workflow may become Employability readiness evidence.
 
 ## Courses
 
 ### Culinary 1
 
 - One-semester foundation and exploration course.
-- Focuses on safety, sanitation, kitchen systems, basic cooking, Employability, Bistro exposure, and readiness.
-- Current credential: **ServSafe Food Handler**.
-- Use the approved online course/assessment for primary credential-content delivery: access confirmed Week 1, progress checked Week 2, completion during Week 3, with up to three platform attempts. Delivery is blended; students email certificates to the instructor, and student credential information is not stored in public WACOS. Culinary class time emphasizes applied safety in the working kitchen.
+- Weeks 1-3 build the component fundamentals Bistro will test.
+- Week 4 assembles those fundamentals into Prep and Service systems.
+- Week 5 is the normal first-public-service target when readiness, safety, and calendar allow.
+- Credential: ServSafe Food Handler through the approved online course/assessment: access Week 1, progress Week 2, completion Week 3, up to three platform attempts.
+- Class time emphasizes applied food-safety/workplace-safety performance.
 
 ### Culinary 2
 
-- Full-year depth and operations course.
-- Governing idea: **fundamentals under pressure**.
-- Focuses on stronger execution, Bistro responsibility, leadership through competence, and practical skill.
-- Current credential alignment: **Certified Kitchen Cook (CKC)**.
-- Do not describe Culinary 2 simply as the advanced class.
-- ServSafe Manager and the National ProStart Certificate of Achievement are not current program pathways.
+- Full-year depth and operations course centered on **fundamentals under pressure**.
+- Every cohort recalibrates to the **current WACOS operating system** regardless of where/when prior Culinary experience occurred. Prior experience does not substitute for current-system training; demonstrated competence may be accelerated.
+- Higher expectations center on integration, independence, usefulness, situational awareness, and **safety fluency under pressure**.
+- Credential alignment: Certified Kitchen Cook (CKC).
+- Do not call Culinary 2 simply the advanced class.
 
-## Current Grading
+## Work Ready and Kitchen Ready
 
-- **45% Summative Assessments: Projects, Tests, and Bistro**.
-- **35% Formative Assessments and Labs**.
-- **20% Employability Skills**.
+**Work Ready** is broad program readiness. Current Bistro arrival language:
 
-Employability Skills means observable professional habits such as readiness, punctuality, uniform, communication, teamwork, initiative, coachability, station responsibility, and reset habits. Do not substitute vague participation or attitude language.
+**ID → Clock In → Lock In → Park It → Stow Belongings → Notebook → Pen → A Plan → Report to Station**
 
-Enter one Employability grade each week. The weekly baseline is 90 for arriving ready and meeting expectations. Use fast paper readiness and exception evidence: minor concerns generally -5, repeated/significant concerns generally -10 or instructor review, and meaningful exceptional evidence +5 up to 100. Absence or insufficient evidence is not an automatic deduction.
+**Kitchen Ready** is the specific safety/access gate for practical kitchen participation. Current confirmed daily Kitchen Readiness requires ID, proper footwear, notebook, and pen.
 
-## Weekly Operating Rhythm
+## Weekly Bistro Arc
 
-- **Monday-Wednesday:** protect instruction, practice, formative checks, grading, and next-week planning.
-- **Thursday:** Bistro Prep.
-- **Friday:** Bistro Service, closing, financial paperwork, and reflection.
-- **Weekend:** review pacing, inventory, curriculum, Bistro results, and possible WACOS changes.
+Once Bistro operates:
 
-Normal class flow:
+- **Monday-Wednesday — BUILD THE FUNDAMENTALS**
+- **Thursday — PLAN THE WORK** using the Bistro Prep Rhythm
+- **Friday — WORK THE PLAN** using the Bistro Rhythm
 
-1. Entry and readiness check: attendance, uniform/materials, **Notebook. Pen. Plan.**, objective, and safety focus.
-2. Briefing, agenda, learning targets, roles, and safety focus.
-3. Demonstration, instruction, production, or practice.
-4. Instructor checkpoints and live assessment.
-5. Stop cooking 15 minutes before the bell unless the schedule requires an earlier shutdown.
-6. Store, label, clean, reset, and reflect.
+Normally stop cooking/production at least 15 minutes before the bell to protect safe storage, handoff, cleaning, and reset.
 
-One documented deep clean is required each quarter.
+## Bistro Prep Rhythm
 
-## Bistro
+Thursday is production work, not a normal team lab.
 
-### Current Teams
+1. Arrive On Time and Work Ready.
+2. Brief Bistro Huddle for current-service differences only.
+3. Receive individual production assignment; use pairs when justified.
+4. Set up/maintain the weekly cleaning job: Dishes, Counters & Surfaces, Storage, Floors, Laundry.
+5. Read before acting.
+6. Set station and complete mise en place.
+7. Production Preflight: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No checkoff → no production.**
+8. Produce and Clean as You Go.
+9. Clean Stop.
+10. Store/label under current procedures, leave handoff notes when work continues, and Reset.
 
-- Service.
-- Barista.
-- Line Cooks.
-- Support.
-- Expo / Floaters.
+Practice Bistro Prep is required before first real Prep and uses low-stakes/non-menu production rather than becoming an extra real-prep day.
 
-Management Staff and Service Staff are retired team names. FOH and BOH may be taught as industry vocabulary, but they are not the current WACOS team structure.
+## Bistro Rhythm
 
-### Launch for 2026-2027
+1. **Arrive On Time and Work Ready**
+2. **Open Your Station**
+3. **Own Your Area**
+4. **Communicate**
+5. **Stay Aware — See the Whole Operation**
+6. **Be Useful**
+7. **Do the Work**
+8. **Clean as You Go**
+9. **Reset Your Station**
+10. **Close When Required**
 
-- Week 4: August 31-September 4, 2026.
-- Week 4 continues Bistro systems, training, and mock service only; do not plan a soft opening or public service.
-- Friday, September 4 is early release and may be used for additional training while the instructor is out of town.
-- Bistro opening and first public service target: Friday, September 11, 2026, in Week 5.
-- The instructor may reduce, postpone, modify, or pause service for readiness or safety.
-- Do not invent classroom jobs, rotation boards, management roles, or student authority structures. The five current instructional and Bistro teams are Service, Barista, Line Cooks, Support, and Expo / Floaters. Expo is the Expo / Floaters home base. Teams stay in each position for two consecutive services in one shared ten-service cycle.
+Instructor teaching language may use: **I don't need to know if you can cook. I need to know if you can work.** This emphasizes the operating habits around cooking; it does not make cooking competence unimportant.
 
-### Annual Startup
+## Graceful Urgency and Situational Awareness
 
-- Use `09_Workflows/Instructor_Recurring_Checklists.md#annual-startup-workflow` as the governing startup checklist.
-- Required Vector Solutions training is launch-critical and must be completed as soon as possible; verify the exact district deadline.
-- Student-name Anki cards are a Week 1 task, not a pre-arrival task, and student data stays in approved systems.
-- A Teacher Assistant supports the program in 2026-2027 within the boundaries in `07_Administration/15_Teacher_Assistant_Onboarding.md`; the role is not a co-teacher.
+**Graceful urgency** means purposeful movement, calm communication, and immediate action without running, panic, or chaos.
 
-### Current Guest and Order Flow
+Situational awareness belongs to all five teams. Use:
 
-- The host greets first with “Good morning,” asks about Bistro ILT, and uses OnTime before assigning a queue number.
-- Ordering guests receive a nontransferable queue number; non-ordering guests do not. The number stays with the guest until all food and Barista items are received.
-- The Square POS host/cashier takes and confirms every order. Service does not take seated-table orders.
-- Barista owns Barista tickets through grouped handoff. Expo / Floaters owns and reads production tickets; Line Cooks work from Expo calls, callbacks, physical production cues, sequencing, and status communication.
-- Service owns the guest experience after the order enters Square and continuously anticipates needs.
-- Every station cleans its own station. Support owns stewarding, dish flow, shared operational cleanliness, and progressive back-to-front shutdown.
-- Expo is the home base and anchor responsibility of the Expo / Floaters team.
+**What do you notice? What does it mean? What needs to happen next?**
 
-### Guest Recovery
+Students respond within role, training, and authorization.
 
-Use **LATTE** for guest-facing recovery:
+## Clean as You Go / Reset / Close
 
-- Listen.
-- Acknowledge.
-- Take action within assigned authority.
-- Thank.
-- Ensure satisfaction.
+- **Clean as You Go:** maintain the station while operating.
+- **Reset:** leave it ready for the next class, shift, or service.
+- **Close:** perform final shutdown when required.
 
-Protect the system, assume good faith, and do not argue. “Heard” remains an operational callback, not the guest-recovery acronym. Students involve the instructor for refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remake requests, escalation, or unresolved complaints.
+## Bistro Teams and Rotation
 
-### Payments and Deposits
+- Service
+- Barista
+- Line Cooks
+- Support
+- Expo / Floaters
 
-- The Bistro accepts **cash and checks only** as monetary payments.
-- Checks must be payable to **WAHS**.
-- Square records transactions and produces kitchen tickets; Square does not process the current cash/check payments.
-- The detailed Square transactions report is attached to the deposit documentation.
-- Complete the deposit Friday when time permits; otherwise secure it and complete it Monday.
-- Use the backup receipt system if Square is unavailable.
+Teams stay in each Bistro position for two consecutive services in the shared ten-service cycle. Do not invent additional management teams or student authority structures.
 
-PBIS and Bistro coins:
+## Required Pre-Opening Outcomes
 
-- Bistro coins are wooden tokens with the West Ashley Culinary logo.
-- They are issued through classroom-management PBIS and may be redeemed for one meal.
-- Approved PBIS incentives and Bistro coins are noncash redemptions.
-- Ring the actual meal so the kitchen receives a ticket.
-- Record the redemption using the named `PBIS Incentive` or `Bistro Coin` comp reason.
-- Do not record these as gift card, other payment, cash, or check.
-- Use net sales and payment-method totals for deposit reconciliation and the comp report for PBIS and Bistro coin activity.
+Week 4 is outcome-based, not a rigid daily script. Before first public service, both levels experience:
 
-Only ordering guests receive individual queue numbers upon entry. Teachers retain front-of-line priority. Reservations submitted through Google Forms guarantee advance preparation but still require individual queue numbers, Square entry, standing in the payment line, and payment before release. The instructor or Teaching Assistant may independently reconcile and deliver the deposit. The starting till is $180: 3 twenties, 5 tens, 10 fives, and 20 ones. Every variance is recounted, reconciled, documented, and reported. Square outages use numbered receipts and individual later re-entry with actual items, correct tender, receipt number, duplicate-production prevention, and full reconciliation.
+- Work Ready/Kitchen Ready;
+- Life of an Order and five teams;
+- graceful-urgency arrival/opening rehearsal;
+- whole-group instructor-led Service simulation in a populated dining room;
+- Barista operating-system training;
+- situational awareness across all teams;
+- Practice Bistro Prep and Production Preflight;
+- clean-stop/handoff practice;
+- whole-operation Reset & Closing rehearsal;
+- cumulative food/workplace safety;
+- at least one complete mock-service cycle, which may be brief and use simulated/simplified food.
+
+The Teaching Assistant reinforces/coaches the established Service system after initial whole-group instructor training.
+
+## Service
+
+Service owns the guest experience. Students acknowledge guests, circulate rather than hover, deliver accurately, anticipate needs, refill, clear, and reset. Useful loop:
+
+**SCAN → APPROACH → ACT → MOVE → SCAN AGAIN**
+
+The primary menu may remain on the Promethean/current menu display. Printed menus may be offered as reusable Service resources when useful; they are not automatically tied to queue numbers.
+
+## Barista
+
+Students do not need to memorize every drink. Operate the station:
+
+**Open → Organize → Receive Ticket → Use Build Reference → Produce → Verify → Handoff → Complete Ticket → Clean/Restock → Reset/Close**
+
+Keep current build references at Barista.
+
+## Guest and Order Flow
+
+- Host greets first and uses OnTime for ILT check-in before assigning a queue number.
+- Ordering guests receive a nontransferable queue number; non-ordering guests do not.
+- POS takes/confirms orders in Square; Service does not take seated-table orders.
+- Barista owns Barista tickets through handoff.
+- Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, physical cues, sequencing, and status communication.
+- Service owns the guest experience after Square entry.
+- Every station cleans its own area; Support owns stewarding, dish flow, shared operational cleanliness, and shutdown support.
+- Expo is Expo / Floaters home base.
+- Approved fallback for OnTime/Kiosk failure and reliable prompt Square entry of accepted remote orders remain unresolved operational follow-up. Do not invent attendance or financial controls.
+
+## Guest Recovery
+
+Use **LATTE**: Listen, Acknowledge, Take action within assigned authority, Thank, Ensure satisfaction. Protect the system, assume good faith, and do not argue. Escalate financial adjustments, allergens/food safety, repeated remakes, escalation, or unresolved complaints to the instructor.
+
+## Grading
+
+- 45% Summative Assessments: Projects, Tests, and Bistro
+- 35% Formative Assessments and Labs
+- 20% Employability Skills
+
+Employability measures observable professional habits rather than personality or vague participation. Use the current Assessment System for detailed grading rules.
 
 ## Safety and Instructor Authority
 
-Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. Students who are not ready do not enter the kitchen for that day's practical work; they complete the handwritten Kitchen Alternate Learning Assignment and, when a lab is missed, the online Culinary Missed Lab / Make-Up Form. Use **Removed from Kitchen Duty**, not “fired.” Unperformed physical skill remains not observed unless later demonstrated authentically.
+Use **Removed from Kitchen Duty**, not “fired.” Alternate work can demonstrate knowledge, planning, and Professional Thinking; unperformed physical skill remains not observed unless later demonstrated authentically.
 
-Safety governs all work. AI, students, student leaders, and support adults do not make final decisions about:
+Instructor retains final authority over safety, allergens, equipment, grades, discipline, district/legal compliance, food release, student-specific judgments, and unconfirmed financial controls.
 
-- Live safety approval.
-- Equipment authorization.
-- Grades.
-- Discipline.
-- District policy.
-- Legal or regulatory compliance.
-- Student-specific judgments.
-- Cash-handling controls not already confirmed in WACOS.
+## Lesson Planning
 
-Student-facing materials require instructor review before use. AI-generated recipes, assessments, safety instructions, family communications, administrative communications, and public materials also require instructor review.
-
-## ChatGPT, Codex, and GitHub
-
-### ChatGPT
-
-Use ChatGPT for:
-
-- Planning and brainstorming.
-- Lesson and lab development.
-- Bistro planning.
-- Drafting and revision.
-- Document generation.
-- Reflection and analysis.
-- Creation and revision of delivery artifacts from current WACOS sources.
-
-### Codex
-
-Use Codex for:
-
-- Repository edits and correct file placement.
-- Cross-document consistency.
-- Link and formatting validation.
-- Decision, source, navigation, and changelog updates.
-- Git commits and GitHub publishing after approval.
-
-### GitHub
-
-- `Whelessjc/WACOS`, branch `main`, is the permanent documentation record.
-- Use GitHub for detailed procedures, citations, recent changes, and questions not answered here.
-- Do not claim GitHub was updated unless a commit and push were confirmed.
-
-### Google Drive
-
-- Use the district-approved Drive as the durable library for instructor-reviewed, ready-to-use materials.
-- Reuse accepted files directly rather than rebuilding them from Markdown each term.
-- Treat Drive copies as delivery artifacts, not independent program authority.
-- Return durable curriculum or operating changes to the WACOS Update Workflow.
-
-Permanent changes follow `00_Core/WACOS_Update_Workflow.md`:
-
-- Quick Edit.
-- Program Decision.
-- Resource Intake.
-
-## External Systems
-
-These remain external unless a current approved connection is available:
-
-- Google Docs and Google Drive.
-- Outlook or Gmail.
-- Calendar.
-- Canvas.
-- Square.
-- Bookkeeper forms.
-- Printing and copying systems.
-
-Do not place student records, grades, credentials, private financial information, personnel information, or district-restricted data in WACOS, memory, or an unapproved AI system.
-
-## Fast Answer Rules
-
-For a common question answered directly in this file:
-
-1. Give the direct answer first.
-2. Do not search GitHub unless the user requests verification or the question is policy-sensitive, recently changed, or unclear.
-3. Name the governing repository file when it is listed below.
-
-For a detailed or sensitive question:
-
-1. Search the connected GitHub repository.
-2. Use the narrowest governing document.
-3. Cite the repository file used.
-4. Separate confirmed practice from unresolved decisions.
-5. Do not invent missing policy.
-
-For every daily or weekly lesson-planning request, treat the Daily Teaching Guide Standard as a required current source rather than relying only on a prior lesson, chat memory, or generic lesson-plan format.
-
-For an existing WACOS recipe, begin with `04_Recipes/Recipe_Bank/README.md` and retrieve the likely Markdown category file directly from `main`. Direct category-file retrieval takes precedence over repository-wide code search; do not report a recipe as missing until the relevant category files have been checked. Use the exact entry as the factual source, preserve all confirmation flags and unresolved notes, and treat printable or student copies only as derivatives.
+Use the current Daily Teaching Guide Standard, relevant pacing/weekly guide, and current calendar. Identify Knowledge, Skill, and Professional Thinking. Separate Core Learning from Flexible Learning. Do not turn every micro-skill into paperwork.
 
 ## Governing File Map
 
-| Topic | Current repository file |
+| Topic | Current file |
 |---|---|
-| Core authority and current program decisions | `00_Core/West_Ashley_Culinary_Core_Manual.md` |
-| Open and confirmed decisions | `00_Core/DECISION_REGISTER.md` |
-| Permanent change process | `00_Core/WACOS_Update_Workflow.md` |
-| Program voice and terminology | `00_Core/WACOS_Style_Guide.md` |
-| Daily and weekly classroom systems | `00_Core/08_Daily_and_Weekly_Systems.md` |
-| Daily/weekly lesson structure and micro-skills | `09_Workflows/Daily_Teaching_Guide_Standard.md` and `06_Templates/Daily_Teaching_Guide_Template.md` |
-| Instructor operating model | `09_Workflows/Teacher_Cockpit.md` |
-| Weekly instructor workflow | `09_Workflows/Weekly_Teacher_Workflow.md` |
-| Recurring instructor checklists | `09_Workflows/Instructor_Recurring_Checklists.md` |
+| Core authority | `00_Core/West_Ashley_Culinary_Core_Manual.md` |
+| Sept. 12 Bistro decision | `00_Core/2026-09-12_Bistro_Opening_and_Rhythms_Decision.md` |
+| Decisions | `00_Core/DECISION_REGISTER.md` |
+| Bistro Prep/Service rhythms | `02_Bistro/Operations/Bistro_Rhythms.md` |
 | Bistro operations | `02_Bistro/Operations/05_Bistro_Operations.md` |
-| Bistro guest/order flow and team SOPs | `02_Bistro/SOPs/Life_of_an_Order.md` and `02_Bistro/SOPs/README.md` |
-| Bistro payments and deposits | `02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md` |
-| Assessment system | `03_Assessment/06_Assessment_System.md` |
-| Existing recipe retrieval | `04_Recipes/Recipe_Bank/README.md` and the relevant Markdown category file |
-| AI operating guidance | `00_Core/WACOS_AI_Reference.md` and `05_AI/11_AI_Workflows.md` |
-| 2026-2027 calendar | `00_Core/2026-07-20_Calendar_Week_Mapping.md` |
+| Life of an Order | `02_Bistro/SOPs/Life_of_an_Order.md` |
+| Team SOPs | `02_Bistro/SOPs/` |
+| Culinary 1 pacing | `01_Curriculum/Culinary_1/01_Modular_Pacing_Guide.md` |
+| Culinary 2 framework/pacing | `01_Curriculum/Culinary_2/00_Master_Framework.md`, `01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md` |
+| Assessment | `03_Assessment/06_Assessment_System.md` |
+| DTG standard | `09_Workflows/Daily_Teaching_Guide_Standard.md` |
+| Calendar | `00_Core/2026-07-20_Calendar_Week_Mapping.md` |
 
-## Maintenance Rule
+## Maintenance
 
-Review and update this file whenever a permanent change affects a high-frequency fact listed here. Keep it concise. Put detailed procedures in their governing WACOS documents and link to them rather than expanding this file into a second manual.
-
-## Missing Work and Reassessment
-
-For an excused absence, enter 1 for missing work. The five-day maximums are 90, 80, 70, 60, and 50; after day five the grade becomes 0. Bistro makeups are instructor-approved and choice-based. After attendance verification and consideration of documented circumstances, an unexcused no-call/no-show on a clearly communicated major-project day earns 0. Bistro improvement is shown through later observations and the next accumulated grade rather than recreating a service.
-
-## Current Five-Team Training and Rotation
-
-Use **Service, Barista, Line Cooks, Support, and Expo / Floaters**. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
-
-Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly Dishes, Counters & Surfaces, Storage, Floors, and Laundry jobs; Friday follows Bistro-position duties.
-
-Expo / Floaters owns operational flow, with Expo as its home base. During active service one Expo student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
+Update this retrieval aid whenever a permanent change affects a high-frequency fact. Keep detailed procedures in their governing documents.
