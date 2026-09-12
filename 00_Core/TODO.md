@@ -1,9 +1,25 @@
 # WACOS TODO
 
-## Highest Priority Instructor Decisions
-- Confirm Bistro cash-drawer starting amounts, till-variance rules, and the final Square outage-recovery entry method. See D006.
-- Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
+## Highest Priority Instructor / Administrative Decisions
 - Ask administration when repeated inability or refusal to meet Kitchen Readiness should trigger parent contact, counseling intervention, administrative conference, or reconsideration of course placement. See D013. Do not create an automatic removal threshold in WACOS.
+- Resolve the approved OnTime/Kiosk fallback for Bistro guest ILT check-in when the system fails. The first public service showed that an improvised paper fallback weakens attendance verification. See GitHub Issue #3.
+- Define a reliable workflow for accepted phone/email/other remote Bistro orders to enter Square promptly without creating a loose parallel paper production stream. Preserve current financial controls until confirmed. See GitHub Issue #3.
+- Decide whether/when to develop a separate Service/FOH appearance standard. Do not treat this as required current policy until approved.
+- Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
+
+## Current Bistro Opening Implementation
+
+The permanent opening architecture now treats Bistro as the performance environment for fundamentals built from Day 1. Week 4 is governed by required training outcomes rather than a rigid daily script; Week 5 remains the normal first-public-service target when ready.
+
+For the immediate 2026 fall recovery after first service, the instructor-confirmed Week 6 sequence is:
+
+- Monday — Service reset / whole-room guest-service retraining.
+- Tuesday — Reset & Closing rehearsal plus Barista recovery.
+- Wednesday — Practice Bistro Prep using low-stakes/non-menu production work.
+- Thursday — Real Bistro Prep using the new Prep Rhythm.
+- Friday — Bistro Service #2 in the existing two-service rotation.
+
+Delay the planned knife-skills opening rather than layering new technical content onto unstable Bistro operating systems. Resume the knife progression after the targeted correction work.
 
 ## Missing Documentation
 - Official school/district course names and course codes.
@@ -18,44 +34,33 @@
 - Equipment-specific SOP cards and student safety sign-offs.
 
 ## Version 3.0 Build Tasks
-- Convert core checklists into printable student-facing forms.
-- Build Bistro role cards and live grading sheets.
+- Convert core checklists into printable student-facing forms where physical copies improve the work.
+- Maintain the Bistro Rhythm and Bistro Prep Rhythm as current student/instructor references and publish accepted Google Drive delivery copies through the Artifact Publishing Workflow.
+- Build/refine Bistro role cards and live grading sheets only where they reduce decisions rather than add paperwork.
 - Build Culinary 1 and Culinary 2 pacing calendars from the real school calendar.
 - Create a cleaned ChatGPT Edu upload bundle.
 - Decide which archive source packets can be public, private-instructor-only, or retired.
 
 ## Future-Year Development
 
-### August 24-28, 2026 Development Evidence - Not Current Policy
+### Team Size Evidence — Not Current Policy
 
 - Five smaller lab teams appeared to improve participation and organization. Three-person teams may be preferable when space allows, but smaller teams may increase dishes and food use. Continue observing before adopting a permanent team-size standard.
-- "Calm station / clear mind / better work" is useful emerging instructional language; continue testing it before promoting it into permanent guidance.
-- The Daily Teaching Guide remains a prototype. One day/one primary working page is a current design hypothesis, not a permanent DTG standard.
-- ChatGPT/Work artifacts need better information density and readability. Exact document-design specifications remain under testing.
-- The online ServSafe platform permits up to three attempts. No permanent response has been approved for a student who does not complete or pass after those attempts.
 
-### Week 4 Development Evidence - Not Current Policy
+### Daily Teaching Guide Pilot — Not Yet Final Standard
 
-- Prototype D is the current Daily Teaching Guide pilot direction: one clean instructor working page with centered title/course/week, Learning Target, compact Knowledge / Skill / Professional Thinking, Key Terms, Before Class — Set Up, Teach / Show, Students Do, Micro-Skills / If They Come Up, Watch For, If There Is Extra Time, Clean Stop, and Notes for Next Time. Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** before deciding whether it replaces the permanent standard.
-- Reduce paperwork using the working principle: do not print information simply because it exists; print it because someone needs it physically while doing the work. Continue testing the teaching-binder, active-clipboard, point-of-use laminated-reference, and digital-library organization without making exact storage arrangements permanent policy.
-- An unannounced Culinary 2 readiness check found zero students fully completing the expected clocked-in, locked-in, phone-parked, notebook-out, pen-out, first-steps-written routine. Use the evidence to strengthen the proposed opening/reset design through **TEACH → DEMONSTRATE → PRACTICE → CHECK → REPEAT → EXPECT FLUENCY**; do not create a new punitive policy.
-- Continue developing Instructor/Teaching Assistant delegation, especially clearly assigned priority work during instructor absence, while preserving existing authority boundaries and neutral role labels.
+- Prototype D remains the current Daily Teaching Guide pilot direction. Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** before deciding whether it replaces the permanent DTG structure.
+- The separate `09_Workflows/Document_Design_Standard.md` now governs the visual language for generated working documents; do not confuse the adopted visual standard with final adoption of Prototype D's DTG structure.
 
-### ServSafe/Readiness Administrative Follow-Up - No Policy Adopted
+### Paperwork / Adult Workflow Development
 
-Ask administration what approved pathway applies when a Culinary 1 student repeatedly fails the required ServSafe/readiness assessment after normal instruction and retest opportunities. Confirm:
+- Continue reducing paperwork using the principle: print information because someone needs it physically while doing the work, not simply because it exists.
+- Continue developing Instructor/Teaching Assistant delegation while preserving existing authority boundaries. Week 5 evidence supports instructor-led initial whole-group Service system training, with the Teaching Assistant reinforcing/coaching after the system is established.
 
-- whether an outside ServSafe Food Handler course or assessment may be required;
-- whether a no-cost alternative must be provided;
-- whether advance syllabus or parent communication is required;
-- how IEP/504 accommodations or other documented needs affect the pathway; and
-- what instructional participation is appropriate while the readiness requirement remains unmet.
+### ServSafe/Readiness Administrative Follow-Up
 
-Do not place student-specific disability, discipline, grade, or personally identifiable information in WACOS.
-
-- Collect concise evidence during the 2026-2027 Culinary 2 reset: retained fundamentals, recurring gaps, effective drills, needed repetitions, time to regained independence, and transfer into later production.
-- Review D012 in spring 2027 and decide whether to adopt a two- to four-week common-baseline opening for Culinary 2 in 2027-2028.
-- If approved, build a dated 2027-2028 opening package and revise annual pacing without creating a separate WACOS repository or replacing the broader Culinary 2 framework unless separately decided.
+- The approved online ServSafe Food Handler course/assessment remains the primary credential-content delivery method. No permanent response has been approved for a student who does not complete/pass after the platform's available attempts.
+- Keep student-specific disability, discipline, grade, credential, or personally identifiable information out of public WACOS.
 
 ## Foundation Implementation Details
 
@@ -64,8 +69,6 @@ Do not place student-specific disability, discipline, grade, or personally ident
 - Publish the approved Culinary 1 refrigerated quick-pickle formula, label format, and same-day discard procedure before the lab.
 - Publish the equipment-specific broiler/grill SOP, safety check, and student authorization record before any student operation.
 
-The instructor has approved all four curriculum additions. These are documentation and implementation tasks, not open curriculum decisions.
-
 ## Recipe Development Test
 
-- Test a more reliable, lower-cost cocoa-based brownie for instruction and Bistro production. The target is straightforward student preparation, dependable baking, reasonable ingredient cost, and acceptable Bistro margin. The current high-chocolate/high-egg formula produces good brownies but is costly, while another cocoa-based formula has had unpredictable bake time. Test the Hershey cocoa formula with chocolate chips in a quarter sheet pan with a sheet-pan extender rather than assuming its source 9x13 home pan. This is not an approved Recipe Bank replacement; do not establish a final yield, bake time, food cost, or production standard until the test is completed and instructor-approved.
+- Test a more reliable, lower-cost cocoa-based brownie for instruction and Bistro production. Do not establish a final yield, bake time, food cost, or production standard until testing is completed and instructor-approved.
