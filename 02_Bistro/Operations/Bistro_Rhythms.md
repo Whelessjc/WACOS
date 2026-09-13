@@ -185,7 +185,7 @@ Required outcomes include:
 - Work Ready and Kitchen Ready routines;
 - Life of an Order and all five current teams;
 - graceful-urgency arrival/opening rehearsal;
-- whole-group Service simulation in a populated dining room;
+- **Service School** — whole-group, instructor-led Service training in a populated dining room;
 - Barista operating-system practice;
 - situational awareness across all five teams;
 - Practice Bistro Prep using low-stakes/non-menu production work;
@@ -205,11 +205,19 @@ Rehearse:
 
 **Work Ready → Huddle → Assignment → Weekly Job Setup → Read → Mise en Place → Production Preflight → Produce → Clean Stop → Handoff/Store → Reset**
 
-## Whole-Group Service Training
+## Service School — See the Room. Serve the Guest.
 
-Initial Service training should be whole-group and instructor-led so students see a populated dining room and the complete guest experience. The Teaching Assistant reinforces and coaches the established system afterward.
+**Service School** is the permanent name for the required whole-group pre-Bistro Service training. It is not limited to a recovery lesson. In a normal opening, it is taught before first public service; when authentic service evidence shows the need, it may also be used later as targeted retraining.
 
-Students practice recognizing and responding to guests arriving, queue-number flow, orders entering, food/drinks becoming ready, guest needs, refills, clearing, and table reset. Service circulates with purpose rather than hovering around the stand.
+Service School is instructor-led so students see a populated dining room and the complete guest experience. The Teaching Assistant reinforces and coaches the established system afterward.
+
+Students practice recognizing and responding to guests arriving, queue-number flow, orders entering, food/drinks becoming ready, guest needs, refills, clearing, table reset, and the Life of an Order. Service circulates with purpose rather than hovering around the stand.
+
+Use the Service loop:
+
+**SCAN → APPROACH → ACT → MOVE → SCAN AGAIN**
+
+The instructional emphasis is not simply carrying food. Students learn to **see the room, serve the guest, and recognize what needs to happen next.**
 
 ## Barista Training
 
