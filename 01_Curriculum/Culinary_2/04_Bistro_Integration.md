@@ -52,7 +52,7 @@ Before the first public service, Culinary 2 students experience the current pre-
 - Work Ready / Kitchen Ready routines;
 - Life of an Order and all five teams;
 - graceful-urgency arrival/opening;
-- whole-group Service simulation in a populated dining room;
+- **Service School** — whole-group, instructor-led Service training in a populated dining room;
 - Barista operating-system training;
 - situational awareness across all five teams;
 - Practice Bistro Prep using low-stakes/non-menu production work;
@@ -118,11 +118,17 @@ Every team uses:
 
 Awareness does not mean abandoning assigned responsibilities. Students respond within their role, training, and authorization.
 
-## Service Training
+## Service School — See the Room. Serve the Guest.
 
-Initial Service training is whole-group and instructor-led so students can see the dining room populated and recognize the complete guest experience. The Teaching Assistant reinforces and coaches the established system afterward.
+**Service School** is the permanent name for the initial whole-group Service training. It is instructor-led so students see the dining room populated and recognize the complete guest experience. The Teaching Assistant reinforces and coaches the established system afterward.
 
 Students practice guest acknowledgment, queue-number flow, active circulation rather than hovering, delivery, refills, clearing, table reset, and recognizing where guests/orders are in the Life of an Order.
+
+Use:
+
+**SCAN → APPROACH → ACT → MOVE → SCAN AGAIN**
+
+Service School may also be used later as targeted retraining when authentic Bistro evidence shows the need.
 
 ## Barista Training
 
