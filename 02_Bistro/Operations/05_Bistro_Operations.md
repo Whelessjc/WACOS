@@ -114,6 +114,28 @@ The full guest-to-reset walkthrough lives in `../SOPs/Life_of_an_Order.md`, whic
 
 At a summary level: the host greets first and completes OnTime/ILT check-in; ordering guests receive an individual queue number while non-ordering guests receive no number; POS takes and confirms the order; Barista owns Barista tickets and Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, and physical production cues; Service owns the guest experience and delivery; LATTE governs recovery; and every station resets its own area while Support protects shared shutdown flow.
 
+## Remote and Advance Orders
+
+Order requests may originate through Google Forms, email, phone, early walk-ins, or other instructor-accepted channels. The governing control is:
+
+**Requests can come from many places. Production orders come from Square.**
+
+A classic diner ticket may be used temporarily to capture a phone or in-person request. It does not become a kitchen production ticket.
+
+For a future request, hold the request until the appropriate production-release time. When the order is ready to enter production, POS enters the actual items in Square, uses **Actions → Edit Name/Notes** to name the check, verifies the order, and selects **Save** rather than Pay. Under the current Bistro Square configuration, saving sends the appropriate production tickets while leaving the named check open for later payment.
+
+When the guest is ready to pay, POS uses **View Checks**, retrieves the named/custom open check, verifies it, and completes the normal approved payment/redemption workflow.
+
+Operational shorthand:
+
+**REQUEST → HOLD UNTIL APPROPRIATE → ENTER IN SQUARE → NAME CHECK → SAVE → PRODUCTION → RETRIEVE CHECK → PAY**
+
+**SAVE = release the accepted order to production and keep the check open.**
+
+**PAY = settle and close the check when payment is received.**
+
+See `../SOPs/Bistro_Payment_and_Deposit_Workflow.md` for the governing details. Instructor judgment controls order acceptance, production timing, capacity, menu availability, unusual requests, and safety/allergen concerns.
+
 ## Bistro Rotations
 
 The five current Bistro rotations are **Service, Barista, Line Cooks, Support, and Expo / Floaters**.
@@ -187,13 +209,15 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 - Queue numbers accounted for and ready.
 - Recipes/current menu/build references available where needed.
 - OnTime check-in, queue numbers, hall passes, ticket printers, ticket holders, handoff tables, and stabbers ready.
+- Known advance-order requests reviewed so release timing is intentional rather than accidental.
 
 ## During Service
 
 - Instructor and Teaching Assistant facilitate, coach, observe, and grade live when possible.
 - Students use station resources rather than depending on adults to find every item or narrate every next step.
 - One missed role can break the entire restaurant; students must understand interdependence.
-- POS is the order-taking point; Service students do not take seated-table orders.
+- POS is the order-entry point; Service students do not take seated-table orders.
+- Remote/advance requests enter production only after Square entry and Save/release through the named open-check workflow.
 - Expo / Floaters owns production tickets. Line Cooks work from calls, callbacks, physical cues, sequencing, and status communication rather than seeing/reading tickets.
 - Service owns the guest experience after the order enters Square and anticipates needs by scanning the room.
 - Guest recovery uses LATTE within existing authority.
@@ -201,7 +225,7 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 
 ## Payment and Redemption
 
-Current payment, comp, deposit, and Square-outage controls remain governed by `../SOPs/Bistro_Payment_and_Deposit_Workflow.md`. This curriculum/operating update does not change those financial controls.
+Current payment, comp, deposit, open-check, remote-order, and Square-outage controls are governed by `../SOPs/Bistro_Payment_and_Deposit_Workflow.md`.
 
 ## After Service
 
@@ -210,13 +234,9 @@ Current payment, comp, deposit, and Square-outage controls remain governed by `.
 - Complete rotation reset/closing checklist.
 - Complete dish, laundry, trash, floors, equipment, and cooler reset.
 - Complete assigned reflection/assessment evidence when used.
+- Review and resolve open Square checks appropriately.
 - Complete current financial/deposit workflow.
 
 ## Operational Follow-Up
 
-The Week 5 first-service implementation exposed two issues requiring separate operational review rather than invented curriculum rules:
-
-- a reliable approved fallback when OnTime/Kiosk guest check-in fails;
-- a reliable process for accepted phone/email/remote orders to enter Square promptly rather than operating as loose parallel paper orders.
-
-These are tracked separately and do not change existing district attendance or financial controls until confirmed.
+The remote/advance-order Square workflow is now resolved. The remaining Week 5 operating issue is OnTime/ILT access: request a second dedicated OnTime station/login so Culinary class functions can remain in Class mode while Bistro guest ILT check-in remains in Kiosk mode. Until approved/implemented, any OnTime failure fallback remains subject to current instructor/admin direction; do not invent attendance authorization.
