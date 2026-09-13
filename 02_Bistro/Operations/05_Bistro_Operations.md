@@ -35,7 +35,7 @@ Before first public service, students experience:
 - Work Ready and Kitchen Ready routines;
 - Life of an Order and all five current teams;
 - graceful-urgency arrival/opening rehearsal;
-- whole-group Service simulation in a populated dining room;
+- **Service School** — whole-group, instructor-led Service training in a populated dining room;
 - Barista operating-system training;
 - situational awareness across all five teams;
 - Practice Bistro Prep using low-stakes/non-menu production work;
@@ -162,11 +162,17 @@ Use the Expo / Floaters operating loop:
 
 Use **Scan → Identify → Communicate → Act → Reassess**.
 
-## Service Training
+## Service School — See the Room. Serve the Guest.
 
-Initial Service training is whole-group and instructor-led with a populated dining room so students can see the complete guest experience. The Teaching Assistant reinforces and coaches the established system afterward.
+**Service School** is the permanent name for the initial whole-group Service training before public Bistro service. It is instructor-led so students see a populated dining room and the complete guest experience. The Teaching Assistant reinforces and coaches the established system afterward.
 
 Train guest acknowledgment, queue-number flow, purposeful circulation rather than hovering, accurate delivery, refills, clearing, table reset, and recognizing where guests/orders are in the Life of an Order.
+
+Use the Service loop:
+
+**SCAN → APPROACH → ACT → MOVE → SCAN AGAIN**
+
+Service School may also be used later as targeted retraining when authentic service evidence shows a need. In the current Fall 2026 recovery week, Monday's corrective Service lesson is **Service School — Reset & Retraining**; in future normal openings, the pre-Bistro lesson is simply **Service School**.
 
 ## Barista Training
 
