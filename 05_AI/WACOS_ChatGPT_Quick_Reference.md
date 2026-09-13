@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: September 12, 2026
+Last updated: September 13, 2026
 
 ## Purpose
 
@@ -125,7 +125,7 @@ Week 4 is outcome-based, not a rigid daily script. Before first public service, 
 - Work Ready/Kitchen Ready;
 - Life of an Order and five teams;
 - graceful-urgency arrival/opening rehearsal;
-- whole-group instructor-led Service simulation in a populated dining room;
+- **Service School**;
 - Barista operating-system training;
 - situational awareness across all teams;
 - Practice Bistro Prep and Production Preflight;
@@ -135,6 +135,18 @@ Week 4 is outcome-based, not a rigid daily script. Before first public service, 
 - at least one complete mock-service cycle, which may be brief and use simulated/simplified food.
 
 The Teaching Assistant reinforces/coaches the established Service system after initial whole-group instructor training.
+
+## Service School
+
+**Service School — See the Room. Serve the Guest.** is the permanent name for the required initial whole-group, instructor-led Service training before public Bistro service.
+
+Students practice guest acknowledgment, queue-number flow, Life of an Order, purposeful circulation rather than hovering, accurate delivery, anticipation, refills, clearing, and table reset in a populated dining room.
+
+Use:
+
+**SCAN → APPROACH → ACT → MOVE → SCAN AGAIN**
+
+Service School may also be used later for targeted retraining. For Fall 2026 Week 6, the corrective version is **Service School — Reset & Retraining**; future normal pre-Bistro openings use **Service School**.
 
 ## Service
 
@@ -162,7 +174,8 @@ Keep current build references at Barista.
 - Service owns the guest experience after Square entry.
 - Every station cleans its own area; Support owns stewarding, dish flow, shared operational cleanliness, and shutdown support.
 - Expo is Expo / Floaters home base.
-- Approved fallback for OnTime/Kiosk failure and reliable prompt Square entry of accepted remote orders remain unresolved operational follow-up. Do not invent attendance or financial controls.
+- Remote/advance order workflow: **Requests can come from many places. Production orders come from Square.** Hold future requests until appropriate release time; enter in Square, name the check, Save to release production while keeping the check open, retrieve later through View Checks, then Pay/close.
+- OnTime/ILT still needs a second dedicated station/login so Culinary Class mode and Bistro Kiosk mode can operate concurrently. Until approved, do not invent attendance authorization.
 
 ## Guest Recovery
 
