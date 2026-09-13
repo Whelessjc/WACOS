@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-13 - Adopt Service School Naming
+
+- Adopted **Service School — See the Room. Serve the Guest.** as the permanent WACOS name for the required initial whole-group, instructor-led Service training before public Bistro service.
+- Service School teaches the populated dining-room guest experience: acknowledgment, queue-number flow, Life of an Order, purposeful circulation rather than hovering, accurate delivery, anticipation, refills, clearing, and reset using **SCAN → APPROACH → ACT → MOVE → SCAN AGAIN**.
+- Service School may be reused as targeted retraining when authentic Bistro evidence shows a need. The Fall 2026 Week 6 corrective lesson is **Service School — Reset & Retraining**; future normal openings use **Service School**.
+- Updated Bistro Rhythms, Bistro Operations, Culinary 1 curriculum, Culinary 2 Bistro Integration, and the ChatGPT Quick Reference.
+
 ## 2026-09-12 - Integrate Week 5 Bistro Launch Evidence and Opening-Curriculum Redesign
 
 ### Program Decisions
@@ -103,3 +110,11 @@
 
 - Established that food produced in Culinary has an instructor-approved purpose and is not automatic student food. Added intended use, yield, portion plan, approved destination, professional handling/storage, and remaining-product planning to early Culinary 1.
 - Made brownie product stewardship a Unit 2 procedure: exactly one brownie per team member, gloves for packaging the remaining ready-to-eat brownies under current ServSafe Food Handler guidance, and an instructor-directed blend of distribution and storage.
+- Established that taking food or ingredients without permission is a violation of product stewardship, trust, and Employability expectations and may affect production planning and inventory; did not create a separate automatic discipline or grading penalty.
+- Made the approved online ServSafe Food Handler course and assessment the primary credential-content delivery method: Week 1 access, Week 2 progress checkpoint, Week 3 completion, up to three platform attempts, blended independent/class access, and certificates emailed to the instructor rather than stored in public WACOS.
+- Reframed Culinary safety instruction around applied practice and verification in authentic kitchen work rather than duplicating the online course module by module.
+
+### Implementation
+
+- Updated the Core Manual, Decision Register, Culinary 1 curriculum, Unit 2 lesson sequence, Culinary 1 assessment guide, ServSafe Food Handler guide, current assessment system, Quick Reference, TODO, and AI guardrails.
+- Retired the prior 50-question local practice-test requirement from current guidance; retained it only in archives/history.
