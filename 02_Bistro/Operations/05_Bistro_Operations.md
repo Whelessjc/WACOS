@@ -69,6 +69,8 @@ Begin every real Prep with a brief whole-group huddle covering only current-serv
 
 Students normally receive individual production assignments. Use pairs when the work reasonably benefits from two people. Students retain Dishes, Counters & Surfaces, Storage, Floors, and Laundry responsibilities while owning assigned production.
 
+**Bistro Service begins on Thursday.** Current prep lists preserve clear station **START HERE** assignments, then move through **HIGH PRIORITY → LOWER PRIORITY** work. Production comes before polish. Long-lead, complex, and service-critical work is protected before easy portioning, stocking, utensil wrapping, table balancing, and similar finish work. Service may support appropriate production before lower-priority dining-room setup. Each task has visible ownership and completion status; unfinished work receives an explicit takeover/handoff. Exact item distribution among teams remains an implementation detail that may be refined from service evidence.
+
 ### Production Preflight
 
 Before production, the student identifies product, recipe yield, assigned quantity, scaling status, units, complete procedure, complete mise en place, and first step. Notebook plus brief instructor/Teaching Assistant verification is sufficient unless another current form is required.
@@ -114,27 +116,45 @@ The full guest-to-reset walkthrough lives in `../SOPs/Life_of_an_Order.md`, whic
 
 At a summary level: the host greets first and completes OnTime/ILT check-in; ordering guests receive an individual queue number while non-ordering guests receive no number; POS takes and confirms the order; Barista owns Barista tickets and Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, and physical production cues; Service owns the guest experience and delivery; LATTE governs recovery; and every station resets its own area while Support protects shared shutdown flow.
 
-## Remote and Advance Orders
+## Remote, Advance, and Future Orders
 
-Order requests may originate through Google Forms, email, phone, early walk-ins, or other instructor-accepted channels. The governing control is:
+**Requests can come from many places. Production orders come from Square.** Google Forms, email, phone, early walk-ins, and other instructor-accepted channels may initiate requests.
 
-**Requests can come from many places. Production orders come from Square.**
+The preorder form is intended for Monday-Thursday planning and closes Friday morning. Accepted preorders may be entered into Square before school so live service is not burdened with avoidable order entry.
 
-A classic diner ticket may be used temporarily to capture a phone or in-person request. It does not become a kitchen production ticket.
+Phone orders may still be accepted when capacity allows. Capture the request on the classic diner ticket, attach it to the designated **E.T. queue** marker, and hand it to POS. A phone order does not automatically outrank faculty already physically waiting at POS. POS enters it at the appropriate opening in the faculty/order flow, then resumes student queue numbers.
 
-For a future request, hold the request until the appropriate production-release time. When the order is ready to enter production, POS enters the actual items in Square, uses **Actions → Edit Name/Notes** to name the check, verifies the order, and selects **Save** rather than Pay. Under the current Bistro Square configuration, saving sends the appropriate production tickets while leaving the named check open for later payment.
+For unpaid accepted orders, enter the items in Square, name the check using **Actions → Edit Name/Notes**, and Save so the check remains retrievable for later payment. When the guest arrives, retrieve the named open check through **View Checks**, verify it, and Pay/close it.
 
-When the guest is ready to pay, POS uses **View Checks**, retrieves the named/custom open check, verifies it, and completes the normal approved payment/redemption workflow.
+**Payment status and production status are separate.** An early guest may order and pay for a later pickup; the paid ticket remains FUTURE until the appropriate production window.
 
-Operational shorthand:
+Use visible ticket state:
 
-**REQUEST → HOLD UNTIL APPROPRIATE → ENTER IN SQUARE → NAME CHECK → SAVE → PRODUCTION → RETRIEVE CHECK → PAY**
+- **FUTURE** — valid order, not yet released to production.
+- **CURRENT** — released and actively owed.
+- Completed tickets follow the station's normal completed-ticket process.
 
-**SAVE = release the accepted order to production and keep the check open.**
+Expo uses fixed FUTURE and CURRENT ticket rails. The same physical model may be used at Barista/Pastry when useful. Moving a ticket from FUTURE to CURRENT is the visible production-release signal.
 
-**PAY = settle and close the check when payment is received.**
+Whole-order tickets are organized **Food → Beverage → Pastry**. Expo and Barista/Pastry can see the whole order while owning only their assigned work: **See the whole order. Own your part.**
 
-See `../SOPs/Bistro_Payment_and_Deposit_Workflow.md` for the governing details. Instructor judgment controls order acceptance, production timing, capacity, menu availability, unusual requests, and safety/allergen concerns.
+See `../SOPs/Bistro_Payment_and_Deposit_Workflow.md` for payment controls.
+
+## Third-Block Opening and Queue Control
+
+The dedicated second OnTime/ILT station allows ILT/Bistro check-in to operate without taking the Culinary Class-mode station away from student clock-in, late arrivals, hall passes, and class functions.
+
+For third block:
+
+- **12:45 PM:** ILT access may begin. Students check in and may receive queue numbers.
+- Culinary students transition to Work Ready and open stations.
+- Guests may wait with queue numbers; ILT admission does not require immediate ordering.
+- **1:00 PM:** Bistro ordering/service begins.
+- Faculty physically at POS enter the faculty flow without student queue numbers.
+- Accepted phone orders waiting on the E.T. marker are entered at the next appropriate opening after faculty already physically waiting.
+- Student queue numbers resume when the operation is ready.
+
+**Calling the next number is the throttle.** Do not release orders faster than Line Cooks, Barista/Pastry, Expo, and Service can execute safely and well.
 
 ## Bistro Rotations
 
@@ -245,4 +265,4 @@ Current payment, comp, deposit, open-check, remote-order, and Square-outage cont
 
 ## Operational Follow-Up
 
-The remote/advance-order Square workflow is now resolved. The remaining Week 5 operating issue is OnTime/ILT access: request a second dedicated OnTime station/login so Culinary class functions can remain in Class mode while Bistro guest ILT check-in remains in Kiosk mode. Until approved/implemented, any OnTime failure fallback remains subject to current instructor/admin direction; do not invent attendance authorization.
+The September 2026 OnTime single-station conflict and remote/advance-order workflow are resolved through the dedicated ILT station, Square open checks, preorder timing, E.T. phone-order queue, queue throttling, and visible FUTURE/CURRENT ticket states. Continue evaluating the exact prep-task distribution and whether Barista/Pastry benefits from permanent dual rails; these remain implementation refinements rather than new governing rules.
