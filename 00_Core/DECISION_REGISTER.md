@@ -14,7 +14,6 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 | D009 | Culinary 2 capstone | Five-course tasting menu model confirmed. | Annual chef/course roster and partner availability. |
 | D010 | Spring Bistro relaunch | Relaunch aligns to Culinary 1 readiness with fallback when training runs long. | Exact spring readiness. |
 | D013 | Repeated Kitchen Readiness failure | No kitchen entry; current alternate/missed-lab processes apply. | When recurring inability/refusal should trigger parent/counselor/admin/placement escalation. Course removal is not automatic WACOS policy. |
-| D014 | Bistro OnTime / remote-order controls | Current OnTime and Square controls remain. | Approved OnTime/Kiosk failure fallback and reliable prompt Square entry for accepted remote orders. See GitHub Issue #3. |
 | D015 | Service appearance | No separate permanent FOH/Service appearance standard adopted. | Whether to develop one later. |
 
 ## Confirmed Standards
@@ -42,6 +41,23 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - Bistro Prep/Service are cumulative food-safety/workplace-safety performance environments. Culinary 1 expectations accumulate as taught; Culinary 2 moves toward **safety fluency under pressure**.
 - Current teams remain **Service, Barista, Line Cooks, Support, Expo / Floaters**, with two consecutive services per position in the shared ten-service cycle. No separate formal Service 1/Service 2 curriculum is created.
 - Governing detail: `00_Core/2026-09-12_Bistro_Opening_and_Rhythms_Decision.md` and `02_Bistro/Operations/Bistro_Rhythms.md`.
+
+### September 19, 2026 — Bistro Prep and Order-Flow Controls
+
+- **Bistro Service begins on Thursday.** Thursday Prep protects Friday readiness; station-based prep uses **START HERE → HIGH PRIORITY → LOWER PRIORITY**, with production before polish.
+- Prep tasks use visible ownership and completion status. Unfinished work receives an explicit takeover/handoff rather than becoming invisible Friday work.
+- Service may support appropriate production before lower-priority dining-room polish such as utensil wrapping, table balancing, and similar finish work.
+- The exact distribution of individual prep foods among teams remains an implementation detail and may be adjusted from service evidence.
+- A dedicated second OnTime/ILT station is now in use so Culinary Class-mode needs and ILT/Bistro check-in do not compete for one device. This resolves former D014's OnTime-station question.
+- For third block, ILT access may begin at **12:45 PM** while Bistro ordering/service begins at **1:00 PM**. Queue numbers may be issued while guests wait; calling the next number controls order-entry pace.
+- Preorder requests are intended for Monday-Thursday planning and the form closes Friday morning. Accepted preorders may be entered into Square before school to remove order entry from the live rush.
+- Phone orders remain accepted when capacity allows. They use the designated **E.T. queue** for handoff to POS and do not automatically outrank faculty already physically waiting at POS.
+- Square is the order record; **physical ticket state controls production timing**. Payment status and production-release status are separate.
+- Whole-order tickets are organized **Food → Beverage → Pastry** so Expo and Barista/Pastry can see the complete order while owning only their assigned work.
+- **FUTURE** means a valid order not yet released to production. **CURRENT** means an order actively owed. Expo uses fixed CURRENT/FUTURE ticket rails; the same model may be used at Barista/Pastry when useful.
+- Early paid future orders remain on FUTURE until the appropriate production window; payment does not itself release production.
+- Observable Bistro performance includes sanitation, date marking, Clean as You Go, productive use of time, station ownership, reset, and closing. Assessment evaluates observable performance, not whether a student appears to care.
+- Governing detail: `02_Bistro/Operations/05_Bistro_Operations.md`, `02_Bistro/Operations/Bistro_Rhythms.md`, `02_Bistro/SOPs/Life_of_an_Order.md`, and `02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md`.
 
 ### Kitchen Readiness / Removed from Kitchen Duty
 
