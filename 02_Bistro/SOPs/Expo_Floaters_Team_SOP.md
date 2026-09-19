@@ -1,6 +1,6 @@
 # Expo / Floaters Team SOP
 
-Current as of September 12, 2026.
+Current as of September 19, 2026.
 
 ## Mission and Home Base
 
@@ -19,7 +19,7 @@ Expo / Floaters operate inside the permanent Bistro Rhythm and model whole-opera
 - Arrive On Time and Work Ready; move with graceful urgency.
 - Complete any applicable Kitchen Ready requirements before entering practical kitchen work.
 - Clean, sanitize, organize, and stock Expo/pass.
-- Prepare the active production ticket holder and completed-ticket stabber.
+- Prepare the fixed ticket rails: **CURRENT** on the left for released/actively owed orders and **FUTURE** on the right for valid orders not yet released; prepare the completed-ticket stabber.
 - Confirm the Line Cooks-to-Service handoff area and physical production-cue system.
 - Review absences, gaps, deliveries, lunch-opening needs, and bottlenecks.
 - Assign the Expo anchor.
@@ -28,13 +28,16 @@ Expo / Floaters operate inside the permanent Bistro Rhythm and model whole-opera
 
 **Expo / Floaters own and read production tickets. Line Cooks do not see or read them.**
 
-1. Retrieve and sequence active production tickets.
-2. Call each new ticket with **“Order in”** and the required items.
-3. Listen for the Line Cooks callback or **“Heard.”** Repeat or clarify any unconfirmed call.
-4. Verify that Line Cooks immediately place a physical production cue for each dish.
-5. Watch cooks and cues, track timing and whole-order status, and communicate what must happen next.
-6. Verify quality, accuracy, and completeness; coordinate Line Cooks-to-Service handoff.
-7. Move the ticket to the stabber only after the completed order leaves the line.
+1. Control production release through ticket state. **FUTURE** is not yet released; **CURRENT** is actively owed. Payment status does not determine release.
+2. Move a ticket FUTURE → CURRENT at the appropriate production window.
+3. Whole-order tickets are organized **Food → Beverage → Pastry**. Expo sees the whole order while coordinating Line Cooks production: **See the whole order. Own your part.**
+4. Retrieve and sequence CURRENT production tickets.
+5. Call each new ticket with **“Order in”** and the required items.
+6. Listen for the Line Cooks callback or **“Heard.”** Repeat or clarify any unconfirmed call.
+7. Verify that Line Cooks immediately place a physical production cue for each dish.
+8. Watch cooks and cues, track timing and whole-order status, and communicate what must happen next.
+9. Verify quality, accuracy, and completeness; coordinate Line Cooks-to-Service handoff.
+10. Move the ticket to the stabber only after the completed order leaves the line.
 
 ## Expo Calls
 
