@@ -46,6 +46,8 @@ Thursday Bistro Prep is not a normal team lab. It is production work inside one 
 
 Students normally receive individual production assignments. Pairs may be used when the work reasonably benefits from two people. Students retain their Monday-Thursday cleaning-job responsibilities while owning their assigned production.
 
+**Bistro Service begins on Thursday.** Prep is judged by Friday readiness, not by how busy the room looked. Current station prep lists use **START HERE → HIGH PRIORITY → LOWER PRIORITY** so long-lead, complex, and service-critical production is protected before easy finish work or dining-room polish. Students claim visible ownership of work, mark completion, and identify unfinished work for takeover/handoff. Service may support appropriate production before lower-priority dining-room finish work. Exact item distribution remains adjustable from service evidence.
+
 ### 1. Arrive On Time and Work Ready
 
 Complete the current Work Ready routine and transition into production with graceful urgency.
@@ -113,6 +115,14 @@ When work carries into another class or student, follow current storage and labe
 - where the product/components are located.
 
 The next person should be able to continue without reconstructing what happened. Clean and reset the station before leaving.
+
+## Friday Flow Control
+
+ILT access and Bistro ordering are separate operating events. In third block, ILT may begin at **12:45 PM** while Bistro ordering/service begins at **1:00 PM**, allowing the Culinary class to become Work Ready and open stations before accepting the ordering rush. Guests may check in, receive queue numbers, and wait. Calling the next queue number is a production-flow throttle; do not release work faster than the operation can execute safely and well.
+
+Square records the order; visible ticket state controls production timing. **FUTURE** means a valid order not yet released to production. **CURRENT** means an order actively owed. Payment does not itself release a future order.
+
+Whole-order tickets are organized **Food → Beverage → Pastry**. Students use the rule: **See the whole order. Own your part.**
 
 ## Bistro Rhythm — Friday: Work the Plan
 
