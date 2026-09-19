@@ -1,6 +1,6 @@
 # Life of an Order
 
-Current as of 2026-09-12. Source: instructor-confirmed Bistro operating workflow.
+Current as of 2026-09-19. Source: instructor-confirmed Bistro operating workflow.
 
 ## Purpose
 
@@ -44,9 +44,9 @@ The Service host is the face of the Bistro. Greet every student first with **“
 
 Students leaving the ILT space must sign out and take a hall pass. Teachers retain front-of-line priority because they may be using a limited planning period.
 
-Reservations submitted through the current Google Form guarantee advance preparation, not release or payment. Each ordering guest still completes arrival, individual numbering, Square entry, and the current payment process before the prepared order is released.
+Preorder requests are intended for Monday-Thursday planning and the form closes Friday morning. Accepted preorders may be entered into Square before school. A preorder does not require immediate production merely because it is entered or paid; FUTURE/CURRENT ticket state controls release.
 
-If OnTime/Kiosk mode is unavailable, do not invent a new attendance control. Use the current instructor-approved fallback and escalate the system problem for operational/admin review.
+A dedicated second OnTime/ILT station is used so ILT/Bistro check-in can remain available while the Culinary Class-mode station continues student clock-in, late-arrival, hall-pass, and class functions. If OnTime itself is unavailable, do not invent attendance authorization; use current instructor/admin direction.
 
 ## 2. Guest Finds a Seat
 
@@ -54,7 +54,13 @@ Guests seat themselves at any available spot. Service does not assign tables or 
 
 Service acknowledges guests and circulates with purpose rather than hovering around the stand. A guest should not be left wondering whether anyone sees them.
 
-## 3. POS Takes the Order
+## 3. Ordering Opens at the Controlled Pace
+
+For third block, ILT may begin at **12:45 PM** while Bistro ordering/service begins at **1:00 PM**. Students may check in, receive queue numbers, and wait while Culinary students become Work Ready and open stations.
+
+Calling the next queue number is the throttle. Faculty physically waiting at POS use the established faculty priority. Accepted phone orders use the designated **E.T. queue** marker and are entered at the next appropriate opening after faculty already physically waiting; calling does not create automatic front-of-line priority.
+
+## 4. POS Takes the Order
 
 The Square POS host/cashier calls the queue number, makes eye contact, smiles, greets the guest, takes the order, repeats it back, confirms modifications or dietary alerts without guessing, and enters it into Square. Service students do not take seated-table orders.
 
@@ -62,14 +68,25 @@ The current payment and comp workflow governs transaction completion. Students d
 
 Accepted remote-order workflows must follow current approved controls. Do not allow loose paper orders to become an invented parallel production system outside Square.
 
-## 4. Tickets Enter Production
+## 5. Tickets and Production State
+
+Square records the order; physical ticket state controls production timing.
+
+- **FUTURE:** valid order not yet released to production.
+- **CURRENT:** released and actively owed.
+
+Payment status is separate from production status. An early paid order for a later pickup remains FUTURE until the appropriate production window. Expo uses fixed FUTURE and CURRENT rails; Barista/Pastry may use the same model when useful.
+
+Whole-order tickets are organized **Food → Beverage → Pastry**. Expo and Barista/Pastry can see the whole order while owning only their assigned work: **See the whole order. Own your part.**
+
+When a ticket becomes CURRENT:
 
 An order may create a Barista ticket, a production ticket, or both.
 
 - The Barista ticket prints on the small table between POS and Barista. Barista retrieves it, calls **“Order in: [items],”** receives callbacks, and places the active ticket on the Barista holder.
 - Expo / Floaters owns and reads production tickets. Line Cooks do not see or read them. Expo calls the items; Line Cooks call back with **“Heard”** and immediately place a physical production cue for each dish, such as its plate, pan, vessel, or key food component.
 
-## 5. Production and Communication
+## 6. Production and Communication
 
 Line Cooks work from Expo's calls, callbacks, physical cues, sequencing, and status communication. Expo watches the cooks and cues and uses **order in, fire, all day, on the fly, 86, getting low, backup, in the weeds,** and **lowboy** in real operating context.
 
@@ -77,7 +94,7 @@ Line Cooks work from Expo's calls, callbacks, physical cues, sequencing, and sta
 
 Barista prepares the complete Barista order from its active ticket using current build references. Students do not need to memorize every drink; they need to operate the station accurately. Barista does not wait on Line Cooks except for true delivery orders.
 
-## 6. Quality Check and Handoff
+## 7. Quality Check and Handoff
 
 Expo / Floaters tracks the whole food order, verifies completeness, accuracy, quality, and presentation, and coordinates Line Cooks-to-Service handoff. The production ticket moves to the stabber only after the completed order leaves the line.
 
@@ -85,7 +102,7 @@ When the Barista order is complete, Barista groups all its items together, place
 
 Dine-in and takeout guests may receive beverages or pastries while hot food is still working.
 
-## 7. Service Delivers, Circulates, and Anticipates
+## 8. Service Delivers, Circulates, and Anticipates
 
 Service owns the guest experience after the order enters Square. Service delivers each available item accurately and continuously scans for low or empty beverages, finished plates, missing flatware, condiments or napkins, food or trash on the floor, guests looking for help, guest body language, waiting food or drinks, and queue numbers ready to be returned.
 
@@ -93,7 +110,7 @@ After delivering any item, ask whether the guest needs anything else or is still
 
 Service does not wait at the stand for the room to create an obvious emergency. Circulate, scan, approach when useful, act, move, and scan again.
 
-## 8. Every Team Sees the Whole Operation
+## 9. Every Team Sees the Whole Operation
 
 Situational awareness belongs to all five teams.
 
@@ -113,17 +130,17 @@ Examples of cues include:
 
 Awareness does not mean everyone abandons their station. Notice, interpret, communicate, and act within the role.
 
-## 9. Recover Without Arguing
+## 10. Recover Without Arguing
 
 For a questionable queue-number situation or another guest concern, protect the system, assume good faith, and do not argue. Say **“Let me check on that for you,”** and use LATTE: **Listen, Acknowledge, Take action, Thank, Ensure satisfaction.**
 
 Students correct ordinary service problems within assigned authority. Refunds, guest comps, financial adjustments, allergen or food-safety concerns, repeated remakes, escalating behavior, and unresolved complaints require instructor involvement.
 
-## 10. Clear and Thank
+## 11. Clear and Thank
 
 Service clears appropriately, thanks the guest, and resets the table for self-seating. Queue numbers return to their assigned location after the guest has received every food and Barista item.
 
-## 11. Reset and Close
+## 12. Reset and Close
 
 Every station cleans its own station. Support protects dish flow and shared operational cleanliness while progressively supporting shutdown.
 
