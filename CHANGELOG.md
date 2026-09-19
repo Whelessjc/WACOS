@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-09-19 - Adopt Bistro Prep and Order-Flow Controls
+
+### Program Decision
+
+- Established **Bistro Service begins on Thursday**: Prep is judged by Friday readiness, with station **START HERE → HIGH PRIORITY → LOWER PRIORITY**, production before polish, visible task ownership/completion, and explicit takeover/handoff for unfinished work.
+- Kept exact food-task distribution among teams adjustable from service evidence; Service may support appropriate production before low-priority dining-room polish.
+- Resolved the single OnTime-station conflict through a dedicated second ILT/Bistro check-in station while preserving the Culinary Class-mode station for class functions.
+- Separated third-block ILT admission from ordering: ILT may begin at **12:45 PM** and Bistro ordering/service begins at **1:00 PM**. Calling the next queue number is the order-entry throttle.
+- Formalized preorder planning: the form is intended for Monday-Thursday use, closes Friday morning, and accepted preorders may be entered into Square before school.
+- Formalized phone-order handoff through the **E.T. queue** without automatic front-of-line priority over faculty already physically waiting at POS.
+- Separated payment from production release. Square records the order; **FUTURE** tickets are not yet released and **CURRENT** tickets are actively owed. Early paid orders remain FUTURE until the production window.
+- Adopted fixed CURRENT/FUTURE rails at Expo; Barista/Pastry may use the same model when useful.
+- Organized whole-order tickets **Food → Beverage → Pastry** and adopted the operating language **See the whole order. Own your part.**
+- Confirmed sanitation, date marking, Clean as You Go, productive use of time, station ownership, reset, and closing as observable Bistro performance evidence rather than subjective judgments about whether a student cares.
+
+### Implementation
+
+- Updated Decision Register, Bistro Rhythms, Bistro Operations, Life of an Order, Payment/Deposit Workflow, Service SOP, Barista SOP, Expo/Floaters SOP, and ChatGPT Quick Reference.
+- Left exact prep-item distribution and permanent Barista dual-rail use as implementation refinements to be tested rather than frozen as governing minutiae.
+
 ## 2026-09-13 - Adopt Service School Naming
 
 - Adopted **Service School — See the Room. Serve the Guest.** as the permanent WACOS name for the required initial whole-group, instructor-led Service training before public Bistro service.
