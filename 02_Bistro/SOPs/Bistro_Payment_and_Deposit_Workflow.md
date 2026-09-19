@@ -1,6 +1,6 @@
 # Bistro Payment and Deposit Workflow
 
-Current as of September 13, 2026
+Current as of September 19, 2026
 
 ## Purpose
 
@@ -25,63 +25,55 @@ A classic diner ticket may be used as a temporary intake tool when a request is 
 
 The Bistro does not accept card payments under the current instructor-confirmed workflow. Square is the sales-record and kitchen-ticket system; Square does not process the cash or checks.
 
-## Remote and Advance Orders
+## Remote, Advance, and Future Orders
 
-### Two States
+### Governing Distinction
 
-Keep future requests conceptually separate from released production orders:
+**Square records the order. Physical ticket state controls production timing. Payment status and production status are separate.**
 
-1. **REQUEST RECEIVED** — the Bistro has the request, but it is not yet time to send it into production.
-2. **ORDER RELEASED** — the request is entered in Square, named, and saved. Under the current Bistro Square configuration, saving sends the appropriate production tickets to connected printers. The saved check remains open for later payment.
+Use:
 
-Do not save a future order hours early merely to store it in Square if saving will immediately print production tickets. Hold the request until the appropriate production-release time.
+- **FUTURE** — valid order not yet released to production.
+- **CURRENT** — released and actively owed.
 
-### Request Intake
+An order may be unpaid or paid while still FUTURE. Payment does not itself authorize immediate production.
 
-An order request may arrive through:
+### Preorders
 
-- Google Form;
-- email;
-- phone;
-- an in-person request before school;
-- a walk-in request at another appropriate time;
-- another instructor-accepted channel.
+The current preorder form is intended for Monday-Thursday planning and closes Friday morning. Accepted preorders may be entered into Square before school to remove avoidable order entry from the live rush.
 
-The person receiving the request records enough information to enter it accurately in Square, including the guest/customer name, requested items/modifications, and needed pickup/service timing when applicable. A classic diner ticket may be used for this temporary intake.
+For an unpaid accepted order:
 
-Do not promise an order the Bistro cannot safely or reasonably fulfill. Instructor judgment governs acceptance, timing, capacity, menu availability, allergens/food-safety concerns, and unusual requests.
+1. Enter the actual items and confirmed modifications in Square.
+2. Use **Actions → Edit Name/Notes** to name the check.
+3. Save the named check so it remains retrievable.
+4. Keep the printed production tickets in FUTURE until the appropriate production window.
+5. When released, move the ticket FUTURE → CURRENT.
+6. When the guest arrives, use **View Checks** to retrieve the named open check, verify it, and complete the approved payment/redemption process.
 
-### Release to Production in Square
+### Early Paid Future Orders
 
-When it is time for the accepted order to enter production:
+A guest may order and pay before school for a later pickup.
 
-1. Open a new check in Square.
-2. Enter the actual menu items and confirmed modifications.
-3. Go to **Actions → Edit Name/Notes** and give the check the guest/customer name so it can be identified later.
-4. Verify the order before release.
-5. Select **Save**, not Pay.
-6. Saving the check releases the order through the configured Square production-ticket printers while leaving the check open for later payment.
-7. The handwritten/intake request is now only supporting intake evidence; production follows the Square tickets.
+1. Enter and settle the transaction normally.
+2. Keep the printed production tickets.
+3. Mark/identify the requested pickup time when needed.
+4. Place the tickets in FUTURE.
+5. Move FUTURE → CURRENT at the appropriate production window.
+6. At pickup, no additional payment step is required because Square already records the transaction as paid.
 
-**Do not send the diner ticket to Barista or Line Cooks.**
+### Phone Orders — E.T. Queue
 
-### Retrieve and Pay Later
+A classic diner ticket may capture a phone request. Attach it to the designated **E.T. queue** marker and hand it to POS. A phone order does not automatically outrank faculty already physically waiting at POS. POS enters the phone order at the next appropriate opening in the faculty/order flow, then resumes student queue numbers.
 
-When the guest/customer is ready to pay:
+Once correctly entered in Square, the diner ticket is not a parallel kitchen-production ticket.
 
-1. Select **View Checks** from the main Square screen.
-2. Navigate to the open/custom checks view as configured on the Bistro POS.
-3. Locate the named check.
-4. Reopen it and verify the order.
-5. Add or correct items only through the normal Square workflow if needed.
-6. Select **Pay** and complete the current approved cash/check/redemption process.
-7. Close the check only after the transaction is correctly settled.
+### Whole-Order Ticket Visibility
 
-The operational distinction is:
+Current Square ticket organization is **Food → Beverage → Pastry**. Expo and Barista/Pastry may see the whole order while producing only their assigned portion.
 
-**SAVE = release the accepted order to production and keep the check open.**
+**See the whole order. Own your part.**
 
-**PAY = settle and close the check when payment is received.**
 
 ## PBIS and Bistro Coin Setup
 
@@ -104,6 +96,7 @@ Square includes comped items in gross item activity because gross sales are calc
 - Enter every released order in Square before or as it is sent to production.
 - Do not operate handwritten, email, Google Form, or verbal requests as a parallel kitchen-ticket system.
 - For an unpaid accepted order, use the named open-check workflow above and collect payment later.
+- Keep FUTURE and CURRENT production state separate from paid/unpaid status.
 - Select the payment type actually received: cash or check.
 - Confirm checks are payable to WAHS.
 - Use the correct comp reason for PBIS incentives and Bistro coins.
