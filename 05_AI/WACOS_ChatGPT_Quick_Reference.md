@@ -62,7 +62,7 @@ Normally stop cooking/production at least 15 minutes before the bell to protect 
 
 ## Bistro Prep Rhythm
 
-Thursday is production work, not a normal team lab.
+Thursday is production work, not a normal team lab. **Bistro Service begins on Thursday.** Current prep lists preserve station START HERE assignments, then prioritize **HIGH PRIORITY → LOWER PRIORITY** work. Production comes before polish; tasks use visible ownership/completion and unfinished work receives takeover/handoff.
 
 1. Arrive On Time and Work Ready.
 2. Brief Bistro Huddle for current-service differences only.
@@ -174,8 +174,12 @@ Keep current build references at Barista.
 - Service owns the guest experience after Square entry.
 - Every station cleans its own area; Support owns stewarding, dish flow, shared operational cleanliness, and shutdown support.
 - Expo is Expo / Floaters home base.
-- Remote/advance order workflow: **Requests can come from many places. Production orders come from Square.** Hold future requests until appropriate release time; enter in Square, name the check, Save to release production while keeping the check open, retrieve later through View Checks, then Pay/close.
-- OnTime/ILT still needs a second dedicated station/login so Culinary Class mode and Bistro Kiosk mode can operate concurrently. Until approved, do not invent attendance authorization.
+- Dedicated second OnTime/ILT station is in use so ILT/Bistro check-in can remain available while the Culinary Class-mode station handles class functions.
+- Third block: ILT may begin at **12:45 PM**; ordering/service begins at **1:00 PM**. Guests may check in, receive queue numbers, and wait. Calling the next number controls order-entry pace.
+- Preorder form is used Monday-Thursday for planning and closes Friday morning; accepted preorders may be entered into Square before school.
+- Phone orders use the **E.T. queue** marker for POS handoff and do not automatically outrank faculty already physically waiting.
+- Square records orders; physical ticket state controls production: **FUTURE = not released**, **CURRENT = actively owed**. Payment does not itself release production.
+- Whole-order tickets are organized **Food → Beverage → Pastry**. Use **See the whole order. Own your part.**
 
 ## Guest Recovery
 
