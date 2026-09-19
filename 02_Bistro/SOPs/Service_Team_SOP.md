@@ -1,6 +1,6 @@
 # Service Team SOP
 
-Current as of September 12, 2026.
+Current as of September 19, 2026.
 
 ## Mission
 
@@ -31,7 +31,15 @@ Guests may already be present when students arrive. Move through Work Ready and 
 
 Students leaving the ILT space sign out and take a hall pass. Guests choose any available seat; Service does not assign or escort guests to tables.
 
-If OnTime/Kiosk mode fails, use only the current instructor-approved fallback. Do not invent attendance approval or treat an improvised paper list as permanent policy.
+Use the dedicated ILT OnTime station for ILT/Bistro check-in so the Culinary Class-mode station remains available for class functions. If OnTime itself fails, use only current instructor/admin direction; do not invent attendance approval.
+
+## Third-Block Queue and POS Flow
+
+- ILT may begin at **12:45 PM**; ordering/service begins at **1:00 PM**.
+- Students may check in, receive queue numbers, and wait while Culinary opens.
+- Faculty physically at POS use the established faculty priority.
+- Phone orders waiting on the **E.T. queue** marker are entered at the next appropriate opening after faculty already physically waiting.
+- Resume student queue numbers only when the operation is ready. **Calling the next number is the throttle.**
 
 ## POS Order-Taking
 
