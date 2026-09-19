@@ -1,6 +1,6 @@
 # Barista Team SOP
 
-Current as of September 12, 2026.
+Current as of September 19, 2026.
 
 ## Mission
 
@@ -19,20 +19,21 @@ Students do not need to memorize every drink before service. They need to know h
 - Review the current menu, build references, stock, pars, specials, and known orders.
 - Set up authorized equipment and supplies.
 - Confirm the ticket printer and small table between POS and Barista are ready.
-- Establish the active-ticket holder, handoff table, and completed-ticket stabber.
+- Establish the ticket-control area, handoff table, and completed-ticket stabber. When dual rails are used, **FUTURE** means not yet released and **CURRENT** means actively owed.
 - Report missing stock or equipment problems; do not invent workarounds.
 
 ## Ticket and Production Flow
 
 1. POS enters the order; the Barista ticket prints on the small table between POS and Barista.
-2. Barista retrieves the ticket and calls **“Order in: [items].”**
-3. The Barista team acknowledges with callbacks.
-4. Place the active ticket on the Barista ticket holder.
-5. Prepare the complete Barista order from the ticket using current build references/recipes and confirmed modifications.
-6. Verify the order before handoff.
-7. Group all completed Barista items together and place the ticket with them on the handoff table.
-8. Call the order ready. Service takes and delivers it.
-9. Move the ticket to the stabber only after the order leaves Barista.
+2. Whole-order tickets are organized **Food → Beverage → Pastry**. Barista/Pastry sees the whole order but produces only its assigned beverage/pastry items: **See the whole order. Own your part.**
+3. If the order is FUTURE, hold it without producing until release. When it becomes CURRENT, Barista retrieves/releases the ticket and calls **“Order in: [items].”**
+4. The Barista team acknowledges with callbacks.
+5. Keep the CURRENT ticket controlled in the active-ticket area.
+6. Prepare the complete Barista/Pastry portion using current build references/recipes and confirmed modifications.
+7. Verify the order before handoff.
+8. Group completed Barista/Pastry items together and place the ticket with them on the handoff table.
+9. Call the order ready. Service takes and delivers it.
+10. Move the ticket to the stabber only after the order leaves Barista.
 
 Barista does not wait on Line Cooks except for true delivery orders. Dine-in and takeout guests may receive beverages or pastries while hot food is still working.
 
