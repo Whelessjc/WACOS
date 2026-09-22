@@ -7,7 +7,7 @@ Standardize recipe documentation, scaling, production planning, prep sheets, and
 Recipes are vehicles for skill practice. The curriculum is the skill, habit, and judgment being developed through the recipe.
 
 ## Standard Recipe Format
-Each recipe should include:
+Permanent Recipe Bank records include:
 - Name.
 - Course/use case: Culinary 1, Culinary 2, Bistro, catering, assessment.
 - Source and revision date.
@@ -20,6 +20,18 @@ Each recipe should include:
 - Holding, cooling, storage, reheating.
 - Scaling notes.
 - Skill focus.
+
+For Bistro and student-facing printables, use a simplified station format:
+1. Recipe title.
+2. Use, yield, and portion information.
+3. Ingredients in a two-column **Ingredient | Amount** table.
+4. Equipment.
+5. Procedure.
+6. Quality standard.
+7. Holding, storage, or service notes only when relevant.
+8. Instructor Review only when unresolved information requires confirmation.
+
+Do not include separate Allergens or Skill Focus sections on the printable. This simplification applies only to the delivery artifact; permanent Recipe Bank records retain food-safety, allergen, and skill-focus documentation.
 
 ## Production Packet
 For Bistro or larger labs, attach:
