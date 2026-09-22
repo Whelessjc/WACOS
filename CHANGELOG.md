@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-21 - Standardize Bistro Recipe Printable Format
+
+### Quick Edit
+
+- Established a separate Bistro/student-facing recipe printable format for fast station use: title; use/yield/portion; two-column **Ingredient | Amount** table; equipment; procedure; quality standard; relevant holding/storage/service notes; and Instructor Review only when unresolved information remains.
+- Removed separate **Allergens** and **Skill Focus** sections from Bistro/student printables while retaining food-safety, allergen, and skill-focus documentation in permanent Recipe Bank records and instructor review.
+- Kept ingredient tables as the default printable presentation and reinforced simple, readable, production-focused layout.
+
 ## 2026-09-19 - Adopt Bistro Prep and Order-Flow Controls
 
 ### Program Decision
