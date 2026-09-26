@@ -37,8 +37,8 @@ During active production ticket flow, one trained Floater remains on Expo. Other
 - Makes others better without taking over.
 
 
-## Current Five-Team Training and Rotation
+## Current Bistro Job Training and Placement
 
-Use Service, Barista, Line Cooks, Support, and Expo / Floaters. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+Use Service, Barista, Line Cooks, Support/KP, and Expo / Floaters as the operating functions. Students learn the whole system, then apply for and are placed in jobs by the instructor. Placements may last for the remainder of the course. Students who seek another job apply for transfer and demonstrate the knowledge, readiness, understanding, and drive required; transfer remains subject to Bistro need and instructor judgment.
 
-Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
+Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows assigned Bistro-job duties.
