@@ -22,7 +22,7 @@ See `../../02_Bistro/Operations/Bistro_Rhythms.md`.
 - Recipe/Production Preflight, mise en place, clean-as-you-go, clean stop, handoff when needed, and reset are cumulative systems.
 - Thursday Bistro Prep normally uses individual production assignments; pairs are used when justified. Monday-Thursday cleaning jobs remain active.
 - Friday uses the five current Bistro teams: Service, Barista, Line Cooks, Support, Expo / Floaters.
-- Teams remain in each Bistro position for two consecutive services.
+- Students remain in instructor-assigned Bistro jobs unless reassigned or approved for transfer; there is no automatic two-service rotation.
 - Recipes are production vehicles; harder recipes alone do not create Culinary 2 rigor.
 - Food/workplace safety is cumulative. The destination is **safety fluency under pressure**.
 - Situational awareness belongs to every team: **What do you notice? What does it mean? What needs to happen next?**
@@ -88,7 +88,7 @@ Week 4 is **outcome-based, not a rigid Monday-Friday script**. Arrange/combine t
 
 Required outcomes:
 
-1. Life of an Order and all five teams.
+1. Life of an Order and all Bistro jobs.
 2. Graceful-urgency arrival/opening rehearsal.
 3. Whole-group, instructor-led Service simulation in a populated dining room; Teaching Assistant reinforces/coaches afterward.
 4. Barista operating-system training: **Open → Organize → Receive Ticket → Use Build Reference → Produce → Verify → Handoff → Complete Ticket → Clean/Restock → Reset/Close**.
@@ -151,7 +151,7 @@ Delay the planned new technical sequence for targeted Bistro-system recovery:
 - **Tuesday — Reset & Closing + Barista Recovery:** physically rehearse Clean as You Go vs Reset vs Close; adults inspect completion; retrain Barista operating rhythm/build-reference use.
 - **Wednesday — Practice Bistro Prep:** low-stakes/non-menu production using Huddle → Assignment → Weekly Job Setup → Read → Mise → Production Preflight → Produce → Clean Stop → Handoff/Store → Reset.
 - **Thursday — Real Bistro Prep:** use the same Prep Rhythm with real production.
-- **Friday — Bistro Service:** existing two-service rotation continues.
+- **Friday — Bistro Service:** current Bistro job placements continue; use service evidence for coaching, reassignment, and transfer readiness.
 
 ### Future-year use
 
@@ -169,7 +169,7 @@ Once Bistro is active, protect the weekly arc:
 
 Do not sacrifice safety, recipe literacy, mise, communication, clean stop, handoff, or reset for novelty or menu complexity.
 
-## Current Five-Team Service Language
+## Current Bistro Job Language
 
 Use Service, Barista, Line Cooks, Support, and Expo / Floaters. Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, physical cues, sequencing, and status communication. Use current Life of an Order and team SOPs for detailed procedures.
 
@@ -183,4 +183,4 @@ Keep reflection short and grounded in actual work:
 - What did it mean?
 - What needs to happen next?
 
-Reflection/retraining occurs when evidence requires it; do not create a special formal Service 1/Service 2 curriculum beyond the existing two-service rotation.
+Reflection/retraining occurs when evidence requires it. Students deepen competence in their assigned jobs rather than moving automatically because a service count has elapsed.
