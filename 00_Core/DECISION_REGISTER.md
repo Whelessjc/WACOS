@@ -39,8 +39,20 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - Week 4 includes whole-operation Reset & Closing rehearsal. Teach **Clean as You Go vs Reset vs Close** and require adult inspection/correction.
 - Week 4 is governed by required outcomes rather than a rigid daily order and includes at least one complete mock-service cycle that may be brief/simplified.
 - Bistro Prep/Service are cumulative food-safety/workplace-safety performance environments. Culinary 1 expectations accumulate as taught; Culinary 2 moves toward **safety fluency under pressure**.
-- Current teams remain **Service, Barista, Line Cooks, Support, Expo / Floaters**, with two consecutive services per position in the shared ten-service cycle. No separate formal Service 1/Service 2 curriculum is created.
+- The Bistro functions remain **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**, but the former mandatory two-service rotation / shared ten-service cycle is retired. Students are placed in jobs through application, informal interview when useful, demonstrated readiness, and Bistro staffing need.
 - Governing detail: `00_Core/2026-09-12_Bistro_Opening_and_Rhythms_Decision.md` and `02_Bistro/Operations/Bistro_Rhythms.md`.
+
+### September 25, 2026 — Bistro Job-Placement Model
+
+- **Bistro jobs are placements, not automatic rotations.**
+- Students learn the whole Bistro operating system, including Life of an Order and cross-station awareness, but do not cycle through every job on a fixed calendar.
+- Students apply for Bistro jobs. The instructor may use a brief informal interview and places students according to Bistro demand and staffing needs first, informed by application quality, demonstrated knowledge, readiness, reliability, skill, and fit for the work.
+- A placement may last for the remainder of the course.
+- A student seeking another job must apply for a transfer and demonstrate the knowledge, readiness, understanding, and drive required for the requested role. Transfer is not guaranteed and remains subject to instructor judgment and Bistro staffing needs.
+- **Specialize in your job. Understand the whole operation.**
+- KP/Support is a real Bistro job with defined operating responsibilities, not a fallback assignment or free period.
+- The former August 26 five-team/two-service/ten-service rotation structure is retired and replaced by this job-placement model.
+- Existing station SOPs, Service School, Prep School, Life of an Order, safety, sanitation, communication, situational awareness, reset, and closing expectations remain in force unless separately revised.
 
 ### September 19, 2026 — Bistro Prep and Order-Flow Controls
 
