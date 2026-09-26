@@ -1,10 +1,10 @@
 # West Ashley Culinary Core Manual
 
-Version 1.0
+Version 1.3
 
 West Ashley High School Culinary Arts Program
 
-Current as of July 3, 2026
+Current as of September 25, 2026
 
 ---
 
@@ -901,6 +901,7 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.0 | 2026-07-03 | Initial Core Manual synthesized from WACOS v2.1, research archive, and current instructor-confirmed decisions. |
 | 1.1 | 2026-08-22 | Added Culinary 1 product stewardship and centralized the ServSafe Food Handler case-by-case safety topic in one governing statement. |
 | 1.2 | 2026-09-06 | Integrated Week 4 decisions for Bistro team names, Kitchen Readiness and removal terminology, online ServSafe delivery, practical-evidence limits, and verified daily kitchen close. |
+| 1.3 | 2026-09-25 | Retired mandatory Bistro rotations and adopted instructor-controlled Bistro job placement with application, transfer, and whole-operation awareness expectations. |
 
 
 ## Bistro Job-Placement Model — Approved September 25, 2026
@@ -918,7 +919,7 @@ Thursday Bistro Prep does not replace weekly lab responsibilities. Monday throug
 - **Service owns the guest experience:** host, server, runner, busser, room readiness, guest communication, service, clearing, and reset. Expo is not a Service responsibility.
 - **Barista owns beverage and pastry production and service.**
 - **Line Cooks own food production.**
-- **Support owns stewarding and operational cleanliness.**
+- **Support/KP owns stewarding, dish flow, and operational cleanliness.**
 - **Expo / Floaters owns operational flow.** Expo is the team’s home base. During active service, one Expo student remains responsible for Expo/pass while other trained and authorized Floaters deploy to operational needs.
 
 Expo / Floaters uses the operating loop **Expo → Line Cooks → Service → Barista → Support → Expo** and the professional-thinking questions **What do you notice? What does it mean? What needs to happen next?** Floater does not mean standby or free time. Students assist only within existing training, authorization, safety, and instructor-control boundaries.
