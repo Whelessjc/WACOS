@@ -53,6 +53,7 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - KP/Support is a real Bistro job with defined operating responsibilities, not a fallback assignment or free period.
 - The former August 26 five-team/two-service/ten-service rotation structure is retired and replaced by this job-placement model.
 - Existing station SOPs, Service School, Prep School, Life of an Order, safety, sanitation, communication, situational awareness, reset, and closing expectations remain in force unless separately revised.
+- Governing detail: `00_Core/2026-09-25_Bistro_Job_Placement_Decision.md` and `02_Bistro/Operations/05_Bistro_Operations.md`.
 
 ### September 19, 2026 — Bistro Prep and Order-Flow Controls
 
