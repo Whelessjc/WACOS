@@ -30,7 +30,7 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - Instructor teaching language may use **“I don't need to know if you can cook. I need to know if you can work.”** This emphasizes complete operating competence without removing technical cooking skill.
 - Thursday Prep normally uses individual production assignments, with pairs when justified; Monday-Thursday cleaning jobs remain active.
 - Every real Prep begins with a brief Bistro Huddle covering current-service differences only.
-- Production requires a **Production Preflight**: product, yield, assigned quantity, scaling status, units, complete procedure, mise en place, first step. Notebook + brief adult verification is sufficient unless another current form is required. **No checkoff → no production.**
+- Production requires a **Production Check**: product, yield, assigned quantity, scaling status, units, complete procedure, mise en place, first step. Notebook + brief adult verification is sufficient unless another current form is required. **No Production Check → no production.**
 - Clean-stop/handoff are required skills. Unfinished work stops logically, follows current storage/labeling requirements, includes useful handoff notes when another person/class continues it, and ends with reset.
 - Recipe preflight and clean-stop/handoff habits begin in early labs rather than waiting for Bistro training.
 - **Practice Bistro Prep** is required before first real Prep and uses low-stakes/non-menu production.
