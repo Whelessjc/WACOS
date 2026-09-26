@@ -209,7 +209,7 @@ Use the permanent Bistro Rhythm:
 9. Reset Your Station.
 10. Close When Required.
 
-All five teams use:
+All Bistro jobs use:
 
 **What do you notice? What does it mean? What needs to happen next?**
 
@@ -265,7 +265,7 @@ Use Canvas for weekly agenda archive, recipe PDFs, rubrics, CKC reference links,
 
 ## Group Structure
 
-Students normally work in small groups for instructional labs. Bistro Prep differs: production assignments are normally individual, with pairs when justified by the work. Friday follows the five current Bistro teams and two-service rotation.
+Students normally work in small groups for instructional labs. Bistro Prep differs: production assignments are normally individual, with pairs when justified by the work. Friday follows current Bistro job placements. Students specialize in assigned jobs while maintaining whole-operation awareness; job changes require the current transfer process rather than automatic rotation.
 
 ## Program Outcomes
 
