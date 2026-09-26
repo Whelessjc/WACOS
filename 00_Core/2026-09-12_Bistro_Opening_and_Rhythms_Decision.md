@@ -71,14 +71,14 @@ Students:
 4. Set up and maintain the current Monday-Thursday cleaning job.
 5. Read the complete recipe/direction before acting.
 6. Set the station and complete mise en place.
-7. Complete Production Preflight.
+7. Complete Production Check.
 8. Produce and clean as they go.
 9. Stop at a logical clean stop.
 10. Store/label under current procedures, leave handoff notes when work continues, and reset.
 
-Production Preflight confirms product, yield, assigned quantity, scaling status, units, complete procedure, mise en place, and first step. Notebook plus brief instructor/Teaching Assistant verification is sufficient unless another current form is required.
+Production Check confirms product, yield, assigned quantity, scaling status, units, complete procedure, mise en place, and first step. Notebook plus brief instructor/Teaching Assistant verification is sufficient unless another current form is required.
 
-**No checkoff → no production.**
+**No Production Check → no production.**
 
 ## Required Week 4 Outcomes
 
@@ -91,7 +91,7 @@ Before first public service, both courses experience:
 - Barista operating-system practice;
 - situational awareness across all Bistro jobs;
 - Practice Bistro Prep using low-stakes/non-menu production work;
-- Production Preflight;
+- Production Check;
 - clean-stop and handoff-note practice;
 - whole-operation Reset & Closing rehearsal;
 - cumulative food/workplace-safety application;
