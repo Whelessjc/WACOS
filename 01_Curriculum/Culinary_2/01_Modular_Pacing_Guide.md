@@ -43,8 +43,8 @@ Build each week around realistic production time. Normally stop cooking at least
 | Module | Approx. Timing | Main Work | Non-Negotiables |
 | --- | --- | --- | --- |
 | 1. Current-System Recalibration | Weeks 1-3 | Work Ready/Kitchen Ready, retained fundamentals, safety fluency, recipe literacy, mise, workflow, heat/knife/seasoning vehicles | demonstrate current procedures rather than relying on prior credit |
-| 2. Assemble Bistro Systems | Week 4 | Life of an Order, five teams, Service, Barista, graceful urgency, Practice Prep, Production Preflight, Reset/Closing, mock service | required outcomes completed before public service; sequence remains flexible |
-| 3. Bistro Launch + Fundamentals Under Pressure | Week 5 onward | real Prep/Service plus targeted correction and technique development | Week 5 public-service target when ready; two-service five-team rotation |
+| 2. Assemble Bistro Systems | Week 4 | Life of an Order, Bistro jobs, Service, Barista, graceful urgency, Practice Prep, Production Preflight, Reset/Closing, mock service | required outcomes completed before public service; sequence remains flexible |
+| 3. Bistro Launch + Fundamentals Under Pressure | Week 5 onward | real Prep/Service plus targeted correction and technique development | Week 5 public-service target when ready; instructor-assigned Bistro job placements |
 | 4. Proteins, Heat, and Doneness | Weeks 6-9, adjusted as needed | chicken, shrimp, beef, thermometers, carryover, browning | safe handling, doneness judgment, CKC evidence |
 | 5. Sauces, Moist Heat, Rice Dishes, and Structure | Weeks 10-14 | roux, reductions, emulsions, soups, braises, Lowcountry rice dishes | simmer control, texture, seasoning correction |
 | 6. Eggs, Batter, Frying, and Baking Control | Weeks 15-18 | eggs, batters, frying systems, baking control | clean systems, timing, reset |
@@ -80,7 +80,7 @@ Approximate timing: Week 4.
 
 Week 4 is governed by required outcomes rather than a rigid daily order. Students must experience:
 
-- Life of an Order and the five teams: Service, Barista, Line Cooks, Support, Expo / Floaters;
+- Life of an Order and the Bistro jobs: Service, Barista, Line Cooks, Support/KP, Expo / Floaters;
 - graceful-urgency Friday arrival/opening rehearsal;
 - whole-group Service simulation in a populated dining room;
 - Barista operating-system practice;
@@ -98,7 +98,7 @@ Initial Service training is whole-group and instructor-led. The Teaching Assista
 
 Week 5 is the normal first-public-service target when readiness, safety, and calendar allow. The instructor may delay, reduce, modify, or pause service.
 
-The five teams remain in each position for two consecutive services. Do not create a separate special first-service/second-service curriculum beyond the existing rotation.
+Students are placed in Bistro jobs through the current application/placement process rather than rotating automatically. Placements may continue for the remainder of the course; transfer requires application and demonstrated readiness and remains subject to Bistro need.
 
 Use authentic evidence to decide what needs targeted correction. Do not automatically continue planned new technical content when a fundamental operating deficiency requires immediate retraining.
 
