@@ -31,19 +31,19 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 
 ## Day 5: First Normal Public Bistro Service
 - Opening routine: readiness check, huddle, roles confirmed.
-- Demo or mini-lesson: review the current Bistro block sequence from setup through close, including POS-only order-taking, partial Barista delivery while hot food is working, Service queue-number checks, and progressive Support shutdown. Review Service, Barista, Line Cooks, Support, and Expo / Floaters and confirm the two-consecutive-service rotation.
+- Demo or mini-lesson: review the current Bistro block sequence from setup through close, including POS-only order-taking, partial Barista delivery while hot food is working, Service queue-number checks, and progressive Support shutdown. Review Service, Barista, Line Cooks, Support, and Expo / Floaters and confirm current Bistro job placements and whole-operation responsibilities.
 - Student work: complete assigned prep or service role under real timing.
 - Lab/application: first normal public Bistro service, subject to instructor readiness and safety authority; service, dish flow, guest awareness, reset, and debrief under controlled menu volume.
 - Cleanup/reset: full room reset before reflection.
 - Exit check: one improvement from Unit 4 and one stewardship habit to keep.
 
 
-## Current Five-Team Training and Rotation
+## Current Bistro Job Training and Placement
 
-Use **Service, Barista, Line Cooks, Support, and Expo / Floaters**. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+Use **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters** as the Bistro operating functions. Students learn the whole operation, then apply for and are placed in jobs by the instructor based on Bistro demand and staffing needs, informed by knowledge, readiness, reliability, skill, and fit. Placements may last for the remainder of the course; job changes use the current transfer process.
 
 Week 4 remains training and mock service only, with no public guests or soft opening. **Week 5, Day 5 remains the first normal public Bistro service on Friday, September 11**, subject to instructor readiness and safety authority.
 
-Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
+Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows assigned Bistro-job duties.
 
 Expo / Floaters owns operational flow, with Expo as its home base. During active service one Expo student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
