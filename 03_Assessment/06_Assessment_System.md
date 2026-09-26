@@ -169,6 +169,6 @@ Students know Bistro is normally Friday and are responsible for communicating be
 Bistro is not recreated for reassessment. Improvement is documented in later paper evidence and the next accumulated grade. Labs or applied skills may be reassessed case by case through a direct demonstration or focused practical. Reassessment is not automatic and does not replace safety or discipline responses.
 
 
-## Five-Team Observation and Support
+## Bistro Job Observation and Support
 
-Current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Teams remain in each position for two consecutive services. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+Current Bistro jobs are **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**. Students are placed rather than automatically rotated. Observation follows the student's assigned job while still measuring transferable Bistro expectations such as readiness, safety, communication, productive use of time, station ownership, situational awareness, Clean as You Go, reset, and closing. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
