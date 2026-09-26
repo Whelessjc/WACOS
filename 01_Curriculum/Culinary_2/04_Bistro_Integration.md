@@ -22,11 +22,11 @@ Instructor teaching language may use:
 
 ## Teams
 
-Bistro is organized into five teams: **Service, Barista, Line Cooks, Support, and Expo / Floaters.**
+Bistro is organized around five operating jobs/functions: **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters.**
 
 Do not assume Culinary 2 students already know the current roles because they previously completed Culinary 1. Every cohort recalibrates to the current WACOS operating system regardless of where or when prior Culinary experience occurred. The instructor may accelerate when students demonstrate current competence.
 
-Teams remain in each Bistro position for two consecutive services in the shared ten-service rotation.
+Students are placed in Bistro jobs by the instructor rather than rotating automatically. Placements may last for the remainder of the course. Students seeking a different job use the transfer application/readiness process.
 
 ## Purpose
 
@@ -50,11 +50,11 @@ Bistro gives students real practice with:
 Before the first public service, Culinary 2 students experience the current pre-opening foundation:
 
 - Work Ready / Kitchen Ready routines;
-- Life of an Order and all five teams;
+- Life of an Order and all Bistro jobs;
 - graceful-urgency arrival/opening;
 - **Service School** — whole-group, instructor-led Service training in a populated dining room;
 - Barista operating-system training;
-- situational awareness across all five teams;
+- situational awareness across all Bistro jobs;
 - Practice Bistro Prep using low-stakes/non-menu production work;
 - Production Preflight;
 - clean-stop and handoff-note practice;
@@ -154,7 +154,7 @@ Earlier classes may reset for the next class; the final responsible class comple
 
 Life of an Order is not only a sequence students recite. Students learn to recognize it happening around them: guest arrival, queue, Square entry, tickets, production, handoff, eating, refills, clearing, dishes, and reset.
 
-Situational awareness is expected of all five teams, not only Service or Expo / Floaters.
+Situational awareness is expected of all Bistro jobs, not only Service or Expo / Floaters.
 
 ## Service Language
 
@@ -188,4 +188,4 @@ Keep debriefs short and evidence-based:
 - What did it mean?
 - What needs to happen next?
 
-Use actual Bistro evidence to target retraining when needed. Do not formalize a special first-service/second-service curriculum beyond the existing two-service rotation.
+Use actual Bistro evidence to target retraining when needed. Depth in an assigned job is intentional; movement occurs through instructor reassignment or an approved transfer rather than automatic rotation.
