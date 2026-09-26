@@ -260,7 +260,7 @@ Culinary 2 should prepare students to:
 - Strengthen knife work, cooking methods, seasoning, tasting, and product awareness.
 - Use gentle poaching explicitly and apply broiler/grill methods only after equipment-specific safety instruction, SOP review, and individual authorization.
 - Execute Bistro prep and service with greater independence.
-- Rotate through front-of-house, back-of-house, support, and leadership roles.
+- Develop depth in assigned Bistro jobs while maintaining whole-operation awareness and the ability to support adjacent functions when trained and authorized.
 - Practice menu math, costing, inventory awareness, and production planning where appropriate.
 - Work toward Certified Kitchen Cook alignment.
 - Mentor newer or less confident students without doing the work for them.
@@ -441,9 +441,17 @@ One missed role can break the restaurant. A student who fails to stock spoons, l
 
 The Bistro should teach this directly. Students are not only completing individual tasks; they are protecting flow.
 
-### Role Rotation
+### Bistro Job Placement
 
-Students should rotate through the five current teams—Service, Barista, Line Cooks, Support, and Expo / Floaters—and authorized leadership responsibilities. Rotation helps students understand the whole operation and prevents them from defining culinary skill too narrowly.
+Bistro jobs are placements, not automatic rotations.
+
+Students learn the whole Bistro operating system so they understand how the operation connects, but they do not need to cycle through every job on a calendar. Students apply for Bistro jobs, may complete a brief informal interview, and are placed by the instructor according to Bistro demand and staffing needs first, informed by the student's application, demonstrated knowledge, readiness, reliability, skill, and fit for the work.
+
+A placement may last for the remainder of the course. Students who want to move to another job must apply for a transfer and demonstrate the knowledge, readiness, understanding, and drive required for that position. A transfer is not guaranteed; instructor placement authority remains necessary to protect the operation.
+
+The governing expectation is: **Specialize in your job. Understand the whole operation.**
+
+KP/Support is a real Bistro job with defined operating responsibilities, not a fallback assignment or free period.
 
 Common roles include prep, hot line, cold station, baking, dish, stewarding, host, POS, runner, busser, beverage, customer service, stocking, labels, laundry, trash, sanitizer, Bistro manager, station lead, sanitation lead, inventory assistant, and trained Expo / Floaters. Expo is the Expo / Floaters team’s home base; one trained Floater remains on Expo during active production ticket flow while other trained and authorized team members deploy according to operational need.
 
@@ -895,13 +903,17 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.2 | 2026-09-06 | Integrated Week 4 decisions for Bistro team names, Kitchen Readiness and removal terminology, online ServSafe delivery, practical-evidence limits, and verified daily kitchen close. |
 
 
-## Stable Five-Team Bistro Structure — Approved August 26, 2026
+## Bistro Job-Placement Model — Approved September 25, 2026
 
-The current instructional and Bistro teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. This instructor-confirmed structure replaces the former four-team model. The same five instructional teams carry into Bistro service to reduce confusion and build continuity.
+The current Bistro operating functions remain **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**, but the former mandatory two-service rotation model is retired.
 
-Each team remains in one Bistro position for **two consecutive services** before rotating. Service 1 develops familiarity with the position; Service 2 develops improved performance and independence. Five positions across two services form one repeating ten-service cycle shared by Culinary 1 and Culinary 2. The instructor selects the starting assignments for Teams 1–5.
+Students apply for jobs and are placed by the instructor based on Bistro demand and operational need, informed by application, informal interview when useful, demonstrated knowledge, readiness, reliability, skill, and fit. Placements may continue for the remainder of the course.
 
-Thursday Bistro Prep does not replace weekly lab responsibilities. Monday through Thursday, students retain their assigned Dishes, Counters & Surfaces, Storage, Floors, or Laundry job while participating in production. Friday Bistro Service is the exception: students operate according to their Bistro position and its Opening, During Service, and Closing responsibilities.
+Students seeking a different job submit a transfer request/application and demonstrate the knowledge, readiness, understanding, and drive required for the requested role. Transfer is not automatic and remains subject to instructor judgment and Bistro staffing needs.
+
+All students still learn Life of an Order, station interdependence, situational awareness, Service School/Prep systems, safety, sanitation, communication, and reset/close expectations so specialization does not become tunnel vision.
+
+Thursday Bistro Prep does not replace weekly lab responsibilities. Monday through Thursday, students retain their assigned Dishes, Counters & Surfaces, Storage, Floors, or Laundry job while participating in production. Friday Bistro Service is the exception: students operate according to their assigned Bistro job and its Opening, During Service, and Closing responsibilities.
 
 - **Service owns the guest experience:** host, server, runner, busser, room readiness, guest communication, service, clearing, and reset. Expo is not a Service responsibility.
 - **Barista owns beverage and pastry production and service.**
