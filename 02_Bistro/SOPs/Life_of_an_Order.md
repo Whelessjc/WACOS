@@ -22,15 +22,15 @@ Current Work Ready arrival language is:
 
 Kitchen Ready remains the separate safety/access gate for practical kitchen participation.
 
-## The Five Bistro Teams
+## Bistro Jobs
 
 - **Service** owns the guest experience.
 - **Barista** owns beverage and pastry production and service.
 - **Line Cooks** owns food production.
-- **Support** owns stewarding and operational cleanliness.
-- **Expo / Floaters** owns operational flow, with Expo as the team's home base and anchor responsibility.
+- **Support / KP** owns stewarding, dish flow, and operational cleanliness.
+- **Expo / Floaters** owns operational flow, with Expo as the job's home base and anchor responsibility.
 
-The same instructional teams carry into service. Each team normally remains in a position for two consecutive services in the shared ten-service cycle.
+Students are placed in Bistro jobs rather than automatically rotating. Placement may last for the remainder of the course. Students still learn the whole operation and are expected to recognize how their job connects to the others.
 
 ## 1. Welcome and ILT Check-In
 
@@ -110,9 +110,9 @@ After delivering any item, ask whether the guest needs anything else or is still
 
 Service does not wait at the stand for the room to create an obvious emergency. Circulate, scan, approach when useful, act, move, and scan again.
 
-## 9. Every Team Sees the Whole Operation
+## 9. Every Job Sees the Whole Operation
 
-Situational awareness belongs to all five teams.
+Situational awareness belongs to every Bistro job.
 
 Examples of cues include:
 
