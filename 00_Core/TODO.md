@@ -17,7 +17,7 @@ For the immediate 2026 fall recovery after first service, the instructor-confirm
 - Tuesday — Reset & Closing rehearsal plus Barista recovery.
 - Wednesday — Practice Bistro Prep using low-stakes/non-menu production work.
 - Thursday — Real Bistro Prep using the new Prep Rhythm.
-- Friday — Bistro Service #2 in the existing two-service rotation.
+- Friday — Bistro Service #2; use current instructor-assigned Bistro jobs rather than the retired two-service rotation.
 
 Delay the planned knife-skills opening rather than layering new technical content onto unstable Bistro operating systems. Resume the knife progression after the targeted correction work.
 
