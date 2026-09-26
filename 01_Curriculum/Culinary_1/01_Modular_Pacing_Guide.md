@@ -39,7 +39,7 @@ Use the adopted `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` for dated pl
 | 1. Learn the Room and Work Ready | 1 | navigation, communication, readiness, handwashing, recipe preflight, first lab, reset | students locate, read before acting, work safely with support, reset |
 | 2. Applied Safety and Stewardship | 2 | hygiene, cleaning/sanitizing, dish systems, storage, time/temperature, cleaning jobs | students demonstrate procedures in authentic work |
 | 3. Recipe Literacy and Production Organization | 3 | Food Handler completion, equipment literacy, yield/units/scaling, mise, prep lists, clean stop/handoff | organized no-surprise setup and accurate production planning |
-| 4. Assemble Bistro Systems | 4 | Life of an Order, five teams, Service, Barista, graceful urgency, Practice Prep, Reset/Closing, mock service | required pre-opening outcomes experienced/demonstrated |
+| 4. Assemble Bistro Systems | 4 | Life of an Order, Bistro jobs, Service, Barista, graceful urgency, Practice Prep, Reset/Closing, mock service | required pre-opening outcomes experienced/demonstrated |
 | 5. Bistro Launch | 5 | targeted correction, real Prep, first public service | safe/useful participation and complete reset |
 | 6. Knife Skills Progression | 6-9, adjusted when authentic evidence requires retraining | safe knife setup, useful cuts, consistency, production | safe practical and usable prep |
 | 7. Heat Control | 10-12 | saute, browning, roasting, simmering, ratios | heat cues and adjustment |
@@ -114,7 +114,7 @@ Week 4 is governed by **required outcomes, not a rigid day-by-day sequence**. Ar
 
 Required outcomes:
 
-1. Life of an Order and current five teams: Service, Barista, Line Cooks, Support, Expo / Floaters.
+1. Life of an Order and current Bistro jobs: Service, Barista, Line Cooks, Support/KP, Expo / Floaters. Students learn the whole operation; later job assignment follows the instructor placement process rather than an automatic rotation.
 2. Graceful-urgency arrival/opening rehearsal.
 3. Whole-group instructor-led Service simulation in a populated dining room; Teaching Assistant reinforces/coaches afterward.
 4. Barista operating-system practice using build references rather than drink memorization.
