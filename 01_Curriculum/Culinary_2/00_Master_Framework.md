@@ -188,9 +188,9 @@ Thursday and Friday are not separate from the curriculum. They are where fundame
 
 Thursday Bistro Prep normally uses individual production assignments, with pairs when the work reasonably benefits from two people. Students retain their Monday-Thursday cleaning-job responsibilities.
 
-Every Prep begins with a short Bistro Huddle covering current-service differences. Students then use the Production Preflight before production: product, yield, assigned quantity, scaling status, units, complete procedure, mise en place, and first step. Notebook plus brief adult verification is sufficient unless another current form is required.
+Every Prep begins with a short Bistro Huddle covering current-service differences. Students then use the Production Check before production: product, yield, assigned quantity, scaling status, units, complete procedure, mise en place, and first step. Notebook plus brief adult verification is sufficient unless another current form is required.
 
-**No checkoff → no production.**
+**No Production Check → no production.**
 
 At clean stop, unfinished work is stored/labeled under current procedures, receives useful handoff notes, and the station is reset.
 
@@ -242,7 +242,7 @@ These habits are the curriculum:
 
 - Work Ready and Kitchen Ready
 - recipe reading and following
-- Production Preflight
+- Production Check
 - knife control
 - mise en place
 - clean-as-you-go
