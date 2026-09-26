@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-09-25 - Replace Bistro Rotations with Job Placement
+
+### Program Decision
+
+- Retired the mandatory five-position, two-service rotation / shared ten-service-cycle model.
+- Kept the Bistro operating functions **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**, but changed student assignment from automatic rotation to job placement.
+- Students apply for Bistro jobs and may complete a brief informal interview. Instructor placement is driven by Bistro demand and staffing needs first, informed by application, demonstrated knowledge, readiness, reliability, skill, and fit.
+- Placements may last for the remainder of the course.
+- Students seeking another position must apply for a transfer and demonstrate the knowledge, readiness, understanding, and drive required for that job. Transfers are not guaranteed and remain subject to instructor judgment and Bistro staffing needs.
+- Adopted the operating principle **Specialize in your job. Understand the whole operation.**
+- Clarified that KP/Support is a real Bistro job with defined operating responsibilities, not a fallback assignment.
+- Preserved whole-operation training through Life of an Order, Service School, Prep School, safety, sanitation, communication, situational awareness, reset, and closing expectations.
+
+### Implementation
+
+- Updated the Core Manual, Decision Register, Bistro Operations, Assessment System, and ChatGPT Quick Reference.
+- Historical August 26 rotation decisions remain in the changelog as history only and no longer govern current practice.
+
 ## 2026-09-21 - Standardize Bistro Recipe Printable Format
 
 ### Quick Edit
