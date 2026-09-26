@@ -18,7 +18,7 @@ Bistro is not a separate curriculum unit. It is the authentic performance enviro
 
 See [Bistro Prep and Service Rhythms](Bistro_Rhythms.md).
 
-During Thursday Bistro Prep, students retain their current weekly lab cleaning responsibilities while completing individual/pair production work. Friday Bistro Service uses the Bistro rotation's Opening, During Service, and Reset/Closing responsibilities instead of the Monday-Thursday lab-job structure.
+During Thursday Bistro Prep, students retain their current weekly lab cleaning responsibilities while completing individual/pair production work. Friday Bistro Service uses each student's assigned Bistro job and its Opening, During Service, and Reset/Closing responsibilities instead of the Monday-Thursday lab-job structure.
 
 ## Launch Model
 
@@ -156,21 +156,30 @@ For third block:
 
 **Calling the next number is the throttle.** Do not release orders faster than Line Cooks, Barista/Pastry, Expo, and Service can execute safely and well.
 
-## Bistro Rotations
+## Bistro Job Placement
 
-The five current Bistro rotations are **Service, Barista, Line Cooks, Support, and Expo / Floaters**.
+The current Bistro operating functions are **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**.
 
-Students receive their starting Bistro positions before opening week and remain in each position for two consecutive services before rotating. Do not create a separate special Service 1/Service 2 curriculum beyond the existing rotation.
+Students do not automatically rotate through all jobs. They apply for positions and may complete a brief informal interview. The instructor places students according to Bistro demand and staffing need first, informed by application, demonstrated knowledge, readiness, reliability, skill, and fit.
 
-Students may use the current digital menu/recipe folder as a professional reference; they are not required to memorize every recipe. **Everybody understands the operation. Each position goes deeper where its responsibilities require it.**
+A placement may last for the remainder of the course. Students who want a different job submit a transfer request/application and must demonstrate the knowledge, readiness, understanding, and drive required for the requested role. Transfers are not guaranteed and remain subject to instructor judgment and Bistro staffing needs.
 
-| Rotation | Primary Ownership |
+Use the operating principle:
+
+**Specialize in your job. Understand the whole operation.**
+
+KP/Support is an assigned Bistro job with real operating responsibilities. It is not a default holding area.
+
+| Job | Primary Ownership |
 |---|---|
-| Service | Guest experience: host/check-in, POS, runner/busser, dining-room service and reset |
-| Barista | Beverage and pastry production/service |
-| Line Cooks | Food production |
-| Support | Stewarding and operational cleanliness |
-| Expo / Floaters | Flow of the operation; Expo/pass plus flexible coverage |
+| Service | Guest experience, host/check-in, POS support, delivery, clearing, dining-room reset |
+| Barista | Beverage and pastry production, ticket control, handoff, station reset |
+| Line Cooks | Food production, mise, line execution, callbacks, station reset |
+| Support / KP | Dish flow, stewarding, shared operational cleanliness, restock, shutdown support |
+| Expo / Floaters | Production flow, ticket control, pass, sequencing, cross-station support when trained/authorized |
+
+Whole-operation training remains required. Students still learn Life of an Order, station interdependence, safety, sanitation, communication, situational awareness, and reset/closing expectations.
+
 
 ### Expo / Floaters
 
@@ -229,7 +238,7 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 ## Before Service Checklist
 
 - Current menu, sides, condiments, and specials reviewed.
-- Five rotations assigned.
+- Bistro jobs assigned through the current placement process.
 - Current station SOP/readiness references available.
 - Sanitizer and applicable safety systems ready.
 - Queue numbers accounted for and ready.
@@ -257,7 +266,7 @@ Current payment, comp, deposit, open-check, remote-order, and Square-outage cont
 
 - Store and label food under current procedures.
 - Record waste, shortages, and menu issues as required.
-- Complete rotation reset/closing checklist.
+- Complete assigned-job reset/closing checklist.
 - Complete dish, laundry, trash, floors, equipment, and cooler reset.
 - Complete assigned reflection/assessment evidence when used.
 - Review and resolve open Square checks appropriately.
