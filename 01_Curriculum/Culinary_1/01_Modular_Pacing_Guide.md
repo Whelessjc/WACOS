@@ -22,7 +22,7 @@ See `../../02_Bistro/Operations/Bistro_Rhythms.md` and `../../00_Core/2026-09-12
 - First-ten-day plans must tolerate enrollment/schedule/accountability interruptions.
 - Teach Work Ready and Kitchen Ready explicitly; do not assume routines become habits because they were explained once.
 - Treat early production as systems-integration work. Food is a vehicle for navigation, communication, safety, sanitation, recipe literacy, mise en place, workflow, clean-as-you-go, clean stop, and reset.
-- Begin recipe preflight with the earliest labs and increase independence: **READ → IDENTIFY PRODUCT/YIELD → CONFIRM QUANTITY/UNITS → PLAN → MISE → CHECK → BEGIN**.
+- Begin recipe review with the earliest labs and increase independence: **READ → IDENTIFY PRODUCT/YIELD → CONFIRM QUANTITY/UNITS → PLAN → MISE → CHECK → BEGIN**.
 - Teach clean-stop thinking early. Normally stop cooking/production at least 15 minutes before the bell and protect storage/labeling when applicable, communication/handoff, cleaning, and reset.
 - Teach through movement and authentic kitchen practice when worksheets/slides do not improve learning.
 - Print only materials students need physically while doing the work or retaining evidence.
@@ -36,7 +36,7 @@ Use the adopted `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` for dated pl
 
 | Phase | Weeks | Main Work | Evidence / Destination |
 |---|---:|---|---|
-| 1. Learn the Room and Work Ready | 1 | navigation, communication, readiness, handwashing, recipe preflight, first lab, reset | students locate, read before acting, work safely with support, reset |
+| 1. Learn the Room and Work Ready | 1 | navigation, communication, readiness, handwashing, recipe review, first lab, reset | students locate, read before acting, work safely with support, reset |
 | 2. Applied Safety and Stewardship | 2 | hygiene, cleaning/sanitizing, dish systems, storage, time/temperature, cleaning jobs | students demonstrate procedures in authentic work |
 | 3. Recipe Literacy and Production Organization | 3 | Food Handler completion, equipment literacy, yield/units/scaling, mise, prep lists, clean stop/handoff | organized no-surprise setup and accurate production planning |
 | 4. Assemble Bistro Systems | 4 | Life of an Order, Bistro jobs, Service, Barista, graceful urgency, Practice Prep, Reset/Closing, mock service | required pre-opening outcomes experienced/demonstrated |
@@ -63,7 +63,7 @@ Use the adopted `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` for dated pl
 - Stage mise en place and complete the first lab with instructor support.
 - Introduce the idea that students are not done when food is done; clean stop and reset are part of the work.
 
-**Evidence:** navigation, communication in context, marked recipe/preflight thinking, mise, first production, reset.
+**Evidence:** navigation, communication in context, marked recipe/review/check thinking, mise, first production, reset.
 
 **Credential:** launch approved online ServSafe Food Handler course and confirm access.
 
@@ -101,10 +101,10 @@ Use the adopted `../../00_Core/2026-07-20_Calendar_Week_Mapping.md` for dated pl
 - practical Equipment Literacy through short physical demonstrations and named-item retrieval/return;
 - fractions, common measurements, quantity and simple scaling in authentic recipes;
 - basic prep list and work division;
-- progressively independent recipe preflight;
+- progressively independent recipe review;
 - cover/label/store under current procedures and leave a useful clean stop/handoff when work continues.
 
-**Evidence:** marked recipe, preflight, correct equipment retrieval/return, mise check, measurement check, product carried through destination/storage/reset.
+**Evidence:** marked recipe, recipe review, correct equipment retrieval/return, mise check, measurement check, product carried through destination/storage/reset.
 
 ## Week 4 — Assemble Bistro Systems
 
@@ -120,7 +120,7 @@ Required outcomes:
 4. Barista operating-system practice using build references rather than drink memorization.
 5. Situational awareness across all teams: **What do you notice? What does it mean? What needs to happen next?**
 6. Practice Bistro Prep using low-stakes/non-menu production work.
-7. Production Preflight: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No checkoff → no production.**
+7. Production Check: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No Production Check → no production.**
 8. Clean-stop/handoff-note practice.
 9. Whole-operation Reset & Closing rehearsal with adult inspection/correction.
 10. At least one complete mock-service cycle, which may be brief and use simulated/simplified food.
@@ -141,7 +141,7 @@ No public service/soft opening is required in Week 4.
 - individual production assignments by default; pairs when justified;
 - weekly cleaning jobs remain active;
 - read, station setup, mise;
-- Production Preflight/checkoff;
+- Production Check/checkoff;
 - produce/clean as you go;
 - clean stop;
 - store/label under current procedures, leave handoff notes when work continues, reset.
@@ -177,7 +177,7 @@ Resume knife progression after the operating foundation is stabilized. This is e
 
 ## Weeks 7-18
 
-Continue the approved knife, heat, frying, flavor, protein, and bridge progression. Once Bistro is active, Thursday/Friday remain Prep/Service when readiness and calendar allow. Monday-Wednesday technical work should reinforce the same cumulative systems: Work Ready, Kitchen Ready, recipe preflight, mise, communication, safety, clean-as-you-go, situational awareness, clean stop/handoff, and reset.
+Continue the approved knife, heat, frying, flavor, protein, and bridge progression. Once Bistro is active, Thursday/Friday remain Prep/Service when readiness and calendar allow. Monday-Wednesday technical work should reinforce the same cumulative systems: Work Ready, Kitchen Ready, recipe review, mise, communication, safety, clean-as-you-go, situational awareness, clean stop/handoff, and reset.
 
 ## Professional Thinking
 
