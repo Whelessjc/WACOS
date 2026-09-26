@@ -108,15 +108,19 @@ Students respond within role, training, and authorization.
 - **Reset:** leave it ready for the next class, shift, or service.
 - **Close:** perform final shutdown when required.
 
-## Bistro Teams and Rotation
+## Bistro Jobs and Placement
 
 - Service
 - Barista
 - Line Cooks
-- Support
+- Support / KP
 - Expo / Floaters
 
-Teams stay in each Bistro position for two consecutive services in the shared ten-service cycle. Do not invent additional management teams or student authority structures.
+Bistro jobs are placements, not automatic rotations. Students apply, may complete a brief informal interview, and are placed by the instructor according to Bistro demand and staffing needs, informed by demonstrated knowledge, readiness, reliability, skill, and fit. A placement may last for the remainder of the course.
+
+Students who want to move submit a transfer request/application and demonstrate the knowledge, readiness, understanding, and drive required for the requested job. Transfer is not guaranteed.
+
+Use: **Specialize in your job. Understand the whole operation.**
 
 ## Required Pre-Opening Outcomes
 
