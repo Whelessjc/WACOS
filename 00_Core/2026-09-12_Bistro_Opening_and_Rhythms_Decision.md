@@ -49,7 +49,7 @@ Culinary 2 uses the same core current-system foundation as Culinary 1 while expe
 9. Reset Your Station.
 10. Close When Required.
 
-All five teams use:
+All Bistro jobs use:
 
 **What do you notice? What does it mean? What needs to happen next?**
 
@@ -89,7 +89,7 @@ Before first public service, both courses experience:
 - graceful-urgency arrival/opening rehearsal;
 - whole-group Service simulation in a populated dining room;
 - Barista operating-system practice;
-- situational awareness across all five teams;
+- situational awareness across all Bistro jobs;
 - Practice Bistro Prep using low-stakes/non-menu production work;
 - Production Preflight;
 - clean-stop and handoff-note practice;
@@ -123,9 +123,11 @@ Week 4 includes a physical whole-operation Reset & Closing rehearsal with adult 
 
 Bistro Prep and Service are cumulative food-safety and workplace-safety performance environments. In Culinary 1, expectations accumulate as practices are taught. Culinary 2 recalibrates to current procedures and moves toward safety fluency under pressure.
 
-## Rotation
+## Job Placement — Superseded September 25, 2026
 
-The five current teams remain **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Teams remain in each Bistro position for two consecutive services under the existing shared ten-service rotation. This decision does not create a separate special first-service/second-service curriculum.
+The September 12 decision originally retained the five-team, two-service shared rotation. That assignment model was **retired on September 25, 2026** after implementation evidence showed students needed greater depth and stability in jobs.
+
+The current operating functions remain **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**, but students now apply for and are placed in Bistro jobs rather than rotating automatically. See the Decision Register and current Bistro Operations for governing placement and transfer rules.
 
 ## 2026 Week 6 Recovery
 
