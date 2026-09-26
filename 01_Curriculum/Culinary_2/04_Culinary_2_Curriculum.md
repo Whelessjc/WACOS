@@ -41,7 +41,7 @@ The working philosophy is **fundamentals under pressure**. Students enter with u
 - Build product knowledge: proteins, grains, vegetables, spices, dairy.
 - Use Bistro menus as applied practice.
 - Introduce costing and menu math through actual Bistro items.
-- Rotate through Service, Barista, Line Cooks, Support, and Expo / Floaters roles.
+- Develop depth in an assigned Bistro job while understanding Service, Barista, Line Cooks, Support/KP, and Expo / Floaters as one connected operation.
 - Mentor newer students when appropriate.
 
 ## Culinary 2 Is Higher Standard, Not Looser Standard
@@ -60,8 +60,8 @@ Uniform, footwear, punctuality, station readiness, and sanitation expectations s
 See [DECISION_REGISTER.md](../../00_Core/DECISION_REGISTER.md) for credential, official title, Bistro launch, and semester sequence decisions.
 
 
-## Current Five-Team Training and Rotation
+## Current Bistro Job Training and Placement
 
-Use Service, Barista, Line Cooks, Support, and Expo / Floaters. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+Use Service, Barista, Line Cooks, Support/KP, and Expo / Floaters as the current Bistro operating functions. Students apply and are placed by the instructor based on Bistro demand and staffing needs, informed by knowledge, readiness, reliability, skill, and fit. Placements may last for the remainder of the course. Students seeking another job must apply for transfer and demonstrate readiness; transfer is not guaranteed.
 
-Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows Bistro-position duties.
+Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows assigned Bistro-job duties.
