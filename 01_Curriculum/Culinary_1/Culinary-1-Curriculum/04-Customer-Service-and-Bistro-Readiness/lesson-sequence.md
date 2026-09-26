@@ -35,7 +35,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Exit check: what does "Left, Lower, Leave" mean, and why clear from the right?
 
 ## Day 5: Early-Release Readiness Mock in Starting Positions
-- Opening routine: readiness check, huddle, and students report to their actual starting Bistro positions rather than unrelated temporary rotations.
+- Opening routine: readiness check, huddle, and students report to their actual assigned Bistro jobs rather than unrelated temporary practice assignments.
 - Demo or mini-lesson: final service reminders—LATTE for guest recovery (Listen, Acknowledge, Take action, Thank, Ensure satisfaction), no arguing over questionable queue numbers, and dietary restrictions flagged immediately rather than guessed at.
 - Student work: assigned prep and service setup using the appropriate side-work checklist (Service, Barista, Line Cooks, Support, or Expo / Floaters).
 - Lab/application: **OPEN → MOCK SERVICE → CLOSE / RESET** with no public guests. This is a readiness check, not a new-content day.
@@ -43,10 +43,10 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Adult evidence capture: record where adult intervention was needed, unclear station responsibilities, order-flow breakdowns, repeated questions, and the station/system requiring targeted Tuesday/Wednesday retraining before the first public service on Friday, September 11.
 
 
-## Current Five-Team Training and Rotation
+## Current Bistro Job Training and Placement
 
-Use **Service, Barista, Line Cooks, Support, and Expo / Floaters**. The same instructional teams carry into Bistro and remain in each position for two consecutive services. Service 1 develops familiarity; Service 2 develops independence. Culinary 1 and Culinary 2 share one repeating ten-service cycle.
+Use **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters** as the Bistro operating functions. Students learn the whole operation, then apply for and are placed in jobs by the instructor based on Bistro demand and staffing needs, informed by knowledge, readiness, reliability, skill, and fit. Placements may last for the remainder of the course; job changes use the current transfer process.
 
-Life of an Order remains the foundation. Train stations in the sequence that best supports current readiness; Line Cooks and Expo may train together because Expo sits between production and Service handoff. Week 4 remains training and mock service only, with no public guests or soft opening. Thursday prep retains weekly lab jobs; Friday service follows Bistro-position duties.
+Life of an Order remains the foundation. Train stations in the sequence that best supports current readiness; Line Cooks and Expo may train together because Expo sits between production and Service handoff. Week 4 remains training and mock service only, with no public guests or soft opening. Thursday prep retains weekly lab jobs; Friday service follows assigned Bistro-job duties.
 
 Expo / Floaters owns operational flow, with Expo as its home base. During active service one Expo student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
