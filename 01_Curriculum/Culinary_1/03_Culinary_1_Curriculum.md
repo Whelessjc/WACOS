@@ -42,7 +42,7 @@ Students should not be treated as Bistro-ready until they have been taught and h
 - clean and sanitize procedures;
 - laundry and towel systems;
 - storage, labeling, dating, FIFO, and cooler awareness;
-- recipe reading and a Production Preflight habit;
+- recipe reading and a Production Check habit;
 - mise en place before production;
 - kitchen math foundations: fractions, units, conversions, yield, and scaling in authentic recipe work;
 - basic equipment identification, retrieval, return, and safe use;
@@ -71,7 +71,7 @@ Use:
 
 Service School may also be reused later for targeted retraining when authentic service evidence shows the need.
 
-## Recipe Preflight and Clean Stop Begin Early
+## Recipe Review and Clean Stop Begin Early
 
 Do not wait until Bistro Prep to teach production-management habits.
 
@@ -79,7 +79,7 @@ From the earliest labs, progressively teach students to:
 
 **READ → IDENTIFY PRODUCT/YIELD → CONFIRM QUANTITY/UNITS → PLAN → MISE EN PLACE → CHECK → BEGIN**
 
-Early labs may require heavy instructor guidance. Independence increases through Weeks 1-3. By Bistro Prep, the Production Preflight is required before production begins.
+Early labs may require heavy instructor guidance. Independence increases through Weeks 1-3. By Bistro Prep, the Production Check is required before production begins.
 
 Likewise, teach early that production does not continue recklessly until the bell. Normally stop cooking at least 15 minutes before the bell. Students learn to identify a logical clean stop, follow applicable storage/labeling procedures, communicate unfinished work when needed, clean, and reset.
 
@@ -90,7 +90,7 @@ Thursday Bistro Prep is production work, not a normal team lab.
 - Begin with a short whole-group Bistro Huddle covering only current-service differences such as specials, guests/reservations, volume, schedule changes, shortages/86s, unusual conditions, and important carryover learning.
 - Students normally receive individual production assignments. Use pairs when the work reasonably benefits from two people.
 - Monday-Thursday cleaning jobs remain active during Prep.
-- Before production, students complete the current Production Preflight. Notebook plus brief adult verification is sufficient unless another current form is required. **No checkoff → no production.**
+- Before production, students complete the current Production Check. Notebook plus brief adult verification is sufficient unless another current form is required. **No Production Check → no production.**
 - Students produce and clean as they go.
 - At clean stop, unfinished work is safely stored/labeled under current procedures and receives useful handoff notes before the station is reset.
 
@@ -120,7 +120,7 @@ This emphasizes the complete operation around the food; it does not remove cooki
 ## Suggested Semester Sequence
 | Phase | Weeks | Focus | Evidence |
 |---|---:|---|---|
-| Orientation and operating foundations | 1 | Room knowledge, Work Ready/Kitchen Ready, communication, recipe preflight, first production, reset | Students move safely, read before acting, and reset with support |
+| Orientation and operating foundations | 1 | Room knowledge, Work Ready/Kitchen Ready, communication, recipe review, first production, reset | Students move safely, read before acting, and reset with support |
 | Applied safety and stewardship | 2 | Hygiene, sanitation, dish systems, storage, temperature control, cleaning jobs, product stewardship | Procedural checks in authentic work |
 | Recipe literacy and production organization | 3 | Equipment literacy, measuring, yield/units/scaling, mise en place, prep lists, clean stop/handoff | Marked recipe, preflight, mise/check, product carried through storage/reset |
 | Assemble Bistro systems | 4 | Life of an Order, Bistro jobs, **Service School**, Barista, graceful urgency, situational awareness, Practice Prep, Reset/Closing, mock service | Required pre-opening outcomes demonstrated with instructor coaching |
@@ -133,7 +133,7 @@ This emphasizes the complete operation around the food; it does not remove cooki
 - Safety and sanitation.
 - Work Ready and Kitchen Ready habits.
 - Station setup, clean-as-you-go, reset, and close when required.
-- Recipe reading and Production Preflight.
+- Recipe reading and Production Check.
 - Measuring, units, yield, and scaling.
 - Mise en place and workflow.
 - Basic knife handling.
