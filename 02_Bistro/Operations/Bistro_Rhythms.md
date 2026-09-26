@@ -146,7 +146,7 @@ Listen. Speak clearly. Use callbacks and current service language. Share informa
 
 Life of an Order is not only a diagram. Recognize it happening around you: guests arriving, queue forming, orders entering, tickets building, production underway, food/drinks ready, guests eating, beverages getting low, plates finishing, tables clearing, dishes building, and reset needs appearing.
 
-Every team asks:
+Every Bistro job asks:
 
 **What do you notice?**
 
@@ -193,11 +193,11 @@ Before the first public Bistro service, both Culinary 1 and Culinary 2 should ex
 Required outcomes include:
 
 - Work Ready and Kitchen Ready routines;
-- Life of an Order and all five current teams;
+- Life of an Order and all current Bistro jobs;
 - graceful-urgency arrival/opening rehearsal;
 - **Service School** — whole-group, instructor-led Service training in a populated dining room;
 - Barista operating-system practice;
-- situational awareness across all five teams;
+- situational awareness across all Bistro jobs;
 - Practice Bistro Prep using low-stakes/non-menu production work;
 - Production Preflight;
 - clean-stop and handoff-note practice;
