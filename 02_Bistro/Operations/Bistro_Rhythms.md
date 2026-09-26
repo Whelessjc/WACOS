@@ -82,7 +82,7 @@ Read the complete recipe or production direction before touching ingredients. Id
 
 Organize the station and gather the complete mise en place before production begins. A calm, organized station supports safe and efficient work.
 
-### 7. Production Preflight — No Checkoff, No Production
+### 7. Production Check — No Production Check, No Production
 
 Before production, the student must be able to show or state:
 
@@ -199,7 +199,7 @@ Required outcomes include:
 - Barista operating-system practice;
 - situational awareness across all Bistro jobs;
 - Practice Bistro Prep using low-stakes/non-menu production work;
-- Production Preflight;
+- Production Check;
 - clean-stop and handoff-note practice;
 - whole-operation Reset & Closing rehearsal;
 - cumulative food-safety and workplace-safety application;
@@ -213,7 +213,7 @@ Practice Bistro Prep is a required pre-opening training experience. Use low-stak
 
 Rehearse:
 
-**Work Ready → Huddle → Assignment → Weekly Job Setup → Read → Mise en Place → Production Preflight → Produce → Clean Stop → Handoff/Store → Reset**
+**Work Ready → Huddle → Assignment → Weekly Job Setup → Read → Mise en Place → Production Check → Produce → Clean Stop → Handoff/Store → Reset**
 
 ## Service School — See the Room. Serve the Guest.
 
