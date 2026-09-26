@@ -39,7 +39,7 @@ Before first public service, students experience:
 - Barista operating-system training;
 - situational awareness across all five teams;
 - Practice Bistro Prep using low-stakes/non-menu production work;
-- Production Preflight;
+- Production Check;
 - clean-stop and handoff-note practice;
 - whole-operation Reset & Closing rehearsal;
 - cumulative food-safety and workplace-safety application;
@@ -71,11 +71,11 @@ Students normally receive individual production assignments. Use pairs when the 
 
 **Bistro Service begins on Thursday.** Current prep lists preserve clear station **START HERE** assignments, then move through **HIGH PRIORITY → LOWER PRIORITY** work. Production comes before polish. Long-lead, complex, and service-critical work is protected before easy portioning, stocking, utensil wrapping, table balancing, and similar finish work. Service may support appropriate production before lower-priority dining-room setup. Each task has visible ownership and completion status; unfinished work receives an explicit takeover/handoff. Exact item distribution among teams remains an implementation detail that may be refined from service evidence.
 
-### Production Preflight
+### Production Check
 
 Before production, the student identifies product, recipe yield, assigned quantity, scaling status, units, complete procedure, complete mise en place, and first step. Notebook plus brief instructor/Teaching Assistant verification is sufficient unless another current form is required.
 
-**No checkoff → no production.**
+**No Production Check → no production.**
 
 ### Clean Stop and Handoff
 
