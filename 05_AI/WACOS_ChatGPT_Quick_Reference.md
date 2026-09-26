@@ -213,6 +213,7 @@ Use the current Daily Teaching Guide Standard, relevant pacing/weekly guide, and
 |---|---|
 | Core authority | `00_Core/West_Ashley_Culinary_Core_Manual.md` |
 | Sept. 12 Bistro decision | `00_Core/2026-09-12_Bistro_Opening_and_Rhythms_Decision.md` |
+| Sept. 25 Bistro job-placement decision | `00_Core/2026-09-25_Bistro_Job_Placement_Decision.md` |
 | Decisions | `00_Core/DECISION_REGISTER.md` |
 | Bistro Prep/Service rhythms | `02_Bistro/Operations/Bistro_Rhythms.md` |
 | Bistro operations | `02_Bistro/Operations/05_Bistro_Operations.md` |
