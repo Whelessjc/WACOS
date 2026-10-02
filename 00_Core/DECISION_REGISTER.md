@@ -39,7 +39,7 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - Week 4 includes whole-operation Reset & Closing rehearsal. Teach **Clean as You Go vs Reset vs Close** and require adult inspection/correction.
 - Week 4 is governed by required outcomes rather than a rigid daily order and includes at least one complete mock-service cycle that may be brief/simplified.
 - Bistro Prep/Service are cumulative food-safety/workplace-safety performance environments. Culinary 1 expectations accumulate as taught; Culinary 2 moves toward **safety fluency under pressure**.
-- The Bistro functions remain **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**, but the former mandatory two-service rotation / shared ten-service cycle is retired. Students are placed in jobs through application, informal interview when useful, demonstrated readiness, and Bistro staffing need.
+- The Bistro functions remain **Service, Barista, Line Cooks, Support, and Expo / Floaters**, but the former mandatory two-service rotation / shared ten-service cycle is retired. Students are placed in jobs through application, informal interview when useful, demonstrated readiness, and Bistro staffing need.
 - Governing detail: `00_Core/2026-09-12_Bistro_Opening_and_Rhythms_Decision.md` and `02_Bistro/Operations/Bistro_Rhythms.md`.
 
 ### September 25, 2026 — Bistro Job-Placement Model
@@ -50,7 +50,7 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - A placement may last for the remainder of the course.
 - A student seeking another job must apply for a transfer and demonstrate the knowledge, readiness, understanding, and drive required for the requested role. Transfer is not guaranteed and remains subject to instructor judgment and Bistro staffing needs.
 - **Specialize in your job. Understand the whole operation.**
-- KP/Support is a real Bistro job with defined operating responsibilities, not a fallback assignment or free period.
+- Support is a real Bistro job with defined operating responsibilities, not a fallback assignment or free period.
 - The former August 26 five-team/two-service/ten-service rotation structure is retired and replaced by this job-placement model.
 - Existing station SOPs, Service School, Prep School, Life of an Order, safety, sanitation, communication, situational awareness, reset, and closing expectations remain in force unless separately revised.
 - Governing detail: `00_Core/2026-09-25_Bistro_Job_Placement_Decision.md` and `02_Bistro/Operations/05_Bistro_Operations.md`.
@@ -72,10 +72,11 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - Observable Bistro performance includes sanitation, date marking, Clean as You Go, productive use of time, station ownership, reset, and closing. Assessment evaluates observable performance, not whether a student appears to care.
 - Governing detail: `02_Bistro/Operations/05_Bistro_Operations.md`, `02_Bistro/Operations/Bistro_Rhythms.md`, `02_Bistro/SOPs/Life_of_an_Order.md`, and `02_Bistro/SOPs/Bistro_Payment_and_Deposit_Workflow.md`.
 
-### Kitchen Readiness / Removed from Kitchen Duty
+### Kitchen Readiness / Released from Duties
 
 - Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. A student who is not ready does not enter practical kitchen work that day and completes the current handwritten Kitchen Alternate Learning Assignment. When a lab is missed, the online Culinary Missed Lab / Make-Up Form is also required. Traditional makeup labs are not routinely recreated.
-- **Removed from Kitchen Duty** replaces “fired.” Instructor judgment governs removal for the day; discipline, parent contact, Employability evidence, and other school responses remain separate decisions.
+- **Not Kitchen Ready** is the entry/readiness gate before practical work begins.
+- **Released from Duties** applies when a student entered practical work but continued participation becomes inappropriate because of behavior during class/lab. The student completes the current Released from Duties form/reflection before returning to the privilege of kitchen-lab participation. Instructor judgment governs release and return; discipline, parent contact, Employability evidence, missed-lab documentation, and other school responses remain separate decisions.
 
 ### ServSafe Food Handler
 
@@ -105,3 +106,13 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 ## Historical Note
 
 Older decision entries and archives remain historical evidence. They do not override the current Core Manual, current adopted decision records, current operating documents, or instructor-confirmed directions.
+
+
+### October 2, 2026 — Independence, Station Readiness, and Release from Duties
+
+- The student Bistro jobs are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. **KP is the Teaching Assistant/supporting adult, not a student Bistro job.**
+- **Released from Duties** is distinct from **Not Kitchen Ready**. Not Kitchen Ready is an entry gate; Released from Duties addresses conduct after kitchen participation has begun.
+- The kitchen remains safe for questions while explicitly developing independence. For routine location/operational questions use: **Look where it should be. Then look where it could be.** Students investigate expected and likely locations and communicate with nearby teammates before escalating routine questions. Safety, allergen, uncertain food-handling, and equipment-authorization questions go to an adult immediately.
+- Station opening/checklists are operating gates. Students verify readiness before cooking, drink production, or ticket work begins.
+- A pause in tickets is productive recovery time: **Reset → Wipe → Sweep → Check Mise/Product → Restock → Look Ahead.**
+- Students remain engaged until released. The work is not finished merely because an individual task or food item is finished.
