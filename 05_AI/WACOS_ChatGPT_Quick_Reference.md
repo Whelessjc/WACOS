@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: September 13, 2026
+Last updated: October 2, 2026
 
 ## Purpose
 
@@ -70,17 +70,21 @@ Thursday is production work, not a normal team lab. **Bistro Service begins on T
 4. Set up/maintain the weekly cleaning job: Dishes, Counters & Surfaces, Storage, Floors, Laundry.
 5. Read before acting.
 6. Set station and complete mise en place.
-7. Production Preflight: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No checkoff → no production.**
+7. Production Check: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No Production Check → no production.**
 8. Produce and Clean as You Go.
 9. Clean Stop.
 10. Store/label under current procedures, leave handoff notes when work continues, and Reset.
 
 Practice Bistro Prep is required before first real Prep and uses low-stakes/non-menu production rather than becoming an extra real-prep day.
 
+## Independence and Routine Questions
+
+The kitchen is safe for questions and develops independence. For routine location/operational questions use: **Look where it should be. Then look where it could be.** Check the expected location, think through likely locations in the item's work cycle or common misplaced locations, and ask a nearby teammate when appropriate before escalating to an adult. Safety, allergen, uncertain food-handling, and equipment-authorization questions go to an adult immediately.
+
 ## Bistro Rhythm
 
 1. **Arrive On Time and Work Ready**
-2. **Open Your Station**
+2. **Open Your Station** — complete the station checklist and verify readiness before production begins.
 3. **Own Your Area**
 4. **Communicate**
 5. **Stay Aware — See the Whole Operation**
@@ -104,16 +108,18 @@ Students respond within role, training, and authorization.
 
 ## Clean as You Go / Reset / Close
 
-- **Clean as You Go:** maintain the station while operating.
+- **Clean as You Go:** maintain the station while operating. A pause in tickets is recovery time: **Reset → Wipe → Sweep → Check Mise/Product → Restock → Look Ahead**.
 - **Reset:** leave it ready for the next class, shift, or service.
 - **Close:** perform final shutdown when required.
+
+Students remain engaged until released: **The work is finished when the instructor/Teaching Assistant releases the student.**
 
 ## Bistro Jobs and Placement
 
 - Service
 - Barista
 - Line Cooks
-- Support / KP
+- Support
 - Expo / Floaters
 
 Bistro jobs are placements, not automatic rotations. Students apply, may complete a brief informal interview, and are placed by the instructor according to Bistro demand and staffing needs, informed by demonstrated knowledge, readiness, reliability, skill, and fit. A placement may last for the remainder of the course.
@@ -132,7 +138,7 @@ Week 4 is outcome-based, not a rigid daily script. Before first public service, 
 - **Service School**;
 - Barista operating-system training;
 - situational awareness across all teams;
-- Practice Bistro Prep and Production Preflight;
+- Practice Bistro Prep and Production Check;
 - clean-stop/handoff practice;
 - whole-operation Reset & Closing rehearsal;
 - cumulative food/workplace safety;
@@ -199,7 +205,7 @@ Employability measures observable professional habits rather than personality or
 
 ## Safety and Instructor Authority
 
-Use **Removed from Kitchen Duty**, not “fired.” Alternate work can demonstrate knowledge, planning, and Professional Thinking; unperformed physical skill remains not observed unless later demonstrated authentically.
+Use **Released from Duties** when a student entered practical work but continued participation becomes inappropriate because of behavior during class/lab. This is distinct from **Not Kitchen Ready**, which is the entry/readiness gate. The student completes the current Released from Duties form/reflection before returning to kitchen-lab participation. Alternate work can demonstrate knowledge, planning, and Professional Thinking; unperformed physical skill remains not observed unless later demonstrated authentically.
 
 Instructor retains final authority over safety, allergens, equipment, grades, discipline, district/legal compliance, food release, student-specific judgments, and unconfirmed financial controls.
 
