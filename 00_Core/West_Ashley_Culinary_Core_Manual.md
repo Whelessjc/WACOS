@@ -296,7 +296,9 @@ Safety governs all work. Students follow knife, heat, equipment, chemical, movem
 
 Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. A student who does not meet these requirements does not enter the kitchen for that day's practical work. The student completes the current handwritten Kitchen Alternate Learning Assignment tied to the Learning Target and, when a lab was missed, also completes the online Culinary Missed Lab / Make-Up Form. The first is in-period learning; the second documents the missed practical experience and initiates the established recovery process. West Ashley Culinary does not routinely recreate missed labs.
 
-A student may enter class ready and later be **Removed from Kitchen Duty** by the instructor when continued participation is inappropriate for that day. Do not call this “firing.” The student completes the alternate assignment, its return reflection, and the missed-lab form when applicable. Instructor judgment governs removal; discipline, parent contact, Employability evidence, and other school responses remain separate decisions.
+A student may enter class Kitchen Ready and later be **Released from Duties** by the instructor when continued practical participation is inappropriate because of behavior during class or lab. This is different from **Not Kitchen Ready**, which is an entry/readiness gate before practical work begins.
+
+Released from Duties may be used for behavior such as leaving the assigned class/kitchen area without permission, refusal to follow a direct instruction, or unsafe conduct. The response is tied to the behavior, not the student's identity. The student completes the current Released from Duties form/reflection before returning to the privilege of kitchen-lab participation. Instructor judgment governs release and return; discipline, parent contact, Employability evidence, missed-lab documentation, and other school responses remain separate decisions.
 
 Allergen response is operationally **STOP → COMMUNICATE CLEARLY → DO NOT GUESS → PREVENT CROSS-CONTACT → INVOLVE THE INSTRUCTOR**. Students do not receive independent allergen authority.
 
@@ -306,7 +308,7 @@ Students wash hands, prevent contamination, use sanitizer correctly, label and s
 
 ### Mise en Place
 
-Students set the station before work begins. Tools, product, recipes, timelines, labels, and quality targets should be visible enough that students can work without constant adult rescue.
+Students set the station before work begins. Tools, product, recipes, timelines, labels, and quality targets should be visible enough that students can work without constant adult rescue. Station opening/checklist routines are operating gates: students verify readiness before cooking, drink production, or ticket work begins.
 
 ### Communication
 
@@ -314,7 +316,7 @@ Students use professional kitchen language and clear service communication. They
 
 ### Awareness
 
-Students are expected to see work. Empty sanitizer, missing labels, full trash, low supplies, unstocked spoons, dirty stations, unsafe movement, and unfinished closing tasks are not invisible.
+Students are expected to see work. Empty sanitizer, missing labels, full trash, low supplies, unstocked spoons, dirty stations, unsafe movement, and unfinished closing tasks are not invisible. A pause in tickets is recovery time: reset, wipe, sweep, check mise/product, restock, and look ahead.
 
 ### Teamwork
 
@@ -367,6 +369,10 @@ Mistakes are expected in learning kitchens. Hiding mistakes, ignoring safety, bl
 ### Speaking and Articulation
 
 Students need practice speaking about their work. The program should provide regular opportunities for students to explain what they are doing, name a problem, brief a station, report a service issue, describe a quality standard, or reflect on a result.
+
+### Investigate Before Escalating Routine Questions
+
+The kitchen should remain safe for questions while also developing independence. For ordinary location and routine operating questions, students use: **Look where it should be. Then look where it could be.** They check the expected location, think through the item's likely work cycle or common misplaced locations, and ask a nearby teammate when appropriate before escalating to an adult. Questions involving safety, allergens, uncertain food handling, or equipment authorization go to an adult immediately. The goal is not fewer questions; it is stronger investigation, communication, and better questions.
 
 Speaking is part of leadership because leadership requires articulation.
 
@@ -451,7 +457,7 @@ A placement may last for the remainder of the course. Students who want to move 
 
 The governing expectation is: **Specialize in your job. Understand the whole operation.**
 
-KP/Support is a real Bistro job with defined operating responsibilities, not a fallback assignment or free period.
+Support is a real Bistro job with defined operating responsibilities, not a fallback assignment or free period.
 
 Common roles include prep, hot line, cold station, baking, dish, stewarding, host, POS, runner, busser, beverage, customer service, stocking, labels, laundry, trash, sanitizer, Bistro manager, station lead, sanitation lead, inventory assistant, and trained Expo / Floaters. Expo is the Expo / Floaters team’s home base; one trained Floater remains on Expo during active production ticket flow while other trained and authorized team members deploy according to operational need.
 
@@ -902,11 +908,12 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.1 | 2026-08-22 | Added Culinary 1 product stewardship and centralized the ServSafe Food Handler case-by-case safety topic in one governing statement. |
 | 1.2 | 2026-09-06 | Integrated Week 4 decisions for Bistro team names, Kitchen Readiness and removal terminology, online ServSafe delivery, practical-evidence limits, and verified daily kitchen close. |
 | 1.3 | 2026-09-25 | Retired mandatory Bistro rotations and adopted instructor-controlled Bistro job placement with application, transfer, and whole-operation awareness expectations. |
+| 1.4 | 2026-10-02 | Clarified Released from Duties vs Not Kitchen Ready; removed KP from student Bistro roles; strengthened station-opening, productive-pause, and investigate-before-escalating expectations. |
 
 
 ## Bistro Job-Placement Model — Approved September 25, 2026
 
-The current Bistro operating functions remain **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**, but the former mandatory two-service rotation model is retired.
+The current Bistro operating functions remain **Service, Barista, Line Cooks, Support, and Expo / Floaters**, but the former mandatory two-service rotation model is retired.
 
 Students apply for jobs and are placed by the instructor based on Bistro demand and operational need, informed by application, informal interview when useful, demonstrated knowledge, readiness, reliability, skill, and fit. Placements may continue for the remainder of the course.
 
@@ -919,7 +926,7 @@ Thursday Bistro Prep does not replace weekly lab responsibilities. Monday throug
 - **Service owns the guest experience:** host, server, runner, busser, room readiness, guest communication, service, clearing, and reset. Expo is not a Service responsibility.
 - **Barista owns beverage and pastry production and service.**
 - **Line Cooks own food production.**
-- **Support/KP owns stewarding, dish flow, and operational cleanliness.**
+- **Support owns stewarding, dish flow, and operational cleanliness.**
 - **Expo / Floaters owns operational flow.** Expo is the team’s home base. During active service, one Expo student remains responsible for Expo/pass while other trained and authorized Floaters deploy to operational needs.
 
 Expo / Floaters uses the operating loop **Expo → Line Cooks → Service → Barista → Support → Expo** and the professional-thinking questions **What do you notice? What does it mean? What needs to happen next?** Floater does not mean standby or free time. Students assist only within existing training, authorization, safety, and instructor-control boundaries.
