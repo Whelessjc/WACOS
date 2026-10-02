@@ -32,7 +32,7 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 - Every real Prep begins with a brief Bistro Huddle covering current-service differences only.
 - Production requires a **Production Check**: product, yield, assigned quantity, scaling status, units, complete procedure, mise en place, first step. Notebook + brief adult verification is sufficient unless another current form is required. **No Production Check → no production.**
 - Clean-stop/handoff are required skills. Unfinished work stops logically, follows current storage/labeling requirements, includes useful handoff notes when another person/class continues it, and ends with reset.
-- Recipe preflight and clean-stop/handoff habits begin in early labs rather than waiting for Bistro training.
+- Recipe Review and clean-stop/handoff habits begin in early labs rather than waiting for Bistro training.
 - **Practice Bistro Prep** is required before first real Prep and uses low-stakes/non-menu production.
 - Initial Service training is whole-group and instructor-led in a populated dining room; the Teaching Assistant reinforces/coaches afterward.
 - Barista training uses **Open → Organize → Receive Ticket → Use Build Reference → Produce → Verify → Handoff → Complete Ticket → Clean/Restock → Reset/Close**; drink memorization is not required.
