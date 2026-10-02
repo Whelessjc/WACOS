@@ -49,6 +49,10 @@ Week 4 is governed by these required outcomes, not a rigid Monday-Friday trainin
 
 ## Work Ready, Kitchen Ready, and Graceful Urgency
 
+### Routine Questions and Independent Investigation
+
+The Bistro is safe for questions and is also designed to build independence. For routine location and operating questions, students use: **Look where it should be. Then look where it could be.** Check the expected location, think through where the item could be in its work cycle or where a student may have misplaced it, and ask a nearby teammate when appropriate before escalating to an adult. Safety, allergen, uncertain food-handling, and equipment-authorization questions go to an adult immediately.
+
 **Work Ready** is the broad program readiness concept. Current Bistro arrival language includes:
 
 **ID → Clock In → Lock In → Park It → Stow Belongings → Notebook → Pen → A Plan → Report to Station**
@@ -90,7 +94,7 @@ Before the first real Prep, students complete Practice Bistro Prep using low-sta
 Use the permanent Bistro Rhythm:
 
 1. **Arrive On Time and Work Ready**
-2. **Open Your Station**
+2. **Open Your Station** — complete the current station checklist and verify readiness before cooking, drink production, or ticket work begins.
 3. **Own Your Area**
 4. **Communicate**
 5. **Stay Aware — See the Whole Operation**
@@ -158,7 +162,7 @@ For third block:
 
 ## Bistro Job Placement
 
-The current Bistro operating functions are **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**.
+The current Bistro operating functions are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. **KP refers to the Teaching Assistant/supporting adult, not a student Bistro job.**
 
 Students do not automatically rotate through all jobs. They apply for positions and may complete a brief informal interview. The instructor places students according to Bistro demand and staffing need first, informed by application, demonstrated knowledge, readiness, reliability, skill, and fit.
 
@@ -168,14 +172,14 @@ Use the operating principle:
 
 **Specialize in your job. Understand the whole operation.**
 
-KP/Support is an assigned Bistro job with real operating responsibilities. It is not a default holding area.
+Support is an assigned Bistro job with real operating responsibilities. It is not a default holding area.
 
 | Job | Primary Ownership |
 |---|---|
 | Service | Guest experience, host/check-in, POS support, delivery, clearing, dining-room reset |
 | Barista | Beverage and pastry production, ticket control, handoff, station reset |
 | Line Cooks | Food production, mise, line execution, callbacks, station reset |
-| Support / KP | Dish flow, stewarding, shared operational cleanliness, restock, shutdown support |
+| Support | Dish flow, stewarding, shared operational cleanliness, restock, shutdown support |
 | Expo / Floaters | Production flow, ticket control, pass, sequencing, cross-station support when trained/authorized |
 
 Whole-operation training remains required. Students still learn Life of an Order, station interdependence, safety, sanitation, communication, situational awareness, and reset/closing expectations.
@@ -215,7 +219,7 @@ Current drink-build references remain at the station.
 
 These are distinct:
 
-- **Clean as You Go:** maintain the station while operating.
+- **Clean as You Go:** maintain the station while operating. A pause in ticket flow is not idle time; use **Reset → Wipe → Sweep → Check Mise/Product → Restock → Look Ahead**.
 - **Reset:** leave the station ready for the next class, shift, or service.
 - **Close:** perform final shutdown when required.
 
@@ -249,7 +253,7 @@ Observers record evidence. The instructor assigns the final grade. A serious saf
 ## During Service
 
 - Instructor and Teaching Assistant facilitate, coach, observe, and grade live when possible.
-- Students use station resources rather than depending on adults to find every item or narrate every next step.
+- Students use station resources rather than depending on adults to find every item or narrate every next step. Routine questions should show prior investigation when practical.
 - One missed role can break the entire restaurant; students must understand interdependence.
 - POS is the order-entry point; Service students do not take seated-table orders.
 - Remote/advance requests enter production only after Square entry and Save/release through the named open-check workflow.
