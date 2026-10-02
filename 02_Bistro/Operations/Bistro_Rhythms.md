@@ -40,6 +40,10 @@ Bistro may already have guests present when students arrive. Students transition
 
 The operation does not wait for students to socialize, wander, or be individually launched by an adult. Students move through the Work Ready routine and begin opening their assigned station.
 
+## Independent Investigation Before Routine Questions
+
+The kitchen is safe for questions and also develops independence. For routine location and operating questions, use: **Look where it should be. Then look where it could be.** Check the expected location, think through the item's likely work cycle or common misplaced locations, and ask a nearby teammate when appropriate before escalating to an adult. Safety, allergen, uncertain food-handling, and equipment-authorization questions go to an adult immediately.
+
 ## Bistro Prep Rhythm — Thursday: Plan the Work
 
 Thursday Bistro Prep is not a normal team lab. It is production work inside one larger operation.
@@ -166,7 +170,7 @@ Follow the ticket, recipe, build reference, checklist, procedure, or direction. 
 
 ### 8. Clean as You Go
 
-Maintain the station while working. Do not save the entire mess for the end.
+Maintain the station while working. Do not save the entire mess for the end. A pause in ticket flow is productive recovery time: **Reset → Wipe → Sweep → Check Mise/Product → Restock → Look Ahead.**
 
 ### 9. Reset Your Station
 
@@ -184,7 +188,7 @@ These are different responsibilities:
 - **Reset:** leave the station ready for whoever comes next.
 - **Close:** perform final shutdown when there is no next service/class requiring the station.
 
-Students are not done because the food is finished.
+Students are not done because the food is finished. **The work is finished when the instructor/Teaching Assistant releases the student.**
 
 ## Required Pre-Opening Training Outcomes
 
