@@ -93,7 +93,7 @@ Employability is 20% of the quarter grade and measures observable professional h
 
 **Employability is professional development happening now.** Useful instructional language is **SHOW UP. BE READY. PAY ATTENTION. BE USEFUL. KEEP LEARNING.** Treat the behaviors—not the phrase as branding—as the curriculum: punctuality, work readiness, appropriate dress, pen/notebook use, presence, coachability, initiative, awareness, anticipation, helping, research, and maintaining a current resume.
 
-Normal performance requires no daily narrative. Record concise evidence for:
+Normal performance requires no daily narrative. Routine operational questions should show investigation before escalation when practical; safety, allergen, food-handling, and equipment-authorization questions should go to an adult immediately. Record concise evidence for:
 
 - readiness, punctuality, uniform, and required materials;
 - **daily workflow readiness: issued pocket notebook and pen out, with the immediate task or workflow written before work begins;**
@@ -131,7 +131,7 @@ Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. A stude
 
 **Alternate Learning Assignment = in-period learning. Missed Lab / Make-Up Form = documentation and initiation of the existing recovery process.** Alternate work can demonstrate knowledge, planning, and Professional Thinking. Physical skill that was not performed remains `NO`/not observed unless later demonstrated through an authentic instructor-approved opportunity. The program does not routinely recreate missed labs.
 
-Use **Removed from Kitchen Duty**, not “fired,” when the instructor ends a student's practical participation for the day. The alternate assignment, return reflection, and missed-lab form apply when relevant. Employability evidence, discipline, parent contact, and other school responses remain separate instructor decisions; do not double-penalize automatically.
+Use **Released from Duties** when a student entered practical work but the instructor ends practical participation for the day because continued participation is inappropriate due to behavior during class/lab. This is distinct from **Not Kitchen Ready**, which is an entry/readiness gate. The current Released from Duties form/reflection must be completed before return to the privilege of kitchen-lab participation. Employability evidence, discipline, parent contact, missed-lab documentation, and other school responses remain separate instructor decisions; do not double-penalize automatically.
 
 ## Assessment Consistency Rules
 
@@ -171,4 +171,4 @@ Bistro is not recreated for reassessment. Improvement is documented in later pap
 
 ## Bistro Job Observation and Support
 
-Current Bistro jobs are **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**. Students are placed rather than automatically rotated. Observation follows the student's assigned job while still measuring transferable Bistro expectations such as readiness, safety, communication, productive use of time, station ownership, situational awareness, Clean as You Go, reset, and closing. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+Current Bistro jobs are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Students are placed rather than automatically rotated. Observation follows the student's assigned job while still measuring transferable Bistro expectations such as readiness, safety, communication, productive use of time, station ownership, situational awareness, Clean as You Go, reset, and closing. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
