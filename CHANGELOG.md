@@ -1,3 +1,14 @@
+## 2026-10-02
+
+- Replaced the student Bistro role label **Support/KP** with **Support**; clarified that **KP refers to the instructor's assistant / Teaching Assistant and is not a student Bistro job**.
+- Replaced current **Production Preflight** references with **Production Check** and retained **No Production Check → no production**.
+- Distinguished **Not Kitchen Ready** from **Released from Duties**: the first is an entry/readiness gate; the second applies when practical participation ends because of conduct after kitchen access has begun.
+- Added the independence routine **Look where it should be. Then look where it could be.** Routine location/operational questions should show investigation before escalation; safety, allergen, uncertain food-handling, and equipment-authorization questions go to an adult immediately.
+- Strengthened station opening/checklists as operating gates before cooking, drink production, or ticket work begins.
+- Added the productive-pause loop **Reset → Wipe → Sweep → Check Mise/Product → Restock → Look Ahead**.
+- Clarified that students remain engaged until released: **The work is finished when the instructor/Teaching Assistant releases the student.**
+- Added permanent decision record: `00_Core/2026-10-02_Independence_Station_Readiness_and_Released_from_Duties_Decision.md`.
+
 # Changelog
 
 ## 2026-09-25 - Replace Bistro Rotations with Job Placement
