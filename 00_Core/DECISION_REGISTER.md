@@ -116,3 +116,4 @@ Older decision entries and archives remain historical evidence. They do not over
 - Station opening/checklists are operating gates. Students verify readiness before cooking, drink production, or ticket work begins.
 - A pause in tickets is productive recovery time: **Reset → Wipe → Sweep → Check Mise/Product → Restock → Look Ahead.**
 - Students remain engaged until released. The work is not finished merely because an individual task or food item is finished.
+- Governing detail: `00_Core/2026-10-02_Independence_Station_Readiness_and_Released_from_Duties_Decision.md`.
