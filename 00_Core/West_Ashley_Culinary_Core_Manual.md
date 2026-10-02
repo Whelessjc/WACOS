@@ -1,10 +1,10 @@
 # West Ashley Culinary Core Manual
 
-Version 1.3
+Version 1.4
 
 West Ashley High School Culinary Arts Program
 
-Current as of September 25, 2026
+Current as of October 2, 2026
 
 ---
 
