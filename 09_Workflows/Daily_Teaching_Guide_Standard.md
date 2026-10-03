@@ -2,13 +2,46 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
-**Last revised:** August 27, 2026
+**Last revised:** October 3, 2026
 
-## Current Pilot Note — Prototype D
+## Adopted Format — Prototype E
 
-Prototype D is the current developmental direction, not a replacement for this permanent standard. The pilot uses one clean instructor working page with a centered day/title and course/week identification; Learning Target; compact Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Watch For; If There Is Extra Time; Clean Stop; and Notes for Next Time. The Instructor and Teaching Assistant use the same page rather than separate TA content.
+**Adopted:** October 3, 2026. Prototype E replaces the Prototype D pilot as the current DTG presentation format for Culinary 1 and Culinary 2.
 
-Evaluate it by asking whether the instructor can immediately identify preparation, instruction/demonstration, student learning and work, likely problems, and the clean stopping point. Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** before considering adoption.
+### Weekly Overview — Page 1
+
+Begin each weekly guide with one overview page containing course, unit, week, Weekly Anchor, Week at a Glance, New Vocabulary / Professional Language, shared program fundamentals, shared instructor/Teaching Assistant roles, and compact governing-source or instructor-preparation notes when useful. State the Weekly Anchor here rather than repeating it on every daily page.
+
+### Daily Working Pages
+
+Give each instructional day its own full page. A normal Monday-Friday guide has six pages: one overview and five daily pages. Use an explicit page break before every daily title so days never share a printed page.
+
+Each daily page uses a centered day/lesson title and course/week identification, followed by:
+
+1. **Learning Target**
+2. Compact **Knowledge / Skill / Professional Thinking**
+3. **Key Terms**
+4. **Before Class — Set Up**
+5. **Teach / Show**
+6. **Students Do**
+7. **Micro-Skills / If They Come Up**
+8. **Watch For**
+9. **If There Is Extra Time** — include the adjustment if time is lost.
+10. **Clean Stop** — finish/secure/reset requirements and an exit reflection.
+11. Compact **Supporting Note** only when useful; add day-specific adult roles only when they differ from the overview.
+12. **Notes for Next Time** — writing space for what worked, adjustments, section stop/next move, and micro-skills revealed.
+
+Required supporting systems, safety/authorization gates, and individual performance evidence belong within the relevant daily sections. Core Learning is visible in Teach / Show and Students Do; Flexible Learning is visible in If There Is Extra Time. Preserve safe stopping points and section continuation.
+
+### Print and Readability
+
+Use US Letter portrait, 0.5-inch margins, Arial, black text, and blue section headings (`#366091`). Prototype E uses 20 pt bold centered titles, 13 pt bold headings, 12 pt body/subtitle text, and 11 pt supporting notes. Use single line spacing and adjust paragraph/section spacing to fill the printable area evenly. Increase type or spacing where useful on shorter pages; keep each day's complete working guide on its own page.
+
+Do not solve a dense page by shrinking body text or omitting safety, authorization, or core learning. Tighten wording and refer to governing recipes/SOPs for detail. Keep headings with their content and reserve usable note-writing space. Render and inspect every page for clipping, overflow, blank pages, and unintended shared-day pages before delivery.
+
+Identify guides by instructional week and day, without calendar dates. Keep school-year date mapping and service-day schedules in their governing calendar/operating references.
+
+The instructor and Teaching Assistant use the same guide. Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** as ongoing improvement of the adopted format.
 
 ## Purpose
 
@@ -16,7 +49,7 @@ A Weekly Teaching Guide is the primary operational layer between the curriculum 
 
 A working guide should reduce decisions and paperwork. It is not a script, a formal observation tool, or a minute-by-minute pacing mandate. Daily labels identify likely starting points; they do not require a section to stop when the next logical learning is ready.
 
-Reusable teaching guides use instructional week/day or sequence identifiers rather than hard-coded calendar dates. Calendar-specific documents map those identifiers to the dates for the current semester or school year. Include an actual date in a teaching guide only when the date itself is instructionally or operationally significant.
+Reusable teaching guides use instructional week/day or sequence identifiers without calendar dates. Calendar-specific documents map those identifiers to the dates for the current semester or school year.
 
 ## Live Teaching Structure
 

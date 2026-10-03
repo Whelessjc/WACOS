@@ -1,3 +1,12 @@
+## 2026-10-03 — Adopt Prototype E Teaching-Guide Format
+
+- Adopted Prototype E for Culinary 1 and Culinary 2 in place of the Prototype D pilot presentation.
+- Established a weekly overview followed by one separate full page per instructional day, week/day labels without calendar dates, shared instructor/Teaching Assistant use, and compact supporting notes.
+- Set teaching-guide type to Arial with 20 pt titles, 13 pt blue headings, 12 pt body/subtitle, and 11 pt supporting notes; retained US Letter portrait and 0.5-inch margins.
+- Required balanced use of each printable page, explicit daily page breaks, note-writing space, and rendered-page verification.
+- Aligned the DTG standard, reusable template, document-design guidance, ChatGPT Quick Reference, workflow navigation, and Decision Register.
+- Scope is presentation only; no Week 9 curriculum, recipe, cleaning, safety, grading, or Bistro service decisions were adopted.
+
 ## 2026-10-02
 
 - Replaced the student Bistro role label **Support/KP** with **Support**; clarified that **KP refers to the instructor's assistant / Teaching Assistant and is not a student Bistro job**.

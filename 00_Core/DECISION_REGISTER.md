@@ -18,6 +18,16 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 
 ## Confirmed Standards
 
+### October 3, 2026 — Adopt Prototype E Teaching-Guide Format
+
+- Instructor adopted **Prototype E** for Culinary 1 and Culinary 2, replacing the Prototype D pilot presentation.
+- Each weekly guide begins with one overview page containing the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles. Each instructional day has its own full working page; a normal five-day week has six pages.
+- Use week/day labels without calendar dates, explicit page breaks, and one shared instructor/Teaching Assistant guide.
+- Use US Letter portrait, 0.5-inch margins, Arial, 20 pt titles, 13 pt blue headings (`#366091`), 12 pt body/subtitle, and 11 pt supporting notes. Balance spacing/type to fill the printable area while preserving scanning and writing space.
+- The daily structure preserves Learning Target, Knowledge/Skill/Professional Thinking, Key Terms, preparation, demonstration, student work, micro-skills, checks, flexible learning/time-lost adjustments, clean stop/exit, useful supporting notes, and revision/continuation notes.
+- This decision adopts presentation only. It does not adopt Week 9 lesson choices, recipes, cleaning assignments, service hours, or new curriculum/safety/assessment/Bistro policy.
+- Governing detail: [Weekly Teaching Guide Standard](../09_Workflows/Daily_Teaching_Guide_Standard.md), [Prototype E template](../06_Templates/Daily_Teaching_Guide_Template.md), and [Document Design Standard](../09_Workflows/Document_Design_Standard.md).
+
 ### September 12, 2026 — Bistro Opening Architecture and Rhythms
 
 - **Bistro is the authentic performance environment for fundamentals taught from Day 1, not a separate Week 4/5 unit.** Culinary 1 Weeks 1-3 build component fundamentals; Week 4 assembles Prep/Service systems; Week 5 is the normal first-public-service target when readiness, safety, and calendar allow.

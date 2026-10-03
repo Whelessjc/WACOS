@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: October 2, 2026
+Last updated: October 3, 2026
 
 ## Purpose
 
@@ -211,7 +211,11 @@ Instructor retains final authority over safety, allergens, equipment, grades, di
 
 ## Lesson Planning
 
-Use the current Daily Teaching Guide Standard, relevant pacing/weekly guide, and current calendar. Identify Knowledge, Skill, and Professional Thinking. Separate Core Learning from Flexible Learning. Do not turn every micro-skill into paperwork.
+Use the adopted **Prototype E** format for Culinary 1 and Culinary 2: one weekly overview page followed by one separate full page per instructional day (normally six pages). The overview contains the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles. Use week/day labels without calendar dates; consult the current calendar separately.
+
+Daily pages show Learning Target; compact Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Watch For; If There Is Extra Time (including time-lost adjustment); Clean Stop with exit reflection; compact supporting notes when useful; and Notes for Next Time. Instructor and Teaching Assistant share the same guide.
+
+Use Arial, US Letter portrait, 0.5-inch margins, 20 pt titles, 13 pt blue headings (`#366091`), 12 pt body/subtitle, and 11 pt supporting notes. Balance spacing/type to fill the printable area; keep each day on its own page with explicit page breaks and verify the rendered layout. Preserve Core/Flexible Learning, supporting systems, safety/authorization gates, individual evidence, and section continuation. Do not turn every micro-skill into paperwork. Follow the current DTG standard, template, and design guidance.
 
 ## Governing File Map
 
@@ -229,6 +233,7 @@ Use the current Daily Teaching Guide Standard, relevant pacing/weekly guide, and
 | Culinary 2 framework/pacing | `01_Curriculum/Culinary_2/00_Master_Framework.md`, `01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md` |
 | Assessment | `03_Assessment/06_Assessment_System.md` |
 | DTG standard | `09_Workflows/Daily_Teaching_Guide_Standard.md` |
+| Prototype E template / design | `06_Templates/Daily_Teaching_Guide_Template.md`, `09_Workflows/Document_Design_Standard.md` |
 | Calendar | `00_Core/2026-07-20_Calendar_Week_Mapping.md` |
 
 ## Maintenance

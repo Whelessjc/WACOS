@@ -112,7 +112,7 @@ Choose the structure that fits the work while applying the same typography, colo
 
 ### Daily Teaching Guide / Instructor Lesson
 
-The current Prototype D pilot uses this working family:
+Prototype E is the adopted teaching-guide format. Begin with one weekly overview page, followed by one separate full page for each instructional day. Put the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles on the overview. Daily pages use this working family:
 
 - Learning Target
 - compact Knowledge / Skill / Professional Thinking
@@ -126,7 +126,11 @@ The current Prototype D pilot uses this working family:
 - Clean Stop
 - Notes for Next Time
 
-Prototype D remains a pilot until separately adopted as the permanent DTG standard. This document standard does not itself finalize the DTG structure.
+Use a centered day/lesson title and course/week subtitle, without calendar dates. The instructor and Teaching Assistant share the same guide. Include compact supporting notes or day-specific adult roles only when useful.
+
+For Prototype E, the teaching-guide hierarchy overrides the general default sizes above: **20 pt title, 13 pt blue section headings, 12 pt body/subtitle, and 11 pt supporting notes**. Use Arial, US Letter portrait, and 0.5-inch margins. Fill each page's printable area with balanced spacing and readable type; increase spacing or type on shorter pages as useful. Keep every day on its own page using explicit page breaks, retain note-writing space, and inspect the rendered pages for overflow or accidental blank pages. Tighten wording and reference governing sources for detail instead of shrinking body text or dropping essential instruction/safety.
+
+Follow the [Weekly Teaching Guide Standard](Daily_Teaching_Guide_Standard.md) and [template](../06_Templates/Daily_Teaching_Guide_Template.md) for the complete structure.
 
 ### Quick Instructor Activity
 
