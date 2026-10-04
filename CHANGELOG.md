@@ -1,3 +1,14 @@
+## 2026-10-04 — Add Daily Whiteboard Retrieval Routine
+
+### Quick Edit
+
+- Added a brief **Whiteboard Retrieve — 2–3 min** routine to Monday–Thursday instruction for Culinary 1 and Culinary 2.
+- Students use the small whiteboards already established in class to retrieve prior learning needed for the day's work before consulting notes, recipes, or slides.
+- Instructors scan responses and target reteaching to actual gaps, then continue into **Notebook. Pen. Plan.** and production/readiness work.
+- Kept the routine low-stakes and ungraded by default; prompts emphasize recurring fundamentals, recently taught learning, process sequence, safety/quality cues, and next-action thinking rather than trivia.
+- Friday Bistro service normally begins with operational readiness rather than a required whiteboard prompt.
+- Updated the Weekly Teaching Guide standard, reusable DTG template, Daily and Weekly Systems, Weekly Teacher Workflow, and WACOS AI Reference. No grading, discipline, safety-authority, or Bistro operating policy changed.
+
 ## 2026-10-03 — Adopt Prototype E Teaching-Guide Format
 
 - Adopted Prototype E for Culinary 1 and Culinary 2 in place of the Prototype D pilot presentation.
