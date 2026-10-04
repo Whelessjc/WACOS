@@ -54,6 +54,7 @@ Flag conflicts instead of inventing policy.
 - Thursday Bistro Prep and Friday Bistro Service are current operating decisions.
 - Weeks 1-4 are Monday-Friday instructional/readiness weeks; do not apply the post-launch Bistro rhythm before Bistro operations begin.
 - Plan from the Weekly Anchor and learning sequence. Daily labels are suggested starting points, not automatic stopping boundaries.
+- Monday–Thursday instruction normally begins with a **2–3 minute small-whiteboard retrieval prompt** tied to prior learning needed that day. Students answer from memory before notes or reteaching; the instructor scans responses and teaches only the gaps plus genuinely new learning. Friday Bistro service normally begins with operational readiness. Whiteboard retrieval does not replace **Notebook. Pen. Plan.**
 - Service, Barista, Line Cooks, Support, and Expo / Floaters are the five current teams. Teams remain in each position for two consecutive services using one common Culinary 1/Culinary 2 system. Do not invent additional teams or student authority structures.
 - Safety, sanitation, equipment authorization, grading, discipline, and compliance require instructor authority.
 
@@ -151,7 +152,7 @@ Requirements:
 - For each daily or sequence block, identify the primary target, required supporting systems, expected just-in-time micro-skills, safety/authorization gates, flexible extensions, and integrated performance evidence.
 - Include a compact place to capture micro-skills revealed by student questions, errors, or production conditions. Do not turn every micro-skill into a separate objective or grade.
 - Use practical language.
-- Include entry, briefing, Kitchen Mode, work period, reset, and reflection.
+- Include Monday–Thursday Whiteboard Retrieve, entry/readiness, briefing, Kitchen Mode, work period, reset, and reflection. Keep retrieval brief, low-stakes, and tied to learning needed for the day; do not turn it into a separate worksheet or grade.
 - Flag any policy, safety, grading, or calendar assumptions needing instructor confirmation.
 ```
 
