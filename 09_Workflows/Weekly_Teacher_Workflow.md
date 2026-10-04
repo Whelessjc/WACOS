@@ -19,14 +19,16 @@ Use this workflow to run the instructional week, protect Monday-Wednesday learni
 
 1. Greet students.
 2. Check attendance, ID, dress code or uniform, phones, and headphones.
-3. Share announcements, opportunities, competitions, and jobs.
-4. Review the daily agenda and learning targets.
-5. Complete the daily check-in.
-6. Review the prep list and cleaning duty.
+3. Monday–Thursday, students retrieve their small whiteboards and complete the posted **Whiteboard Retrieve** prompt from memory for about 2–3 minutes.
+4. Scan boards; correct only the gaps or misconceptions that matter for today's work.
+5. Share essential announcements and review the daily agenda and learning target.
+6. Move into **Notebook. Pen. Plan.**; review the prep list and cleaning duty as relevant.
 7. Assign or confirm stations.
 8. Wash hands and complete mise en place.
-9. Conduct the chef check.
+9. Conduct the chef check or required Production Check.
 10. Begin work.
+
+Friday Bistro service normally skips the required whiteboard routine and begins with operational readiness. Use a Friday whiteboard only when a targeted reteach or reset clearly serves service.
 
 Post the shutdown time. Unless the schedule requires an earlier close, stop cooking 15 minutes before the end of class and begin the [closing standard](../00_Core/08_Daily_and_Weekly_Systems.md#closing-standard).
 
@@ -59,8 +61,8 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ### Instruction
 
-- Introduce new learning.
-- Demonstrate and provide student practice.
+- Use the whiteboard retrieval evidence before introducing new learning.
+- Demonstrate only what is new, unsafe, misunderstood, or necessary; provide student practice.
 - Use live checks and begin grading during reset when practical.
 - Protect the shutdown and room reset.
 
@@ -77,6 +79,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ## Tuesday - Teach, Practice, and Grade
 
+- Begin with the brief whiteboard retrieval prompt and use the evidence to target instruction.
 - Teach new content.
 - Provide focused practice and feedback.
 - Complete live or formative checks.
@@ -86,6 +89,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ## Wednesday - Finish Instruction and Plan Ahead
 
+- Begin with brief retrieval of the fundamentals students need for the day's work.
 - Complete the week's planned new instruction.
 - Use practice and formative checks to identify readiness and reteach needs.
 - Grade all remaining work and clear the lab backlog.
@@ -107,6 +111,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ### During Class
 
+- Use a brief whiteboard retrieval prompt tied to the assigned prep, sequence, quantity/units, or watch-for cue; then move into Notebook. Pen. Plan. and the Production Check.
 - Execute Bistro Prep.
 - Reinforce Friday roles, standards, and escalation paths.
 - Monitor food safety, production pace, labels, storage, and station readiness.
