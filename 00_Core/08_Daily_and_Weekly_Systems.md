@@ -6,16 +6,20 @@ Document repeatable routines that keep instruction, production, cleaning, planni
 ## Daily Flow
 | Stage | Actions |
 |---|---|
-| Entry | Attendance, uniform/material check, **notebook and pen out**, write the immediate workflow or first task, objective, safety focus |
-| Briefing | Demo, roles, timeline, quality standard, shutdown time |
+| Entry | Attendance, uniform/material check; Monday–Thursday retrieve the small whiteboard and complete the 2–3 minute retrieval prompt; then **notebook and pen out** and write the immediate workflow or first task |
+| Briefing | Scan/correct retrieval, then demo only what is needed; roles, timeline, quality standard, shutdown time |
 | Work | Production, coaching, station checks, live assessment |
 | Flames off | Heat off 15 minutes before bell or earlier by schedule |
 | Close | Storage, labels, dish, laundry, equipment shutdown, floors, station sign-off |
 | Reflection | Exit ticket, self-grade, improvement target, production note |
 
-## Daily Readiness Checkpoint
+## Daily Retrieval and Readiness Checkpoint
 
-Work begins with a written plan. Students enter Kitchen Mode with the issued pocket notebook and a pen out and ready, then write what they are about to do before beginning.
+Monday–Thursday, students retrieve the small whiteboards they have been trained to use and begin with a brief retrieval prompt. The prompt should surface prior learning needed for that day's work: essential steps, sequence, a safety or quality cue, equipment/product identification, or the next professional action. Students answer from memory before using notes, recipes, or slides. The instructor scans the boards quickly, corrects misconceptions, and limits reteaching to what the evidence shows students need.
+
+Keep retrieval to about 2–3 minutes. It is low-stakes practice, not a separate worksheet or routine grade. Use recurring fundamentals and recently taught learning rather than trivia. Friday Bistro service normally begins with operational readiness; a Friday whiteboard is optional only when a targeted reteach clearly serves service.
+
+The whiteboard does not replace the work plan. After retrieval and correction, work begins with a written plan. Students enter Kitchen Mode with the issued pocket notebook and a pen out and ready, then write what they are about to do before beginning.
 
 The entry should be brief and useful. Depending on the day, it may be a first task, workflow, prep list, sequence, recipe note, technique reminder, station responsibility, service note, question, or idea. The notebook is a working culinary tool, not a traditional daily journal and not a separate graded assignment.
 
