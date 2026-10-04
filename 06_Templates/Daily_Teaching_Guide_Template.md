@@ -37,7 +37,7 @@ List only the limited set of new terms needed for the work, communication, or la
 
 ### Program-Wide Fundamentals
 
-State shared supporting systems and routines once. Include current readiness/planning, communication, sanitation, safe stop, and reset expectations as relevant.
+State shared supporting systems and routines once. Include the Monday–Thursday small-whiteboard retrieval routine, current readiness/planning, communication, sanitation, safe stop, and reset expectations as relevant. Whiteboard retrieval does not replace Notebook. Pen. Plan.
 
 ### Shared Adult Roles
 
@@ -67,9 +67,13 @@ Reference current governing sources and clearly identify any actual planning dec
 
 Materials, instructor preparation, and required verification/authorization.
 
+### Whiteboard Retrieve — Monday–Thursday | 2–3 min
+
+Use one short prompt tied directly to learning students need for the day's work. Students retrieve from memory before opening notes, recipes, or slides. Ask them to recall, sequence, sketch, label, or explain; scan responses quickly and correct only what is missing or inaccurate. Keep it low-stakes and fast. Friday normally begins with Bistro operational readiness rather than a required whiteboard prompt.
+
 ### Teach / Show
 
-Essential demonstration or explanation; identify relevant supporting systems.
+Teach or demonstrate only what the retrieval check and today's new learning require; identify relevant supporting systems.
 
 ### Students Do
 
