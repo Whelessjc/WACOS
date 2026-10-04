@@ -2,7 +2,7 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
-**Last revised:** October 3, 2026
+**Last revised:** October 4, 2026
 
 ## Adopted Format — Prototype E
 
@@ -22,14 +22,15 @@ Each daily page uses a centered day/lesson title and course/week identification,
 2. Compact **Knowledge / Skill / Professional Thinking**
 3. **Key Terms**
 4. **Before Class — Set Up**
-5. **Teach / Show**
-6. **Students Do**
-7. **Micro-Skills / If They Come Up**
-8. **Watch For**
-9. **If There Is Extra Time** — include the adjustment if time is lost.
-10. **Clean Stop** — finish/secure/reset requirements and an exit reflection.
-11. Compact **Supporting Note** only when useful; add day-specific adult roles only when they differ from the overview.
-12. **Notes for Next Time** — writing space for what worked, adjustments, section stop/next move, and micro-skills revealed.
+5. **Whiteboard Retrieve — 2–3 min** on Monday–Thursday: one short prompt that asks students to recall, sequence, sketch, label, or explain previously taught learning needed for the day. Students answer from memory before notes or reteaching; the instructor scans responses and corrects only what is missing or inaccurate. Friday normally omits this routine because service is the opening task.
+6. **Teach / Show**
+7. **Students Do**
+8. **Micro-Skills / If They Come Up**
+9. **Watch For**
+10. **If There Is Extra Time** — include the adjustment if time is lost.
+11. **Clean Stop** — finish/secure/reset requirements and an exit reflection.
+12. Compact **Supporting Note** only when useful; add day-specific adult roles only when they differ from the overview.
+13. **Notes for Next Time** — writing space for what worked, adjustments, section stop/next move, and micro-skills revealed.
 
 Required supporting systems, safety/authorization gates, and individual performance evidence belong within the relevant daily sections. Core Learning is visible in Teach / Show and Students Do; Flexible Learning is visible in If There Is Extra Time. Preserve safe stopping points and section continuation.
 
@@ -57,12 +58,13 @@ Every active weekly guide makes these items immediately visible:
 
 1. **Weekly destination:** course, week/unit, Weekly Anchor, and the ordered learning sequence.
 2. **New Vocabulary / Professional Language:** the limited set of new terms students are expected to encounter and begin using during the week.
-3. **Show / Students do:** what the instructor demonstrates or explains and what students do next.
-4. **Must happen:** Core Learning plus required safety, shutdown, cleaning, and reset.
-5. **If time remains:** Flexible Learning and the next logical sequence element.
-6. **If time is lost:** work that may move without damaging the Weekly Anchor.
-7. **Clean stopping points:** where a section may pause and what must be secured before leaving.
-8. **Section continuation:** a compact record of where each section stopped and what comes next.
+3. **Retrieve before reteach:** Monday–Thursday, use a 2–3 minute small-whiteboard prompt to surface what students already remember that they need for the day's work; scan the boards before deciding what requires explanation or demonstration.
+4. **Show / Students do:** what the instructor demonstrates or explains and what students do next.
+5. **Must happen:** Core Learning plus required safety, shutdown, cleaning, and reset.
+6. **If time remains:** Flexible Learning and the next logical sequence element.
+7. **If time is lost:** work that may move without damaging the Weekly Anchor.
+8. **Clean stopping points:** where a section may pause and what must be secured before leaving.
+9. **Section continuation:** a compact record of where each section stopped and what comes next.
 
 The weekly guide also identifies Knowledge, Skill, Professional Thinking, materials/preparation, and adult roles. Essential questions, predictable student questions, detailed instructor context, and extended notes belong in compact supporting notes when they materially help instruction; they do not receive equal visual priority by default.
 
@@ -86,9 +88,13 @@ Every new daily lesson plan, or each daily/sequence block inside an active Weekl
 
 Keep this layer compact. Do not turn every micro-skill into a standalone objective, worksheet, checklist item, or grade. Safety-critical micro-skills require verification; recurring fundamentals receive planned repetition; product-specific micro-skills stay with the relevant lab; emergent micro-skills enter permanent guidance only when repetition, safety, or instructional value justifies the change.
 
-### Workflow Readiness
+### Retrieval and Workflow Readiness
 
-The daily readiness routine begins with **Notebook. Pen. Plan.** Students enter Kitchen Mode with the issued pocket notebook and a pen ready and write the immediate task or workflow before beginning. The entry should be short and functional rather than a required journal response. Students may use the notebook for recipes, techniques, notes, ideas, workflow, prep lists, station tasks, service notes, questions, and reminders.
+On Monday–Thursday, students begin the instructional sequence with a small whiteboard already established as a normal class material. Use **Whiteboard Retrieve — 2–3 min** for a single, tightly focused prompt tied to learning students need that day. The prompt may ask students to recall essential steps, sequence a process, identify a quality or safety cue, sketch/label equipment or product, or explain a next action. Students respond from memory before consulting notes, recipes, or slides. The instructor scans the boards to decide what needs correction, demonstration, or no further explanation. Keep the routine low-stakes and fast; it is retrieval practice, not a separate graded worksheet or a reason to delay production.
+
+Prioritize spaced retrieval of recurring fundamentals and recently taught material over trivia or isolated vocabulary. Friday Bistro service normally begins with operational readiness rather than a required whiteboard prompt; use a whiteboard on Friday only when a targeted reteach or reset clearly serves service.
+
+Whiteboard retrieval does not replace the written work plan. After retrieval and any needed correction, the daily readiness routine continues with **Notebook. Pen. Plan.** Students enter Kitchen Mode with the issued pocket notebook and a pen ready and write the immediate task or workflow before beginning. The entry should be short and functional rather than a required journal response. Students may use the notebook for recipes, techniques, notes, ideas, workflow, prep lists, station tasks, service notes, questions, and reminders.
 
 When equipment is relevant, Equipment Literacy means that students hear or read the correct name, identify and locate the item, select the appropriate type or size, use it only within existing authorization rules, and return it properly. Culinary 2 planning also considers when shared equipment is needed and whether availability could become a production bottleneck. Teach and check this through physical kitchen work rather than a standalone identification worksheet.
 
