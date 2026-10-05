@@ -27,27 +27,37 @@ Student production recipes normally represent one student group unless clearly l
 
 ## Bistro / Student Printable Format
 
-Bistro and student-facing recipe printables should prioritize fast station use and readability.
+Approved October 5, 2026, using the instructor-approved Chicken Bog printable as the visual reference. This replaces the September 21 ingredient-table default for new and revised Bistro and student-facing printables.
 
 Use this order:
 
-1. Recipe title.
-2. Use, yield, and portion information.
-3. Ingredients in a clean two-column table: **Ingredient | Amount**.
-4. Equipment.
-5. Procedure.
-6. Quality standard.
-7. Holding, storage, or service notes only when relevant.
-8. Instructor Review only when unresolved information requires confirmation.
+1. Small **THE BISTRO** identifier for Bistro recipes; use course identification only when useful for a class recipe.
+2. Prominent, left-aligned recipe title.
+3. Compact metadata line: yield and portion size; oven temperature and cooking time when applicable. Include use information only when needed.
+4. **INGREDIENTS**: one ingredient per line, with the quantity and unit in bold followed by the ingredient and preparation detail in regular text. Use the recipe's verified units. An ingredient table is no longer the default.
+5. **DIRECTIONS**: numbered steps, each with a short bold action label followed by concise instructions. Include essential equipment in the relevant step; add a separate equipment list only when it improves usability.
+6. **QUALITY CHECK**: a short, concrete description of the finished product students should produce.
+7. Holding, cooling, storage, reheating, or service notes only when relevant to the recipe's use.
 
-For these printables:
+### Printable Layout
 
-- Keep ingredients in the table; do not spread ingredients across the page in running text.
-- Do not include separate **Allergens** or **Skill Focus** sections.
-- Keep the layout simple, readable, and easy to scan during production.
-- Use tables only where they improve readability; the ingredient table is the default.
+- US Letter portrait with approximately 0.6-inch top/bottom margins and 0.7-inch side margins.
+- Arial; black text and headings; no decorative rule below the title.
+- Approximately 23 pt recipe title, 12 pt bold section headings, 11 pt body text, and 10 pt identifier.
+- Use generous, consistent spacing and hanging indents for numbered directions.
+- Prefer one readable page for a short recipe. Use additional pages for longer recipes rather than shrinking text or omitting essential controls.
+- Keep ingredients and directions easy to scan; avoid unnecessary boxes, grids, and separate planning sections.
+- Keep the timing sheet or production plan separate unless the instructor requests an integrated version. Providing an instructor-prepared timeline does not imply that students must write another plan on the recipe sheet.
+- Render and inspect the finished printable before delivery.
+
+### Content Controls
+
+- Preserve verified ingredients, quantities, yield, portion size, and method. Formatting approval does not verify an untested recipe or authorize silent formula changes.
+- Include essential safety controls and doneness cues in the relevant direction. Cooking time is an estimate, not the sole test of doneness.
+- Do not add separate **Allergens** or **Skill Focus** sections to the student printable. Permanent Recipe Bank records retain those details and instructor review still covers them.
+- Do not add a routine **Instructor Review** block to a resolved recipe. Surface unresolved information for instructor confirmation before production; do not hide it or invent an answer.
 - Student-facing and public-facing printables still require instructor review before use.
 
-The printable format does not remove food-safety, allergen, or skill-focus requirements from the permanent Recipe Bank record. Those remain part of WACOS documentation and instructor review.
+Use the [Bistro Recipe Printable Template](../06_Templates/Bistro_Recipe_Printable_Template.md) for new delivery copies. This presentation standard does not change the permanent Recipe Bank record requirements above.
 
 Fully worked reference entries were named in the separate Claude recipe-standardization project but were not included in the July 20, 2026 WACOS intake. Add them only after the source files are supplied and reviewed.

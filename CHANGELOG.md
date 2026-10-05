@@ -1,3 +1,14 @@
+## 2026-10-05 — Adopt Chicken Bog Recipe Printable Layout
+
+### Quick Edit
+
+- Adopted the instructor-approved Chicken Bog layout for new and revised Bistro/student recipe printables.
+- Replaced the September 21 ingredient-table default with one ingredient per line and bold quantities/units.
+- Established compact recipe metadata, numbered directions with bold action labels, a short quality check, Arial/black typography, and preferably one readable page for short recipes.
+- Kept timing sheets separate by default and essential equipment/safety/doneness guidance in the relevant directions.
+- Updated the recipe format standard, Recipes and Production guidance, ChatGPT Quick Reference, and template navigation; added a reusable recipe printable template.
+- Presentation only: permanent Recipe Bank requirements, formula verification, instructor review, and safety authority remain in force. Generated Word/PDF delivery copies are not committed to Git.
+
 ## 2026-10-04 — Add Daily Whiteboard Retrieval Routine
 
 ### Quick Edit

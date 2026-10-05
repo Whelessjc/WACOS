@@ -4,6 +4,8 @@ This folder contains reusable forms, blank templates, checklists, and document s
 
 ## Current Templates
 
+- [Bistro Recipe Printable Template](Bistro_Recipe_Printable_Template.md) - approved Chicken Bog layout with bold ingredient quantities, numbered directions, and a concise quality check.
+
 - [Weekly Teaching Guide Template](Daily_Teaching_Guide_Template.md) - reusable weekly sequence guide aligned to the flex-mod, Professional Thinking, and compact professional-language planning standards. The source filename remains stable for existing links.
 
 ## Belongs Here

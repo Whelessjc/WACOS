@@ -21,17 +21,15 @@ Permanent Recipe Bank records include:
 - Scaling notes.
 - Skill focus.
 
-For Bistro and student-facing printables, use a simplified station format:
-1. Recipe title.
-2. Use, yield, and portion information.
-3. Ingredients in a two-column **Ingredient | Amount** table.
-4. Equipment.
-5. Procedure.
-6. Quality standard.
-7. Holding, storage, or service notes only when relevant.
-8. Instructor Review only when unresolved information requires confirmation.
+For Bistro and student-facing printables, follow the [Standard Recipe Format](Standard_Recipe_Format.md#bistro--student-printable-format) and [Bistro Recipe Printable Template](../06_Templates/Bistro_Recipe_Printable_Template.md):
+1. Recipe title with a small Bistro identifier when appropriate.
+2. Compact yield, portion, and applicable oven/cooking information.
+3. One ingredient per line with **quantity and unit in bold**, followed by the ingredient and preparation detail. Ingredient tables are no longer the default.
+4. Numbered **DIRECTIONS** with short bold action labels; essential equipment and safety/doneness checks belong in the relevant step.
+5. A concise **QUALITY CHECK**.
+6. Relevant holding, storage, reheating, or service notes only as needed.
 
-Do not include separate Allergens or Skill Focus sections on the printable. This simplification applies only to the delivery artifact; permanent Recipe Bank records retain food-safety, allergen, and skill-focus documentation.
+Use the instructor-approved October 5, 2026 Chicken Bog layout: Arial, black text, US Letter portrait, readable spacing, and preferably one page for a short recipe. Keep a timing sheet or production plan separate unless an integrated version is requested. Do not add separate Allergens or Skill Focus sections, a routine Instructor Review block, or a student planning section to the printable. Unresolved details still require instructor confirmation before production, and permanent Recipe Bank records retain all required documentation.
 
 ## Production Packet
 For Bistro or larger labs, attach:

@@ -239,3 +239,7 @@ Use Arial, US Letter portrait, 0.5-inch margins, 20 pt titles, 13 pt blue headin
 ## Maintenance
 
 Update this retrieval aid whenever a permanent change affects a high-frequency fact. Keep detailed procedures in their governing documents.
+
+## Bistro and Student Recipe Printables
+
+Use the [current recipe printable standard](../04_Recipes/Standard_Recipe_Format.md#bistro--student-printable-format) and [reusable template](../06_Templates/Bistro_Recipe_Printable_Template.md). The instructor approved the Chicken Bog layout on October 5, 2026: small Bistro identifier, prominent title, compact yield/portion/oven/cook line, one ingredient per line with bold quantity and unit, numbered directions with bold action labels, and a short quality check. Use Arial and black text on US Letter portrait; aim for one readable page for a short recipe. Ingredient tables are no longer the default. Keep timing sheets separate unless an integrated version is requested. Preserve verified formula details and essential safety controls; permanent Recipe Bank documentation remains required.
