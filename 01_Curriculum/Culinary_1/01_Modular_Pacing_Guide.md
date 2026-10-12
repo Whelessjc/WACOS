@@ -175,6 +175,23 @@ Week 5 is the normal first-public-service target, subject to instructor readines
 
 Resume knife progression after the operating foundation is stabilized. This is evidence-based curriculum adjustment, not abandonment of knife skills.
 
+## Week 16 — Chopped Mystery Basket Competition (All Classes)
+
+**Scheduled capstone application:** Monday–Wednesday of instructional Week 16, subject to the adopted school calendar and instructor safety/readiness decisions. The same three-round competition is conducted in Culinary 1 and Culinary 2; performance expectations differ by course level.
+
+- **Monday:** Round 1 — appetizer.
+- **Tuesday:** Round 2 — entrée.
+- **Wednesday:** Round 3 — dessert.
+- **Thursday–Friday:** Preserve normal Bistro Prep and Service when operating and safe.
+
+Teams receive a mystery basket of approximately **4–5 ingredients** each round. House rules: use every basket ingredient (not necessarily its entire quantity); pantry additions allowed; manipulate ingredients where useful; produce **two identical plated servings**; **five minutes to plan and 30 minutes to cook**; stop cooking when time expires; follow all safety, sanitation and professional work expectations; clean during judging; results are announced only after the kitchen is clean. Teams that are **chopped** become the cleaning crew for the remainder of the event, under normal safety and equipment-authorization rules.
+
+**Instructional purpose:** A culminating application of familiar capabilities, not a new technique unit. Observe recipe-free planning, knife and heat control, flavor decisions, time management, communication, plating, food safety, sanitation and complete closing. Culinary 1 demonstrates usable foundations; Culinary 2 demonstrates stronger independence, judgment and consistency. Do not infer mastery from competition placement alone.
+
+**Scheduling rule:** This three-day event replaces the ordinary Monday–Wednesday Week 16 technical sequence; displaced technique applications may be integrated into earlier/later authentic work rather than automatically crammed into Thursday/Friday. Week 16 is a preferred recurring placement, not permission to bypass required safety or student readiness.
+
+**Instructor confirmation still needed:** The existing judge's calculation sheet ranks every team across appetizer, entrée and dessert, which may not align with progressive elimination. Confirm whether eliminated teams stop competing in later rounds and how final scoring/winners are determined before revising judging materials. The existing house-rules and calculation-sheet Word documents remain source references and are not replaced here.
+
 ## Weeks 7-18
 
 Continue the approved knife, heat, frying, flavor, protein, and bridge progression. Once Bistro is active, Thursday/Friday remain Prep/Service when readiness and calendar allow. Monday-Wednesday technical work should reinforce the same cumulative systems: Work Ready, Kitchen Ready, recipe review, mise, communication, safety, clean-as-you-go, situational awareness, clean stop/handoff, and reset.
