@@ -39,7 +39,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Demo or mini-lesson: final service reminders—LATTE for guest recovery (Listen, Acknowledge, Take action, Thank, Ensure satisfaction), no arguing over questionable queue numbers, and dietary restrictions flagged immediately rather than guessed at.
 - Student work: assigned prep and service setup using the appropriate side-work checklist (Service, Barista, Line Cooks, Support, or Expo / Floaters).
 - Lab/application: **OPEN → MOCK SERVICE → CLOSE / RESET** with no public guests. This is a readiness check, not a new-content day.
-- Cleanup/reset: full service reset.
+- Cleanup/reset: full service reset. Before release, assigned teams check that food is covered/labeled and stored, the final dish load and air-drying/return are complete, knives and smallwares are safely returned, the line is shut down under approved procedures, and shared spaces are ready. Adult verifies the whole-operation close; do not create a second checklist.
 - Adult evidence capture: record where adult intervention was needed, unclear station responsibilities, order-flow breakdowns, repeated questions, and the station/system requiring targeted Tuesday/Wednesday retraining before the first public service on Friday, September 11.
 
 
