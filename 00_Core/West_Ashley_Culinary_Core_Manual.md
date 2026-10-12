@@ -150,6 +150,10 @@ Recipes are not the curriculum. Recipes are vehicles for skill practice. A panca
 
 ### Depth Before Breadth
 
+> **We're not trying to get through the curriculum. We're trying to get the curriculum through the students.**
+
+This is a planning and instructional decision principle, not permission to ignore required standards. Covering a lesson, completing a recipe, or reaching a calendar date does not establish student proficiency. Select high-value fundamentals, build deliberate repetition into authentic kitchen work, and use demonstrated performance to decide when to reinforce, adjust, or advance. Safety requirements remain non-negotiable.
+
 The program favors depth over breadth. Students do not need a scattered tour of every possible culinary topic. They need repeated contact with the fundamentals until those fundamentals become dependable.
 
 Culinary 2 is not simply an advanced class. It is a deeper dive into fundamentals under pressure.
