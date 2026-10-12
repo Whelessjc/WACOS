@@ -33,6 +33,18 @@ Do not create a parallel curriculum or unnecessary sign-off bureaucracy. Use aut
 | Barista | Basic station awareness as Bistro training approaches | Operate from build references rather than memorization |
 | Reset / Close | Ordinary labs end reset | Explicit Week 4 whole-operation rehearsal: Clean as You Go vs Reset vs Close |
 
+## Explicit Micro-Skill Checks at First Use
+
+The broad coverage areas above do not replace teaching the exact action. Embed the following short demonstrations and live checks in existing work, not new units or paperwork:
+
+- **Dish systems (Week 2):** scrape; approved rinse/presoak; stage; run approved warewashing; air dry completely before storage; return equipment; check the final load. Wash knives separately under the approved procedure.
+- **Food protection (Weeks 2-3):** cover/wrap, label/date, place in approved cooler/freezer storage promptly, and verify the actual product before leaving. Follow current temperature and storage SOPs.
+- **Equipment literacy (first authentic use):** demonstrate authorized operation, safe handling and cleanup of common tools, including microwave, can opener, and egg-handling equipment when used. Do not invent a standalone unit for rarely used equipment.
+- **Knife production (Weeks 6-9):** produce a few pieces, show the target dimensions for approval, correct, then continue; demonstrate safe knife washing and return.
+- **Bistro closing (Week 4 onward):** students check their station and the shared operation for unprotected food, unfinished dishes, wet stacked equipment, missing smallwares, incomplete line shutdown and unresolved handoffs; adults verify completion and release.
+
+**Evidence rule:** record meaningful performance or recurring errors in the existing DTG, station check or instructor notes. Distinguish not taught, taught without individual check, and taught but not performed consistently. No additional student sign-off form is required.
+
 ## Recipe / Production Preflight Progression
 
 Begin with the earliest labs and increase independence:
