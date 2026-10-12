@@ -11,7 +11,7 @@ Weeks 6-9 use repeated three-day knife blocks followed by Bistro prep/service. A
 
 ## Week 6: Safety, Grip, Claw, Rough Chop, Slice
 - Day 1: Opening routine, knife safety demo, board setup, dry hand practice, cleanup/reset.
-- Day 2: Grip and claw mini-lesson, slice and rough chop practice, teacher checkpoints, reset.
+- Day 2: Grip and claw mini-lesson, slice and rough chop practice; students cut a few sample pieces and bring them for dimension/consistency approval before batch cutting, then reset.
 - Day 3: Controlled vegetable prep, student reflection on control, reset.
 - Day 4: Bistro prep using simple cuts, labeled storage, station reset.
 - Day 5: Bistro service or prep application, cleanup and service debrief.
@@ -47,7 +47,8 @@ Weeks 6-9 use repeated three-day knife blocks followed by Bistro prep/service. A
 - Exit reflection or check for understanding
 
 ## Teacher Pacing Notes
-- Keep cut practice short enough that students still have time to clean knives and boards well.
+- Keep cut practice short enough that students still have time to clean knives and boards well. Explicitly demonstrate and verify the approved knife-washing method: knives remain visible and controlled, are never left in a communal sink, and are cleaned and returned safely.
+- Require a small sample cut and instructor/TA approval against the displayed target before full cutting when dimensions matter; correct and retry rather than multiplying errors.
 - Repeat the same safety language every day.
 - Use prep lists so knife practice feels connected to real service work.
 - If control slips, slow the task down before adding speed.
