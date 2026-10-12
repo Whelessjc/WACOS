@@ -12,18 +12,18 @@ The approved online ServSafe Food Handler course and assessment provide primary 
 
 ## Day 2: Cleaning, Sanitizing, and Dish Systems
 - Opening routine: huddle with focus on stewardship jobs.
-- Demo or mini-lesson: cleaning vs. sanitizing, three-compartment sink, dish machine flow.
+- Demo or mini-lesson: cleaning vs. sanitizing, three-compartment sink, and the full approved dish-machine flow: scrape, rinse/presoak as required, sort and stage, wash/sanitize, air dry completely, then return equipment. Handle knives separately under the approved knife-washing procedure; never leave knives hidden in a dish sink.
 - Student work: rotate through dish, counter, laundry, and floor systems.
 - Lab/application: brownie batter lab with dish-flow emphasis.
-- Cleanup/reset: full dish system and station reset.
+- Cleanup/reset: complete the final dish load, verify dishes are fully air-dried before storage, clear the landing area, return smallwares, and obtain an adult check of the dish system and station reset.
 - Exit check: explain one difference between washing and sanitizing.
 
 ## Day 3: Cross-Contamination, Storage, and Product Stewardship
 - Opening routine: agenda check, safety reminder, and approved product plan.
-- Demo or mini-lesson: cutting boards, storage order, clean tools, portion plan, approved destination, and professional handling. Food in the Culinary kitchen has an instructor-approved purpose; availability is not permission.
+- Demo or mini-lesson: cutting boards, storage order, clean tools, portion plan, approved destination, and professional handling. Explicitly model covering/wrapping, identifying and dating containers, approved chilling and storage placement; do not assume that a verbal reminder establishes the procedure. Food in the Culinary kitchen has an instructor-approved purpose; availability is not permission.
 - Lab/application: bake, portion, package, distribute, or store brownies according to the instructor-approved plan while maintaining clean stations.
 - Stewardship check: compare expected product or ingredient inventory with what is actually present, identify any difference, and report it to the instructor. Do not invent controls or consequences.
-- Cleanup/reset: counters sanitized, tools returned, product and ingredients stored as directed, storage checked.
+- Cleanup/reset: counters sanitized, tools returned, product and ingredients covered/wrapped, labeled and placed in approved storage as directed; students show the protected product and adult verifies storage before release.
 
 ## Day 4: Time, Temperature, and Thermometers
 - Opening routine: huddle with thermometer purpose.
