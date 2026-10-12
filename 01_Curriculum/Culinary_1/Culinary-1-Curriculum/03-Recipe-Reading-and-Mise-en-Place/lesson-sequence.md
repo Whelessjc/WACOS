@@ -19,12 +19,15 @@
 
 ## Day 3: Mystery Mise Measuring Stations and Peanut Butter Pretzel Bars
 - Opening routine: readiness, handwashing, recipe reading, and five-team setup.
-- Whole-group demonstration: the instructor demonstrates how to cut the required butter amount, then softens it in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until softened. Students do not cut butter at a rotation station.
+- Whole-group demonstration and first-use equipment check: the instructor demonstrates how to cut the required butter amount, then softens it in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until softened. Confirm approved container, controls, hot-container handling and cleanup before students use the microwave. Students do not cut butter at a rotation station.
 - Measuring stations: five teams complete two stations per round across ten numbered stations. Confectioners' sugar and chocolate chips are separate recipe stations. Students complete the passport record, reset each station, and rotate only on the instructor signal.
 - Required release sequence: **Measuring stations -> completed student passport and mise record -> instructor checkpoint -> release to peanut butter pretzel bar production.**
-- Production: after release, prepare the bars. Melt the chocolate chips and shortening in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until melted and smooth.
+- Production: after release, prepare the bars. Melt the chocolate chips and shortening in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until melted and smooth. Verify safe operation in actual use, not only a recalled instruction.
 - Cleanup/reset: dishes, counters, tools, storage, microwave area, and floor.
 - Exit check: what step did mise en place make easier?
+
+## First-Use Equipment Literacy Rule
+For common tools and appliances (including can opener and egg-handling equipment when their first approved recipe requires them), teach the specific safe setup, operation, cleaning and storage at first authentic use; observe a student demonstration before independent use. Do not create isolated lessons for equipment not actually used. Safety and authorization remain instructor-controlled. Record the first-use check in the active teaching guide when needed.
 
 ## Day 4: Rice Cookery and Ratios
 - Opening routine: agenda check and huddle.
