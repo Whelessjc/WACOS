@@ -46,6 +46,8 @@ Fast retrieval aid for common West Ashley Culinary questions. It is not a separa
 - Credential alignment: Certified Kitchen Cook (CKC).
 - Do not call Culinary 2 simply the advanced class.
 
+Current full-year redesign: three-week practical bootcamp, prerequisite instruction before use, modeled/coached/reviewed-plan ownership, recurring West Ashley 25, favorites such as Alfredo, pasta/wok methods and seasonal/visitor events. Events replace planned work and include the complete close. Use `01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md`; technical folders are resources, not week blocks. The five-course Explore Charleston tasting menu remains the capstone, with roster/date confirmation pending.
+
 ## Work Ready and Kitchen Ready
 
 **Work Ready** is broad program readiness. Current Bistro arrival language:

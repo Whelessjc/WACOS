@@ -8,13 +8,7 @@ Do not turn CKC into test prep first. Teach the kitchen well. Let the credential
 
 ## Placement
 
-Target window:
-
-- embedded work Weeks 1-9
-- practical push around Week 9
-- formal CKC attempt around Week 9 if reasonable
-
-If the class is not ready, keep the Week 9 practical push and move the test window.
+Embed evidence throughout the year using the [current pacing](01_Modular_Pacing_Guide.md). Week 9 may provide an instructional checkpoint, not a promised credential attempt. Confirm the current provider requirements, registration, accessibility arrangements and testing calendar before scheduling. Practical competence and credential completion are related but distinct.
 
 ## CKC-Aligned Skill Areas
 
@@ -24,7 +18,7 @@ If the class is not ready, keep the Week 9 practical push and move the test wind
 | Equipment identification | Daily mise, station checks, line checks |
 | Knife skills | Weeks 1-3, repeated all year |
 | Recipe reading | Every lab, especially scaling and prep lists |
-| Kitchen math | Week 9, production scaling, Bistro par levels |
+| Kitchen math | Before first measuring/scaling use; repeated in production quantities and portions |
 | Cooking methods | Saute, roast, simmer, braise, fry, bake |
 | Temperatures | Protein labs, holding, cooling, reheating |
 | Communication | Bistro systems, service calls, group roles |
@@ -43,9 +37,9 @@ Use small routines instead of long test-prep blocks:
 - safety scenario questions
 - short practical demonstrations
 
-## Week 9 CKC Practical Push
+## Optional Focused Practical Checkpoint
 
-Suggested structure:
+Use when live evidence warrants a checkpoint; not an additional fixed unit:
 
 | Day | CKC Focus | Evidence |
 | --- | --- | --- |

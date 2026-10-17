@@ -1,6 +1,8 @@
 # Unit 6: Eggs, Batter, Frying, and Baking Control
 
-Approximate timing: Weeks 15-18
+**Resource status — October 17, 2026:** this folder is a technical reference, not a fixed calendar unit. The [current pacing](../../01_Modular_Pacing_Guide.md) and [course map](../00-Course-Map/culinary-2-course-map.md) supersede older timing, rotation and capstone options below. Review activity suggestions against current student readiness, job placement and safety requirements before reuse.
+
+Timing: use the current pacing; revisit this technique where the work requires it.
 
 ## Purpose
 

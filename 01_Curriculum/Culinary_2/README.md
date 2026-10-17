@@ -1,5 +1,7 @@
 # Culinary Arts Management 2 Curriculum System
 
+**Current October 17, 2026 redesign:** the Modular Pacing Guide in the Culinary 2 root governs the full year. Weekly guides are planning views, not completed daily packets. Technical folders are reusable resources rather than calendar units. Prior topic blocks, mandatory rotations and alternative capstone choices are superseded. Regional repertoire, student favorites, pasta/wok technique, celebrations and flexible event capacity are deliberately included.
+
 West Ashley Culinary Program
 
 This folder is the working curriculum system for Culinary Arts Management 2.
@@ -8,7 +10,7 @@ The course is not an advanced cooking class built around constant novelty. It is
 
 North star:
 
-Can this student be dropped into a basic kitchen and be useful without supervision?
+Can this student be dropped into a basic kitchen and be useful with appropriate supervision and established supports?
 
 Primary outcome:
 
@@ -22,10 +24,10 @@ Start with these files:
 | --- | --- |
 | `00_Master_Framework.md` | Course identity, daily systems, habits, and outcomes |
 | `01_Modular_Pacing_Guide.md` | Full-year modular pacing that can flex around school realities |
-| `02_Semester_1_Weekly_Guide.md` | Week-by-week guide with daily breakdowns for Semester 1 |
+| `02_Semester_1_Weekly_Guide.md` | Current weekly planning priorities and suggested applications for Semester 1 |
 | `Week_01_2026/README.md` | Classroom-ready August 11-14 package with one canonical weekly teaching guide, actual implementation record, supporting historical daily plans, group recipe, and TA observation tools |
 | `03_Semester_2_Module_Map.md` | Flexible Semester 2 module map |
-| `06_Semester_2_Weekly_Guide.md` | Day-by-day Semester 2 working guide, mapped to the 2026-2027 academic calendar and including the tasting-menu capstone |
+| `06_Semester_2_Weekly_Guide.md` | Current Semester 2 weekly priorities, movable events and the five-course capstone |
 | `04_Bistro_Integration.md` | How Bistro prep and service connect to the course |
 | `05_CKC_Alignment.md` | How Certified Kitchen Cook work is embedded in labs and service |
 | `../../03_Assessment/Culinary_2_Line_Check_Cards.md` | Oral recall and scenario card set |
@@ -85,18 +87,9 @@ The list should not be a museum. It should be a practical set of recipe vehicles
 5. Use the weekly guide to build projected agendas.
 6. After each quarter, revise the pacing notes based on what students actually needed.
 
-## Audit of the Provided Framework
+## Current planning authority
 
-The original framework is clear and useful. These are the places that needed tightening:
-
-| Area | Issue | Curriculum Decision |
-| --- | --- | --- |
-| Module overlap | Module 1 is listed as Weeks 1-4 and Module 2 as Weeks 4-5. Module 3 starts Week 6, while Module 4 starts Week 10. | Treat Weeks 4-5 as Bistro systems weeks layered over baseline skill review. Treat Weeks 10-12 as overlap where proteins continue while sauces and moist heat begin. |
-| Bistro timing | Week 4 ends on an early-release Friday in 2026-2027, when the instructor is out of town. | Week 4 is controlled Bistro systems, additional training, and mock service only, with no soft opening or public service. The Bistro opens Friday, September 11 in Week 5, subject to readiness and safety. |
-| CKC timing | CKC should happen early Semester 1 around Week 9, but the framework does not place it. | CKC is embedded Weeks 1-9 and scheduled as a practical credential push around Week 9 if the class is ready. |
-| Hospitality Scholars | Last Tuesday of each month can interrupt the weekly skill sequence. | Treat that Tuesday as a professional readiness day. Shift the Tuesday kitchen task to Monday or Wednesday when needed. |
-| Assessment | The framework rejects worksheet-heavy assessment but needs a usable system. | Use short practical rubrics, station checks, line checks, teacher observation, and service evidence. Written checks stay brief and kitchen-connected. |
-| Recipes | The framework says recipes are vehicles, but recipe selection needs guardrails. | Recipes must serve a skill target, fit the time block, allow repetition, and support group work. They are not the curriculum. |
+Use the [redesign decision](../../00_Core/2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md) and current pacing. Old module-overlap/Week 9 testing suggestions no longer govern. Confirm actual partner and credential arrangements; keep current placement and readiness rules. Earlier daily suggestions are preserved as [historical planning sources](../../99_Archive/2026-10-17_Culinary_2_Pre_Redesign/README.md).
 
 ## Maintenance Notes
 

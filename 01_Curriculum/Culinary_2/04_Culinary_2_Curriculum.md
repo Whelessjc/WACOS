@@ -1,67 +1,30 @@
 # Culinary 2 Curriculum
 
-## Purpose
-Define Culinary 2 as a full-year depth, operations, and responsibility course.
+**Full-year depth and operations; fundamentals under pressure.** Students learn to think like working cooks through repeated useful work, foods they enjoy, South Carolina foodways, selected international techniques and service to their community.
 
-## Course Identity
-Culinary 2 is a yearlong double-pathway course. It is not "advanced" in the sense of novelty or trendy technique. The standard language for Version 2.1 is **full-year depth and operations course**.
+## Governing sources
 
-The working philosophy is **fundamentals under pressure**. Students enter with uneven retention from Culinary 1, so the course begins with professional recalibration rather than a remedial reset.
+- [Redesign decision](../../00_Core/2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md)
+- [Master Framework](00_Master_Framework.md)
+- [Modular Pacing Guide](01_Modular_Pacing_Guide.md): single governing 36-week sequence, event/flex rules and responsibility progression.
+- [Semester 1](02_Semester_1_Weekly_Guide.md) and [Semester 2](06_Semester_2_Weekly_Guide.md): weekly planning views.
+- [West Ashley 25](10_West_Ashley_25_Technique_Map.md): recurring dish/technique repertoire, not 25 mandatory labs.
+- [Bistro integration](04_Bistro_Integration.md) and [CKC alignment](05_CKC_Alignment.md).
 
-## Operating Constraints From Source
-| Constraint | Current Source Decision |
-|---|---|
-| Length | Full year, 180 days, 4 quarters |
-| Weekly minutes | Monday 95, Tuesday 70, Wednesday 105, Thursday 70, Friday 95 |
-| Real production time | Usually about 60 minutes on long blocks |
-| Shutdown | Flames off 15 minutes before bell |
-| Weekly rhythm | Monday-Wednesday new learning/labs, Thursday Bistro prep, Friday Bistro service |
-| Bistro launch | Week 4 (Aug 31-Sep 4) is Bistro systems, training, and mock service only, with no soft opening or public service; the Bistro opens Friday, Sep 11 in Week 5, subject to readiness and safety |
-| Group size | Mostly groups of 3 |
-| Credential emphasis | CKC / Certified Kitchen Cook alignment, embedded early if reasonable |
-| Food Handler | Most students should already have it from Culinary 1; review/retake may be used at start |
-| Canvas | Reference hub, not the main delivery system |
-| Instruction | Brief demo plus circulation/coaching; not full recipe demo every day |
-| Assessment | Practical, observational, completion/process based |
+## Working outcomes
 
-## Full-Year Framework
-| Time | Focus | Purpose |
-|---|---|---|
-| Weeks 1-3 | Recalibration | Knife review, safety, recipe reading, station habits, professional pace |
-| Weeks 4-5 | Bistro systems | Station training, mock service, prep/service flow, service expectations |
-| Weeks 6-9 | CKC-aligned kitchen work | Embed credential knowledge into production rather than isolated test prep |
-| Weeks 10-18 | Depth cycle 1 | Vegetables, grains, sauces, proteins, baking, service reliability |
-| Weeks 19-27 | Depth cycle 2 | More responsibility, menu execution, costing/math, leadership through competence |
-| Weeks 28-36 | Capstone operations | Specials, service ownership, portfolio, work-based learning bridge |
+Students arrive Work Ready, meet Kitchen Ready requirements, read and use recipes/notes, measure accurately, organize tools and ingredients, execute appropriate methods, manage heat and time, taste and adjust, communicate, move dishes continuously, maintain their own stations, hand off safely, reset/close and apply feedback. Independence grows from modeled through coached to reviewed student plans and demonstrated ownership. Individual supports remain part of instruction.
 
-## Skill Progression
-- Reconfirm Culinary 1 fundamentals: safety, sanitation, knife safety, recipe reading, scaling, teamwork.
-- Expand knife work: batonnet, julienne, brunoise, chiffonade where useful.
-- Develop core methods: saute, roast, steam, boil, grill, braise, sauce basics.
-- Build product knowledge: proteins, grains, vegetables, spices, dairy.
-- Use Bistro menus as applied practice.
-- Introduce costing and menu math through actual Bistro items.
-- Develop depth in an assigned Bistro job while understanding Service, Barista, Line Cooks, Support/KP, and Expo / Floaters as one connected operation.
-- Mentor newer students when appropriate.
+## Year design
 
-## Culinary 2 Is Higher Standard, Not Looser Standard
-Uniform, footwear, punctuality, station readiness, and sanitation expectations should be higher than Culinary 1 because students operate closer to a production environment.
+Three-week opening bootcamp; Week 4 complete mock-service training without public service; normal Week 5 opening subject to readiness. Thereafter protect Monday–Wednesday learning and practice, Thursday Prep and Friday Service when operating. Normally stop cooking at least 15 minutes before the bell. Daily minutes vary; do not plan from one fixed block length for every section.
 
-## Assessment Anchors
-- Beginning-of-year Culinary 1 practical review.
-- Food Handler review or retake if needed.
-- CKC line checks and scenario practice.
-- Station performance.
-- Bistro prep and service execution.
-- Practical skill checks.
-- Reflection and portfolio.
+Teach measuring and every required technical/safety prerequisite before first use. Repeat useful protein, rice, vegetable, sauce, pasta, frying, baking and cold-station applications across the year. Work in manageable instructional groups and assign individual Prep responsibilities, with pairs when justified. Bistro jobs use current placement rather than compulsory rotation.
 
-## Related Decisions
-See [DECISION_REGISTER.md](../../00_Core/DECISION_REGISTER.md) for credential, official title, Bistro launch, and semester sequence decisions.
+Fun and student-requested food are valid priorities. Seasonal meals, chocolates, pies, faculty hospitality and visitor requests become selected applications, with time reserved for preparation, dishes and closing. They replace planned work rather than creating an additional production load. Budget and readiness determine scale. The five-course Explore Charleston tasting menu remains the capstone, with Week 33 preferred and Week 34 emergency buffer.
 
+## Scope and assessment
 
-## Current Bistro Job Training and Placement
+Current assessment weights, accommodations, safety authority and grading procedures remain. Individual evidence covers the entire work cycle. Practical quantities/scaling/portions/inventory awareness are embedded; no separate history/brigade, sustainability, management, formal cost/menu analysis or nutrition survey unit is scheduled. This is an instructor-chosen scope, not a claim of full state-indicator coverage or waiver. CKC requirements/testing must be confirmed separately; prior Food Handler completion does not establish practical competence.
 
-Use Service, Barista, Line Cooks, Support/KP, and Expo / Floaters as the current Bistro operating functions. Students apply and are placed by the instructor based on Bistro demand and staffing needs, informed by knowledge, readiness, reliability, skill, and fit. Placements may last for the remainder of the course. Students seeking another job must apply for transfer and demonstrate readiness; transfer is not guaranteed.
-
-Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows assigned Bistro-job duties.
+Future daily lessons and recipes need current format and instructor review. This is a course redesign, not a claim that all daily packets or recipe formulas are finished.

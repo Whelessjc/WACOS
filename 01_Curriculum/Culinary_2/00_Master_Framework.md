@@ -1,5 +1,9 @@
 # Culinary Arts Management 2 Master Framework
 
+**Current course design:** [October 17 redesign](../../00_Core/2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md). The [Modular Pacing Guide](01_Modular_Pacing_Guide.md) governs the year. Build fundamentals through recurring West Ashley 25 dishes, favorites such as Alfredo, selected international methods including pasta/wok work, seasonal hospitality and flexible event windows. Fun and useful variety are intentional. Every application includes maintenance and complete reset/close; events replace selected work rather than adding an unbounded workload.
+
+**Instructional progression:** model the sequence and checkpoints, coach partial plans, review student-drafted familiar plans, then verify ownership. Current student supports remain. Teach measuring and every technical/safety prerequisite before first use; course enrollment is not proof of retained skill.
+
 West Ashley Culinary Program
 
 ## Course Identity

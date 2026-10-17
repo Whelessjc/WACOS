@@ -1,203 +1,39 @@
-# Culinary 2 Semester 1 Weekly Lesson Plan Guide
-
-This guide covers Weeks 1-18 and is a planning spine, not a locked calendar. Use the current calendar as date authority and the current Bistro operating documents for Thursday/Friday systems.
-
-## Opening Architecture
-
-Every Culinary 2 cohort recalibrates to the **current WACOS operating system** regardless of where or when prior Culinary experience occurred. Prior credit does not prove current competence. Accelerate only when students demonstrate the current standard.
-
-Bistro is the performance environment for the fundamentals, not a separate unit.
-
-- Weeks 1-3: rebuild/recalibrate the component fundamentals.
-- Week 4: assemble current Prep and Service systems through required outcomes rather than a rigid daily sequence.
-- Week 5: normal first-public-service target when readiness, safety, and calendar allow.
-- Once Bistro operates: **Monday-Wednesday — BUILD THE FUNDAMENTALS; Thursday — PLAN THE WORK; Friday — WORK THE PLAN.**
-
-See `../../02_Bistro/Operations/Bistro_Rhythms.md`.
-
-## Standing Rules
-
-- Work Ready and Kitchen Ready are taught, practiced, checked, repeated, then expected with increasing fluency.
-- Normally stop cooking/production at least 15 minutes before the bell.
-- Recipe/Production Preflight, mise en place, clean-as-you-go, clean stop, handoff when needed, and reset are cumulative systems.
-- Thursday Bistro Prep normally uses individual production assignments; pairs are used when justified. Monday-Thursday cleaning jobs remain active.
-- Friday uses the five current Bistro teams: Service, Barista, Line Cooks, Support, Expo / Floaters.
-- Students remain in instructor-assigned Bistro jobs unless reassigned or approved for transfer; there is no automatic two-service rotation.
-- Recipes are production vehicles; harder recipes alone do not create Culinary 2 rigor.
-- Food/workplace safety is cumulative. The destination is **safety fluency under pressure**.
-- Situational awareness belongs to every team: **What do you notice? What does it mean? What needs to happen next?**
-- The instructor may interrupt planned technical content for targeted retraining when authentic Bistro evidence reveals a fundamental operating deficiency.
-
-## Week 1 — Current-System Re-entry and Baseline
-
-**Purpose:** Establish that current WACOS procedure—not prior course history—is the baseline.
-
-**Core learning:**
-
-- Work Ready: ID, Clock In, Lock In, Park It, Notebook, Pen, a Plan.
-- Kitchen Ready and current safety/access expectations.
-- Current room/equipment navigation and communication.
-- Recipe reading and early Production Preflight habit.
-- Mise en place, station setup, clean-as-you-go, clean stop, reset.
-- Knife/heat/sanitation baseline through authentic production after demonstration/authorization as needed.
-
-**2026 implementation evidence:** Students needed explicit knife reteaching and did not independently execute the complete readiness routine. Treat this as evidence for **TEACH → DEMONSTRATE → PRACTICE → CHECK → REPEAT → EXPECT FLUENCY**, not as a punitive policy.
-
-**Suggested vehicle:** sautéed vegetables over rice or another low-cost production task that exposes retained fundamentals.
-
-**Evidence:** Students demonstrate current procedures through action rather than relying on prior credit or verbal recall.
-
-## Week 2 — Fundamentals Under Pressure: Heat, Mise, Safety, and Stewardship
-
-**Purpose:** Use simple production to rebuild dependable execution.
-
-**Core learning:**
-
-- heat observation and adjustment;
-- mise en place and sequencing;
-- recipe math/scaling in authentic work;
-- seasoning/tasting when appropriate;
-- sanitation, dish flow, labels/storage, and cleaning jobs embedded in production;
-- clean stop and complete reset.
-
-**Evidence:** Students can explain the immediate plan, execute safely, notice problems, and leave the work/space ready for what comes next.
-
-## Week 3 — Production Control and Current-System Integration
-
-**Purpose:** Move from knowing individual fundamentals toward integrating them with less adult rescue.
-
-Use appropriate knife/production vehicles while reinforcing:
-
-- Work Ready and Kitchen Ready;
-- recipe/prep-list reading;
-- equipment retrieval/return;
-- Production Preflight;
-- mise, workflow, sequencing;
-- communication and clean-as-you-go;
-- purposeful movement and situational awareness;
-- usefulness without constant supervision;
-- clean stop, storage/handoff, reset.
-
-Preserve technique practice, but slow/repeat/simplify product when attention, sanitation, communication, or workflow breaks down.
-
-## Week 4 — Assemble Bistro Systems
-
-**Weekly target:** Students can enter, operate, and reset the current Bistro system with coaching before public service.
-
-Week 4 is **outcome-based, not a rigid Monday-Friday script**. Arrange/combine training according to section progress and calendar.
-
-Required outcomes:
-
-1. Life of an Order and all Bistro jobs.
-2. Graceful-urgency arrival/opening rehearsal.
-3. Whole-group, instructor-led Service simulation in a populated dining room; Teaching Assistant reinforces/coaches afterward.
-4. Barista operating-system training: **Open → Organize → Receive Ticket → Use Build Reference → Produce → Verify → Handoff → Complete Ticket → Clean/Restock → Reset/Close**.
-5. Situational awareness across all teams.
-6. Practice Bistro Prep using low-stakes/non-menu production work.
-7. Production Preflight: product, yield, assigned quantity, scaling status, units, procedure, mise, first step. **No checkoff → no production.**
-8. Clean-stop and handoff-note practice.
-9. Whole-operation Reset & Closing rehearsal with adult inspection/correction.
-10. At least one complete mock-service cycle; it may be brief and use simulated/simplified food.
-
-Teach the distinction:
-
-- **Clean as You Go** — maintain while operating.
-- **Reset** — leave ready for whoever comes next.
-- **Close** — final shutdown when required.
-
-## Week 5 — Bistro Opening
-
-**Weekly target:** Students apply the current operating system during real Prep and Service.
-
-**Monday-Wednesday:** Build/reinforce fundamentals and make targeted corrections from Week 4 evidence.
-
-**Thursday — PLAN THE WORK:**
-
-- brief Bistro Huddle for current-service differences;
-- individual production assignments by default, pairs when justified;
-- weekly cleaning jobs remain active;
-- read, station setup, mise;
-- Production Preflight/checkoff;
-- produce/clean as you go;
-- clean stop;
-- storage/labeling under current procedures, handoff notes when work continues, reset.
-
-**Friday — WORK THE PLAN:**
-
-1. Arrive On Time and Work Ready.
-2. Open Your Station.
-3. Own Your Area.
-4. Communicate.
-5. Stay Aware — See the Whole Operation.
-6. Be Useful.
-7. Do the Work.
-8. Clean as You Go.
-9. Reset Your Station.
-10. Close When Required.
-
-Instructor teaching language may use: **I don't need to know if you can cook. I need to know if you can work.**
-
-### 2026 Week 5 implementation evidence
-
-The first public service showed strong demand and successful food production but exposed operating gaps in independent Thursday production management, Service circulation/guest care, Barista execution, queue/order control, safety/sanitation, and complete reset/closing. This evidence justified immediate targeted retraining rather than layering new technical content onto unstable systems.
-
-## Week 6 — 2026 Recovery / Future Flexible Technical Week
-
-### Current 2026 implementation
-
-Delay the planned new technical sequence for targeted Bistro-system recovery:
-
-- **Monday — Service Reset:** whole-room guest-service training, graceful urgency, Life of an Order in motion, circulation rather than hovering, guest needs, situational awareness.
-- **Tuesday — Reset & Closing + Barista Recovery:** physically rehearse Clean as You Go vs Reset vs Close; adults inspect completion; retrain Barista operating rhythm/build-reference use.
-- **Wednesday — Practice Bistro Prep:** low-stakes/non-menu production using Huddle → Assignment → Weekly Job Setup → Read → Mise → Production Preflight → Produce → Clean Stop → Handoff/Store → Reset.
-- **Thursday — Real Bistro Prep:** use the same Prep Rhythm with real production.
-- **Friday — Bistro Service:** current Bistro job placements continue; use service evidence for coaching, reassignment, and transfer readiness.
-
-### Future-year use
-
-When opening systems are stable, Week 6 may begin the planned technical progression. If authentic Bistro evidence reveals a fundamental deficiency, targeted retraining may temporarily supersede new technical content. Resume the technical progression after the operating foundation is stabilized.
-
-## Week 16 — Chopped Mystery Basket Competition (All Classes)
-
-**Scheduled capstone application:** Monday–Wednesday of instructional Week 16, subject to the adopted school calendar and instructor safety/readiness decisions. The same three-round competition is conducted in Culinary 1 and Culinary 2; performance expectations differ by course level.
-
-- **Monday:** Round 1 — appetizer.
-- **Tuesday:** Round 2 — entrée.
-- **Wednesday:** Round 3 — dessert.
-- **Thursday–Friday:** Preserve normal Bistro Prep and Service when operating and safe.
-
-Teams receive a mystery basket of approximately **4–5 ingredients** each round. House rules: use every basket ingredient (not necessarily its entire quantity); pantry additions allowed; manipulate ingredients where useful; produce **two identical plated servings**; **five minutes to plan and 30 minutes to cook**; stop cooking when time expires; follow all safety, sanitation and professional work expectations; clean during judging; results are announced only after the kitchen is clean. A team chopped after a round is **eliminated from all remaining cooking rounds** and becomes part of the cleaning crew for the remainder of the three-day event, under normal safety and equipment-authorization rules. Progressive elimination intentionally reduces food production and dish volume on days two and three. Active cooking teams remain responsible for cleaning as they go and their own station resets; eliminated teams take primary responsibility for shared dish flow and assigned cleaning. Announce results only after the kitchen is clean.
-
-**Instructional purpose:** A culminating application of familiar capabilities, not a new technique unit. Observe recipe-free planning, knife and heat control, flavor decisions, time management, communication, plating, food safety, sanitation and complete closing. Culinary 1 demonstrates usable foundations; Culinary 2 demonstrates stronger independence, judgment and consistency. Do not infer mastery from competition placement alone.
-
-**Scheduling rule:** This three-day event replaces the ordinary Monday–Wednesday Week 16 technical sequence; displaced technique applications may be integrated into earlier/later authentic work rather than automatically crammed into Thursday/Friday. Week 16 is a preferred recurring placement, not permission to bypass required safety or student readiness.
-
-**Judging-sheet update needed:** The existing judge's calculation sheet ranks every team across all three rounds and does not reflect progressive elimination. Adapt scoring to the teams still competing each day; confirm the ranking/tie-break procedure before publishing a revised judging sheet. Existing house-rules and calculation-sheet Word documents remain source references until updated.
-
-## Weeks 7-18 — Technique Progression with Bistro Integration
-
-Continue the approved Culinary 2 technique progression: knife control, proteins/heat/doneness, sauces/moist heat/rice structure, eggs/batter/frying/baking control, and CKC-aligned fundamentals. Use current recipes and weekly guides as vehicles.
-
-Once Bistro is active, protect the weekly arc:
-
-- Monday-Wednesday: build fundamentals and respond to evidence.
-- Thursday: Plan the Work.
-- Friday: Work the Plan.
-
-Do not sacrifice safety, recipe literacy, mise, communication, clean stop, handoff, or reset for novelty or menu complexity.
-
-## Current Bistro Job Language
-
-Use Service, Barista, Line Cooks, Support, and Expo / Floaters. Expo / Floaters owns production tickets; Line Cooks work from Expo calls, callbacks, physical cues, sequencing, and status communication. Use current Life of an Order and team SOPs for detailed procedures.
-
-## Reflection
-
-Keep reflection short and grounded in actual work:
-
-- What worked?
-- What slowed us down?
-- What did you notice?
-- What did it mean?
-- What needs to happen next?
-
-Reflection/retraining occurs when evidence requires it. Students deepen competence in their assigned jobs rather than moving automatically because a service count has elapsed.
+# Culinary 2 Semester 1 Weekly Guide
+
+**Current Fall 2026 Week 11 implementation:** retain the confirmed Monday Buffalo wings/chicken dip, Tuesday smoked chicken legs and Wednesday chicken Alfredo sequence from the latest teaching guide. Tuesday continuation requires the named authorized adult handoff already specified there. This full-year map supplies future-cohort opportunities and prospective priorities; it does not replace that approved near-term plan.
+
+Current October 17, 2026 redesign. Opening bootcamp, coached production, service, regional foods, student favorites and fall events. The [Modular Pacing Guide](01_Modular_Pacing_Guide.md) governs timing, prerequisites, event replacement, assessment, readiness and Chopped rules. This is a weekly planning source, not a finished daily teaching packet. Suggested recipes and event windows can move; prerequisites and safe complete work remain required.
+
+| Week | Learning priority | Suggested application / movable window | Evidence to watch |
+| --- | --- | --- | --- |
+| 1 | Show the complete work cycle | Familiar rice/vegetable bowl; model reading, measuring, equipment, sanitation, dishes and reset before production. | Identify what each student can demonstrate; prior credit is not proof. |
+| 2 | Knife, heat and useful measuring | Repeat rice/vegetable work; red rice or beans and rice as an affordable regional application. | Use correct tools, units, cuts and heat; maintain dish flow. |
+| 3 | Sequence and finish a small assignment | Pimento cheese or another manageable familiar product; practice quantities, prep lists and handoffs. | Follow a modeled timeline, identify checkpoints and complete reset. |
+| 4 | Assemble and rehearse the Bistro | Practice Prep, Service School, Barista references, life of an order and full mock service through closing. | Whole-operation rehearsal; no public service or soft opening. |
+| 5 | Open within demonstrated capacity | Use the actual opening menu and assigned jobs. | Opening, service and reset/close all count; Week 5 is a target, not automatic permission. |
+| 6 | Repair the largest service gap | Repeat familiar production while retraining the observed bottleneck. | Student applies feedback during the next comparable assignment. |
+| 7 | Chicken handling and heat control | One useful chicken method with an affordable side; explicitly teach any poaching, pulling or shredding required. | Safe handling, verified doneness, logical sequence and clean work. |
+| 8 | Rice, protein and coordinated finishing | Chicken bog/perloo or another chicken-and-rice application. | Control liquid, texture and component timing; repeat the weakest part. |
+| 9 | Pasta and sauce students want to eat | Chicken or shrimp Alfredo; pasta doneness, sauce consistency, protein timing and prompt service. | Execute a modeled plan; check actual CKC-related evidence without assuming test eligibility. |
+| 10 | High-interest technique and a seasonal window | Halloween application or familiar favorite; simplify the product if service habits need work. | Purposeful creativity with portioning, timing and complete cleanup. |
+| 11 | Frying and station maintenance | Fried shrimp, fish or green tomatoes; use a lower-cost vehicle where useful. | Safe authorized setup, temperature control, breading flow, draining and reset. |
+| 12 | Vegetables and batch cooking | Collards, butter beans, Hoppin' John or a familiar soup. | Simmer, season, plan yield and maintain quality; avoid adding several new dishes at once. |
+| 13 | Feast preparation skills | Select Thanksgiving components: vegetables, rice, rolls, deviled eggs or familiar protein work. | Plan realistic quantities, work sequence, handoffs and service. |
+| 14 | Thanksgiving feast window / repetition | Execute the feast when its confirmed date falls here; otherwise repeat an identified weak skill. | Individual evidence of a complete assignment; seasonal events move to the actual school calendar. |
+| 15 | Baking precision and faculty meal preparation | Sweet potato pie, benne wafers, chewies or a useful faculty-meal component. | Weigh, follow method, judge bake quality and organize batches. |
+| 16 | Chopped application | Use the adopted three-round Monday–Wednesday competition; retain its exact rules below. | Familiar capabilities under pressure; competition placement alone does not establish mastery. |
+| 17 | Faculty holiday meal window | A rehearsed, manageable menu with familiar regional and student-favorite components. | Execute the whole service, progressive shutdown and individual closing duties. |
+| 18 | Repeat, verify and reset | Familiar assignment, missing practical evidence, equipment/inventory care and semester shutdown. | Demonstrate improvement and identify the next skill to rebuild. |
+
+## Build each teaching week
+
+1. Choose one visible learning anchor from actual student needs.
+2. Choose a feasible regional dish, favorite, international application, repetition or event component.
+3. Model the required sequence and first-use skills; identify the first action, checkpoints and clean stop.
+4. Protect flexible learning or repetition capacity rather than booking every available minute.
+5. After launch, use Thursday Prep and Friday Service as evidence of the same fundamentals.
+6. Record a brief individual observation and the next correction through existing systems.
+
+Calendar interruptions, unequal daily class blocks and supported access determine daily placement. Align the weekly learning rather than requiring identical daily work. An event replaces planned work; move needed practice deliberately. Never assume another class has the same daily schedule or can provide supervision.
+
+Earlier detailed daily suggestions are preserved in [the superseded planning archive](../../99_Archive/2026-10-17_Culinary_2_Pre_Redesign/README.md); they require review before reuse and cannot restore old rotations, reopening assumptions or week blocks.

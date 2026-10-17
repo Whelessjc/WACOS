@@ -26,7 +26,7 @@ A good Culinary 2 recipe:
 - has a clear skill target
 - fits the class block
 - allows teacher circulation and coaching
-- works for groups of 3
+- fits the actual group or individual assignment
 - creates visible quality differences
 - can be repeated or varied
 - supports Bistro when possible
@@ -47,7 +47,7 @@ A good Culinary 2 recipe:
 Before using a recipe, ask:
 
 - Can students read and plan it?
-- Can they complete the real production in about 60 minutes?
+- Can they complete production in this section’s actual available minutes, including teaching and checks?
 - Can flames be off 15 minutes before the bell?
 - Can the kitchen be reset?
 - What step is most likely to fail?
@@ -74,7 +74,7 @@ Default roles:
 - mise cook: gathers, measures, cuts, labels, and stages
 - sanitation/service cook: manages dishes, towels, station reset, and service readiness
 
-For longer labs, rotate roles halfway or assign by task.
+Assign clear tasks and ensure each student practices needed skills; no automatic halfway swap is required. This does not authorize Bistro station rotation. Each student maintains their own work; sanitation responsibility is not assigned away to one peer.
 
 ## Recipe Debrief
 
@@ -127,3 +127,7 @@ Include why:
 - student success
 - Bistro usefulness
 
+
+## Current course design
+
+Use the [current Culinary 2 pacing](../01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md) and [West Ashley 25](../01_Curriculum/Culinary_2/10_West_Ashley_25_Technique_Map.md). Favorites, fun, international techniques and celebrations are valid applications when the scope fits. They can remain small tastings rather than becoming public service. Events replace selected work and include preparation, dish flow and complete closing. Select reviewed formulas and teach measuring, method, equipment and safety prerequisites before first use. Repertoire categories are choices, not a requirement to teach every listed product.

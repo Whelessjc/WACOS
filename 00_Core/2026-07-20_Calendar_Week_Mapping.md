@@ -23,16 +23,16 @@ Week 1 is the Monday-Friday block containing the first student day: August 10-14
 | Weeks 1-3 | Aug 10-28, 2026 | Launch-readiness period | Instruction, kitchen systems, safety, sanitation, Employability, lab routines, and Bistro readiness. Student-name Anki cards remain a Week 1 task in approved systems. |
 | Week 4 | Aug 31-Sep 4, 2026 | Friday, Sep 4 is early release; instructor is out of town | Bistro systems, additional training, and mock service only. No soft opening or public service. |
 | Week 5 | Sep 7-11, 2026 | Monday, Sep 7 is Labor Day | Bistro opening and first public service is Friday, Sep 11, subject to readiness and safety. |
-| Week 9 | Oct 5-9, 2026 | Friday, Oct 9 is a half day | Protect the CKC practical before Friday; use Friday for abbreviated evidence, reset, or debrief. |
-| Week 10 | Oct 12-16, 2026 | Monday, Oct 12 has no students | Begin the fish/delicate-heat sequence Tuesday and compress without dropping safety. |
-| Week 13 | Nov 2-6, 2026 | Tuesday, Nov 3 is Election Day; schools closed | Compress soup/simmer work around the closure. |
+| Week 9 | Oct 5-9, 2026 | Friday, Oct 9 is a half day | Any practical checkpoint must fit the half day; no automatic credential attempt. Use current course pacing. |
+| Week 10 | Oct 12-16, 2026 | Monday, Oct 12 has no students | Use current course priorities; compress without dropping safety or reset. |
+| Week 13 | Nov 2-6, 2026 | Tuesday, Nov 3 is Election Day; schools closed | Place selected instruction/event prep around the closure; preserve prerequisites. |
 | Week 18 | Dec 14-18, 2026 | Friday, Dec 18 is a half day | Complete the semester practical by Wednesday; use Thursday-Friday for reset and reflection. |
 | Week 19 | Jan 4-8, 2027 | Monday teacher workday; students return Tuesday, Jan 5 | Semester 2 begins with a four-day student week. |
-| Week 21 | Jan 18-22, 2027 | Monday, Jan 18 is MLK Day | Compress biscuit work and protect the Friday mock service. |
-| Week 22 | Jan 25-29, 2027 | Full five-day week | Preferred Culinary 2 Bistro relaunch, aligned to Culinary 1 readiness. |
-| Week 23 | Feb 1-5, 2027 | Full five-day week | Readiness fallback for Bistro relaunch. |
+| Week 21 | Jan 18-22, 2027 | Monday, Jan 18 is MLK Day | Compress current applications and readiness rehearsal around the closure. |
+| Week 22 | Jan 25-29, 2027 | Full five-day week | C2-only service may resume if staffed/authorized. Spring C1 Week 4 remains training only. |
+| Week 23 | Feb 1-5, 2027 | Full five-day week | Normal shared relaunch target at spring C1 Week 5, subject to each participating class’s readiness. |
 | Week 24 | Feb 8-12, 2027 | Friday, Feb 12 is early release | Use an abbreviated service/dessert application Friday. |
-| Week 25 | Feb 15-19, 2027 | Monday, Feb 15 is Presidents' Day | Frozen-dessert phase begins Tuesday. |
+| Week 25 | Feb 15-19, 2027 | Monday, Feb 15 is Presidents' Day | Selected technique/repetition begins Tuesday; follow current pacing rather than an old fixed pastry phase. |
 | Week 28 | Mar 8-12, 2027 | Friday, Mar 12 is early release | Complete station-ownership evidence before the shortened Friday. |
 | Week 29 | Mar 15-19, 2027 | Monday, Mar 15 has no students | Instructor prepares teams/roster Monday; student capstone kickoff begins Tuesday. |
 | Week 32 | Apr 12-16, 2027 | Full five-day week | Final tasting-menu rehearsal. |
@@ -60,7 +60,7 @@ Week 4 is the confirmed Bistro systems, training, and mock-service window. The p
 - The guest-chef roster and partner availability for the tasting menu.
 - Detailed AP, EOC, exam, graduation, and school-event calendars.
 - Weather make-up use of November 23-24 or April 26.
-- Culinary 1 spring-cohort readiness; Week 23 remains the relaunch fallback.
+- Culinary 1 spring-cohort readiness; Week 23 is the normal shared relaunch target, with later opening if needed.
 
 ## Source
 

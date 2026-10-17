@@ -1,5 +1,9 @@
 # Bistro Integration Guide
 
+**October 17 course integration:** follow the [current pacing](01_Modular_Pacing_Guide.md). Seasonal events and visitor meals are selected instructional applications that replace planned work. Scope menu, quantity and service to student readiness, staffing and available reset time. Week 4 has no public service. For spring, C1 Week 4 remains training; shared public opening normally targets overall Week 23. Do not assume C1 and C2 share a class period or that student mentorship supplies adult supervision.
+
+**Complete work:** applications inform balanced instructor-built teams. Support is a skilled position, never punishment; KP is the adult Teaching Assistant. Each station handles its own tools, surfaces, spills and reset. Support maintains shared dish flow and progressive stewarding. Maintain Expo coverage, authorize other help and inspect during production so closing is a manageable finish. Individual opening/service/closing evidence uses current assessment rules. Communicate position review and class-specific service-pause expectations before applying them; supervised practice and demonstrated readiness guide return.
+
 Bistro is not an interruption to Culinary 2.
 
 Bistro is applied kitchen and hospitality training.
@@ -22,7 +26,7 @@ Instructor teaching language may use:
 
 ## Teams
 
-Bistro is organized around five operating jobs/functions: **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters.**
+Bistro is organized around five operating jobs/functions: **Service, Barista, Line Cooks, Support, and Expo / Floaters.**
 
 Do not assume Culinary 2 students already know the current roles because they previously completed Culinary 1. Every cohort recalibrates to the current WACOS operating system regardless of where or when prior Culinary experience occurred. The instructor may accelerate when students demonstrate current competence.
 
@@ -56,7 +60,7 @@ Before the first public service, Culinary 2 students experience the current pre-
 - Barista operating-system training;
 - situational awareness across all Bistro jobs;
 - Practice Bistro Prep using low-stakes/non-menu production work;
-- Production Preflight;
+- Production Check;
 - clean-stop and handoff-note practice;
 - whole-operation Reset & Closing rehearsal;
 - cumulative food/workplace safety;
@@ -76,7 +80,7 @@ Begin with a short whole-group Bistro Huddle covering only what is different or 
 
 Students normally receive individual production assignments. Use pairs when the work reasonably benefits from two people. Monday-Thursday cleaning jobs remain active during Prep.
 
-### Production Preflight
+### Production Check
 
 Before production, each student identifies:
 
@@ -91,7 +95,7 @@ Before production, each student identifies:
 
 Notebook plus a brief instructor/Teaching Assistant verification is sufficient unless another current form is required.
 
-**No checkoff → no production.**
+**No Production Check → no production.**
 
 ### Production, Clean Stop, and Handoff
 

@@ -1,49 +1,17 @@
 # Culinary 2 Course Map
 
-Culinary Arts Management 2 is the application year of the West Ashley Culinary sequence.
+The [Modular Pacing Guide](../../01_Modular_Pacing_Guide.md) is the single governing 36-week sequence. [Semester 1](../../02_Semester_1_Weekly_Guide.md) and [Semester 2](../../06_Semester_2_Weekly_Guide.md) provide weekly planning views.
 
-The course deepens fundamentals through repetition, Bistro service, practical assessment, and composed execution under pressure. Students should become more useful, more aware, more consistent, and more trustworthy in a working kitchen.
-
-## Course North Star
-
-Can this student be dropped into a basic kitchen and be useful without supervision?
-
-## Full-Year Flow
-
-| Unit | Approximate Timing | Main Work | Evidence of Growth |
-| --- | --- | --- | --- |
-| 1. Reestablish the Baseline | Weeks 1-3 | Re-entry, routines, heat, seasoning, rice, mise en place, station reset | Students move safely, cleanly, and with less teacher prompting |
-| 2. Bistro Systems and Soft Launch | Weeks 4-5 | Ticket flow, communication, prep continuity, mock service, station ownership | Students understand how Thursday prep and Friday service function |
-| 3. Knife Control and Production Prep | Weeks 1-6, then recurring | Production cuts, yield, speed, usable prep, labeling | Prep supports real production and service needs |
-| 4. Proteins, Heat, and Doneness | Weeks 6-10 | Chicken, beef, fish, shrimp, browning, gentle poaching, carryover, thermometers, and authorized broiler/grill application | Students cook proteins safely, control both gentle and high heat, and judge doneness with evidence |
-| 5. Sauces, Moist Heat, and Rice Dishes | Weeks 10-14 | Roux, reductions, emulsions, soups, braises, rice dishes | Students control texture, liquid, seasoning, and simmering |
-| 6. Eggs, Batter, Frying, and Baking Control | Weeks 15-18 | Eggs, cold station, batter, breading, frying, biscuits, practical review | Students maintain order during messy, timing-sensitive work |
-| 7. Baking and Pastry Foundations | Semester 2 | Scaling, mixing, doughs, custards, temperature control | Students show precision, patience, and formula discipline |
-| 8. Service Repetition and Application | Semester 2 | Bistro prep, service roles, station leadership, production scaling | Students carry more of the plan and recover from problems calmly |
-| 9. CKC Practical Readiness | Embedded, with focused pushes | Certified Kitchen Cook evidence, line checks, practical tasks | Students demonstrate practical kitchen usefulness |
-| 10. Capstone, Service, and WBL Bridge | Final weeks | Service leadership, composed execution, reflection, workplace readiness | Students can explain decisions and execute under pressure |
-
-## Weekly Spine
-
-| Day | Primary Use |
+| Year span | Main development |
 | --- | --- |
-| Monday | Skill introduction, demo, production lab, reset |
-| Tuesday | Short lab, line check, planning, knife work, or Hospitality Scholars |
-| Wednesday | Longer production lab, repetition, practical checks |
-| Thursday | Bistro prep |
-| Friday | Bistro service |
+| Weeks 1–5 | Practical opening bootcamp, complete mock-service rehearsal, readiness-based opening. |
+| Weeks 6–18 | Repeat and improve real work through regional dishes, favorites, pasta, frying, feast/faculty hospitality and familiar-skill Chopped. |
+| Weeks 19–28 | Rebuild retention, baking/bread precision, spring readiness, chocolates, pasta depth, wok technique, regional seafood and pies. |
+| Weeks 29–34 | Five-course Explore Charleston capstone: plan, test, simplify, repeat, rehearse, execute, debrief. |
+| Weeks 35–36 / end buffer | Scoped Teacher Appreciation work if feasible, individual evidence, testing, inventory and complete shutdown. |
 
-Thursday prep and Friday service should remain the spine once Bistro begins.
+These are flexible opportunities, not mandatory weekly recipe production. [West Ashley 25](../../10_West_Ashley_25_Technique_Map.md) recurs across the year. Student enjoyment, international methods and unexpected visitor requests fit through replacement and realistic scope. All work includes maintenance, dishes, storage and reset.
 
-## Non-Negotiables
+Technical folder numbers identify resource collections, not chronological units. The older standalone topic-block calendar is superseded. Daily lesson packets still need near-term development using current standards and student evidence.
 
-- The beginning and ending routines stay stable.
-- Students are not done when the food is done; they are done when the kitchen is reset.
-- Recipes serve skill targets.
-- Bistro work is instructional evidence, not an interruption.
-- Feedback should be close to performance.
-- Clean work matters as much as finished product.
-
-## Build-Out Need
-
-This course map is ready to guide a fuller Culinary 2 curriculum package. The next layer should create daily lesson packets, lab sheets, student materials, teacher notes, and delivery-ready exports for each unit.
+North star: Can this student enter a basic kitchen and be useful with appropriate supervision and established supports?

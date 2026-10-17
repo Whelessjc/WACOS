@@ -1,5 +1,7 @@
 # West Ashley 25 Technique Map
 
+**Yearlong use under the [current pacing](01_Modular_Pacing_Guide.md):** revisit rice, vegetables, cold station, protein/seafood and baking across both semesters. The timing column names flexible opportunities, not deadlines. Choose affordable, reviewed applications; a tasting or demo is appropriate when full production is impractical. These choices do not commit the Bistro to 25 menu items. Pasta, wok use, favorites and celebrations also belong; the regional repertoire is a foundation for variety, not the entire menu.
+
 This list is a set of dish vehicles, not a separate unit.
 
 The West Ashley 25 is not a checklist.
@@ -30,31 +32,31 @@ Keep the place note short. One or two sentences is enough.
 
 | Dish Vehicle | Best Technique Fit | Best Timing | Practical Place Note |
 | --- | --- | --- | --- |
-| Shrimp and Grits | shrimp cookery, grits, sauce consistency, timing | Weeks 8-12 or Bistro | Coastal ingredients, breakfast-to-dinner restaurant staple |
-| Hoppin' John | rice/grains, legumes, simmer control, seasoning | Weeks 2-3 or 10-14 | Carolina rice culture, Sea Island peas, New Year tradition |
-| Chicken Bog / Chicken Perloo | rice absorption, chicken cookery, batch production | Weeks 10-14 or Bistro feature | Rice dish with regional variations across coastal and rural South Carolina |
-| Red Rice | rice/grains, tomato base, knife prep, covered cooking | Weeks 2-3 or 10-14 | Charleston rice dish tied to local rice foodways and West African roots |
-| She-Crab Soup | soup structure, dairy control, seafood, seasoning | Weeks 11-13 | Charleston restaurant classic; use as demo, discussion, or stretch lab |
-| Frogmore Stew / Lowcountry Boil | sequencing, batch cooking, seafood timing | Bistro or event prep | Communal coastal boil; timing matters more than complexity |
-| Oyster Roast | service systems, sanitation, holding, guest flow | Hospitality Scholars, guest chef, event discussion | Lowcountry gathering format; may be simulated if oysters are not practical |
-| Charleston Crab Cakes | seafood binding, portioning, pan control | Weeks 8-12 or Bistro | Quality depends on gentle handling and clean browning |
-| Fried Whiting or Fried Flounder | dredging, frying, oil temperature, draining | Weeks 8-10 or 16-17 | Fish-camp food and family food as a vehicle for clean fry station work |
-| Fried Shrimp | shrimp cookery, breading, frying, seasoning | Weeks 8-10 or 16 | Student favorite and strong fry-station practice |
-| Deviled Crab | seafood mix, binding, seasoning, baking | Weeks 12-16 or Bistro | Good stretch vehicle if ingredients and time allow |
-| Okra Soup / Gumbo | soup structure, thickening, simmering, vegetable prep | Weeks 13-14 | Names regional variation without turning it into a lecture |
-| Crab Rice | rice/grains, seafood timing, gentle folding | Weeks 10-14 | Rice culture plus seafood handling |
-| Country Captain | braise/stew, aromatics, spice base, rice service | Weeks 14 or Semester 2 | Charleston's trade connections in a braised dish |
-| Benne Seed Wafers | baking precision, portioning, oven control | Weeks 15-18 or Semester 2 | Small cookie, big history; benne has deep Lowcountry roots |
-| Pimento Cheese | cold station, emulsion, seasoning, texture | Weeks 4-5 or 15 | Useful Bistro item and simple flavor adjustment practice |
-| Tomato Pie | dough or crust, custard-like filling, moisture control | Weeks 15-18 or Semester 2 | Southern product that teaches moisture management |
-| Fried Green Tomatoes | batter/dredge, frying, sauce pairing | Weeks 15-17 | Excellent for frying without relying on expensive protein |
-| Collard Greens with Potlikker | knife prep, simmering, seasoning, holding | Weeks 13-14 or Bistro | Potlikker teaches that cooking liquid is part of the dish |
-| Lima Beans / Butter Beans with Rice | legumes, rice, simmer control, seasoning | Weeks 2-3 or 13-14 | Affordable staple with strong timing and texture lessons |
-| Catfish Stew | soup/stew structure, fish handling, simmer control | Weeks 13-14 | Good moist-heat fish option if sourcing works |
-| BBQ Hash and Rice | batch production, rice service, holding quality | Bistro or Semester 2 | Service vehicle; teacher review needed for source/process |
-| Sweet Potato Pie | custard, pie filling, baking control | Weeks 15-18 or Semester 2 | Southern celebrations and Black foodways; strong pastry vehicle |
-| Huguenot Torte / Charleston Chewies | baking precision, texture, portioning | Weeks 15-18 or Semester 2 | Charleston baking traditions; useful for dessert production |
-| Smoked Pulled Pork BBQ | low-and-slow, holding, sauce, service | Module 3, Bistro, special events, or Semester 2 | Students should understand pork, smoke, vinegar, barbecue, and rice |
+| Shrimp and Grits | shrimp cookery, grits, sauce consistency, timing | Across the year when prerequisites, time and service need fit | Coastal ingredients, breakfast-to-dinner restaurant staple |
+| Hoppin' John | rice/grains, legumes, simmer control, seasoning | Across the year when prerequisites, time and service need fit | Carolina rice culture, Sea Island peas, New Year tradition |
+| Chicken Bog / Chicken Perloo | rice absorption, chicken cookery, batch production | Across the year when prerequisites, time and service need fit | Rice dish with regional variations across coastal and rural South Carolina |
+| Red Rice | rice/grains, tomato base, knife prep, covered cooking | Across the year when prerequisites, time and service need fit | Charleston rice dish tied to local rice foodways and West African roots |
+| She-Crab Soup | soup structure, dairy control, seafood, seasoning | Across the year when prerequisites, time and service need fit | Charleston restaurant classic; use as demo, discussion, or stretch lab |
+| Frogmore Stew / Lowcountry Boil | sequencing, batch cooking, seafood timing | Feasible Bistro/event window after process and staffing review | Communal coastal boil; timing matters more than complexity |
+| Oyster Roast | service systems, sanitation, holding, guest flow | Feasible Bistro/event window after process and staffing review | Lowcountry gathering format; may be simulated if oysters are not practical |
+| Charleston Crab Cakes | seafood binding, portioning, pan control | Across the year when prerequisites, time and service need fit | Quality depends on gentle handling and clean browning |
+| Fried Whiting or Fried Flounder | dredging, frying, oil temperature, draining | Across the year when prerequisites, time and service need fit | Fish-camp food and family food as a vehicle for clean fry station work |
+| Fried Shrimp | shrimp cookery, breading, frying, seasoning | Across the year when prerequisites, time and service need fit | Student favorite and strong fry-station practice |
+| Deviled Crab | seafood mix, binding, seasoning, baking | Across the year when prerequisites, time and service need fit | Good stretch vehicle if ingredients and time allow |
+| Okra Soup / Gumbo | soup structure, thickening, simmering, vegetable prep | Across the year when prerequisites, time and service need fit | Names regional variation without turning it into a lecture |
+| Crab Rice | rice/grains, seafood timing, gentle folding | Across the year when prerequisites, time and service need fit | Rice culture plus seafood handling |
+| Country Captain | braise/stew, aromatics, spice base, rice service | Across the year when prerequisites, time and service need fit | Charleston's trade connections in a braised dish |
+| Benne Seed Wafers | baking precision, portioning, oven control | Fall celebrations and spring precision; repeat as useful | Small cookie, big history; benne has deep Lowcountry roots |
+| Pimento Cheese | cold station, emulsion, seasoning, texture | Across the year when prerequisites, time and service need fit | Useful Bistro item and simple flavor adjustment practice |
+| Tomato Pie | dough or crust, custard-like filling, moisture control | Fall celebrations and spring precision; repeat as useful | Southern product that teaches moisture management |
+| Fried Green Tomatoes | batter/dredge, frying, sauce pairing | Across the year when prerequisites, time and service need fit | Excellent for frying without relying on expensive protein |
+| Collard Greens with Potlikker | knife prep, simmering, seasoning, holding | Across the year when prerequisites, time and service need fit | Potlikker teaches that cooking liquid is part of the dish |
+| Lima Beans / Butter Beans with Rice | legumes, rice, simmer control, seasoning | Across the year when prerequisites, time and service need fit | Affordable staple with strong timing and texture lessons |
+| Catfish Stew | soup/stew structure, fish handling, simmer control | Across the year when prerequisites, time and service need fit | Good moist-heat fish option if sourcing works |
+| BBQ Hash and Rice | batch production, rice service, holding quality | Feasible Bistro/event window after process and staffing review | Service vehicle; teacher review needed for source/process |
+| Sweet Potato Pie | custard, pie filling, baking control | Fall celebrations and spring precision; repeat as useful | Southern celebrations and Black foodways; strong pastry vehicle |
+| Huguenot Torte / Charleston Chewies | baking precision, texture, portioning | Fall celebrations and spring precision; repeat as useful | Charleston baking traditions; useful for dessert production |
+| Smoked Pulled Pork BBQ | low-and-slow, holding, sauce, service | Feasible Bistro/event window after process and staffing review | Students should understand pork, smoke, vinegar, barbecue, and rice |
 
 ## Additional Regional, Community, and Student-Favorite Vehicles
 
@@ -66,14 +68,14 @@ These are not lesser dishes. They are useful because students care about them an
 
 | Dish Vehicle | Best Technique Fit | Best Timing | Why It Belongs |
 | --- | --- | --- | --- |
-| Macaroni and Cheese | roux, bechamel, pasta timing, sauce hold | Weeks 11-12 | High-interest vehicle for sauce structure |
-| Banana Pudding | custard or pudding, assembly, chilling | Weeks 15-18 or Semester 2 | Dessert timing and texture |
-| Chow Chow | knife work, pickling, acid balance | Weeks 3, 15, or Bistro | Knife reps plus acid and preservation talk |
-| Stewed Chicken | moist heat, seasoning, rice pairing | Weeks 6 or 14 | Strong bridge from protein to braise |
-| Pralines | sugar cooking, timing, temperature | Semester 2 | Good stretch item, needs close supervision |
-| Shrimp Alfredo | pasta timing, shrimp cookery, sauce consistency, emulsification, holding | Weeks 8, 11-12, or Bistro | Student-requested and legitimately useful |
-| Biscuits | mixing method, flour handling, baking control | Weeks 15-18 or Semester 2 | Precision without needing fancy equipment |
-| Deviled Eggs | egg cookery, emulsion, seasoning, cold station | Week 15 or Bistro | Practical, affordable, service-friendly |
+| Macaroni and Cheese | roux, bechamel, pasta timing, sauce hold | Across the year when prerequisites, time and service need fit | High-interest vehicle for sauce structure |
+| Banana Pudding | custard or pudding, assembly, chilling | Fall celebrations and spring precision; repeat as useful | Dessert timing and texture |
+| Chow Chow | knife work, pickling, acid balance | Across the year when prerequisites, time and service need fit | Knife reps plus acid and preservation talk |
+| Stewed Chicken | moist heat, seasoning, rice pairing | Across the year when prerequisites, time and service need fit | Strong bridge from protein to braise |
+| Pralines | sugar cooking, timing, temperature | Fall celebrations and spring precision; repeat as useful | Good stretch item, needs close supervision |
+| Shrimp Alfredo | pasta timing, shrimp cookery, sauce consistency, emulsification, holding | Fall pasta introduction and spring repeat/application | Student-requested and legitimately useful |
+| Biscuits | mixing method, flour handling, baking control | Fall celebrations and spring precision; repeat as useful | Precision without needing fancy equipment |
+| Deviled Eggs | egg cookery, emulsion, seasoning, cold station | Across the year when prerequisites, time and service need fit | Practical, affordable, service-friendly |
 
 ## Technique Index
 

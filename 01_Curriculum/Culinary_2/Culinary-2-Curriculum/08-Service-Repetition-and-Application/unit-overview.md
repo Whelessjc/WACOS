@@ -1,6 +1,8 @@
 # Unit 8: Service Repetition and Application
 
-Approximate timing: Semester 2
+**Resource status — October 17, 2026:** this folder is a technical reference, not a fixed calendar unit. The [current pacing](../../01_Modular_Pacing_Guide.md) and [course map](../00-Course-Map/culinary-2-course-map.md) supersede older timing, rotation and capstone options below. Review activity suggestions against current student readiness, job placement and safety requirements before reuse.
+
+Timing: use the current pacing; revisit this technique where the work requires it.
 
 ## Purpose
 
@@ -10,7 +12,7 @@ Students move from participating in Bistro to helping carry the plan. Service re
 
 - `../../03_Semester_2_Module_Map.md`
 - `../../04_Bistro_Integration.md`
-- `../../../02_Bistro/README.md`
+- `../../../../02_Bistro/README.md`
 
 ## Learning Priorities
 
@@ -23,9 +25,9 @@ Students move from participating in Bistro to helping carry the plan. Service re
 
 ## Suggested Applications
 
-- station lead rotation
+- greater responsibility within an assigned job when ready
 - prep list ownership
-- service role rotation
+- approved transfer/retraining when needed
 - expo support
 - production scaling task
 - service debrief

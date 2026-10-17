@@ -1,3 +1,11 @@
+## 2026-10-17 — Redesign Culinary 2 for the Bistro, Variety and Real Events
+
+- Adopted a full-year sequence around complete work, prerequisite instruction, a three-week practical opening and supported growth toward ownership.
+- Spread West Ashley 25 applications across the year; included student favorites/Alfredo, repeated pasta, authorized wok use, seasonal meals/chocolates/pies and realistic visitor-event flexibility. Events replace planned work.
+- Aligned framework, pacing, weekly guides, course maps, repertoire, Bistro integration, CKC scheduling language and annual adjustment guidance. Preserved earlier detailed planning in a superseded archive and marked technical folder calendars as references.
+- Kept current placement, safety, individual supports, assessment weights and exact Chopped rules; reconciled spring C1 training with readiness-based shared opening and the confirmed five-course Explore Charleston capstone.
+- Updated Core Manual 1.6, decision/source/traceability records. Actual event/partner/testing dates, reviewed recipe selection and near-term daily packet development remain implementation work. No completed teaching record or latest DTG presentation was changed.
+
 ## 2026-10-17 — Redesign Culinary 1 Around Useful Bistro Work
 
 ### Program Decision

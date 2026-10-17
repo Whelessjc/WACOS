@@ -1,6 +1,6 @@
 # West Ashley Culinary Core Manual
 
-Version 1.5
+Version 1.6
 
 West Ashley High School Culinary Arts Program
 
@@ -258,6 +258,8 @@ Culinary 2 is a full-year depth and operations course.
 
 Its governing phrase is fundamentals under pressure.
 
+The [October 17 Culinary 2 redesign](2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md) and [current pacing](../01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md) govern the year. Use a three-week practical opening bootcamp, prerequisite instruction before first use, modeled-to-supported ownership, recurring West Ashley 25 dishes, student favorites, pasta/wok technique and seasonal/community hospitality. Protect enjoyment and flexible capacity. Events replace selected planned work; every application includes dish flow and complete reset. The confirmed five-course Explore Charleston tasting menu remains the capstone, with actual guest dates/roster open. Current individual supports, safety authority, assessment rules and placement remain in force. This chosen practical scope does not claim full state-indicator coverage or waive external requirements.
+
 Culinary 2 should not be framed as "advanced" if that word implies novelty, loosened standards, or impressive-looking food without better execution. Culinary 2 students should demonstrate higher standards in uniform, punctuality, sanitation, station readiness, communication, cooking, service, and closing.
 
 Culinary 2 should prepare students to:
@@ -267,7 +269,7 @@ Culinary 2 should prepare students to:
 - Use gentle poaching explicitly and apply broiler/grill methods only after equipment-specific safety instruction, SOP review, and individual authorization.
 - Execute Bistro prep and service with greater independence.
 - Develop depth in assigned Bistro jobs while maintaining whole-operation awareness and the ability to support adjacent functions when trained and authorized.
-- Practice menu math, costing, inventory awareness, and production planning where appropriate.
+- Apply useful measuring, scaling, yield, portions, inventory awareness and production planning in actual work; the current redesign does not schedule standalone formal cost/menu-analysis or management survey units.
 - Work toward Certified Kitchen Cook alignment.
 - Mentor newer or less confident students without doing the work for them.
 - Build a portfolio of practical skill, reflection, and service evidence.

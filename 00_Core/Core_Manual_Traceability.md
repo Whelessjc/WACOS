@@ -80,3 +80,7 @@ When a subordinate SOP, recipe bank, grading tool, or AI assistant is created, c
 ## October 17, 2026 Redesign Traceability
 
 The instructor-approved [Culinary 1 redesign](2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) (S019) updates Curriculum Framework and Current Program Decisions: complete-work-cycle learning from Day 1, prerequisite measuring and first-use safety, useful repeated applications, balanced placement, and practical scope with explicit external-requirement boundaries. The [pacing guide](../01_Curriculum/Culinary_1/01_Modular_Pacing_Guide.md) replaces older fixed week blocks. Earlier traceability rows describe historical synthesis, not authority to restore superseded scheduling or Support/KP terminology.
+
+## October 17, 2026 — Culinary 2 redesign (S020)
+
+The [approved decision](2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md) updates the Culinary 2 framework and [governing pacing](../01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md): prerequisite instruction, three-week bootcamp, supported ownership, yearlong regional/favorite/international applications, event replacement and complete work. Old fixed topic calendars, mandatory rotations, automatic spring C1 Week 4 opening and alternative capstone options are superseded. The chosen scope carries no full-coverage/waiver claim. Prior detailed plans remain historical, not operating authority.

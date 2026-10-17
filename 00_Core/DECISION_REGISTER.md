@@ -18,6 +18,17 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 
 ## Confirmed Standards
 
+### October 17, 2026 — Culinary 2 Full-Year Bistro Redesign
+
+- Adopted the [Culinary 2 decision](2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md) and [single governing year sequence](../01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md).
+- Three-week practical opening, first-use prerequisites and modeled/coached/reviewed-plan ownership; apply current-year changes prospectively from Week 11.
+- West Ashley 25 dispersed throughout the year, with favorites, pasta/wok techniques, school celebrations, hospitality and movable event capacity. Events replace work rather than accumulate.
+- Balanced placement; skilled Support; complete individual opening/service/closing evidence; current supports and assessment remain.
+- Spring C1 Week 4 is training only; shared service normally targets overall Week 23 when ready. C2-only service requires staffing and instructor authorization.
+- Confirmed five-course Explore Charleston capstone retains Week 33 preferred execution and Week 34 emergency buffer. Roster/guest/testing/event dates remain implementation decisions; no promised Week 9 credential attempt.
+- No full state-indicator coverage, external waiver, new recipe formula, external sourdough program, grading deduction or automatic disciplinary threshold is asserted. Earlier planning preserved as historical references.
+
+
 ### October 17, 2026 — Culinary 1 Bistro Fundamentals Redesign
 
 - Adopted the [redesign decision](2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) and [single semester pacing source](../01_Curriculum/Culinary_1/01_Modular_Pacing_Guide.md).

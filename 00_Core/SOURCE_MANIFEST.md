@@ -24,8 +24,9 @@ Identify the source material used to reconstruct WACOS and preserve traceability
 | S016 | Instructor-supplied `Culinary Weekly Agenda`, `Culinary Checklist`, and `Morning Procedures`, reviewed and adopted 2026-07-22 | Primary evidence of current instructor operating practice for `09_Workflows/`. Consolidated rather than copied verbatim. Subordinate to current instructor-confirmed decisions and the Core Manual. Raw Word files remain outside the operating repository. |
 | S017 | Instructor assessment-system request approved 2026-08-06 | Current Program Decision establishing minimalist Bistro manager observation, reusable lab observation, and exception-based Employability evidence procedures while preserving instructor authority and the confirmed 45/35/20 categories. Exact conversions and implementation details listed in D001 remain unresolved. |
 | S018 | Instructor usability and simplification review approved through one-at-a-time decisions, 2026-08-15 | Governs weekly-first teaching guides, opening-weeks readiness rhythm, plain-language artifact naming, sustainable Teacher + TA capture/routing, Recipe Bank retrieval and scaling, Culinary 2 Week 1 actual implementation, Employability deduction retirement, and handling of generated or preserved derivatives. |
-
 | S019 | Instructor Week 10 reflection and approved Culinary 1 redesign, October 17, 2026 | Current practical/Bistro sequence, measuring before first lab, useful repetition, balanced placements and instructional scope. See `2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md`; no student records or transcript imported. |
+
+| S020 | Instructor Culinary 2 redesign directions and approval, October 17, 2026 | Full-year practical progression; recurring West Ashley 25; favorites, pasta/wok technique, seasonal events and flexible replacement; modeled independence and five-course capstone consistency. See `2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md`. |
 
 ## Evidence Location
 Detailed source packets, topic packets, and ranked extraction reports are preserved in `WestAshleyCulinary_Research_Archive_v2_1`.

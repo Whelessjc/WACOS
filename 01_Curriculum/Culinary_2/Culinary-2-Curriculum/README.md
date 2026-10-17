@@ -1,5 +1,7 @@
 # Culinary 2 Curriculum Package
 
+**Current October 17, 2026 redesign:** the Modular Pacing Guide in the Culinary 2 root governs the full year. Weekly guides are planning views, not completed daily packets. Technical folders are reusable resources rather than calendar units. Prior topic blocks, mandatory rotations and alternative capstone choices are superseded. Regional repertoire, student favorites, pasta/wok technique, celebrations and flexible event capacity are deliberately included.
+
 This folder is the organized teaching package for Culinary Arts Management 2.
 
 It does not replace the master planning files one level up. It turns those files into a course structure that can be built out to match the completeness of Culinary 1.
