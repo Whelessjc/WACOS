@@ -1,54 +1,31 @@
 # Lesson Sequence: Knife Skills Progression
 
-## Weeks Covered
-Weeks 6 to 9
+**Current recurring resource:** October 17, 2026. Folder numbering does not establish a calendar block.
 
-## Bistro / Service Connection
-Knife work feeds service. Students should connect cuts to prep lists, batch work, station setup, storage, timing, and consistent cooking.
+## When to Use
 
-## Weekly Pattern
-Weeks 6-9 use repeated three-day knife blocks followed by Bistro prep/service. Adjust days as school calendar requires.
+Introduce before first needed cutting in Week 3 or earlier; emphasize useful vegetable prep Week 7, potatoes Week 8 and controlled cutting throughout.
 
-## Week 6: Safety, Grip, Claw, Rough Chop, Slice
-- Day 1: Opening routine, knife safety demo, board setup, dry hand practice, cleanup/reset.
-- Day 2: Grip and claw mini-lesson, slice and rough chop practice; students cut a few sample pieces and bring them for dimension/consistency approval before batch cutting, then reset.
-- Day 3: Controlled vegetable prep, student reflection on control, reset.
-- Day 4: Bistro prep using simple cuts, labeled storage, station reset.
-- Day 5: Bistro service or prep application, cleanup and service debrief.
+## Learning
 
-## Week 7: Dice, Mince, and Prep Lists
-- Day 1: Review grip/claw, demo dice, student practice, reset.
-- Day 2: Demo mince and safe rocking/chopping as appropriate, practice, reset.
-- Day 3: Knife-to-prep-list challenge for soup base or sauteed vegetables, reset.
-- Day 4: Bistro prep with cut standards, storage check, station check.
-- Day 5: Bistro service/application and debrief.
+- **Knowledge:** Board setup, knife selection, grip/claw, blade path, cut consistency, scrap control and approved knife washing/return.
+- **Skill:** Produce usable prep safely; check a small sample before batch cutting; cook/protect/store the result.
+- **Professional Thinking:** Check before multiplying errors; maintain control before adding pace.
 
-## Week 8: Julienne, Batonnet, Roasting, Fries Prep
-- Day 1: Demo julienne and batonnet, slow practice, reset.
-- Day 2: Potato batonnet practice, teacher checkpoints, reset.
-- Day 3: Roasted vegetables or fries prep application, cleanup/reset.
-- Day 4: Bistro prep using assigned cuts, batch containers, and station setup.
-- Day 5: Bistro service/application and debrief.
+## Practice Progression
 
-## Week 9: Speed with Control and Deep Clean Reset
-- Day 1: Review all cuts, control before speed, practice.
-- Day 2: Timed prep list with safety stops, reset.
-- Day 3: Stir fry or sauteed vegetable application, reset.
-- Day 4: Week 9 deep clean reset: stations, tools, storage, floors, dish area.
-- Day 5: Reflection, skill inventory, Bistro prep/service as schedule allows.
+1. Show and practice safe board/knife setup before cutting. Use the ingredient and cut needed for the current recipe, not a catalog of decorative cuts.
 
-## Daily Required Elements
-- Opening routine and huddle
-- Knife safety reminder
-- Demo or mini-lesson
-- Student cutting practice
-- Teacher checkpoints
-- Cleanup/reset
-- Exit reflection or check for understanding
+2. Students cut a small sample and receive dimension/consistency approval where relevant; correct and retry before the full batch.
 
-## Teacher Pacing Notes
-- Keep cut practice short enough that students still have time to clean knives and boards well. Explicitly demonstrate and verify the approved knife-washing method: knives remain visible and controlled, are never left in a communal sink, and are cleaned and returned safely.
-- Require a small sample cut and instructor/TA approval against the displayed target before full cutting when dimensions matter; correct and retry rather than multiplying errors.
-- Repeat the same safety language every day.
-- Use prep lists so knife practice feels connected to real service work.
-- If control slips, slow the task down before adding speed.
+3. Apply cuts in quesadillas, familiar breakfast components, roasted potatoes or another useful approved task. Work from a prep list and route tools/dishes progressively.
+
+4. Repeat with greater consistency and fewer prompts. Teach additional cuts only when the work needs them; no four-week isolated knife block is required.
+
+5. Knives remain visible and controlled, never hidden in communal dish sinks; demonstrate and verify approved separate washing and safe return. Inspect board, tools, food storage and station reset.
+
+## Use and Evidence
+
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
+
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.

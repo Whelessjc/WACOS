@@ -1,112 +1,31 @@
 # Lesson Sequence: Flavor Systems
 
-## Weeks Covered
-Weeks 14 to 15
+**Current recurring resource:** October 17, 2026. Folder numbering does not establish a calendar block.
 
-## Bistro / Service Connection
-Flavor work supports Bistro consistency. Students should learn to taste safely, adjust in small steps, communicate flavor needs, and avoid sending food out without checking it first.
+## When to Use
 
-## Week 14: Basics of Flavor
+Embed safe tasting and useful seasoning from first relevant use; reinforce through vegetables, proteins, sauces and approved Bistro prep across the semester.
 
-### Day 1: Safe Tasting and Flavor Words
-- Opening routine: huddle on tasting rules, and clean spoons.
-- Demo or mini-lesson: how to taste without contaminating food.
-- Student work: describe simple samples using specific flavor words.
-- Lab/application: salt, acid, and fat tasting with small portions.
-- Bistro/service connection: tasting safely protects guests and improves consistency.
-- Cleanup/reset: tasting cups/spoons handled, counters sanitized.
-- Exit check: one flavor word besides "good" or "bad."
+## Learning
 
-### Day 2: Aromatics
-- Opening routine: handwashing and hot-pan reminder.
-- Demo or mini-lesson: aromatics changing with heat.
-- Student work: smell and observe raw vs. cooked aromatics.
-- Lab/application: cook small aromatic bases.
-- Bistro/service connection: aromatics build flavor for soups, sauces, sides, and service prep.
-- Cleanup/reset: boards, pans, tasting tools, counters, floor.
-- Exit check: what changed when heat hit the aromatics?
+- **Knowledge:** Sanitary tasting, recipe expectations, salt/acid/fat/aromatics and controlled adjustment.
+- **Skill:** Taste safely, describe a specific issue, make an authorized small adjustment and check the result.
+- **Professional Thinking:** Check quality before calling work complete.
 
-### Day 3: Herbs and Spices
-- Demo or mini-lesson: smell first, add small amounts, taste again.
-- Student work: controlled herb and spice tasting notes.
-- Lab/application: add one herb or spice to a simple base.
-- Bistro/service connection: controlled seasoning keeps batches consistent.
-- Cleanup/reset: containers closed, counters sanitized, tasting tools handled.
-- Exit check: how can too much seasoning hurt food?
+## Practice Progression
 
-### Day 4: Balance Practice
-- Opening routine: huddle on small adjustments.
-- Demo or mini-lesson: underseasoned, balanced, and overdone examples.
-- Student work: predict what a base needs.
-- Lab/application: adjust salt, acid, fat, or herb in small steps.
-- Bistro/service connection: small adjustments prevent waste and protect the final product.
-- Cleanup/reset: station reset and tasting area cleaned.
-- Exit check: what did you add, and what changed?
+1. Teach sanitary tasting and reference use before the first tasting/seasoning task. Distinguish following an established formula from instructor-authorized adjustment.
 
-### Day 5: Bistro Flavor Application
-- Opening routine: prep huddle and tasting rules.
-- Demo or mini-lesson: tasting before food reaches a guest.
-- Student work: adjust a simple Bistro or lab item.
-- Lab/application: controlled flavor adjustment for service-style prep.
-- Bistro/service connection: cooks taste before food reaches a guest.
-- Cleanup/reset: full station reset
-- Exit check: how does tasting support Bistro service?
+2. Use an existing vegetable, egg, chicken or other relevant product to connect heat, aroma, seasoning and texture. No dedicated two-week flavor-family survey is required.
 
-## Week 15: Flavor Builds and Respectful Comparison
+3. Where adjustment is appropriate, compare before/after, change a small amount, taste again safely and describe the result. Portion and protect the usable product.
 
-### Day 1: Soy and Ginger
-- Demo or mini-lesson: soy and ginger as a flavor direction, not a claim of authenticity.
-- Student work: taste, describe, and adjust a simple base.
-- Lab/application: soy and ginger comparison.
-- Bistro/service connection: flavor directions should be communicated clearly without overclaiming authenticity.
-- Cleanup/reset: tasting tools and affected surfaces cleaned.
-- Exit check: one respectful way to describe the flavor.
+4. Vinaigrette, same-day refrigerated quick pickle and basic pan sauce remain available useful vehicles, not mandatory separate lessons. Follow verified recipes and all existing allergen/storage controls; no canning or fermentation is authorized.
 
-### Day 2: Vinegar and Herbs; Chili and Citrus
-- Opening routine: heat level and acid reminder.
-- Demo or mini-lesson: brightness, sharpness, heat, and aroma.
-- Student work: compare two small flavor builds.
-- Lab/application: vinegar/herb and chili/citrus samples.
-- Bistro/service connection: acid and heat need control so a batch stays balanced.
-- Cleanup/reset: counters sanitized, tasting items handled.
-- Exit check: which build felt brighter, and why?
+5. Embed short quality checks in repeated production. Include tasting tools, closed ingredients, dish flow, protected storage and full reset. Do not add history/cultural research assignments solely to fill this resource.
 
-### Day 3: Yogurt and Spice; Coconut and Curry
-- Demo or mini-lesson: creamy bases and spice control.
-- Student work: taste in small portions and describe texture/flavor.
-- Lab/application: yogurt/spice and coconut/curry comparison.
-- Cleanup/reset: sanitary dish flow and station reset.
-- Exit check: what did the base ingredient change?
+## Use and Evidence
 
-### Day 4: Team Flavor Adjustment
-- Opening routine: assign base, flavor direction, and tasting rules.
-- Demo or mini-lesson: adjust, taste, explain.
-- Student work: teams make a small, controlled adjustment plan.
-- Lab/application: adjust a simple base using assigned flavor direction.
-- Bistro/service connection: teams need a shared flavor plan before service.
-- Cleanup/reset: station cleaned before tasting discussion.
-- Exit check: what choice did your team make on purpose?
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
 
-### Day 5: Tasting, Reflection, and Reset
-- Opening routine: respectful tasting huddle.
-- Demo or mini-lesson: giving useful feedback.
-- Student work: taste, describe, and reflect on flavor choices.
-- Lab/application: final comparison and discussion.
-- Bistro/service connection: useful feedback helps a team improve food without making it personal.
-- Cleanup/reset: full tasting station reset, floor checked.
-- Exit check: how do cooks build flavor without guessing?
-
-## Teacher Pacing Notes
-- Keep tasting portions small and controlled.
-- Do fewer samples well instead of too many samples poorly.
-- Reteach safe tasting every day.
-- Keep cultural language respectful and simple: these are flavor directions and comparisons, not claims of authenticity.
-
-## Daily Required Elements
-- Opening routine and huddle
-- Safe tasting reminder
-- Demo or mini-lesson
-- Student tasting/cooking work
-- Teacher checkpoint
-- Cleanup/reset
-- Exit reflection or check for understanding
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.

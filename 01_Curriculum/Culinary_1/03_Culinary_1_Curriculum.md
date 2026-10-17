@@ -117,17 +117,15 @@ Instructor teaching language may use:
 
 This emphasizes the complete operation around the food; it does not remove cooking skill from the curriculum.
 
-## Suggested Semester Sequence
-| Phase | Weeks | Focus | Evidence |
-|---|---:|---|---|
-| Orientation and operating foundations | 1 | Room knowledge, Work Ready/Kitchen Ready, communication, recipe review, first production, reset | Students move safely, read before acting, and reset with support |
-| Applied safety and stewardship | 2 | Hygiene, sanitation, dish systems, storage, temperature control, cleaning jobs, product stewardship | Procedural checks in authentic work |
-| Recipe literacy and production organization | 3 | Equipment literacy, measuring, yield/units/scaling, mise en place, prep lists, clean stop/handoff | Marked recipe, preflight, mise/check, product carried through storage/reset |
-| Assemble Bistro systems | 4 | Life of an Order, Bistro jobs, **Service School**, Barista, graceful urgency, situational awareness, Practice Prep, Reset/Closing, mock service | Required pre-opening outcomes demonstrated with instructor coaching |
-| Bistro launch | 5 | Targeted correction, real Prep, first public service | Live service evidence and complete reset |
-| Knife and cooking progression | 6-10 | Safe cuts, onion/garlic, carrots, potatoes, saute, roast, steam, boil, stir fry, simple seasoning | Cook-what-you-cut labs, practical checks |
-| Applied labs and technique development | 10-17 | Heat, flavor, proteins, frying, sauces, vegetables, eggs, pasta and other approved foundations | Lab/practical evidence plus weekly Bistro application |
-| Bridge to Culinary 2 | 18 | Skill inventory, independent prep planning, final practical, reflection | Final practical, self-assessment, readiness conversation |
+## Semester Sequence — Adopted October 17, 2026
+
+The [Modular Pacing Guide](01_Modular_Pacing_Guide.md) is the single semester sequence. It replaces fixed knife/heat/flavor/protein blocks with useful kitchen work and increasing responsibility. Weeks 1-3 establish foundations, Week 4 assembles the Bistro system, Week 5 launches when ready, and Weeks 6-18 deepen performance through repeated relevant applications.
+
+Recipe-specific measuring, recipe reading, equipment use, sanitation, dish staging and reset are taught before the first lab. Later weeks deepen these skills; they do not delay their introduction. Knife/heat/protein and equipment safety precede first needed use regardless of the week's emphasis.
+
+Standalone history/brigade, sustainability, management, formal menu/cost analysis and nutrition units are outside this adopted instructional sequence. Practical measurement, scaling, yield and portion work remain embedded. The scope decision is not a claim of full state-indicator coverage or a waiver of external requirements.
+
+Applications inform instructor placement; the instructor builds a balanced team. Common foundations and whole-operation awareness apply to everyone; detailed training develops the assigned job. Support is skilled work and is not punishment. Use established references, individual supports and current assessment rules to judge the complete work cycle.
 
 ## Core Competencies
 - Safety and sanitation.

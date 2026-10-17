@@ -1,8 +1,8 @@
 # Core Manual Traceability
 
-West Ashley Culinary Core Manual, Version 1.0
+West Ashley Culinary Core Manual, Version 1.5
 
-Current as of July 20, 2026
+Current as of October 17, 2026
 
 This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` to the source documents and decisions used to synthesize it. It is intended to support future maintenance, audit, and revision.
 
@@ -75,4 +75,8 @@ When an operational decision changes, update both the Current Program Decisions 
 
 When a subordinate SOP, recipe bank, grading tool, or AI assistant is created, cite the relevant Core Manual section in that document.
 
-| Bistro job structure and operating workflow | Instructor-confirmed 2026-08-26, 2026-08-29, and 2026-09-25 decisions | Service, Barista, Line Cooks, Support/KP, and Expo / Floaters remain the operating functions; automatic rotation retired September 25 in favor of instructor job placement and transfer application; host/OnTime/ILT check-in; POS-only order-taking; queue-number control; Barista and Expo ticket ownership; Line Cooks call-and-cue production; Service anticipation; LATTE; progressive Support shutdown; Thursday weekly lab jobs retained; Friday assigned Bistro jobs govern |
+| Bistro job structure and operating workflow | Instructor-confirmed 2026-08-26, 2026-08-29, and 2026-09-25 decisions | Service, Barista, Line Cooks, Support, and Expo / Floaters remain the operating functions; automatic rotation retired September 25 in favor of instructor job placement and transfer application; host/OnTime/ILT check-in; POS-only order-taking; queue-number control; Barista and Expo ticket ownership; Line Cooks call-and-cue production; Service anticipation; LATTE; progressive Support shutdown; Thursday weekly lab jobs retained; Friday assigned Bistro jobs govern |
+
+## October 17, 2026 Redesign Traceability
+
+The instructor-approved [Culinary 1 redesign](2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) (S019) updates Curriculum Framework and Current Program Decisions: complete-work-cycle learning from Day 1, prerequisite measuring and first-use safety, useful repeated applications, balanced placement, and practical scope with explicit external-requirement boundaries. The [pacing guide](../01_Curriculum/Culinary_1/01_Modular_Pacing_Guide.md) replaces older fixed week blocks. Earlier traceability rows describe historical synthesis, not authority to restore superseded scheduling or Support/KP terminology.

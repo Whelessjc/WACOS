@@ -1,49 +1,38 @@
-# Lesson Sequence: Bistro Systems Reinforcement
+# Lesson Sequence: Bistro Launch
 
-Rewritten 2026-07 using the real dining room operations training materials (Customer_Service.pptx). Updated 2026-08-15 to follow Week 4 training and mock service, with no soft opening, and prepare for the first public service on Friday, September 11.
+**October 17 current sequence:** Week 5 remains the normal readiness-dependent launch target. Use the current calendar rather than copying the former dated Labor Day script. Week 4 was training/mock service only; no public soft opening.
 
-## Day 1: Labor Day - No School
-- No student instruction. Move the Week 4 debrief into Day 2's opening huddle.
+## Learning
 
-## Day 2: Week 4 Debrief, LATTE, and Station Ownership
-- Opening routine: debrief Week 4 with facts, not blame; name one strength, one guest-impact issue, and one station problem before moving into role focus.
-- Demo or mini-lesson: LATTE for guest concerns—Listen, Acknowledge, Take action, Thank, Ensure satisfaction. Protect the system, assume good faith, do not argue, and use “Let me check on that for you” when a queue-number situation is questionable. Cover dietary restrictions: flag them immediately and never guess. Reinforce that every station cleans its own station and Support is not everyone else’s cleaning crew.
-- Student work: in pairs, script a LATTE response to each scenario; review the current Service, Barista, Line Cooks, Support, or Expo / Floaters SOP and identify one responsibility that protects another team’s flow.
-- Lab/application: station setup, task rehearsal, and reset practice.
-- Cleanup/reset: station inspection for tools, sanitizer, towels, trash, and floor.
-- Exit check: what does each letter in LATTE stand for, and how does “Ensure satisfaction” close the recovery loop?
+- **Knowledge:** Current station references, menu/build expectations, order flow, checkpoints and assigned reset.
+- **Skill:** Complete real prep, perform the placed job, communicate, maintain flow and reset.
+- **Professional Thinking:** Apply coaching, take responsibility and seek help early.
 
-## Day 3: Practice Round and Expo
-- Opening routine: call-back practice.
-- Demo or mini-lesson: split the class—half preps service, half preps food. Demonstrate Expo ownership of production tickets, order-in calls, Line Cooks call back, immediate physical production cues, all-day counts, whole-order checks, handoff, and stabbing the ticket only after the order leaves the line.
-- Student work: practice ticket scenarios with call-backs and "heard."
-- Lab/application: practice round - one team runs food prep (including a successful griddle pancake run), the other runs service; mock ordering off the real menu, with every student rotating through at least one station they haven't worked yet.
-- Cleanup/reset: dish, counter, station, service area, and floor reset.
-- Exit check: what does expo actually catch before food reaches a guest?
+## Monday-Wednesday — Targeted Correction and Job Rehearsal
 
-## Day 4: Suggestive Selling, Menu Training, and the Mock Service Day
-- Opening routine: prep huddle.
-- Demo or mini-lesson: suggestive selling - what it is (recommending items to guests), why it matters (guest satisfaction and average check), and how it works (product knowledge, effective communication, knowing what pairs well, suggesting add-ons). Menu training basics: proper presentation, appearance, pronunciation, and description of menu items.
-- Student work: practice describing two real menu items using suggestive-selling language; practice pronunciation of any less-familiar menu terms.
-- Lab/application: full Mock Service Day—practice host/OnTime/ILT check-in, ordering-guest queue numbers, POS order-taking, Expo and Barista ticket ownership, Line Cooks calls and physical cues, Service delivery and anticipation, queue-number retrieval, and LATTE recovery. Guests complete the existing peer-evaluation and check-calculation work as directed.
-- Cleanup/reset: label, store, clean, reset.
-- Exit check: what is one thing you said today that used suggestive-selling language on purpose?
+Use actual mock-service evidence to select gaps. Rehearse opening, approved food/drink tasks, ticket calls/callbacks, guest awareness, dish flow and closing. Keep practice manageable and use current recipes/build references rather than memorization. LATTE and instructor escalation remain current; never guess about allergens or dietary restrictions.
 
-## Day 5: First Normal Public Bistro Service
-- Opening routine: readiness check, huddle, roles confirmed.
-- Demo or mini-lesson: review the current Bistro block sequence from setup through close, including POS-only order-taking, partial Barista delivery while hot food is working, Service queue-number checks, and progressive Support shutdown. Review Service, Barista, Line Cooks, Support, and Expo / Floaters and confirm current Bistro job placements and whole-operation responsibilities.
-- Student work: complete assigned prep or service role under real timing.
-- Lab/application: first normal public Bistro service, subject to instructor readiness and safety authority; service, dish flow, guest awareness, reset, and debrief under controlled menu volume.
-- Cleanup/reset: full room reset before reflection.
-- Exit check: one improvement from Unit 4 and one stewardship habit to keep.
+Build balanced instructor-placed teams using operational needs, demonstrated habits/skill and individual supports; applications express preferences, not entitlement. Support is skilled work, not punishment. Students learn the whole operation without mandatory station rotation. Expo/pass remains anchored during active ticket flow; only trained/authorized Floaters deploy.
 
+## Thursday — Real Bistro Prep
 
-## Current Bistro Job Training and Placement
+Use the current Bistro Huddle, individual/pair assignments as appropriate, START HERE and HIGH PRIORITY before LOWER PRIORITY work. Retain Monday-Thursday cleaning jobs. Read, confirm quantities/units/scaling, prepare mise and receive the Production Check before production. **No Production Check → no production.** Stop logically, protect product under current storage/labeling procedures, leave useful handoff notes and reset. Do not substitute a five-day technical lesson or a new mock-service requirement for this Prep.
 
-Use **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters** as the Bistro operating functions. Students learn the whole operation, then apply for and are placed in jobs by the instructor based on Bistro demand and staffing needs, informed by knowledge, readiness, reliability, skill, and fit. Placements may last for the remainder of the course; job changes use the current transfer process.
+## Friday — Controlled Public Service When Ready
 
-Week 4 remains training and mock service only, with no public guests or soft opening. **Week 5, Day 5 remains the first normal public Bistro service on Friday, September 11**, subject to instructor readiness and safety authority.
+Arrive Work Ready; open and verify station readiness. Follow current Life of an Order, POS-only ordering, Barista/Expo ticket ownership and Line Cooks call-and-cue work. Service anticipates guest needs. Maintain each station during production; Support actively protects dish flow and shared cleanliness. Use current instructor-controlled order pacing and safety decisions.
 
-Life of an Order remains the foundation. Train Life of an Order; Service + Barista; Line Cooks + Support; Expo / Floaters + mock service; additional mock/check/reflection; targeted final training; real Bistro Prep; and Bistro Service. Thursday prep retains weekly lab jobs; Friday follows assigned Bistro-job duties.
+Inspect during work, not only at the end. Assign specific appropriate assistance when trained students are available and their primary responsibilities are covered. Normally stop production at least 15 minutes before the bell; reduce scope or stop earlier if needed. Complete food protection, final dish flow/air-drying/return, equipment shutdown, station and shared reset under current SOPs. Adults verify while correction is possible. Reflect after reset; record individual evidence rather than assign a collective grade.
 
-Expo / Floaters owns operational flow, with Expo as its home base. During active service one Expo student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
+## Governing Operating References
+
+- [Bistro Operations](../../../../02_Bistro/Operations/05_Bistro_Operations.md)
+- [Bistro Rhythms](../../../../02_Bistro/Operations/Bistro_Rhythms.md)
+- [Life of an Order](../../../../02_Bistro/SOPs/Life_of_an_Order.md)
+- [Assessment System](../../../../03_Assessment/06_Assessment_System.md)
+
+## Use and Evidence
+
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
+
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.

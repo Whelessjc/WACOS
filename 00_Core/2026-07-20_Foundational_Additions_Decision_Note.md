@@ -1,3 +1,5 @@
+> **Culinary 1 supersession — October 17, 2026:** The [approved practical redesign](2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) replaces mandatory separate coverage of the Culinary 1 additions below with selection of useful applications. Their safety boundaries remain. Culinary 2 decisions in this historical note are not changed.
+
 # Decision Note
 
 **Decision:** Add three foundational skill vehicles to Culinary 1 - dried pasta with a basic tomato sauce, a standalone basic sauce/pan sauce lab, and a basic vinaigrette with simple salad. Add whole chicken breakdown to Culinary 2 instead of Culinary 1.

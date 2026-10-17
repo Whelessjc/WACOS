@@ -1,145 +1,35 @@
-# Lesson Sequence: Orientation and Systems
+# Lesson Sequence: Learn the Room and Complete the First Lab
 
-## Week Focus
-Learn the room before cooking.
+**Current sequence:** October 17, 2026. Week 1 stages may span meetings; adapt to actual instructional days. First-ten-day enrollment and schedule interruptions require flexible continuation.
 
-## Week Purpose
-Students learn the course purpose, kitchen expectations, uniform requirements, entry routine, communication habits, handwashing, basic safety, measuring stations, station setup, and cleanup routines before completing the first lab on Friday.
+## Learning
 
-## Monday: Course Orientation and Kitchen Mindset
+- **Knowledge:** Essential locations, readiness, communication, recipe units/tools, measuring, heat cues and reset procedures.
+- **Skill:** Locate and return tools; wash hands; read; measure; set up; cook with authorization; stage dishes; reset.
+- **Professional Thinking:** Preparation, observation, precision, communication and follow-through.
 
-### Focus
-What is Culinary Arts Management 1, and how do we work in this room?
+## 1. Enter and Learn the Room
 
-### Teacher Moves
-- Welcome students and explain the course identity: real cooking, real skills.
-- Explain that the goal is to become safer, more capable, more organized, and more confident.
-- Introduce the focus for Week 1: learn the room before cooking.
-- Review broad expectations for respect, effort, safety, participation, and responsibility.
-- Introduce uniform expectations and explain why uniforms matter for safety, sanitation, and professionalism.
-- Launch access to the approved online ServSafe Food Handler course. Confirm that every student can sign in; independent completion continues outside class unless supervised access is needed for launch, accommodations, or intervention.
+Practice Work Ready/Kitchen Ready and current access boundaries. Use the scavenger hunt and named-item retrieval/return rather than a long room tour. Introduce notebook, pen and a useful immediate plan. Launch online Food Handler access; provide current access/accommodation/intervention support.
 
-### Student Tasks
-- Practice entering the room calmly and going to the assigned starting place.
-- Identify one practical kitchen skill they want to build.
-- Discuss what it means to be useful in a shared kitchen.
+## 2. Practice Before Production
 
-### Quick Check
-Students answer: Why do we learn systems before we cook?
+Demonstrate handwashing, movement/callouts, station setup, the approved dish route and reset. Students physically perform them. Show where equipment belongs and how the tools required for pancakes are safely used, cleaned and returned. Untrained or unauthorized equipment is not used.
 
-## Tuesday: Daily Entry Routine, Uniforms, and Kitchen Walk-Through
+## 3. Read and Measure Before Mixing
 
-### Focus
-How do we enter, prepare, and move through the kitchen safely?
+Use the approved pancake group recipe for both preparation and production. Identify ingredients, yield, units, equipment, complete procedure and first steps. Demonstrate appropriate liquid/dry measuring and small amounts using the actual recipe; demonstrate scale/tare when required. Students perform measurements and receive correction before mixing. This instruction/check is Core Learning, not an extra-time extension. Stage a no-cook mise en place.
 
-### Teacher Moves
-- Model the daily entry routine:
-  - Enter calmly.
-  - Put belongings where they belong.
-  - Check uniform/readiness.
-  - Wash hands when directed.
-  - Go to the assigned starting area.
-- Review uniform expectations again with practical reasons.
-- Lead a kitchen walk-through: sinks, sanitizer, towels, dish area, trash, equipment areas, storage, exits, and teacher-only areas.
-- Model safe movement and basic kitchen communication.
+## 4. Complete a Manageable Pancake Assignment
 
-### Student Tasks
-- Practice the entry routine.
-- Locate major kitchen areas and supplies.
-- Practice kitchen communication phrases such as "behind," "hot," "sharp," "corner," and "excuse me."
+Verify mise and equipment/heat authorization. Model relevant heat and doneness cues; students cook under appropriate supervision, communicate and maintain the station. Follow the instructor-approved product/portion/destination plan; production is not automatic permission to eat. Reduce batch size or defer cooking rather than omit prerequisite instruction or reset.
 
-### Quick Check
-Students point to or name where key items belong: towels, sanitizer, dirty dishes, clean tools, trash, and handwashing sink.
+## 5. Verify the Finish and Review
 
-## Wednesday: Handwashing, Safety Overview, and Measuring Stations
+Normally stop cooking at least 15 minutes before the bell; stop earlier when needed. Carry out approved storage/discard directions. Complete dish flow and air-drying/return, sanitation, tools, towels, trash, floors and equipment shutdown under current procedures. Inspect while students can correct the work within class time. Ask what they will do better in the next attempt.
 
-### Focus
-How do we keep ourselves, food, tools, and classmates safe?
+## Use and Evidence
 
-### Teacher Moves
-- Demonstrate handwashing expectations.
-- Review when students must wash hands.
-- Give a basic safety overview:
-  - Walk in the kitchen.
-  - Keep pathways clear.
-  - Report spills immediately.
-  - Ask before using equipment.
-  - Treat hot equipment as hot.
-  - Use towels correctly.
-  - Keep food and cleaning chemicals separate.
-- Demonstrate dry measuring, liquid measuring, and measuring small amounts.
-- Set up simple measuring stations for practice.
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
 
-### Student Tasks
-- Practice handwashing routine.
-- Rotate through measuring stations.
-- Identify which measuring tool matches each task.
-
-### Quick Check
-Teacher checks measuring technique and asks each group to explain one safety habit.
-
-## Thursday: Station Setup, Recipe Reading, and Cleanup Practice
-
-### Focus
-How do we get ready before cooking and reset after cooking?
-
-### Teacher Moves
-- Model reading a simple pancake recipe before touching tools or ingredients.
-- Identify the recipe parts students need: ingredients, equipment, steps, and cooking cues.
-- Demonstrate basic mise en place for the pancake lab.
-- Model a complete station setup.
-- Model cleanup expectations:
-  - Wash dishes correctly.
-  - Wipe and sanitize counters.
-  - Manage towels.
-  - Check floors.
-  - Return tools.
-  - Reset the station.
-
-### Student Tasks
-- Read through the pancake lab plan.
-- Practice setting up a station without cooking.
-- Practice a cleanup/reset routine.
-- Assign or preview Friday lab roles.
-
-### Quick Check
-Each group shows a ready station and explains what still needs to happen before cooking.
-
-## Friday: Pancake Lab
-
-### Focus
-Use the first lab to practice recipe reading, measuring, mise en place, station setup, teamwork, heat awareness, and cleanup routines.
-
-### Teacher Moves
-- Review handwashing, uniform readiness, safety, and communication before lab begins.
-- Keep the pancake recipe simple and teacher-selected.
-- Assign team roles or have students confirm roles.
-- Circulate and coach:
-  - Read before acting.
-  - Measure carefully.
-  - Set up before cooking.
-  - Communicate with the group.
-  - Watch heat and color.
-  - Clean as you go.
-  - Reset fully.
-
-### Student Tasks
-- Complete entry and handwashing routine.
-- Read the pancake directions.
-- Gather and measure ingredients.
-- Set up mise en place.
-- Mix and cook pancakes with teacher approval.
-- Clean, sanitize, return tools, and reset the station.
-
-### Quick Check
-Before dismissal, each group shows a reset station and answers: What system helped your group today?
-
-## End-of-Week Look-Fors
-- Students understand the purpose of Culinary Arts Management 1.
-- Students know the daily entry routine.
-- Students understand basic uniform expectations.
-- Students can communicate safely in the kitchen.
-- Students can wash hands correctly and explain when to wash.
-- Students can measure basic ingredients.
-- Students can set up and reset a station.
-- Students can complete a simple first lab without unsafe behavior.
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.

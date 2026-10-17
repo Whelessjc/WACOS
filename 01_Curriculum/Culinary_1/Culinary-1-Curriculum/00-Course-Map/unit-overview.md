@@ -1,3 +1,6 @@
+> **Current use — October 17, 2026:** This is an orientation resource, not a separate 2-4-period lecture requirement. Embed essential orientation in Week 1 movement and practice; use the [course map](culinary-1-course-map.md) and [pacing](../../01_Modular_Pacing_Guide.md).
+
+
 # Course Map and Kitchen Readiness
 
 ## Unit Purpose

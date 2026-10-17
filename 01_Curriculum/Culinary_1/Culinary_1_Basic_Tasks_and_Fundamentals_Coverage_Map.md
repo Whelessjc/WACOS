@@ -2,6 +2,8 @@
 
 ## Purpose
 
+Governed by the [October 17 redesign](../../00_Core/2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) and [current pacing](01_Modular_Pacing_Guide.md). Later week emphases never delay prerequisite teaching.
+
 Track the procedural fundamentals Culinary 1 deliberately teaches before and through Bistro. The Bistro is the authentic performance environment for these fundamentals; it is not a separate unit that begins after the fundamentals.
 
 Weeks 1-3 build component habits. Week 4 assembles them into current Prep/Service systems. Week 5 is the normal first-public-service target when readiness, safety, and calendar allow.
@@ -21,8 +23,8 @@ Do not create a parallel curriculum or unnecessary sign-off bureaucracy. Use aut
 | Dish systems | Three-compartment sink, dish machine, scrape/presort, air-dry/return as currently taught | Support/stewarding flow plus each station's responsibility |
 | Storage / labeling | Storage order, labels/dates, FIFO, appropriate covering/storage | Prep handoff and service carryover under current procedures |
 | Temperature control | Thermometer cleaning/placement/calibration and other applied practices as taught | Cumulative safety performance under pressure |
-| Recipe literacy | Read/mark recipe, product, yield, ingredients, equipment, procedure | Production Preflight before individual Bistro Prep |
-| Measuring / math | Units, fractions, quantity, yield, simple scaling | Confirm assigned quantity/scaling status before production |
+| Recipe literacy | Read/mark recipe, product, yield, ingredients, equipment, procedure | Production Check before individual Bistro Prep |
+| Measuring / math | Week 1 before pancakes: required units/tools and measuring technique, scale/tare when needed; Week 2 repeat; Week 3 useful scaling | Confirm assigned quantity/scaling status before production |
 | Mise en place | Gather/organize before beginning | **No checkoff → no production** during Bistro Prep |
 | Workflow / prep planning | Sequence, ownership, equipment needs, deadline | Individual production assignment within whole operation |
 | Clean stop | Stop production logically before bell; store/label when applicable | Cross-class handoff notes and reset |
@@ -37,15 +39,15 @@ Do not create a parallel curriculum or unnecessary sign-off bureaucracy. Use aut
 
 The broad coverage areas above do not replace teaching the exact action. Embed the following short demonstrations and live checks in existing work, not new units or paperwork:
 
-- **Dish systems (Week 2):** scrape; approved rinse/presoak; stage; run approved warewashing; air dry completely before storage; return equipment; check the final load. Wash knives separately under the approved procedure.
+- **Dish systems (before first lab, deepened Week 2):** scrape; approved rinse/presoak; stage; run approved warewashing; air dry completely before storage; return equipment; check the final load. Wash knives separately under the approved procedure.
 - **Food protection (Weeks 2-3):** cover/wrap, label/date, place in approved cooler/freezer storage promptly, and verify the actual product before leaving. Follow current temperature and storage SOPs.
 - **Equipment literacy (first authentic use):** demonstrate authorized operation, safe handling and cleanup of common tools, including microwave, can opener, and egg-handling equipment when used. Do not invent a standalone unit for rarely used equipment.
-- **Knife production (Weeks 6-9):** produce a few pieces, show the target dimensions for approval, correct, then continue; demonstrate safe knife washing and return.
+- **Knife production (before first use, continued in later applications):** produce a few pieces, show the target dimensions for approval, correct, then continue; demonstrate safe knife washing and return.
 - **Bistro closing (Week 4 onward):** students check their station and the shared operation for unprotected food, unfinished dishes, wet stacked equipment, missing smallwares, incomplete line shutdown and unresolved handoffs; adults verify completion and release.
 
 **Evidence rule:** record meaningful performance or recurring errors in the existing DTG, station check or instructor notes. Distinguish not taught, taught without individual check, and taught but not performed consistently. No additional student sign-off form is required.
 
-## Recipe / Production Preflight Progression
+## Recipe / Production Check Progression
 
 Begin with the earliest labs and increase independence:
 
@@ -76,7 +78,7 @@ Before public service, students experience:
 - Barista operating-system practice;
 - situational awareness across all teams;
 - Practice Bistro Prep using low-stakes/non-menu production;
-- Production Preflight;
+- Production Check;
 - clean-stop/handoff practice;
 - whole-operation Reset & Closing rehearsal;
 - cumulative food/workplace safety;

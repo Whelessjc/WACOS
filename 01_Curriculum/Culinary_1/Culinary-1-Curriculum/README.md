@@ -1,10 +1,14 @@
 # Culinary 1 Curriculum Source Package
 
-## Current Use
+## Current Use — October 17, 2026
 
-Use the numbered unit folders without a leading underscore as the canonical curriculum sources. For Week 1 live teaching, start with `../Week_01_2026/README.md` and its canonical weekly teaching guide.
+Start with the [current pacing guide](../01_Modular_Pacing_Guide.md), [curriculum overview](../03_Culinary_1_Curriculum.md) and [course map](00-Course-Map/culinary-1-course-map.md). They implement the [approved redesign](../../../00_Core/2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md).
 
-Unit 04 is `04-Customer-Service-and-Bistro-Readiness/`: Week 4 is training and mock service only, with no soft opening or public service. Unit 05 prepares for the first public service in Week 5.
+Current `lesson-sequence.md` files provide aligned opening sequences and recurring skill resources. Numbered technical folders no longer prescribe consecutive week blocks. Other unit packets, slides, checklists and handouts are supporting resources; former schedules in them are superseded and must be reconciled before reuse. Recipe formulas, safety and equipment permissions require their existing verification, regardless of resource status.
+
+For Week 1 live teaching, use `../Week_01_2026/README.md` and its updated weekly guide: required measuring, reading, equipment, sanitation, dish staging and reset precede production. Dated 2026 materials remain evidence of their own implementation; do not treat them as proof this redesigned course was already delivered.
+
+Week 4 remains training and mock service only. Week 5 remains the readiness-dependent first-public-service target; Thursday is real Prep, Friday Service after launch.
 
 ## Generated Derivative Status
 

@@ -1,3 +1,5 @@
+> **Superseded planning reference — October 17, 2026.** Earlier proposed week blocks and pending decisions below are historical. Use the [current pacing](01_Modular_Pacing_Guide.md) and accepted DTG/actual observations; this file is not evidence of completed teaching or mastery.
+
 # Culinary 1 — Depth and Repetition Map
 
 **Status:** Working audit reference for instructor review; not a new course requirement or evidence of student mastery.

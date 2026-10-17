@@ -1,8 +1,17 @@
 # Lesson Sequence: Customer Service and Bistro Readiness
 
+**October 17 use:** Week 4 assembles skills already practiced; modules below may combine or move. Public service/soft opening is not part of Week 4. Teach the whole operation, then give depth in instructor-placed jobs. Applications inform a balanced team rather than guarantee preferences; automatic job rotations remain retired.
+
+- **Knowledge:** Life of an Order, five-team responsibilities, station references and Clean as You Go/Reset/Close distinctions.
+- **Skill:** Open, perform assigned work, communicate, maintain and reset through a mock cycle.
+- **Professional Thinking:** Notice the whole operation, respond within authority and finish responsibly.
+
+Assigned-job readiness includes actual performance through opening, active work and reset with established supports. Merely experiencing training is insufficient evidence.
+
+
 Rewritten 2026-07 using the real dining room operations training materials (Customer_Service.pptx) instead of an abstract version. Source note: E.P.I.C. values referenced in older training materials are retired and are not used here (see DECISION_REGISTER.md D-note on E.P.I.C.).
 
-## Day 1: Life of an Order and Service vs. Hospitality
+## Module 1: Life of an Order and Service vs. Hospitality
 - Opening routine: entry, agenda check, huddle.
 - Demo or mini-lesson: Life of an Order - guest arrival to farewell. Teach the distinction explicitly: "Service is what you do to someone. Hospitality is how you make someone feel." Introduce the five teams: Service owns guest experience; Barista owns beverage and pastry service; Line Cooks own food production; Support owns stewarding and operational cleanliness; Expo / Floaters owns flow with Expo as home base.
 - Student work: trace an order through greeting, ticket, cooking, expo, running, clearing, dish, reset.
@@ -10,7 +19,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Cleanup/reset: guest area, service area, and dish path reset after role-play.
 - Exit check: name one place an order can break down, and explain the difference between service and hospitality in your own words.
 
-## Day 2: Beverages, Plates, Utensils, and Table Setting
+## Module 2: Beverages, Plates, Utensils, and Table Setting
 - Opening routine: huddle on station ownership.
 - Demo or mini-lesson: beverage service (filtered water, sweet/unsweetened tea, hot tea, how to make coffee, ice and scoops, pitchers). Types of plates (bread & butter, salad/appetizer, entree, specialty, bowls). Utensils (salad fork, dinner fork, soup spoon, spoon, butter knife, steak knife). Table setting standard: solids from the left, liquids from the right; napkin in lap; knife pointing toward the plate; drinks refilled from the right.
 - Student work: practice filling beverage orders; practice a full table setting from the standard.
@@ -18,7 +27,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Cleanup/reset: station inspection for tools, towels, trash, counters, and traffic flow.
 - Exit check: what goes on the left, and what goes on the right?
 
-## Day 3: Greeting, Check-In, POS, and Service Awareness
+## Module 3: Greeting, Check-In, POS, and Service Awareness
 - Opening routine: agenda and communication practice.
 - Demo or mini-lesson: the current steps of service—host says “Good morning” before making any judgment, asks about Bistro ILT, uses OnTime, distinguishes dining from hanging out, assigns a queue number only to an ordering guest, and directs the order to Square POS. POS calls the number, makes eye contact, smiles, greets, takes and confirms the order, and enters it. Service anticipates needs after Square entry rather than taking seated-table orders.
 - Student work: practice the host/check-in and POS flows in pairs, including approved entry, denied entry, dining, and non-ordering guests.
@@ -26,7 +35,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Cleanup/reset: dish, counters, service area, guest area, and floor reset.
 - Exit check: what does the beverage napkin/coaster signal to the rest of the team?
 
-## Day 4: Serving, Clearing, and Order Shorthand
+## Module 4: Serving, Clearing, and Order Shorthand
 - Opening routine: prep huddle.
 - Demo or mini-lesson: serving standard - Left, Lower, Leave (approach from the guest's left, gently lower the plate, announce the dish and step back). Avoid reaching across a guest. Plate-clearing technique: fingers under the rim, keep plates level, limit to two plates at a time, clear from the right. Order shorthand: T (sweet tea), C (coffee), UT (unsweetened tea), W (water), Bod (bodega), Burro (burrito), Grit (grits bowl), Q (quiche), SOS (sauce on the side). Service time benchmarks: greet â‰¤30 sec, beverages â‰¤2 min, apps/salads 6-8 min, entrees 10-12 min, dessert 6-8 min.
 - Student work: practice Left-Lower-Leave serving with a partner; practice writing real orders using shorthand.
@@ -34,7 +43,7 @@ Rewritten 2026-07 using the real dining room operations training materials (Cust
 - Cleanup/reset: label, store, clean, reset.
 - Exit check: what does "Left, Lower, Leave" mean, and why clear from the right?
 
-## Day 5: Early-Release Readiness Mock in Starting Positions
+## Module 5: Readiness Mock in Assigned Positions
 - Opening routine: readiness check, huddle, and students report to their actual assigned Bistro jobs rather than unrelated temporary practice assignments.
 - Demo or mini-lesson: final service reminders—LATTE for guest recovery (Listen, Acknowledge, Take action, Thank, Ensure satisfaction), no arguing over questionable queue numbers, and dietary restrictions flagged immediately rather than guessed at.
 - Student work: assigned prep and service setup using the appropriate side-work checklist (Service, Barista, Line Cooks, Support, or Expo / Floaters).
@@ -50,3 +59,10 @@ Use **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters** as the Bis
 Life of an Order remains the foundation. Train stations in the sequence that best supports current readiness; Line Cooks and Expo may train together because Expo sits between production and Service handoff. Week 4 remains training and mock service only, with no public guests or soft opening. Thursday prep retains weekly lab jobs; Friday service follows assigned Bistro-job duties.
 
 Expo / Floaters owns operational flow, with Expo as its home base. During active service one Expo student remains responsible for Expo/pass while other trained and authorized members deploy. Use **Expo → Line Cooks → Service → Barista → Support → Expo** and ask: **What do you notice? What does it mean? What needs to happen next?**
+
+
+## Use and Evidence
+
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
+
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.

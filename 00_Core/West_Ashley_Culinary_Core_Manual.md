@@ -1,10 +1,10 @@
 # West Ashley Culinary Core Manual
 
-Version 1.4
+Version 1.5
 
 West Ashley High School Culinary Arts Program
 
-Current as of October 2, 2026
+Current as of October 17, 2026
 
 ---
 
@@ -228,6 +228,8 @@ The curriculum is organized as a pathway of foundation, depth, and application.
 
 ### Culinary 1
 
+The [October 17, 2026 redesign](2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) governs the current practical sequence. Students learn the complete work cycle from Day 1; recipe-specific measuring, reading, equipment use, sanitation, dish staging and reset precede the first lab. Technical skills and safety instruction precede first needed use. Useful repetition and increasingly dependable ownership replace fixed topic blocks. The [Culinary 1 pacing guide](../01_Curriculum/Culinary_1/01_Modular_Pacing_Guide.md) supplies the semester sequence and scope boundaries, including the distinction between instructor priorities and unverified complete state-indicator alignment.
+
 Culinary 1 is a one-semester foundation and exploration course.
 
 Its purpose is to give every student useful culinary, safety, service, and employability skills whether or not the student continues in the pathway.
@@ -242,8 +244,8 @@ Culinary 1 should prepare students to:
 - Practice kitchen math.
 - Use knives safely.
 - Cook simple food with increasing confidence.
-- Apply flavor balance through vinaigrette and a teacher-approved, same-day refrigerated quick pickle; this does not include canning or fermentation.
-- Practice both animal-protein and tofu applications with appropriate food-safety controls.
+- Apply flavor judgment through useful approved recipes; vinaigrette and teacher-approved same-day refrigerated quick pickle are available vehicles, not mandatory standalone coverage. No canning or fermentation is authorized by this statement.
+- Practice useful approved protein applications with appropriate food-safety controls; tofu remains an available vehicle rather than mandatory standalone coverage.
 - Understand dish, laundry, storage, labeling, and cleaning systems.
 - Participate appropriately in Bistro roles after readiness has been established.
 - Decide whether Culinary 2 is the right next step.
@@ -703,6 +705,10 @@ Instructor review is required before using AI-generated assessments, recipes, sa
 
 ## Current Program Decisions
 
+### Culinary 1 Practical Sequence — October 17, 2026
+
+The [Bistro fundamentals redesign](2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) is adopted. Teach before first use; measure before the first lab; repeat relevant kitchen work; assess complete individual performance. Applications inform balanced instructor-built teams; Support is skilled work, not punishment. Current safety, accommodations, credentials, grading and instructor authority continue to govern.
+
 Operational decisions describe the current implementation of the program. They may change through governance without changing the enduring principles.
 
 ### Identity
@@ -913,6 +919,7 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.2 | 2026-09-06 | Integrated Week 4 decisions for Bistro team names, Kitchen Readiness and removal terminology, online ServSafe delivery, practical-evidence limits, and verified daily kitchen close. |
 | 1.3 | 2026-09-25 | Retired mandatory Bistro rotations and adopted instructor-controlled Bistro job placement with application, transfer, and whole-operation awareness expectations. |
 | 1.4 | 2026-10-02 | Clarified Released from Duties vs Not Kitchen Ready; removed KP from student Bistro roles; strengthened station-opening, productive-pause, and investigate-before-escalating expectations. |
+| 1.5 | 2026-10-17 | Adopted Culinary 1 practical/Bistro sequence, Week 1 prerequisite measuring, useful repetition and balanced team-building clarification; retained safety and external-requirement boundaries. |
 
 
 ## Bistro Job-Placement Model — Approved September 25, 2026

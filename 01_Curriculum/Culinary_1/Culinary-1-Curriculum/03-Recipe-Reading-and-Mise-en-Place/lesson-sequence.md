@@ -1,6 +1,17 @@
 # Lesson Sequence: Recipe Reading and Mise en Place
 
-## Day 1: Applied Safety Check and Online Credential Completion
+**October 17 sequencing:** Week 3 deepens skills already introduced. Recipe-specific measuring, recipe reading, sanitation, dish staging and required equipment use preceded the first Week 1 lab; do not postpone these until this resource. Select manageable familiar baking, egg and vegetable applications. The alternatives below are resources, not five required new recipes or a fixed daily script.
+
+- **Knowledge:** Equipment, sequence, units, quantity, useful scaling and first-use knife/heat/protein requirements.
+- **Skill:** Retrieve tools, prepare mise, explain a sequence, perform an approved task and hand off/reset.
+- **Professional Thinking:** Plan before acting, use references and ask for help before a breakdown.
+
+## Useful Week 3 Practice
+
+Students write an immediate workflow in their notebook, retrieve/return named equipment and complete a Production Check with decreasing prompting. Use simple scaling only when the actual assignment requires it. Before basic cutting, teach setup, grip/claw, controlled blade path, sample approval and approved knife wash/return. Before scrambled eggs or vegetables, teach the necessary handling, equipment and heat controls. Repeat a familiar application before adding another; do not require every example in one week.
+
+
+## Application 1: Applied Safety Check and Online Credential Completion
 - Opening routine: entry, agenda check, huddle, handwashing.
 - Demo or mini-lesson: review safety habits revealed as weak during Week 2 application.
 - Student work: practical, in-person food-safety and workplace-safety stations plus limited supervised online ServSafe access for students who need completion, accommodation, or intervention support.
@@ -9,7 +20,7 @@
 - Exit check: one safety habit that must continue.
 - Credential record: complete the approved online course and assessment during Week 3, using up to three platform attempts. Students email certificates to the instructor; do not store student credential information in public WACOS.
 
-## Day 2: Recipe Reading
+## Application 2: More Independent Recipe Reading
 - Opening routine: huddle on "read before cooking."
 - Demo or mini-lesson: title, yield, ingredients, equipment, steps, timing.
 - Student work: annotate a simple recipe.
@@ -17,7 +28,7 @@
 - Cleanup/reset: return tools, close ingredients, wipe surfaces, and reset tables.
 - Exit check: what should you know before touching ingredients?
 
-## Day 3: Mystery Mise Measuring Stations and Peanut Butter Pretzel Bars
+## Optional Application: Mystery Mise Measuring Stations and Peanut Butter Pretzel Bars
 - Opening routine: readiness, handwashing, recipe reading, and five-team setup.
 - Whole-group demonstration and first-use equipment check: the instructor demonstrates how to cut the required butter amount, then softens it in a microwave-safe container using 10-second increments, stirring after each increment and repeating only until softened. Confirm approved container, controls, hot-container handling and cleanup before students use the microwave. Students do not cut butter at a rotation station.
 - Measuring stations: five teams complete two stations per round across ten numbered stations. Confectioners' sugar and chocolate chips are separate recipe stations. Students complete the passport record, reset each station, and rotate only on the instructor signal.
@@ -29,7 +40,7 @@
 ## First-Use Equipment Literacy Rule
 For common tools and appliances (including can opener and egg-handling equipment when their first approved recipe requires them), teach the specific safe setup, operation, cleaning and storage at first authentic use; observe a student demonstration before independent use. Do not create isolated lessons for equipment not actually used. Safety and authorization remain instructor-controlled. Record the first-use check in the active teaching guide when needed.
 
-## Day 4: Rice Cookery and Ratios
+## Optional Application: Rice Cookery and Ratios
 - Opening routine: agenda check and huddle.
 - Demo or mini-lesson: rice, liquid ratios, simmering basics, timing.
 - Student work: calculate or identify rice-to-liquid ratio.
@@ -37,10 +48,17 @@ For common tools and appliances (including can opener and egg-handling equipment
 - Cleanup/reset: pots/rice cooker cleaned and station reset.
 - Exit check: why does ratio matter?
 
-## Day 5: Fried Rice or Stir Fry Application
+## Optional Application: Fried Rice or Stir Fry
 - Opening routine: handwashing and station check.
 - Demo or mini-lesson: prep list, hot pan awareness, order of operations.
 - Student work: build prep list and set mise en place.
 - Lab/application: fried rice or simple stir fry.
 - Cleanup/reset: full station reset with tools returned and shared ingredients handled correctly.
 - Exit check: name one way prep improved the lab.
+
+
+## Use and Evidence
+
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
+
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.

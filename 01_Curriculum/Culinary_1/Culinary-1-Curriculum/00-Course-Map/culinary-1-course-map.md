@@ -1,135 +1,37 @@
-﻿# Culinary Arts Management 1: Fundamentals
+# Culinary 1 Course Map — Useful Work and Bistro Readiness
 
-## Source of Truth
-This course map is based on the Culinary Arts 1 Printable Program Packet for the West Ashley Culinary Program.
-
-## Tagline
-Real cooking. Real skills.
+**Adopted:** October 17, 2026. Instructor-facing navigation source.
 
 ## Course Identity
-Culinary Arts 1 is a Career and Technical Education foundational course designed to introduce students to professional kitchen standards, core culinary techniques, and hospitality practices through structured lab experiences in a working kitchen environment.
 
-Students learn by doing. The course prioritizes safety, organization, recipe literacy, teamwork, service, and real kitchen work habits.
+Culinary 1 is a one-semester foundation and exploration course in a working high-school kitchen. **We are not training chefs. We are training students to think like chefs.** Students develop practical cooking, safe work, readiness, communication, stewardship and follow-through through the Bistro and engaging kitchen applications.
 
-The goal is not to produce chefs. The goal is to help students become more capable, confident, responsible, and prepared to do meaningful work.
+## Governing Sources
 
-## Course Philosophy
-Culinary education is both career preparation and human development.
+- [Curriculum overview](../../03_Culinary_1_Curriculum.md)
+- [Current semester pacing](../../01_Modular_Pacing_Guide.md) — the single week-by-week sequence, suggested vehicles and Knowledge/Skill/Professional Thinking map.
+- [October 17 decision](../../../../00_Core/2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md)
+- [Assessment system](../../../../03_Assessment/06_Assessment_System.md)
 
-The kitchen is treated as a professional space where structure, consistency, and respect guide daily practice. Students are expected to come prepared, stay engaged, follow procedures, support their team, and take ownership of their work.
+## Progression
 
-Skill development emphasizes depth over breadth. Students revisit core fundamentals such as sanitation, mise en place, knife work, organization, heat control, and service communication multiple times so that skills become ingrained rather than briefly introduced and forgotten.
+1. Weeks 1-3: teach and practice the complete work cycle. Measuring, recipe reading, equipment, sanitation, dish staging and reset precede the first lab. Introduce cutting and other technical skills before use.
+2. Week 4: learn the whole operation and practice the assigned job through mock service and reset.
+3. Week 5: controlled public launch when ready.
+4. Weeks 6-15: repeat useful products and tasks, strengthen technical control, coordinate familiar work and reduce prompting.
+5. Week 16: adopted Chopped application.
+6. Weeks 17-18: demonstrate repeatable competence, complete a final assignment and review growth.
 
-## Core Course Pillars
-- Safety and Sanitation
-- Stewardship and Cleaning Systems
-- Mise en Place and Organization
-- Recipe Reading and Basic Kitchen Math
-- Knife Control and Foundational Micro-Skills
-- Heat Control and Cooking Technique Basics
-- Precision Recipe Following through Baking
-- Hospitality and Team Communication
-- Bistro Service Readiness
-- Awareness and Responsibility in the Kitchen
+## Complete Work Cycle
 
-## Major Course Sections
+**Get ready → Read and plan → Set up → Produce → Maintain → Store and reset → Review.**
 
-### 01. Orientation and Systems
-Weeks covered: Week 1
+Students learn the knowledge needed, perform the physical skill and strengthen the Professional Thinking habit in each assignment. Established references and accommodations support independent work. Cooking ends with protected product, completed assigned reset and verification.
 
-Focus: Learn the room before cooking.
+## Technical Resources
 
-Students are introduced to the course purpose, kitchen expectations, uniforms, grading systems, communication, safety overview, measuring stations, and first cleanup routines.
+The numbered folders retain useful teaching resources; numbers do not prescribe successive calendar blocks. Use current lesson-sequence files and the pacing guide. Older packets and generated delivery copies require reconciliation before reuse; they do not govern schedules, policy or recipe approval.
 
-Primary lab: Pancakes
+## Scope Boundary
 
-### 02. Food Handler and Stewardship
-Weeks covered: Week 2
-
-Focus: Safety becomes behavior.
-
-Students connect food safety concepts to actual kitchen duties, including laundry, counters, dishes, storage, and floors.
-
-Labs include brownie batter, baking brownies, dish systems training, and a chicken breast temperature lab.
-
-### 03. Recipe Reading and Mise en Place
-Weeks covered: Week 3
-
-Focus: Read before cooking. Organize before acting.
-
-Students complete Food Handler review and assessment, then practice recipe reading, ingredient lists, equipment lists, step sequencing, prep lists, and mise en place.
-
-Labs include peanut butter bars, rice cookery, fried rice or stir fry, and dried pasta with a basic tomato sauce.
-
-### 04. Customer Service and Bistro Readiness
-Weeks covered: Week 4
-
-Focus: Understand the full flow of service.
-
-Students learn Life of an Order, guest arrival to farewell, station assignments, station training, and mock service. For 2026-2027, Week 4 is August 31-September 4 and remains Monday-Friday readiness work; the early-release Friday is training and full mock service only, with no public service.
-
-### 05. Bistro Systems Reinforcement
-Weeks covered: Week 5
-
-Focus: Stabilize service before moving deeper into technical skills.
-
-Students debrief Week 4 training/mock service, clarify roles, retrain stations, practice ticket flow and communication, and prepare for the first public Bistro service on Friday, September 11, subject to readiness and safety.
-
-### 06. Knife Skills Progression
-Weeks covered: Weeks 6 to 9
-
-Focus: Build confidence through control and repetition.
-
-Students develop safe and controlled knife work through repeated three-day knife blocks followed by Bistro prep and Bistro service.
-
-Skills include grip, claw, board setup, rough chop, dice, slice, mince, julienne, batonnet, speed with control, and prep list execution.
-
-### 07. Heat Control
-Weeks covered: Weeks 10 to 12
-
-Focus: Learn how cooking actually works.
-
-Students practice sauté, roasting, moist heat, grains, simmering, texture control, pan preheating, oil control, browning, spacing, oven control, and liquid ratios. Broiler/grill fundamentals are introduced through instructor demonstration and heat-cue recognition; student use requires equipment-specific instruction, an approved SOP, and individual authorization.
-
-### 08. Frying and Oil Management
-Weeks covered: Week 13
-
-Focus: Temperature discipline.
-
-Students practice oil safety, batch control, overcrowding, crisp vs greasy textures, draining, and seasoning timing.
-
-### 09. Flavor Systems
-Weeks covered: Weeks 14 to 15
-
-Focus: Move beyond recipes and learn how flavor is built.
-
-Students explore salt, acid, fat, aromatics, herbs, spices, cultural flavor builds, balance, curiosity, and experimentation. A basic vinaigrette and simple green salad provide a direct emulsion and seasoning application. A teacher-approved, same-day refrigerated quick pickle adds an acid-balance application without introducing canning or fermentation.
-
-### 10. Protein as Application
-Weeks covered: Weeks 16 to 17
-
-Focus: Protein tests fundamentals.
-
-Students apply knife control, heat management, doneness, resting, seasoning, slicing, and temperature checking to proteins such as chicken, ground turkey, eggs, and tofu. Tofu provides the required plant-protein vehicle. A basic pan sauce extends the seared-chicken lab through fond, deglazing, reduction, and finishing.
-
-### 11. Bridge to Culinary 2
-Weeks covered: Week 18
-
-Focus: Independence and readiness.
-
-Students complete self-assessment, skill inventory, limited service ownership, independent prep list creation, and a transition conversation about Culinary Arts Management 2.
-
-## Program Outcome
-Culinary Arts 1 produces students who can:
-- Work safely
-- Follow recipes accurately
-- Demonstrate basic knife control
-- Measure with care and precision
-- Manage heat and foundational cooking methods
-- Function during structured service
-- Maintain sanitation systems
-- Communicate with teammates
-- Clean and reset a station
-- Demonstrate professionalism and accountability
-
-Students leave the course more capable, more aware, and more confident in their ability to complete real work in a kitchen environment.
+The adopted sequence prioritizes practical kitchen/Bistro work and embeds measuring, scaling, yield and portions. It does not add standalone history/brigade, sustainability, business management, formal menu analysis or nutrition units. This is an instructional scope decision, not a full standards-alignment certification.

@@ -1,3 +1,5 @@
+> **Superseded planning reference — October 17, 2026.** Earlier proposed week blocks and pending decisions below are historical. Use the [current pacing](01_Modular_Pacing_Guide.md) and accepted DTG/actual observations; this file is not evidence of completed teaching or mastery.
+
 # Week 10 → Week 11 — Depth-First Instructional Decision (Working)
 
 **Status:** Planning draft; pending instructor evidence from October 13–16, 2026. Not a revised or approved Week 11 DTG.

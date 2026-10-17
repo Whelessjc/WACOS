@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: October 3, 2026
+Last updated: October 17, 2026
 
 ## Purpose
 
@@ -26,6 +26,10 @@ Fast retrieval aid for common West Ashley Culinary questions. It is not a separa
 ## Courses
 
 ### Culinary 1
+
+- The [October 17 redesign](../00_Core/2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) and [pacing guide](../01_Curriculum/Culinary_1/01_Modular_Pacing_Guide.md) govern: teach complete useful work, repeat familiar applications and increase ownership.
+- Measuring, recipe reading, equipment/sanitation/dish staging and reset precede the first lab. Teach every technical/safety prerequisite before first needed use; later weeks deepen it.
+- Old fixed knife/heat/flavor/protein blocks and their packet schedules are superseded. Do not restore standalone history/brigade, sustainability, management, formal cost/menu analysis or nutrition units by default; practical math remains embedded. Do not claim full state-indicator coverage.
 
 - One-semester foundation and exploration course.
 - Weeks 1-3 build the component fundamentals Bistro will test.
@@ -122,7 +126,7 @@ Students remain engaged until released: **The work is finished when the instruct
 - Support
 - Expo / Floaters
 
-Bistro jobs are placements, not automatic rotations. Students apply, may complete a brief informal interview, and are placed by the instructor according to Bistro demand and staffing needs, informed by demonstrated knowledge, readiness, reliability, skill, and fit. A placement may last for the remainder of the course.
+Bistro jobs are placements, not automatic rotations. Build a balanced team; applications inform placement rather than guarantee preferences. Support is skilled work, not punishment. Students apply, may complete a brief informal interview, and are placed by the instructor according to Bistro demand and staffing needs, informed by demonstrated knowledge, readiness, reliability, skill, and fit. A placement may last for the remainder of the course.
 
 Students who want to move submit a transfer request/application and demonstrate the knowledge, readiness, understanding, and drive required for the requested job. Transfer is not guaranteed.
 

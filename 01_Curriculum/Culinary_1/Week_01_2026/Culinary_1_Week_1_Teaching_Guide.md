@@ -19,6 +19,7 @@
 | Re-entry and room | High School, High Standards; Kitchen Mode; access and movement boundaries | Explore essential kitchen locations, use correct names, and return items |
 | Live routines | Entry, handwashing, callouts, movement, and what reset means | Rehearse movement and communication; reset one practice area |
 | Read before acting | How to scan and mark the approved pancake recipe; only the measurements needed | Read the same group recipe used for production, mark it, and stage a no-cook mise en place |
+| Recipe-specific measuring and dish rehearsal | Required measuring tools/units; appropriate liquid/dry technique; scale/tare when required; approved dish staging | Demonstrate required measurements before mixing; rehearse routing and returning tools |
 | Production | Just-in-time equipment and heat direction; bubbles, set edges, color, holding, and the approved product plan | Prepare mise en place, receive authorization, cook, record actual yield, carry out the instructor-approved use or storage plan, and reset |
 
 ## Must Happen - Core Learning
@@ -28,6 +29,8 @@
 - Students locate the hand sink, dish area, instructor-confirmed emergency/exit information, and required work areas.
 - Students practice Kitchen Mode, live movement callouts, handwashing, and a basic reset.
 - Each group reads and marks its pancake recipe before equipment or heat use.
+- Before mixing, students practice the recipe-specific units and correct measuring tools/techniques; use scale/tare when required. Check performance and correct mistakes before production.
+- Rehearse approved dish staging, equipment cleaning/return and station reset before the first lab.
 - Students prepare mise en place and receive instructor authorization before heat.
 - The production sequence includes measurement, heat/doneness cues, teamwork, actual yield, and a complete room reset.
 - No day or lab ends until storage/discard direction, dishes, sanitation, tool return, towels, trash, floors, equipment shutdown, and reset are addressed.
@@ -36,14 +39,14 @@
 
 - Continue the orientation challenge or have groups teach one essential location.
 - Repeat a kitchen route with callouts at normal working speed.
-- Practice the exact measurement students need for the recipe.
+- Repeat already-taught measurements for additional precision; first instruction and performance check remain Core Learning.
 - Move into the next sequence element once Core Learning is secure.
 - During production, repeat a batch, compare heat adjustments, refine presentation, or extend the oral debrief.
 
 ## If Time Is Lost
 
 - Protect essential locations, Kitchen Mode, recipe reading, the first three actions, heat authorization, and reset.
-- Continue unfinished exploration or measurement practice in the next section meeting.
+- Continue nonessential exploration in the next section meeting. Protect required measuring instruction before production; if necessary reduce/defer cooking rather than skip prerequisite practice.
 - Use pre-portioned ingredients, fewer pancakes, or instructor-managed holding when needed.
 - If production cannot finish safely, stop at a completed batch and protect shutdown and reset.
 

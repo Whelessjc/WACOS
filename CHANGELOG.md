@@ -1,3 +1,16 @@
+## 2026-10-17 — Redesign Culinary 1 Around Useful Bistro Work
+
+### Program Decision
+
+- Adopted the complete work cycle from Day 1 and prerequisite measuring, reading, equipment/sanitation/dish/reset practice before the first pancake lab.
+- Replaced fixed knife/heat/flavor/protein week blocks with useful repeated applications and increasing ownership; clarified later weekly emphasis versus first introduction.
+- Kept the opening architecture, Thursday Prep/Friday Service, online Food Handler support and Week 16 Chopped rules. Retained safety, accommodations and current assessment controls.
+- Clarified balanced instructor-built teams, applications as input, Support as skilled work and individual evidence of the whole assignment.
+- Recorded instructor-chosen practical scope without claiming full state-indicator alignment or waiver of external requirements.
+- Aligned the Core Manual (1.5), decision/source/traceability, curriculum/pacing/course maps, current lesson sequences, procedural map, Week 1 live source, Bistro Operations and AI Quick Reference.
+- Marked supporting packet schedules and earlier working maps as superseded references; retained stale delivery derivatives as de-indexed resources rather than regenerating public/student artifacts without review.
+- Applies prospectively to Fall 2026 from Week 11 and to future cohort openings; does not rewrite actual past teaching. No new recipe formulas, grades, disciplinary thresholds or automatic service/reopening rules were created.
+
 ## 2026-10-05 — Adopt Chicken Bog Recipe Printable Layout
 
 ### Quick Edit

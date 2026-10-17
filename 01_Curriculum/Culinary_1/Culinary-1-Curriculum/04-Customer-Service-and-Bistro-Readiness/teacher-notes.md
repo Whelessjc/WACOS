@@ -1,3 +1,5 @@
+> **Resource status — October 17, 2026:** The [current pacing](../../01_Modular_Pacing_Guide.md) and [current lesson sequence](lesson-sequence.md) govern. Former week blocks/daily schedules in this supporting copy are superseded. Reuse only selected applicable content under current SOPs and instructor review; this file is not a current complete teaching guide or recipe approval. Measuring and other prerequisites precede first use.
+
 # Teacher Notes: Customer Service and Bistro Readiness
 
 ## What to Emphasize

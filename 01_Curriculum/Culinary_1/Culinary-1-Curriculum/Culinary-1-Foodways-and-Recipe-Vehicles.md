@@ -1,3 +1,5 @@
+> **Optional resource — October 17, 2026:** Former weekly assignments below are superseded by the [current pacing](../01_Modular_Pacing_Guide.md). Select useful, verified food vehicles; no standalone foodways/history survey is required by the redesign. These examples do not create menu, recipe or compliance approval.
+
 # Culinary 1 Foodways and Recipe Vehicles
 
 ## Purpose

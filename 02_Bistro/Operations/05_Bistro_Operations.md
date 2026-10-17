@@ -172,7 +172,11 @@ Use the operating principle:
 
 **Specialize in your job. Understand the whole operation.**
 
-Support is an assigned Bistro job with real operating responsibilities. It is not a default holding area.
+Support is an assigned Bistro job with real operating responsibilities. It is not a default holding area or a punishment assignment.
+
+Under the [October 17 Culinary 1 redesign](../../00_Core/2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md), applications inform placement rather than guarantee preferences. The instructor builds a balanced team using operational need, demonstrated readiness, reliability, communication, skill and individual supports. Common foundations and whole-operation awareness apply to everyone; detailed training develops the assigned job. Distribute dependable habits rather than concentrating all reliable students in food production. Placement does not make a student responsible for supervising peers or absorbing their unfinished work.
+
+Explicitly teach each station's maintenance/reset and Support's collection/dish-flow routine. Inspect during service while correction is possible. Available Service and authorized Floaters receive specific appropriate assistance tasks while active responsibilities remain covered. Current assessment, accommodation, release and instructor-authority rules govern; no automatic collective grade or service-reopening threshold is introduced.
 
 | Job | Primary Ownership |
 |---|---|

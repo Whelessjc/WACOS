@@ -18,6 +18,15 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 
 ## Confirmed Standards
 
+### October 17, 2026 — Culinary 1 Bistro Fundamentals Redesign
+
+- Adopted the [redesign decision](2026-10-17_Culinary_1_Bistro_Fundamentals_Redesign.md) and [single semester pacing source](../01_Curriculum/Culinary_1/01_Modular_Pacing_Guide.md).
+- Recipe-specific measuring, reading, equipment/sanitation/dish/reset instruction precede the first lab; technical/safety training precedes first use. Week labels are emphasis, not delayed introductions.
+- Useful repeated work and growing independence replace fixed topic blocks. Current Thursday/Friday rhythm, opening target and Chopped rules remain.
+- Applications inform a balanced instructor-built team; Support is skilled work, not punishment. Current assessment and individual supports govern.
+- The approved practical sequence omits standalone history/brigade, sustainability, management, formal cost/menu analysis and nutrition units; no full state-indicator coverage or waiver of external requirements is claimed.
+- Past delivery remains historical; Fall 2026 adopts the direction prospectively from Week 11.
+
 ### October 3, 2026 — Adopt Prototype E Teaching-Guide Format
 
 - Instructor adopted **Prototype E** for Culinary 1 and Culinary 2, replacing the Prototype D pilot presentation.

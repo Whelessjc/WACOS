@@ -1,5 +1,12 @@
 # Lesson Sequence: Food Handler and Stewardship
 
+**October 17 sequencing:** These are flexible Week 2 applications. Week 1 already taught recipe-specific measuring, reading, required equipment, sanitation, dish staging and reset before pancakes. Repeat and deepen those actions here; do not infer independence from prior exposure.
+
+- **Knowledge:** Contamination, cleaning/sanitizing, storage, temperature control and current cleaning procedures.
+- **Skill:** Demonstrate hygiene, dish flow, thermometry, protected storage and complete reset.
+- **Professional Thinking:** Protect others, inspect results and correct incomplete work.
+
+
 The approved online ServSafe Food Handler course and assessment provide primary credential-content delivery. Students work independently by default, receive limited supervised class access when needed, and complete one progress checkpoint during this week. Culinary instructional time emphasizes applied food-safety and workplace-safety performance.
 
 ## Day 1: Food Safety and Personal Hygiene
@@ -41,3 +48,10 @@ The approved online ServSafe Food Handler course and assessment provide primary 
 - Cleanup/reset: complete full kitchen stewardship sweep.
 - Exit check: name one system the class must keep improving.
 - Credential checkpoint: record online-course progress and identify students who need access, accommodation, or intervention support before Week 3 completion.
+
+
+## Use and Evidence
+
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
+
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.

@@ -1,44 +1,31 @@
 # Lesson Sequence: Frying and Oil Management
 
-## Day 1: Oil Safety and Temperature
-- Opening routine: huddle with hot oil expectations.
-- Demo or mini-lesson: oil safety, temperature, movement, tools.
-- Student work: identify unsafe oil station choices.
-- Lab/application: teacher-led frying observation.
-- Cleanup/reset: oil station reset.
-- Exit check: one oil safety rule that protects people.
+**Current recurring resource:** October 17, 2026. Folder numbering does not establish a calendar block.
 
-## Day 2: Potato Batonnet and Batch Control
-- Opening routine: knife and oil safety review.
-- Demo or mini-lesson: potato batonnet and batch size.
-- Student work: cut potatoes and prepare small batches.
-- Lab/application: fries or potato frying practice.
-- Bistro/service connection: fries require batch timing and quick communication if held for service.
-- Cleanup/reset: drain area, tools, counters, floors.
-- Exit check: what happens when a batch is too large?
+## When to Use
 
-## Day 3: Crisp vs. Greasy
-- Opening routine: temperature discipline huddle.
-- Demo or mini-lesson: draining and seasoning timing.
-- Student work: compare texture results.
-- Lab/application: vegetable fritters or similar low-cost item.
-- Bistro/service connection: draining and seasoning timing affect whether food reaches guests crisp or greasy.
-- Cleanup/reset: station reset and oil area safety check.
-- Exit check: what made the item crisp or greasy?
+Week 13 is a reinforcement emphasis. Any earlier assigned frying requires prior training, approved SOP/equipment access and individual authorization.
 
-## Day 4: Onion Rings or Similar Application
-- Opening routine: roles confirmed.
-- Demo or mini-lesson: safe loading and removing from oil.
-- Student work: set up batter/breading and batches.
-- Lab/application: onion rings or teacher-selected item.
-- Bistro/service connection: small batches help ticket flow and prevent backup at the oil station.
-- Cleanup/reset: full station and oil area reset.
-- Exit check: one habit that kept the oil station controlled.
+## Learning
 
-## Day 5: Review and Controlled Application
-- Opening routine: huddle and safety review.
-- Demo or mini-lesson: reteach weak oil system.
-- Student work: small controlled frying application or station review.
-- Lab/application: teacher-selected review lab.
-- Cleanup/reset: deep reset of oil station and nearby floor.
-- Exit check: explain temperature discipline in one sentence.
+- **Knowledge:** Oil/equipment safety, batch effects, texture cues, draining, seasoning and station maintenance.
+- **Skill:** Carry out controlled approved batches and maintain/reset the station.
+- **Professional Thinking:** Maintain control and communicate under pressure.
+
+## Practice Progression
+
+1. Start with equipment-specific safety, current approved procedures, tools and authorized roles; a recipe or week number is not equipment permission.
+
+2. Observe and practice an approved useful product in manageable batches. Teach loading/removal, batch timing, draining and seasoning through that product.
+
+3. Repeat the same application to improve consistency before adding fries, fritters, onion rings or other products. These are optional vehicles, not a required five-day menu.
+
+4. Maintain landing areas, dish flow and floors during production. Stop and correct unsafe conditions; adult authority governs intervention and restart.
+
+5. Use the current equipment SOP for shutdown, oil handling and cleaning. Inspect station/shared reset. Technical practice stays Monday-Wednesday after launch; protect Thursday Prep/Friday Service.
+
+## Use and Evidence
+
+This is a curriculum sequence/resource, not a complete DTG. Use the [current pacing](../../01_Modular_Pacing_Guide.md); write the live guide under the current DTG standard with Core/Flexible Learning, first-use safety/authorization gates, adult coverage and a clean stopping point. Select verified recipes and manageable quantities. After launch, technical practice occupies Monday-Wednesday; Thursday Prep and Friday Service retain their purposes.
+
+Observe the whole assignment with existing records. Established references and individual supports remain available. A completed group product does not establish individual competence. No new score conversion or equipment permission is introduced.
