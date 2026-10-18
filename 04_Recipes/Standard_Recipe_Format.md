@@ -27,7 +27,7 @@ Student production recipes normally represent one student group unless clearly l
 
 ## Bistro / Student Printable Format
 
-Approved October 5, 2026, using the instructor-approved Chicken Bog printable as the visual reference. This replaces the September 21 ingredient-table default for new and revised Bistro and student-facing printables.
+Updated October 18, 2026, retaining the instructor-approved October 5 Chicken Bog visual style while simplifying routine station recipes. The vertical ingredient list remains the default for new and revised Bistro and student-facing printables.
 
 Use this order:
 
@@ -36,7 +36,7 @@ Use this order:
 3. Compact metadata line: yield and portion size; oven temperature and cooking time when applicable. Include use information only when needed.
 4. **INGREDIENTS**: one ingredient per line, with the quantity and unit in bold followed by the ingredient and preparation detail in regular text. Use the recipe's verified units. An ingredient table is no longer the default.
 5. **DIRECTIONS**: numbered steps, each with a short bold action label followed by concise instructions. Include essential equipment in the relevant step; add a separate equipment list only when it improves usability.
-6. **QUALITY CHECK**: a short, concrete description of the finished product students should produce.
+6. **QUALITY CHECK** (optional): include a short, concrete finished-product description only when it materially helps students execute or evaluate the recipe. Otherwise omit the section.
 7. Holding, cooling, storage, reheating, or service notes only when relevant to the recipe's use.
 
 ### Printable Layout
@@ -46,7 +46,8 @@ Use this order:
 - Approximately 23 pt recipe title, 12 pt bold section headings, 11 pt body text, and 10 pt identifier.
 - Use generous, consistent spacing and hanging indents for numbered directions.
 - Prefer one readable page for a short recipe. Use additional pages for longer recipes rather than shrinking text or omitting essential controls.
-- Keep ingredients and directions easy to scan; avoid unnecessary boxes, grids, and separate planning sections.
+- Keep ingredients and directions easy to scan; avoid unnecessary boxes, grids, subtitles, and separate planning sections. The default printable can consist of the title, compact yield information, ingredients, and directions alone.
+- Omit empty or nonessential sections. Complex production recipes may use labeled stages or additional sections when genuinely needed.
 - Keep the timing sheet or production plan separate unless the instructor requests an integrated version. Providing an instructor-prepared timeline does not imply that students must write another plan on the recipe sheet.
 - Render and inspect the finished printable before delivery.
 
