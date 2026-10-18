@@ -6,6 +6,8 @@ THE BISTRO
 
 # [Recipe Name]
 
+[No subtitle by default.]
+
 **Yield:** [verified yield] | **Portion:** [verified portion size] | **Oven:** [if applicable] | **Cook:** [estimated cooking time, if applicable]
 
 ## INGREDIENTS
@@ -21,8 +23,6 @@ THE BISTRO
 3. **[Action].** [Continue in production order; include applicable safety and doneness checks.]
 4. **Finish.** [Final seasoning, portioning, and service directions as applicable.]
 
-## QUALITY CHECK
+[OPTIONAL — include a QUALITY CHECK section only when it materially helps execution or evaluation. Omit otherwise.]
 
-[Brief, observable finished-product standards for texture, flavor, appearance, and portion consistency.]
-
-[Add holding, cooling, storage, reheating, or service notes only when needed. Keep the timing sheet separate unless the instructor requests otherwise.]
+[OPTIONAL — include holding, cooling, storage, reheating, or service notes only when relevant; essential safety controls belong in the directions at point of use. Keep the timing sheet separate unless requested.]
