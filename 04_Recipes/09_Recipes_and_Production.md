@@ -26,10 +26,10 @@ For Bistro and student-facing printables, follow the [Standard Recipe Format](St
 2. Compact yield, portion, and applicable oven/cooking information.
 3. One ingredient per line with **quantity and unit in bold**, followed by the ingredient and preparation detail. Ingredient tables are no longer the default.
 4. Numbered **DIRECTIONS** with short bold action labels; essential equipment and safety/doneness checks belong in the relevant step.
-5. A concise **QUALITY CHECK**.
+5. An optional concise **QUALITY CHECK** only when it materially helps execution or evaluation.
 6. Relevant holding, storage, reheating, or service notes only as needed.
 
-Use the instructor-approved October 5, 2026 Chicken Bog layout: Arial, black text, US Letter portrait, readable spacing, and preferably one page for a short recipe. Keep a timing sheet or production plan separate unless an integrated version is requested. Do not add separate Allergens or Skill Focus sections, a routine Instructor Review block, or a student planning section to the printable. Unresolved details still require instructor confirmation before production, and permanent Recipe Bank records retain all required documentation.
+Use the instructor-approved October 5, 2026 Chicken Bog layout, as simplified October 18, 2026: Arial, black text, US Letter portrait, readable spacing, and preferably one page for a short recipe. Keep a timing sheet or production plan separate unless an integrated version is requested. Do not add a subtitle by default, separate Allergens or Skill Focus sections, a routine Instructor Review block, or a student planning section to the printable. Omit optional sections that do not improve station use. Unresolved details still require instructor confirmation before production, and permanent Recipe Bank records retain all required documentation.
 
 ## Production Packet
 For Bistro or larger labs, attach:
