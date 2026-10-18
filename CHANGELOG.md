@@ -1,3 +1,12 @@
+## 2026-10-18 — Simplify Bistro Recipe Printables
+
+### Quick Edit
+
+- Confirmed vertical ingredients with bold quantity and unit as the printable default; retained the October 5 Chicken Bog visual style.
+- Made QUALITY CHECK optional, removed routine subtitles and nonessential sections, and kept the simplest station recipes to title, compact yield, ingredients, and numbered directions.
+- Preserved point-of-use food-safety and doneness instructions, instructor review, and complete permanent Recipe Bank record requirements.
+- Updated the Standard Recipe Format, Bistro Recipe Printable Template, and Recipes and Production guidance.
+
 ## 2026-10-17 — Redesign Culinary 2 for the Bistro, Variety and Real Events
 
 - Adopted a full-year sequence around complete work, prerequisite instruction, a three-week practical opening and supported growth toward ownership.
