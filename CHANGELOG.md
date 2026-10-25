@@ -1,3 +1,16 @@
+## 2026-10-25 — Reconcile Assessment, Readiness, and Bistro Practice
+
+### Program Decision and Related Quick Edits
+
+- Recorded instructor-approved catch-up scope in the decision/source/traceability records and aligned the Core Manual.
+- Replaced old daily lab/Bistro scoring tools with one Monday–Thursday 0–5 lab score and Friday Performance 45%, Reset 45%, Reflection 10% on 0–5; kept rubric references separate.
+- Recorded baseline-four and adult recording-failure directions while leaving full conversion, blank verification, gradebook aggregation, and absence/makeup reconciliation explicitly open in D001. Removed superseded automatic Employability point adjustments.
+- Adopted warning → parent communication → administrative referral for repeated footwear noncompliance without relaxing kitchen access or creating automatic course removal.
+- Added concrete Thursday hot-line/barista setup and Friday verification; recorded adjustable three-cook/stronger-barista staffing and early adult escalation.
+- Simplified Prototype E by removing separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks and mandatory whiteboard retrieval; preserved embedded checks, Core/Flexible Learning, and safe stops.
+- Corrected stale current rotation, Support/KP, Prototype D pilot, and Week 6 task-list presentation. Preserved historical decisions and private-data boundaries.
+- Course-category weights, recipes, financial controls, equipment permissions, and safety authority are unchanged. Student-facing drafts still require instructor review before use.
+
 ## 2026-10-18 — Simplify Bistro Recipe Printables
 
 ### Quick Edit

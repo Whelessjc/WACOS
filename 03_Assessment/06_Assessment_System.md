@@ -12,72 +12,43 @@ The current quarter grade structure remains:
 
 Bistro evidence stays in Summative Assessments: Projects, Tests, and Bistro. Lab evidence stays in Formative Assessments and Labs. Employability evidence stays in Employability Skills.
 
-## Common Evidence Language
+## Current Working Scores — October 25, 2026
 
-Live Bistro records use fast letter codes. Lab records use a four-level scale because five evidence areas are scored after the lab rather than continuously during service.
+Use the [approved catch-up decision](../00_Core/2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md). Course-category weights above are unchanged. Keep rubric references separate from working score sheets.
 
-| Context | Evidence language |
+| Context | Working record |
 |---|---|
-| Bistro | `E` exceptional evidence or leadership; `M` meets; `C` coaching needed; `N` standard not met; `NO` not observed or insufficient evidence |
-| Lab | `4` exceeds the current standard; `3` meets; `2` approaches; `1` does not yet meet; `NO` not observed or insufficient evidence |
-| Employability | `+` exceptional ownership or leadership; `C` coaching; `R` repeated concern; `I` significant incident; blank means no exception recorded |
+| Monday–Thursday lab, including Bistro Prep | One overall performance score, 0–5, per student per day |
+| Friday Bistro | Performance 45%, Reset 45%, Reflection 10%; each on a 0–5 scale |
+| Employability | One weekly grade supported by readiness and exception evidence; baseline-four direction with conversion/blank-entry implementation pending |
 
-`E/M/C/N/NO` is Bistro-only observation language. Lab and Employability records retain their current context-specific scales.
+Opening readiness remains required but has no separate Bistro score column. Overall lab performance includes safe and sanitary work, recipe execution, technique, communication, appropriate product quality, and reset. Observe those behaviors without creating five separately scored areas.
 
-Codes are evidence, not automatic grades. A serious safety, sanitation, or conduct issue requires immediate intervention and separate instructor review when needed.
+The prior Bistro letter-code/band conversion and four-level lab scale are superseded. Do not substitute the old conversion or a linear percentage formula for the unconfirmed 0–5 mapping.
 
-## Bistro Manager Observation Method
+### Recording and Adult Coverage
 
-Use the [Bistro Manager Observation Record](Tools/Bistro_Manager_Observation_Record.md) during opening/readiness, active service, and closing/reset. The instructor and Teacher Assistant may divide the room by named students, team, station, or service area. Current teams are Service, Barista, Line Cooks, Support, and Expo / Floaters.
+1. Name the lab target or Bistro assignment and expected standard.
+2. Instructor and Teaching Assistant identify observation coverage before work begins.
+3. Observe natural checkpoints; record meaningful evidence and concise exceptions.
+4. Record the daily lab score or the three Friday Bistro components. Keep reassignment, partial attendance, and missing-work context distinct.
+5. Combine adult evidence; the instructor resolves differences and assigns final grades.
 
-1. Before service, each observer writes initials and assigned coverage.
-2. During each natural observation window, record one quick code when useful. Do not narrate routine performance.
-3. Add a short note only for exceptional evidence, a significant concern, an incident, or context needed for instructor review.
-4. After service, combine both records by student. Preserve differing observations; do not average them mechanically.
-5. The instructor reviews the pattern, relevant notes, reassignment or attendance context, reflection, and any other direct evidence, then assigns the final grade.
+Use the [Lab Observation Record](Tools/Lab_Observation_Record.md), [Bistro Manager Observation Record](Tools/Bistro_Manager_Observation_Record.md), and [Bistro Observer Calibration Guide](Tools/Bistro_Observer_Calibration_Guide.md). Reflection supports direct evidence; it does not replace observed physical skill.
 
-The behaviors behind each window are:
+The existing entry cadence remains 1–2 accumulated Bistro Summative grades per 4.5-week progress-report period (2–4 per nine weeks). The calculation used to aggregate the new components still requires confirmation.
 
-- **Opening/readiness:** enters Kitchen Mode ready, understands the assignment, establishes readiness, and identifies missing mise en place, supplies, or information.
-- **Active service:** performs safely and correctly, maintains organization and sanitation, communicates, responds to coaching and changes, and protects the standard appropriate to the assignment.
-- **Closing/reset:** completes shutdown and cleaning, stores and returns items correctly, resets for the next group, and remains engaged until released.
+### Baseline, Conversion, and Missing Entries
 
-### Bistro Holistic Bands
+The instructor has directed a baseline of four for Employability and Bistro. **INSTRUCTOR DECISION REQUIRED:** confirm the full 0–5-to-percentage mapping, eligible blank entries, verification safeguards, and weekly/accumulated gradebook calculations before automating them. Four must not automatically become 80 percent. Absence, noncompletion, and insufficient observation must not silently become baseline performance.
 
-| Band | Evidence pattern |
-|---|---|
-| Exceeds the service standard | Meets the assigned standard across observed windows and shows meaningful exceptional evidence, leadership, recovery, or support without taking over. |
-| Meets the service standard | Meets the assigned standard across the available evidence; minor coaching does not outweigh competent service. |
-| Approaching the service standard | Coaching or an unmet standard is a meaningful part of the pattern, but the student shows partial success, response, or recovery. |
-| Does not yet meet the service standard | Repeated or significant unmet standards show that the student did not yet perform the assignment safely, correctly, or reliably. |
-| Insufficient evidence | Available evidence cannot support a defensible judgment. |
+If an adult failed to record observations, the instructor has identified 90 as the fallback so students are not disadvantaged by adult recording failure. Confirm the occurrence and distinguish it from student missing work; the repeatable verification procedure remains open.
 
-Use fixed gradebook values for the four gradable Bistro bands: Exceeds = 100, Meets = 90, Approaching = 80, and Does Not Yet Meet = 60. Insufficient evidence receives no score until sufficient evidence exists. Do not average the live letter codes mechanically. Every public service may be assessed on paper; enter 1-2 accumulated Bistro Summative grades per 4.5-week progress-report period, producing 2-4 entries per nine-week report-card period.
+One entered for missing work is a temporary placeholder rather than an earned performance score. Apply the confirmed makeup window and resolve the older absence-rule conflict described below before automating absence treatment.
 
-### Bistro Evidence Exceptions
+### Lab Instruction and Evidence
 
-- **Absence:** follow the confirmed attendance and missing-work process. Do not convert absence or `NO` directly to zero.
-- **Reassignment:** assess the work actually assigned and note the change.
-- **Partial service:** use the windows observed and seek another relevant source when needed.
-- **Insufficient evidence:** use later service, a practical check, direct questioning, reflection plus direct evidence, reassessment, or the confirmed missing-work process.
-- **Observer disagreement:** retain both records. The instructor checks assignment, location, timing, notes, and other evidence and makes the final decision.
-
-Use the [Bistro Observer Calibration Guide](Tools/Bistro_Observer_Calibration_Guide.md) before the first service and briefly when coding drifts.
-
-## Minimalist Lab Assessment Procedure
-
-Use the [Lab Observation Record](Tools/Lab_Observation_Record.md) for Culinary 1 and Culinary 2. The five evidence areas remain the same; the expected independence, pace, complexity, and quality change with the course and stated learning target.
-
-1. Name the lab target and choose no more than two focus criteria.
-2. Mark planned instructor checkpoints and whether a product-quality check is appropriate.
-3. Observe at natural moments. Record exceptions and decisive evidence rather than every action.
-4. After the lab, assign one level in each evidence area that was actually available for assessment.
-5. Use the short student reflection as supporting evidence. Reflection cannot replace direct performance evidence.
-6. Review safety or sanitation interventions separately before finalizing the grade.
-
-The five evidence areas are readiness and planning; safe, sanitary, and organized work; technique and process; product result; and shutdown, reset, and reflection. Product quality should reflect the stated target and should not outweigh technique, safety, or process when those are the lesson focus.
-
-Convert a final lab level to a fixed gradebook value: 4 = 100, 3 = 90, 2 = 80, and 1 = 60. `NO` means insufficient evidence and receives no score until sufficient evidence exists. Routine line checks are instructional reinforcement: use missed responses for brief reteaching, demonstration, immediate repetition, and pattern tracking rather than grading each isolated answer. When the instructor deliberately schedules a separate applied skills check with direct demonstration, use the same record with only the target, one or two focus criteria, checkpoint, direct demonstration, and result completed. Unused areas are `NO`, not failures.
+Monday–Thursday work includes Thursday Bistro Prep; Friday Bistro is assessed separately. Routine line checks remain instructional: reteach, demonstrate, and repeat where needed. A separately scheduled applied skills check may use direct demonstration and a concise result. Unperformed skills remain not observed until demonstrated; no observation is not itself failure.
 
 ### Partner and Group Labs
 
@@ -123,7 +94,7 @@ The pocket notebook is a working culinary tool. Students may use it for recipes,
 | Does not yet meet expectations | Significant or persistent evidence shows the student is not yet meeting core professional-habit expectations. |
 | Insufficient evidence | Attendance, assignment, or other circumstances leave too little evidence for a defensible decision. |
 
-The weekly baseline is 90 for a student who arrives ready and meets normal expectations. Minor readiness or work-habit exceptions generally deduct 5 points. Repeated or significant concerns generally deduct 10 points or trigger instructor review. Meaningful exceptional ownership, initiative, leadership, or stewardship may add 5 points; repeated meaningful exceptional evidence may raise the weekly grade to 100. Absence or insufficient evidence is not an automatic deduction. Coaching notes remain formative until they become part of a repeated or significant pattern, and significant incidents may become formal evidence immediately after instructor review. Proper footwear and other safety requirements remain participation gates; the grade consequence documents readiness and does not replace the safety response.
+Use the baseline-four direction and pending implementation rules above. The former automatic 5/10-point deduction and 5-point bonus system is superseded. Keep feedback and exception evidence concise. Provide an evidence-review opportunity each grading period; the precise quarterly-conference schedule remains an instructor implementation decision. Safety and kitchen-access responses remain separate from grade calculation.
 
 ### Kitchen Readiness and Missed Practical Work
 
@@ -156,11 +127,14 @@ The [Student Assessment Quick Guide](Tools/Student_Assessment_Quick_Guide.md) ex
 
 ## Decisions Still Requiring Instructor Confirmation
 
-- Whether the instructor and Teaching Assistant use identical records or area-specific versions.
-- Final Canvas setup and missing-work/reassessment implementation.
+- Full 0–5 conversion, eligible blank entries and verification, adult-recording-failure procedure, gradebook aggregation, and feedback/conference schedule.
+- Reconcile newer missing-work directions with the older absence provisions below; finalize Canvas implementation.
+- Whether adults use identical or area-specific records while collecting the same evidence.
 
 
-## Current Missing-Work and Reassessment Rules — Approved August 26, 2026
+## Earlier Missing-Work and Reassessment Rules — Reconciliation Required
+
+The October 25 catch-up confirms one as a missing-work placeholder and zero after the applicable recovery window. The August 26 provisions below are retained for explicit review: the newer direction described absence more broadly. **INSTRUCTOR DECISION REQUIRED:** confirm whether the excused/unexcused distinction and declining daily makeup caps still apply. Do not automatically apply the older no-call/no-show zero where it conflicts with the newer direction; seek instructor determination. School policy and the exact window require current verification before any revision is represented as district policy.
 
 For an excused absence, enter 1 to signify missing work. The student has five days to complete an instructor-approved makeup; maximum scores are 90 on day 1, 80 on day 2, 70 on day 3, 60 on day 4, and 50 on day 5. After day 5, the grade becomes 0. Bistro makeup is selected case by case from instructor-approved choices such as ILT work, a morning shift, a restaurant review, preparing a dish at home, or an equivalent option.
 

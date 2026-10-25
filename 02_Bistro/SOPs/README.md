@@ -19,7 +19,7 @@ Permanent station SOPs describe how the station always operates through **Openin
 
 ## Current Teams and Rotation Rhythm
 
-The five current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Expo belongs to Expo / Floaters, not Service. The same instructional teams carry into service and normally remain in each position for two consecutive services in one shared ten-service cycle.
+The five current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Expo belongs to Expo / Floaters, not Service. Students learn the whole operation and receive instructor-directed job placements; the mandatory two-service/shared ten-service rotation is retired.
 
 Thursday prep retains weekly lab cleaning jobs. Friday service follows Bistro-position Opening, During Service, and Closing responsibilities. Earlier classes reset for the next class; Culinary 2 completes final shutdown.
 

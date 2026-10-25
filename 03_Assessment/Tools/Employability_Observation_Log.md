@@ -34,4 +34,4 @@ Normal expectations do not require daily notation. Record observable exceptions 
 
 **Bands:** exceeds expectations · consistently meets · inconsistently meets · does not yet meet · insufficient evidence
 
-The prior weekly 100-point automatic-deduction model is retired. Numeric conversions still require instructor confirmation. Serious incidents may require separate school procedures.
+The baseline-four direction replaces automatic point deductions. Full percentage conversion and which verified blank entries may count as four remain pending; do not auto-fill absent or unobserved work. See the [Assessment System](../06_Assessment_System.md). Serious incidents may require separate school procedures.

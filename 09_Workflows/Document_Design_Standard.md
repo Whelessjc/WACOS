@@ -121,8 +121,8 @@ Prototype E is the adopted teaching-guide format. Begin with one weekly overview
 - Teach / Show
 - Students Do
 - Micro-Skills / If They Come Up
-- Watch For
-- If There Is Extra Time
+- Embed safety, quality, and understanding checks within Teach / Show and Students Do.
+- Identify Core/Flexible Learning and time-lost adjustment within Students Do.
 - Clean Stop
 - Notes for Next Time
 
@@ -140,7 +140,7 @@ Use only the sections needed, commonly:
 - Set Up
 - Teach / Explain
 - Students Do
-- Watch For / Check
+- Embedded safety / quality check
 - Finish / Clean Stop
 
 ### Student Activity

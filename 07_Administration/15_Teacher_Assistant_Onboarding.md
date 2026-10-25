@@ -67,7 +67,11 @@ Escalate immediately for injuries, unsafe equipment, chemical issues, suspected 
 
 ## Five-Team Observation and Support
 
-Current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Teams remain in each position for two consecutive services. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+Current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Students receive instructor-directed placements according to readiness and operating need; automatic rotation is retired. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
 
 
 The Teaching Assistant helps verify that Expo remains covered during active service. Final financial reconciliation and deposit delivery remain limited to the instructor and Teaching Assistant.
+
+## Bistro Coverage and Early Intervention
+
+Before service, agree on instructor and Teaching Assistant coverage and confirm hot-line/barista readiness. The current instructor-back-of-house/TA-front-of-house arrangement can be adjusted to need; it does not change authority. Report growing ticket backlogs, loss of workspace control, inability to use build references, or conflict early. Coach within assigned training and authority and seek instructor intervention before the station becomes unmanageable. Use the current observer guide to combine evidence after service.

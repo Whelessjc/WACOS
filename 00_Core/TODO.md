@@ -1,17 +1,18 @@
 # WACOS TODO
 
 ## Highest Priority Instructor / Administrative Decisions
-- Ask administration when repeated inability or refusal to meet Kitchen Readiness should trigger parent contact, counseling intervention, administrative conference, or reconsideration of course placement. See D013. Do not create an automatic removal threshold in WACOS.
+- Implement the approved footwear sequence (warning → parent communication → administrative referral) with school procedures/supports. Broader readiness and placement escalation remain D013; no automatic removal threshold.
+- Resolve D001: complete 0–5 conversion, verified blank-entry rules, adult recording-failure workflow, gradebook aggregation, newer absence/older makeup-rule reconciliation, and feedback conference schedule.
 - Resolve the approved OnTime/Kiosk fallback for Bistro guest ILT check-in when the system fails. The first public service showed that an improvised paper fallback weakens attendance verification. See GitHub Issue #3.
 - Define a reliable workflow for accepted phone/email/other remote Bistro orders to enter Square promptly without creating a loose parallel paper production stream. Preserve current financial controls until confirmed. See GitHub Issue #3.
 - Decide whether/when to develop a separate Service/FOH appearance standard. Do not treat this as required current policy until approved.
 - Confirm the 2026-2027 Culinary 2 capstone guest-chef roster and execution week. See D009.
 
-## Current Bistro Opening Implementation
+## Fall 2026 Opening Recovery — Historical Implementation
 
 The permanent opening architecture now treats Bistro as the performance environment for fundamentals built from Day 1. Week 4 is governed by required training outcomes rather than a rigid daily script; Week 5 remains the normal first-public-service target when ready.
 
-For the immediate 2026 fall recovery after first service, the instructor-confirmed Week 6 sequence is:
+The instructor-confirmed Week 6 recovery sequence below is retained as implementation history, not a current-week task list:
 
 - Monday — Service reset / whole-room guest-service retraining.
 - Tuesday — Reset & Closing rehearsal plus Barista recovery.
@@ -47,10 +48,10 @@ Delay the planned knife-skills opening rather than layering new technical conten
 
 - Five smaller lab teams appeared to improve participation and organization. Three-person teams may be preferable when space allows, but smaller teams may increase dishes and food use. Continue observing before adopting a permanent team-size standard.
 
-### Daily Teaching Guide Pilot — Not Yet Final Standard
+### Adopted Teaching Guide — Ongoing Refinement
 
-- Prototype D remains the current Daily Teaching Guide pilot direction. Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** before deciding whether it replaces the permanent DTG structure.
-- The separate `09_Workflows/Document_Design_Standard.md` now governs the visual language for generated working documents; do not confuse the adopted visual standard with final adoption of Prototype D's DTG structure.
+- Prototype E is adopted; retain the weekly overview and separate daily pages. October 25 removes separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks while keeping checks and Core/Flexible Learning embedded.
+- Continue **BUILD → PRINT → TEACH → MARK UP → TA FEEDBACK → REVISE** as improvement of the adopted format, not an undecided Prototype D pilot.
 
 ### Paperwork / Adult Workflow Development
 

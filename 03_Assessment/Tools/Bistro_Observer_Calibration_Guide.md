@@ -1,45 +1,24 @@
 # Bistro Observer Calibration Guide
 
-## Purpose
-
-The instructor and Teacher Assistant use the same evidence language while covering different parts of the Bistro. The record supports instructor judgment; it does not transfer grading authority.
-
 ## Before Service
 
-- Divide coverage by named student, team, station, or service area.
-- Confirm current teams: Service, Barista, Line Cooks, Support, and Expo / Floaters.
-- Review the day's assignment standard and any student supports the instructor identifies.
-- Agree on where records will be combined after service.
+- Agree on instructor/Teaching Assistant coverage by student, station, or service area.
+- Review the assignment, approved supports, and readiness checks.
+- Use the same three components: Performance 45%, Reset 45%, Reflection 10%, each on a 0–5 scale. Keep the rubric reference separate from the working sheet.
+- Use instructor-confirmed level descriptions; do not invent a full rubric or percentage conversion. See the [Assessment System](../06_Assessment_System.md) for open implementation decisions.
 
-## Code the Observable Moment
+## Observe and Compare
 
-| Code | Use when |
-|---|---|
-| `E` | The student provides meaningful exceptional evidence: leadership, recovery, awareness, support, or quality beyond the assigned standard. |
-| `M` | The student meets the expected standard for the assignment and course. |
-| `C` | Coaching is needed. Record the code; note only when context matters or a pattern develops. |
-| `N` | The expected standard is not met in a meaningful observed moment. Add a short note when needed for defensible context. |
-| `NO` | The observer did not see enough. It is not failure. |
+Record observable work rather than personality. Compare examples of performance and reset before service and when judgments drift. Opening readiness informs performance and remains an operating gate, not a separate score. Reflection supports direct evidence.
 
-Code performance, not personality. Avoid attitude, participation, effort, good kid, lazy, and similar labels.
-
-## Quick Calibration
-
-Before the first service, both adults independently code two short sample situations, compare reasons, and align on the day's standard. Recalibrate when one observer is using mostly `M` while the other records only exceptions, or when similar evidence receives different codes.
-
-## Safety and Authority
-
-Intervene and escalate immediately for safety, sanitation, injury, serious conflict, or school-policy concerns. Do not reduce a major incident to one code. The Teacher Assistant may collect evidence and report context but does not change grades, make discipline decisions, authorize equipment, or provide final safety approval.
+Communicate early when tickets accumulate, the workspace loses order, students cannot use build references, or conflict interrupts work. Coach within assigned authority and bring unresolved problems to the instructor before the station fails.
 
 ## After Service
 
-- Place records together by student.
-- Keep both codes when observers saw different moments.
-- Add reassignment, partial-service, or absence context.
-- Flag disagreements or insufficient evidence for instructor review.
-- The instructor assigns the final grade.
+Combine evidence by student; preserve differing observations and assignment/attendance context. The instructor determines final scores. Verify adult recording failures separately from missing student work. Do not auto-fill blank scores while blank-entry rules remain unresolved.
 
+## Safety and Placement
 
-## Five-Team Observation and Support
+Intervene and escalate for safety, sanitation, injury, serious conflict, or school-policy concerns. Teaching Assistant evidence collection does not transfer instructor-only grading, discipline, safety, allergen, or equipment authority.
 
-Current teams are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. Teams remain in each position for two consecutive services. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+Current jobs are Service, Barista, Line Cooks, Support, Expo / Floaters. Placements are instructor-directed rather than automatic rotations. Maintain an accountable Expo anchor during active service.

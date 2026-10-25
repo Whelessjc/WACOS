@@ -1,10 +1,10 @@
 # West Ashley Culinary Core Manual
 
-Version 1.6
+Version 1.7
 
 West Ashley High School Culinary Arts Program
 
-Current as of October 17, 2026
+Current as of October 25, 2026
 
 ---
 
@@ -304,6 +304,8 @@ Safety governs all work. Students follow knife, heat, equipment, chemical, movem
 
 Daily Kitchen Readiness requires ID, proper footwear, notebook, and pen. A student who does not meet these requirements does not enter the kitchen for that day's practical work. The student completes the current handwritten Kitchen Alternate Learning Assignment tied to the Learning Target and, when a lab was missed, also completes the online Culinary Missed Lab / Make-Up Form. The first is in-period learning; the second documents the missed practical experience and initiates the established recovery process. West Ashley Culinary does not routinely recreate missed labs.
 
+For repeated footwear noncompliance, use the instructor-approved progression: first occurrence warning, second parent communication, third administrative referral. Proper footwear is required for kitchen access at every occurrence; a warning does not authorize practical work. Apply approved accommodations and school procedures, record incidents in approved systems, and retain current alternate-learning/missed-work processes. This does not create an automatic course-removal threshold. See the [October 25 catch-up decision](2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md).
+
 A student may enter class Kitchen Ready and later be **Released from Duties** by the instructor when continued practical participation is inappropriate because of behavior during class or lab. This is different from **Not Kitchen Ready**, which is an entry/readiness gate before practical work begins.
 
 Released from Duties may be used for behavior such as leaving the assigned class/kitchen area without permission, refusal to follow a direct instruction, or unsafe conduct. The response is tied to the behavior, not the student's identity. The student completes the current Released from Duties form/reflection before returning to the privilege of kitchen-lab participation. Instructor judgment governs release and return; discipline, parent contact, Employability evidence, missed-lab documentation, and other school responses remain separate decisions.
@@ -511,7 +513,7 @@ Employability Skills grades measure observable professional behavior and readine
 
 Employability Skills are not a soft extra. In culinary and hospitality work, employability is part of competence.
 
-Employability uses one weekly grade and a paper exception record designed for fast arrival-readiness checks and meaningful evidence during instruction. A student who arrives ready and meets normal expectations begins from a weekly baseline of 90. Minor readiness or work-habit exceptions generally deduct 5 points; repeated or significant concerns generally deduct 10 points or trigger instructor review. Meaningful exceptional ownership, initiative, leadership, or stewardship may add 5 points, with repeated exceptional evidence allowing a grade up to 100. Absence or insufficient evidence is not an automatic deduction. Safety and participation responses remain separate from the calculation and under instructor authority.
+Employability uses one weekly grade supported by concise readiness and exception evidence. The October 25 catch-up records the instructor's baseline-four direction and supersedes automatic 5/10-point deductions and 5-point bonuses. Full percentage conversion and eligible blank-entry verification remain pending. Absence and insufficient observation must not silently become baseline performance. See the current Assessment System for the adult recording-failure fallback, student feedback, and missing-work reconciliation. Safety and participation responses remain separate from calculation and under instructor authority.
 
 ### Formative Assessments and Labs
 
@@ -527,7 +529,9 @@ Summative work should test readiness, not trivia. Students should be able to sho
 
 ### Observation Evidence
 
-Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception-based notes, repeated evidence, and instructor judgment. Bistro and lab bands convert to fixed gradebook values: Exceeds/4 = 100, Meets/3 = 90, Approaching/2 = 80, and Does Not Yet Meet/1 = 60; insufficient evidence receives no score until a defensible judgment is possible. Every public Bistro service may be assessed on paper, while 1-2 accumulated Bistro Summative grades are normally entered per 4.5-week progress-report period, producing 2-4 per nine-week report-card period. A checklist code is evidence rather than a score to average mechanically. Not observed is not failure. Group performance does not automatically become each student's individual grade, and the same behavior should not be automatically penalized in more than one category. Serious safety, sanitation, or conduct concerns require immediate intervention and separate instructor review when necessary.
+Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception notes, individual evidence, and instructor judgment. Monday–Thursday labs, including Bistro Prep, use one overall 0–5 performance score per day. Friday Bistro uses Performance 45%, Reset 45%, and Reflection 10%, each on a 0–5 scale; opening readiness remains required without a separate score column. The former Bistro letter-code/four-band conversion and separately scored lab areas are superseded. Full percentage conversion, blank-entry verification, and gradebook aggregation remain open in D001; do not invent a formula. A missing-work one is a placeholder, not an earned performance level. Not observed is not failure. Group performance does not automatically become an individual grade; do not double-penalize the same behavior. Serious safety, sanitation, or conduct concerns require immediate intervention and instructor review.
+
+Existing Bistro entry cadence remains 1–2 accumulated Summative grades per 4.5-week progress-report period (2–4 per nine weeks), with new-score aggregation pending confirmation.
 
 The current procedures and printable records are maintained in `03_Assessment/06_Assessment_System.md` and `03_Assessment/Tools/`.
 
@@ -560,19 +564,9 @@ Live evidence should focus on:
 - Closing and reset.
 - Reflection submitted.
 
-### Four-Level Practical Scale
+### Working Score References
 
-The program may use a four-level practical scale:
-
-4 means independent, safe, clean, accurate, efficient, and helpful to the team.
-
-3 means competent with minor reminders.
-
-2 means partially competent and needing frequent support or missing key steps.
-
-1 means unsafe, unprepared, incomplete, or unable to demonstrate.
-
-The scale should be used to clarify expectations, not to reduce professional judgment to a number.
+Use the current 0–5 working records and keep the rubric reference separate from the score sheet. The complete level descriptions and percentage conversion require instructor confirmation. Earlier four-level practical-scale descriptions no longer govern the daily lab or Friday Bistro record.
 
 ---
 
@@ -922,6 +916,8 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.3 | 2026-09-25 | Retired mandatory Bistro rotations and adopted instructor-controlled Bistro job placement with application, transfer, and whole-operation awareness expectations. |
 | 1.4 | 2026-10-02 | Clarified Released from Duties vs Not Kitchen Ready; removed KP from student Bistro roles; strengthened station-opening, productive-pause, and investigate-before-escalating expectations. |
 | 1.5 | 2026-10-17 | Adopted Culinary 1 practical/Bistro sequence, Week 1 prerequisite measuring, useful repetition and balanced team-building clarification; retained safety and external-requirement boundaries. |
+| 1.6 | 2026-10-17 | Adopted the Culinary 2 full-year Bistro redesign, West Ashley 25, event flexibility, and supported ownership progression. |
+| 1.7 | 2026-10-25 | Reconciled current assessment records, pending numeric implementation, footwear escalation, and related Bistro/guide updates. |
 
 
 ## Bistro Job-Placement Model — Approved September 25, 2026

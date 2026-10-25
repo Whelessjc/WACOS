@@ -75,6 +75,12 @@ Students normally receive individual production assignments. Use pairs when the 
 
 **Bistro Service begins on Thursday.** Current prep lists preserve clear station **START HERE** assignments, then move through **HIGH PRIORITY → LOWER PRIORITY** work. Production comes before polish. Long-lead, complex, and service-critical work is protected before easy portioning, stocking, utensil wrapping, table balancing, and similar finish work. Service may support appropriate production before lower-priority dining-room setup. Each task has visible ownership and completion status; unfinished work receives an explicit takeover/handoff. Exact item distribution among teams remains an implementation detail that may be refined from service evidence.
 
+### Complete Station Setup
+
+Thursday prep includes explicit [hot-line](../SOPs/Line_Cooks_Team_SOP.md#thursday-setup-and-friday-verification) and [barista](../SOPs/Barista_Team_SOP.md#thursday-setup-and-friday-verification) setup checks. Assign ownership, mark actual completion, and identify Friday activation or controlled recovery work. Friday verifies readiness before production. Product remains under current storage/safety controls and equipment follows current shutdown procedures overnight.
+
+The current staffing adjustment uses three line cooks and stronger students at barista according to demonstrated readiness and operating need. Adjust as service changes. Reassignment is an instructor placement decision; Support remains skilled work, not punishment. Do not turn a current staffing arrangement into a permanent quota.
+
 ### Production Check
 
 Before production, the student identifies product, recipe yield, assigned quantity, scaling status, units, complete procedure, complete mise en place, and first step. Notebook plus brief instructor/Teaching Assistant verification is sufficient unless another current form is required.

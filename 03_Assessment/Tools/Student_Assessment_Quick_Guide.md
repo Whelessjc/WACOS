@@ -8,21 +8,13 @@ West Ashley Culinary grades what you can show through real work. Observation rec
 
 ## Bistro
 
-During Bistro service, an adult may record quick evidence during opening, active service, and closing. You are expected to:
-
-- enter Kitchen Mode ready and understand your assignment;
-- work safely, correctly, cleanly, and with clear communication;
-- respond to coaching and changing service needs;
-- protect the guest, food, production, or service standard for your role;
-- complete shutdown and leave the area reset.
-
-Codes are `E` exceptional evidence, `M` meets, `C` coaching needed, `N` not met, and `NO` not observed. `NO` is not failure. Bistro grades remain in Summative Assessments: Projects, Tests, and Bistro.
+Friday Bistro records Performance 45%, Reset 45%, and Reflection 10%, each on a 0–5 scale. Opening readiness is required and informs performance. Work safely, use current references, communicate clearly, respond to coaching, and leave the station reset. Reflection supports your performance evidence. Bistro remains in Summative Assessments: Projects, Tests, and Bistro.
 
 ## Labs
 
-Labs look at five areas: readiness and planning; safe, sanitary, organized work; technique and process; product result when appropriate; and shutdown, reset, and reflection.
+Monday–Thursday, including Thursday Bistro Prep, use one overall performance score of 0–5 per day. Preparation, safe/sanitary work, technique, communication, relevant product quality, and reset all matter. Group results do not automatically become your individual grade. Labs remain in Formative Assessments and Labs.
 
-The scale is `4` exceeds, `3` meets, `2` approaches, `1` does not yet meet, and `NO` insufficient evidence. The instructor may emphasize one or two focus criteria. A final product does not erase unsafe or weak process, and appearance does not outweigh the actual learning target. Labs remain in Formative Assessments and Labs.
+The instructor will explain the confirmed rubric and gradebook conversion separately. A blank entry does not by itself prove that work was completed or missing.
 
 ## Employability
 
@@ -41,6 +33,8 @@ Students meeting normal expectations do not need a note every day. The instructo
 
 
 ## Missing Bistro Work and Improvement
+
+**Instructor review required:** the newer absence directions and older provisions below require reconciliation before distribution. One is a temporary missing-work placeholder, not an earned performance score. Confirm the applicable makeup window, daily caps, and excused/unexcused treatment with the instructor. The following older provisions do not override the newer instructor direction.
 
 Bistro is normally Friday. If you will miss or have missed service, communicate with the instructor. For an excused absence, the gradebook initially shows 1 for missing work. You have five days to complete an approved choice-based makeup. The highest possible score is 90 on day 1, 80 on day 2, 70 on day 3, 60 on day 4, and 50 on day 5; after that the grade becomes 0. Possible makeups include ILT work, a morning shift, a restaurant review, making a dish at home, or another option approved by the instructor.
 

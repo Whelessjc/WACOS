@@ -7,16 +7,25 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 
 | ID | Area | Current Standard | Open Question |
 |---|---|---|---|
-| D001 | Assessment implementation | Current grade categories/evidence rules are approved. | Observer form configuration, Canvas setup, missing-work/reassessment implementation. |
+| D001 | Assessment implementation | 45/35/20 course categories; one 0–5 lab score Monday–Thursday; Friday Bistro 45% Performance / 45% Reset / 10% Reflection on 0–5; baseline-four direction recorded. | Full percentage mapping; verified blank-entry rules; adult recording-failure workflow; gradebook aggregation; reconciliation of newer absence directions with older makeup caps/no-call rules; feedback conference schedule. See October 25 decision. |
 | D005 | Culinary 2 Semester 2 calendar detail | Current draft/pacing anchors remain. | Detailed testing, graduation, school-event, and partner calendars. |
 | D007 | Recipes | Recipe Bank category files are provisional factual sources; flags remain review gates. | Individual flagged recipes/missing fields. |
 | D008 | Equipment SOPs | General safety/cleaning standards exist. | Current equipment-specific SOPs and shutoff maps. |
 | D009 | Culinary 2 capstone | Five-course tasting menu model confirmed. | Annual chef/course roster and partner availability. |
 | D010 | Spring Bistro relaunch | Relaunch aligns to Culinary 1 readiness with fallback when training runs long. | Exact spring readiness. |
-| D013 | Repeated Kitchen Readiness failure | No kitchen entry; current alternate/missed-lab processes apply. | When recurring inability/refusal should trigger parent/counselor/admin/placement escalation. Course removal is not automatic WACOS policy. |
+| D013 | Kitchen Readiness escalation implementation | Footwear: first warning, second parent communication, third administrative referral; kitchen-access safety gate and alternate/missed-work processes remain. | Align implementation with approved school procedures/supports; any broader readiness or course-placement response requires separate review. No automatic removal threshold. |
 | D015 | Service appearance | No separate permanent FOH/Service appearance standard adopted. | Whether to develop one later. |
 
 ## Confirmed Standards
+
+### October 25, 2026 — Assessment, Readiness, and Bistro Catch-Up
+
+- Approved the [catch-up decision](2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md): current working scores and separate rubric references; unresolved conversion, blank-entry, absence reconciliation, and aggregation remain D001.
+- Footwear escalation is warning, parent communication, administrative referral, with the kitchen-access safety gate unchanged.
+- Added concrete Thursday hot-line/barista setup and Friday verification; current three-cook/stronger-barista staffing remains adjustable.
+- Removed separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks and mandatory daily whiteboard retrieval; embedded checks and Core/Flexible Learning remain required.
+- Reconciled obsolete rotation, Support/KP, and Prototype D pilot guidance in current operating documents. Historical decisions remain evidence of prior practice.
+
 
 ### October 17, 2026 — Culinary 2 Full-Year Bistro Redesign
 

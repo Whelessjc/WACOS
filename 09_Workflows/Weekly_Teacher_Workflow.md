@@ -19,16 +19,12 @@ Use this workflow to run the instructional week, protect Monday-Wednesday learni
 
 1. Greet students.
 2. Check attendance, ID, dress code or uniform, phones, and headphones.
-3. Monday–Thursday, students retrieve their small whiteboards and complete the posted **Whiteboard Retrieve** prompt from memory for about 2–3 minutes.
-4. Scan boards; correct only the gaps or misconceptions that matter for today's work.
-5. Share essential announcements and review the daily agenda and learning target.
-6. Move into **Notebook. Pen. Plan.**; review the prep list and cleaning duty as relevant.
-7. Assign or confirm stations.
-8. Wash hands and complete mise en place.
-9. Conduct the chef check or required Production Check.
-10. Begin work.
+3. Share essential announcements, agenda, and learning target; check prior learning briefly when useful.
+4. Move into **Notebook. Pen. Plan.**; review prep and cleaning duties as relevant.
+5. Confirm stations, wash hands, and complete mise en place.
+6. Conduct the required chef/Production Check and begin work.
 
-Friday Bistro service normally skips the required whiteboard routine and begins with operational readiness. Use a Friday whiteboard only when a targeted reteach or reset clearly serves service.
+Whiteboard retrieval may support a targeted check or reteach; it is not a mandatory daily routine. Friday begins with operational readiness.
 
 Post the shutdown time. Unless the schedule requires an earlier close, stop cooking 15 minutes before the end of class and begin the [closing standard](../00_Core/08_Daily_and_Weekly_Systems.md#closing-standard).
 
@@ -61,7 +57,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ### Instruction
 
-- Use the whiteboard retrieval evidence before introducing new learning.
+- Use observed work and brief checks to target instruction.
 - Demonstrate only what is new, unsafe, misunderstood, or necessary; provide student practice.
 - Use live checks and begin grading during reset when practical.
 - Protect the shutdown and room reset.
@@ -79,7 +75,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ## Tuesday - Teach, Practice, and Grade
 
-- Begin with the brief whiteboard retrieval prompt and use the evidence to target instruction.
+- Check readiness and prior learning where needed to target instruction.
 - Teach new content.
 - Provide focused practice and feedback.
 - Complete live or formative checks.
@@ -89,7 +85,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ## Wednesday - Finish Instruction and Plan Ahead
 
-- Begin with brief retrieval of the fundamentals students need for the day's work.
+- Check the fundamentals needed for the day's work through a useful question or demonstration.
 - Complete the week's planned new instruction.
 - Use practice and formative checks to identify readiness and reteach needs.
 - Grade all remaining work and clear the lab backlog.
@@ -111,7 +107,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 
 ### During Class
 
-- Use a brief whiteboard retrieval prompt tied to the assigned prep, sequence, quantity/units, or watch-for cue; then move into Notebook. Pen. Plan. and the Production Check.
+- Begin with Notebook. Pen. Plan. and the Production Check; clarify sequence, quantity, or units when needed.
 - Execute Bistro Prep.
 - Reinforce Friday roles, standards, and escalation paths.
 - Monitor food safety, production pace, labels, storage, and station readiness.
@@ -123,6 +119,7 @@ The TA offers evidence and may draft approved lesson components. The instructor 
 - Update the weekly planning document.
 - Identify product, staffing, equipment, timing, and safety risks.
 - Verify all prep is complete or assign a controlled recovery plan.
+- Complete the hot-line and barista setup checks in the team SOPs; name an owner for any remaining Friday activation work.
 - Leave the room turnkey for Friday.
 
 Use current [Bistro Operations](../02_Bistro/Operations/05_Bistro_Operations.md) and team SOPs for service-specific requirements.

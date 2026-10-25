@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: October 17, 2026
+Last updated: October 25, 2026
 
 ## Purpose
 
@@ -219,7 +219,7 @@ Instructor retains final authority over safety, allergens, equipment, grades, di
 
 Use the adopted **Prototype E** format for Culinary 1 and Culinary 2: one weekly overview page followed by one separate full page per instructional day (normally six pages). The overview contains the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles. Use week/day labels without calendar dates; consult the current calendar separately.
 
-Daily pages show Learning Target; compact Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Watch For; If There Is Extra Time (including time-lost adjustment); Clean Stop with exit reflection; compact supporting notes when useful; and Notes for Next Time. Instructor and Teaching Assistant share the same guide.
+Daily pages show Learning Target; Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Clean Stop with exit reflection; useful supporting notes; and Notes for Next Time. Embed essential checks and Core/Flexible Learning/time-lost adjustments. Separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks are removed; whiteboard retrieval is optional. Instructor and Teaching Assistant share the guide.
 
 Use Arial, US Letter portrait, 0.5-inch margins, 20 pt titles, 13 pt blue headings (`#366091`), 12 pt body/subtitle, and 11 pt supporting notes. Balance spacing/type to fill the printable area; keep each day on its own page with explicit page breaks and verify the rendered layout. Preserve Core/Flexible Learning, supporting systems, safety/authorization gates, individual evidence, and section continuation. Do not turn every micro-skill into paperwork. Follow the current DTG standard, template, and design guidance.
 
@@ -249,3 +249,12 @@ Update this retrieval aid whenever a permanent change affects a high-frequency f
 ## Bistro and Student Recipe Printables
 
 Use the [current recipe printable standard](../04_Recipes/Standard_Recipe_Format.md#bistro--student-printable-format) and [reusable template](../06_Templates/Bistro_Recipe_Printable_Template.md). The instructor approved the Chicken Bog layout on October 5, 2026: small Bistro identifier, prominent title, compact yield/portion/oven/cook line, one ingredient per line with bold quantity and unit, numbered directions with bold action labels, and a short quality check. Use Arial and black text on US Letter portrait; aim for one readable page for a short recipe. Ingredient tables are no longer the default. Keep timing sheets separate unless an integrated version is requested. Preserve verified formula details and essential safety controls; permanent Recipe Bank documentation remains required.
+
+## October 25 Catch-Up — Current Implementation
+
+- Monday–Thursday labs, including Bistro Prep: one overall 0–5 performance score per student per day.
+- Friday Bistro: Performance 45%, Reset 45%, Reflection 10%, each on 0–5; no separate opening score. Keep rubric references separate.
+- Employability/Bistro baseline-four direction is recorded; full conversion, eligible blank-entry verification, adult recording-failure workflow, gradebook aggregation, and absence/makeup reconciliation remain D001. Do not invent percentage formulas or auto-fill absent/unobserved work.
+- Repeated footwear noncompliance: first warning, second parent communication, third administrative referral; proper footwear remains a kitchen-access gate.
+- Thursday hot-line/barista setup requires visible ownership/completion and Friday verification. Three line cooks/stronger barista staffing is a current adjustable arrangement. Build references remain available; drink memorization is not required.
+- Use the [October 25 decision](../00_Core/2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md) and current Assessment System/SOPs. Older uploaded copies of this Quick Reference do not override GitHub.

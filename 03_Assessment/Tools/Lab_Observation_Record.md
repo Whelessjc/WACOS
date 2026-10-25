@@ -1,45 +1,24 @@
-# Lab Observation Record
+# Weekly Lab Observation Record
 
-> Teacher record. Instructor review required before use as a student handout.
+> Teacher record. Instructor review required before student use. Keep the rubric/scale reference on a separate sheet.
 
-**Student:** ____________________  **Date:** __________  **Class:** __________
+**Course / section:** __________ **Week:** __________ **Observers:** __________
 
-**Lab / product:** ____________________  **Partner/group:** ____________________
+One overall performance score, 0–5, per student per day. Thursday includes Bistro Prep. Friday uses the separate Bistro record. Readiness, safe/sanitary process, technique, communication, product when relevant, and reset inform the single score.
 
-**Learning target:** __________________________________________________________
+| Student | Monday | Tuesday | Wednesday | Thursday |
+|---|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
-**Focus criteria (choose 1–2):** 1. ____________________  2. ____________________
+**Daily targets / assignments:** __________________________________________________
 
-**Scale:** `4` exceeds · `3` meets · `2` approaches · `1` does not yet meet · `NO` not observed/insufficient evidence
+**Dated exception evidence / absence or reassignment context / follow-up:**
 
-| Evidence area | Concise standard | Level | Brief decisive evidence only |
-|---|---|:---:|---|
-| Readiness and planning | Ready for Kitchen Mode; reads, sequences, and prepares the work. |  |  |
-| Safe, sanitary, organized work | Uses safe practices, prevents contamination, and maintains an orderly station. |  |  |
-| Technique and process | Applies the target technique and responds to checkpoints/coaching. |  |  |
-| Product result | Meets the stated quality target when product evidence is appropriate. |  |  |
-| Shutdown, reset, reflection | Stores, cleans, resets, and identifies a useful next step. |  |  |
+________________________________________________________________________________
 
-**Instructor checkpoints:** [ ] plan/mise en place  [ ] technique  [ ] safety/sanitation  [ ] doneness/quality  [ ] other: __________
-
-**Product-quality check used?** [ ] Yes  [ ] No—not the target / not appropriate
-
-**Individual evidence in partner/group work:** ______________________________________________
-
-**Safety/sanitation intervention requiring separate instructor review?** [ ] No  [ ] Yes
-
-## Student Exit Prompt
-
-Name one standard you met with evidence and one specific move for your next lab.
-
-______________________________________________________________________________
-
-## Optional Focus Criteria Bank
-
-- **Knife skills:** safe grip and movement; consistent cut; usable yield; controlled pace.
-- **Baking:** accurate scaling; mixing method; time/temperature control; structure and doneness.
-- **Cooking methods:** heat control; doneness check; method sequence; appropriate recovery.
-- **Recipe execution:** reads first; scales accurately; follows sequence; communicates deviations.
-- **Production:** organizes batches; protects holding/quality; communicates timing; controls waste.
-- **Teamwork:** owns assigned work; communicates early; supports without taking over; explains individual contribution.
-- **Cleanup:** cleans as work proceeds; stores/labels correctly; completes assigned close; resets for the next group.
+The instructor assigns final grades. A missing-work placeholder of one is not an earned performance level; identify its context in approved records. Unobserved work is not automatically failure. Do not auto-fill blanks or calculate percentages until the pending rules in the [Assessment System](../06_Assessment_System.md) are confirmed. Individual evidence governs group work.

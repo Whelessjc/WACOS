@@ -126,7 +126,7 @@ Avoid grading personality. Grade visible professional habits.
 
 Fast evidence method:
 
-Use a simple daily mark, short note, or four-level scale. Record exceptions and patterns rather than writing a paragraph for every student.
+Use the current 0–5 lab/Bistro records and concise exception notes. Follow the Assessment System for pending conversion and blank-entry rules; do not restore the retired four-level conversion.
 
 ## Lab Grading in Practice
 

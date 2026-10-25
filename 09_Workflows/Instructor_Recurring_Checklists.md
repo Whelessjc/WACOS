@@ -138,7 +138,14 @@ Use this as the single recurring startup checklist. Dated items below apply only
 ### Five-Team Rotation Check
 
 - [ ] Keep the same five instructional teams for Bistro service.
-- [ ] Keep each team in its position for two consecutive services.
+- [ ] Confirm current instructor-directed placements and staffing needs; do not schedule automatic rotations.
 - [ ] Continue weekly lab jobs during Thursday Bistro Prep.
 - [ ] Use Bistro-position duties during Friday service.
 - [ ] Confirm one Expo / Floaters student anchors Expo during active service.
+
+## Thursday-to-Friday Station Verification
+
+- [ ] Confirm named owners completed the [hot-line setup check](../02_Bistro/SOPs/Line_Cooks_Team_SOP.md#thursday-setup-and-friday-verification).
+- [ ] Confirm named owners completed the [barista setup check](../02_Bistro/SOPs/Barista_Team_SOP.md#thursday-setup-and-friday-verification).
+- [ ] Identify remaining Friday activation work, shortages, owner, and handoff.
+- [ ] Friday: verify actual readiness and adult coverage before production.

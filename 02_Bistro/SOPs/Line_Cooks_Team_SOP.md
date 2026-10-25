@@ -1,6 +1,6 @@
 # Line Cooks Team SOP
 
-Current as of September 12, 2026.
+Current as of October 25, 2026.
 
 ## Mission
 
@@ -17,6 +17,18 @@ Line Cooks operate inside the permanent Bistro Rhythm. They arrive Work Ready, o
 - Verify labels, storage, holding, thermometers, sanitation, and quality controls.
 - Prepare visible physical production cues appropriate to the current menu, such as plates, pans, vessels, or key food components.
 - Communicate shortages, safety concerns, and delays; confirm the Expo / Floaters handoff.
+
+## Thursday Setup and Friday Verification
+
+Give each setup task an owner and visible completion status using the current menu, recipes, and assigned quantities.
+
+- [ ] Verify required mise en place, approved storage/labels, and identified shortages.
+- [ ] Stage or identify pans, tools, serving vessels, physical production cues, and station supplies.
+- [ ] Confirm authorized equipment and current sanitation/holding/thermometer controls; identify Friday activation tasks.
+- [ ] Confirm Expo communication, production cues, pass/handoff route, and each cook's assigned work.
+- [ ] Record unfinished work, location, next action, and responsible person.
+
+Friday opening verifies the actual line before production. Never leave food outside approved storage or equipment operating overnight just to call setup complete. The current three-cook arrangement is adjustable to menu, staffing, readiness, and demand; it is not a permanent headcount rule.
 
 ## Production Ticket Ownership
 

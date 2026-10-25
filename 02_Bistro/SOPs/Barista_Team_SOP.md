@@ -1,6 +1,6 @@
 # Barista Team SOP
 
-Current as of September 19, 2026.
+Current as of October 25, 2026.
 
 ## Mission
 
@@ -21,6 +21,20 @@ Students do not need to memorize every drink before service. They need to know h
 - Confirm the ticket printer and small table between POS and Barista are ready.
 - Establish the ticket-control area, handoff table, and completed-ticket stabber. When dual rails are used, **FUTURE** means not yet released and **CURRENT** means actively owed.
 - Report missing stock or equipment problems; do not invent workarounds.
+
+## Thursday Setup and Friday Verification
+
+Use the current menu and build references rather than inventing pars or drink formulas. Give each setup task an owner and visible completion status.
+
+- [ ] Current drink/pastry menu, build references, known changes, shortages, and assigned production are available.
+- [ ] Verify ingredients, cups/lids, serving tools, cleaning supplies, and other menu-specific stock; prepare/store/label under current procedures.
+- [ ] Identify equipment and supplies at their working locations; identify any setup that must wait until Friday.
+- [ ] Prepare ticket receiving/control, active work, and handoff areas so orders remain visible and separate from clutter.
+- [ ] Assign who receives/calls tickets, makes items, verifies/hands off, and restocks/resets. Students may combine duties when practical; these are station tasks, not new Bistro jobs.
+- [ ] Have students locate and explain the current builds using references; rehearse the ticket-to-handoff sequence before live service when readiness requires it. Memorization is not required.
+- [ ] Record remaining Friday activation work, shortages, owner, and handoff. Setup does not mean leaving food out or equipment operating overnight.
+
+On Friday, verify actual stock, authorized equipment readiness, build access, role clarity, and ticket/handoff flow before production. Report unresolved gaps to the instructor. During service, communicate delays or loss of station control early and use the current reset/clean/restock routine.
 
 ## Ticket and Production Flow
 

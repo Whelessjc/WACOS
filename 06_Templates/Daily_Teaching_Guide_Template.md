@@ -37,7 +37,7 @@ List only the limited set of new terms needed for the work, communication, or la
 
 ### Program-Wide Fundamentals
 
-State shared supporting systems and routines once. Include the Monday–Thursday small-whiteboard retrieval routine, current readiness/planning, communication, sanitation, safe stop, and reset expectations as relevant. Whiteboard retrieval does not replace Notebook. Pen. Plan.
+State shared systems once: Notebook. Pen. Plan., current readiness, communication, sanitation, safe stop, and reset. Use retrieval only when useful; no mandatory daily whiteboard block.
 
 ### Shared Adult Roles
 
@@ -67,31 +67,19 @@ Reference current governing sources and clearly identify any actual planning dec
 
 Materials, instructor preparation, and required verification/authorization.
 
-### Whiteboard Retrieve — Monday–Thursday | 2–3 min
-
-Use one short prompt tied directly to learning students need for the day's work. Students retrieve from memory before opening notes, recipes, or slides. Ask them to recall, sequence, sketch, label, or explain; scan responses quickly and correct only what is missing or inaccurate. Keep it low-stakes and fast. Friday normally begins with Bistro operational readiness rather than a required whiteboard prompt.
-
 ### Teach / Show
 
-Teach or demonstrate only what the retrieval check and today's new learning require; identify relevant supporting systems.
+Teach only what is new, unsafe, misunderstood, or needed for the work. Embed likely errors and essential safety, quality, and understanding checks here.
 
 ### Students Do
 
-Essential learning and authentic individual performance evidence. Include the opening task, immediate plan, and required safety/authorization gates where they belong.
+**Core Learning:** essential work and individual evidence, including opening, immediate plan, and safety/authorization gates.
+
+**Flexible Learning / adjustment:** useful continuation when ready, what may move if time is lost, and the clean stopping point. Keep this within Students Do.
 
 ### Micro-Skills / If They Come Up
 
 Expected just-in-time micro-skills and useful refinements. Keep these compact rather than making every micro-skill a separate objective, worksheet, or grade.
-
-### Watch For
-
-Likely errors, safety concerns, and quality/understanding checks.
-
-### If There Is Extra Time
-
-Useful extension or next logical sequence element.
-
-**If time is lost:** adjustment that protects Core Learning, safety, and reset.
 
 ### Clean Stop
 

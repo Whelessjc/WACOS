@@ -1,8 +1,8 @@
 # Core Manual Traceability
 
-West Ashley Culinary Core Manual, Version 1.5
+West Ashley Culinary Core Manual, Version 1.7
 
-Current as of October 17, 2026
+Current as of October 25, 2026
 
 This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` to the source documents and decisions used to synthesize it. It is intended to support future maintenance, audit, and revision.
 
@@ -84,3 +84,7 @@ The instructor-approved [Culinary 1 redesign](2026-10-17_Culinary_1_Bistro_Funda
 ## October 17, 2026 — Culinary 2 redesign (S020)
 
 The [approved decision](2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md) updates the Culinary 2 framework and [governing pacing](../01_Curriculum/Culinary_2/01_Modular_Pacing_Guide.md): prerequisite instruction, three-week bootcamp, supported ownership, yearlong regional/favorite/international applications, event replacement and complete work. Old fixed topic calendars, mandatory rotations, automatic spring C1 Week 4 opening and alternative capstone options are superseded. The chosen scope carries no full-coverage/waiver claim. Prior detailed plans remain historical, not operating authority.
+
+## October 25, 2026 — Catch-Up Reconciliation (S021)
+
+The [approved catch-up decision](2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md) supersedes older assessment conversion/deduction descriptions in historical traceability rows. The Core Manual and Assessment System now describe one daily 0–5 lab score, Friday Bistro Performance/Reset/Reflection at 45/45/10, and baseline-four direction with unresolved implementation in D001. Footwear escalation, explicit station setup checks, adjustable staffing, and the simplified Prototype E presentation are aligned in current operating documents. Course-category weights, safety authority, accommodations, and student privacy remain unchanged.

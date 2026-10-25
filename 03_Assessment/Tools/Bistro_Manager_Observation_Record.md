@@ -1,29 +1,26 @@
-# Bistro Observation Record
+# Bistro Manager Observation Record
 
-> One universal paper record for instructor and Teaching Assistant use across all Bistro jobs. The observer records evidence; the instructor assigns the final grade.
+> Teacher record. Instructor review required before student use. Keep the rubric/scale reference separate.
 
-**Date:** __________  **Class:** __________  **Observer/initials:** __________
+**Course / section:** __________ **Friday / service:** __________
 
-| Student | Bistro Job | Opening / Readiness | Active Service | Closing / Reset | Brief note | Initials |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
-|  | Service / Barista / Kitchen / Support / Expo / Floaters |  |  |  |  |  |
+**Instructor coverage:** __________ **Teaching Assistant coverage:** __________
 
-**Evidence codes:** E = exceptional evidence · M = meets · C = coaching needed · N = not met · NO = not observed/insufficient evidence
+| Student | Assigned job | Performance 45% | Reset 45% | Reflection 10% |
+|---|---|:---:|:---:|:---:|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
-**Reassignments / partial service / absences:** ______________________________________________
+Record each component on a 0–5 scale. Opening is an operating gate and informs performance; it has no separate scoring column. Thursday Prep belongs to the lab record.
 
-**Service-wide note:** ____________________________________________________________________
+**Concise exception evidence / reassignment / partial attendance / missing work:**
 
-Use the same evidence language regardless of observer or assigned job. NO is not failure. This record supplies evidence for an accumulated Bistro grade; it is not mechanically averaged.
+________________________________________________________________________________
 
+Current jobs: Service, Barista, Line Cooks, Support, Expo / Floaters. Placements respond to readiness and operating need. Keep an accountable Expo anchor during active service.
 
-## Bistro Job Observation and Support
-
-Current jobs are **Service, Barista, Line Cooks, Support/KP, and Expo / Floaters**. Students are placed rather than automatically rotated. When observing Expo / Floaters, distinguish the Expo anchor from authorized floating work: one student remains accountable for Expo/pass during active service while other trained team members deploy.
+The instructor combines adult evidence and assigns final grades. Baseline-four direction is recorded; conversion, blank-entry verification, and gradebook aggregation remain pending in the [Assessment System](../06_Assessment_System.md). Do not silently treat absence or unobserved work as four. A missing-work one is a placeholder, not an earned performance level.
