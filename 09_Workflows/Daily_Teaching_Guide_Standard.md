@@ -2,11 +2,15 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
-**Last revised:** October 25, 2026
+**Last revised:** October 26, 2026
 
 ## Adopted Format — Prototype E
 
 **Adopted:** October 3, 2026. Prototype E replaces the Prototype D pilot as the current DTG presentation format for Culinary 1 and Culinary 2.
+
+### Culinary Comprehension Addition — Approved October 26, 2026
+
+Applies to Culinary 1 and Culinary 2 within Prototype E; no additional grading category, mandatory worksheet, or new standalone block for every micro-skill. The weekly overview states **Culinary Understanding This Week** in one or two student-friendly sentences: the transferable principles the recipes will make visible. The daily **Learning Target** begins with a concise **I can...** statement, followed by Knowledge, Skill and Professional Thinking. Within **Teach / Show**, use a brief **recipe-to-action check**: students interpret one or two meaningful recipe verbs, identify the action they require, and name relevant sensory or measured completion cues. Within **Students Do**, observe whether an individual can explain, perform, evaluate, and transfer with appropriate independence; distinguish prompted work from demonstrated understanding. **Clean Stop / Exit** uses a brief oral or practical reflection in student language. Do not require writing unless it serves the learning. These additions fit existing headings, preserve Core/Flexible Learning, safety and authorization, and avoid turning the DTG into a script.
 
 ### Weekly Overview — Page 1
 
@@ -18,9 +22,9 @@ Give each instructional day its own full page, with an explicit page break befor
 
 Use these daily elements in order:
 
-1. **Learning Target**
+1. **Learning Target** — student-language "I can" statement followed by the established Knowledge, Skill and Professional Thinking
 2. Compact **Knowledge / Skill / Professional Thinking**
-3. **Key Terms**
+3. **Key Terms** — teach language in context, not an automatic vocabulary worksheet
 4. **Before Class — Set Up**
 5. **Teach / Show** — essential instruction, likely errors, safety and quality checks.
 6. **Students Do** — opening/readiness, Core Learning, individual evidence, and a compact Flexible Learning/time-lost adjustment within the same section.
