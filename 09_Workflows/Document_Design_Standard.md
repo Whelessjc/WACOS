@@ -114,14 +114,14 @@ Choose the structure that fits the work while applying the same typography, colo
 
 Prototype E is the adopted teaching-guide format. Begin with one weekly overview page, followed by one separate full page for each instructional day. Put the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles on the overview. Daily pages use this working family:
 
-- Learning Target
+- Learning Target in student-friendly "I can..." language
 - compact Knowledge / Skill / Professional Thinking
 - Key Terms
 - Before Class — Set Up
 - Teach / Show
 - Students Do
 - Micro-Skills / If They Come Up
-- Embed safety, quality, and understanding checks within Teach / Show and Students Do.
+- Embed safety, quality, and understanding checks within Teach / Show and Students Do. Include a brief recipe-to-action check (verb, required action, and sensory/measured cue) and individual evidence of explanation, execution and adjustment when applicable; do not add routine worksheets. The weekly overview names Culinary Understanding This Week.
 - Identify Core/Flexible Learning and time-lost adjustment within Students Do.
 - Clean Stop
 - Notes for Next Time
