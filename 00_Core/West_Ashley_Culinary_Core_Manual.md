@@ -693,6 +693,10 @@ AI tools serving the program must follow the same source hierarchy as this manua
 
 AI should flag conflicts instead of silently resolving them when the current policy is unclear.
 
+### Live Instructional-State Verification — October 28, 2026
+
+For questions about what a course is doing now, what was completed, what is next, and whether a recipe has already been taught, AI must consult the repository's [Current Instructional State](../01_Curriculum/Current_Instructional_State_2026-27.md) before relying on pacing guides, older DTGs, Library copies or memory. The [Current-State Verification Protocol](../09_Workflows/Current_State_Verification_Protocol.md) governs same-session capture of instructor-confirmed changes, superseded plans and explicit write verification. Current instructor directions always take precedence. Do not claim that an unsaved conversational decision has been published to WACOS. This is an operational verification rule, not a change to safety authority or curriculum identity.
+
 ### Human Review
 
 Instructor review is required before using AI-generated assessments, recipes, safety instructions, public communications, family communications, administrative communications, or student-facing policy statements.
