@@ -4,6 +4,10 @@
 **Adopted:** July 24, 2026
 **Last revised:** October 26, 2026
 
+## Current-state preflight — adopted October 28, 2026
+
+Before preparing or answering questions about a **current** lesson, next week, completed dishes, or recipe selection, read the live [Current Instructional State](../01_Curriculum/Current_Instructional_State_2026-27.md) and follow the [Current-State Verification Protocol](Current_State_Verification_Protocol.md). Instructor-confirmed pivots supersede prior DTGs, generated lesson files and pacing suggestions. Do not present an older draft as today's lesson or a completed dish as a new lesson. Record material instructor-confirmed changes in WACOS during the same session when write access is available, and verify the commit before claiming publication. The live record is operational; it does not replace the Core Manual or safety SOPs.
+
 ## Adopted Format — Prototype E
 
 **Adopted:** October 3, 2026. Prototype E replaces the Prototype D pilot as the current DTG presentation format for Culinary 1 and Culinary 2.
