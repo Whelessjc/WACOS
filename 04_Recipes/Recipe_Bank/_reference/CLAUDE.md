@@ -1,3 +1,5 @@
+> **Historical archive-import evidence only.** Retained for provenance; not current WACOS instructions or printed recipe standards. Use [current Standard Recipe Format](../../Standard_Recipe_Format.md) and current instructor decisions.
+
 # Recipe Bank Standardization
 
 ## What This Project Is

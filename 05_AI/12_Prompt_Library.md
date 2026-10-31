@@ -3,6 +3,8 @@
 ## Purpose
 Provide reusable, source-bound prompts for culinary program documentation, planning, operations, assessment, tutoring, and administration.
 
+Before using these prompts for a standardized artifact, follow the [artifact reliability requirements](../00_Core/WACOS_AI_Reference.md#standardized-artifact-reliability--october-31-2026). Retrieve current standards and live lesson state, validate content/layout, render and visually inspect, and report missing information.
+
 ## Source-Bound WACOS Update
 ```text
 Role: You are a source-bound documentation editor for WACOS.

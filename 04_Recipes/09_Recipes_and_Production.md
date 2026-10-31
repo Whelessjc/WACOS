@@ -22,14 +22,9 @@ Permanent Recipe Bank records include:
 - Skill focus.
 
 For Bistro and student-facing printables, follow the [Standard Recipe Format](Standard_Recipe_Format.md#bistro--student-printable-format) and [Bistro Recipe Printable Template](../06_Templates/Bistro_Recipe_Printable_Template.md):
-1. Recipe title with a small Bistro identifier when appropriate.
-2. Compact yield, portion, and applicable oven/cooking information.
-3. One ingredient per line with **quantity and unit in bold**, followed by the ingredient and preparation detail. Ingredient tables are no longer the default.
-4. Numbered **DIRECTIONS** with short bold action labels; essential equipment and safety/doneness checks belong in the relevant step.
-5. An optional concise **QUALITY CHECK** only when it materially helps execution or evaluation.
-6. Relevant holding, storage, reheating, or service notes only as needed.
+Use the instructor-approved **Cheeseburger Sliders one-page format**, adopted October 31, 2026: prominent bold title; yield and useful cooking information directly below; simple ingredients with bold measurements; numbered directions with bold action headers. Embed essential temperatures, timing, doneness, safety, and relevant production controls in the directions. Use readable Arial, black text, balanced spacing, US Letter portrait, and a one-page target when practical.
 
-Use the instructor-approved October 5, 2026 Chicken Bog layout, as simplified October 18, 2026: Arial, black text, US Letter portrait, readable spacing, and preferably one page for a short recipe. Keep a timing sheet or production plan separate unless an integrated version is requested. Do not add a subtitle by default, separate Allergens or Skill Focus sections, a routine Instructor Review block, or a student planning section to the printable. Omit optional sections that do not improve station use. Unresolved details still require instructor confirmation before production, and permanent Recipe Bank records retain all required documentation.
+Do not routinely add course/class identifiers, separate allergens, skill focus, equipment lists, scaling notes, quality-check sections, commentary, or extra paperwork. Keep production/purchasing calculations separate. Preserve verified formula details and resolve missing information before production. The complete Recipe Bank record above supports source verification; it is not a 13-field printed recipe requirement. Older presentation instructions remain historical evidence in the [retired archive](../99_Archive/2026-10-31_Retired_Recipe_Presentation/README.md).
 
 ## Production Packet
 For Bistro or larger labs, attach:

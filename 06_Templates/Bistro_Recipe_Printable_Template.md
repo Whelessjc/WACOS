@@ -1,14 +1,10 @@
-# Bistro Recipe Printable Template
+# Recipe Printable Authoring Template
 
-Use the [Standard Recipe Format](../04_Recipes/Standard_Recipe_Format.md#bistro--student-printable-format) for layout, content controls, and review requirements. This is an authoring template; replace bracketed fields and omit inapplicable metadata before delivery.
+Follow the [current Standard Recipe Format](../04_Recipes/Standard_Recipe_Format.md#bistro--student-printable-format), adopted October 31, 2026 from the instructor-approved Cheeseburger Sliders design. This authoring guidance and bracketed fields do not appear in the delivery copy. Retrieve and verify the actual recipe source first; do not invent missing quantities, yield, method, or controls.
 
-THE BISTRO
+# [Recipe Name — prominent and bold]
 
-# [Recipe Name]
-
-[No subtitle by default.]
-
-**Yield:** [verified yield] | **Portion:** [verified portion size] | **Oven:** [if applicable] | **Cook:** [estimated cooking time, if applicable]
+**Yield:** [verified yield] | [useful verified cooking information only]
 
 ## INGREDIENTS
 
@@ -18,11 +14,9 @@ THE BISTRO
 
 ## DIRECTIONS
 
-1. **Prepare.** [Required equipment, preheating, and ingredient preparation.]
-2. **[Action].** [Concise method and relevant sensory cues.]
-3. **[Action].** [Continue in production order; include applicable safety and doneness checks.]
-4. **Finish.** [Final seasoning, portioning, and service directions as applicable.]
+1. **Prepare.** [Necessary preparation and authorization before work.]
+2. **[Action].** [Complete instructions, with relevant temperature, timing, and sensory/measured cues.]
+3. **[Action].** [Continue in production order; preserve essential food-safety and doneness controls.]
+4. **Finish.** [Portion/service instructions and required holding, cooling, storage, or discard controls when relevant.]
 
-[OPTIONAL — include a QUALITY CHECK section only when it materially helps execution or evaluation. Omit otherwise.]
-
-[OPTIONAL — include holding, cooling, storage, reheating, or service notes only when relevant; essential safety controls belong in the directions at point of use. Keep the timing sheet separate unless requested.]
+Authoring check: US Letter portrait, readable Arial, black text, balanced spacing, bold measurements and action headers, and one page when practical. No routine class/course labels, allergen section, skill focus, equipment list, scaling notes, commentary, or planning blocks. Keep essential safety and production requirements. Render and visually inspect before delivery.

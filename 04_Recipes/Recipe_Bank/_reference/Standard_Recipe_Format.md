@@ -1,3 +1,5 @@
+> **Historical archive-import evidence only.** Retained for provenance; not current WACOS instructions or printed recipe standards. Use [current Standard Recipe Format](../../Standard_Recipe_Format.md) and current instructor decisions.
+
 # Standard Recipe Format
 
 Source: `09_Recipes_and_Production.md` (West Ashley Culinary operating documentation). This is the format every entry in the Recipe Bank follows - use it exactly when processing the historical archive.

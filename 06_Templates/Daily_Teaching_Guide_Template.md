@@ -1,6 +1,6 @@
 # Weekly Teaching Guide — Prototype E
 
-> Adopted instructor/Teaching Assistant working format. Use one weekly overview page, then one separate full page for each instructional day. A normal Monday-Friday guide is six pages. Use week/day identifiers without calendar dates. Follow the learning sequence, adjust to the available block, and record where each section stops. Student-facing materials require instructor review before use.
+> Sole active weekly teaching-guide format: Prototype E, adopted October 3 and revised October 26, 2026. Instructor/Teaching Assistant working format. Use one weekly overview page, then one separate full page for each instructional day. A normal Monday-Friday guide is six pages. Use week/day identifiers without calendar dates. Follow the learning sequence, adjust to the available block, and record where each section stops. Student-facing materials require instructor review before use.
 
 ## Print Setup
 

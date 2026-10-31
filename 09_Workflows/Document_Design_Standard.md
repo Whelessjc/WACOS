@@ -112,7 +112,7 @@ Choose the structure that fits the work while applying the same typography, colo
 
 ### Daily Teaching Guide / Instructor Lesson
 
-Prototype E is the adopted teaching-guide format. Begin with one weekly overview page, followed by one separate full page for each instructional day. Put the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles on the overview. Daily pages use this working family:
+Prototype E, adopted October 3 and revised October 26, 2026, is the sole active weekly teaching-guide format. Begin with one weekly overview page, followed by one separate full page for each instructional day. Put the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles on the overview. Daily pages use this working family:
 
 - Learning Target in student-friendly "I can..." language
 - compact Knowledge / Skill / Professional Thinking

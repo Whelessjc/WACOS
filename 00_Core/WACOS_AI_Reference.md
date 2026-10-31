@@ -2,7 +2,7 @@
 
 For ChatGPT, Codex, Custom GPTs, and Future AI Assistants
 
-Current as of July 4, 2026
+Reliability guidance updated October 31, 2026
 
 ## Program Snapshot
 
@@ -41,6 +41,16 @@ When sources conflict, use this order:
 6. Brainstorming transcripts, alternate drafts, and retired systems.
 
 Flag conflicts instead of inventing policy.
+
+## Standardized Artifact Reliability — October 31, 2026
+
+1. Retrieve and read the current governing standard and applicable template from WACOS on `main` before generating a standardized artifact. Name the sources used; if retrieval fails, identify the gap rather than claiming compliance.
+2. Prefer current instructor-confirmed decisions over older documents. Resolve conflicts through the source hierarchy; never treat archived templates, prior AI outputs, or uploaded reference copies as governing standards.
+3. For active lessons, verify the [Current Instructional State](../01_Curriculum/Current_Instructional_State_2026-27.md) under the [verification protocol](../09_Workflows/Current_State_Verification_Protocol.md). Separate confirmed teaching/completion from proposed work and validation examples.
+4. Check required content and formatting against the retrieved standard before delivery, including source consistency, safety, readability, and page breaks.
+5. Render generated documents and visually inspect every page. Correct clipping, overflow, blank pages, and misplaced page breaks; a successful export alone is insufficient. If rendering/inspection is unavailable, report the unverified state.
+6. Identify missing quantities, yields, dates, methods, or other information explicitly. Do not invent it or hide an unresolved requirement in a polished artifact.
+7. Keep Project instructions concise: link to current standards rather than copying full specifications. Instructor review remains required before classroom use or Drive publication.
 
 ## Core Operating Assumptions
 

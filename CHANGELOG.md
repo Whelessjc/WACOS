@@ -1,3 +1,14 @@
+## 2026-10-31 — Recipe, Teaching Guide, and AI Reliability Corrections
+
+### Approved Program Decision
+
+- Replaced the earlier printed recipe presentation with the instructor-approved Cheeseburger Sliders design, verified against the supplied DOCX. Preserved source-record requirements while removing routine printed metadata/paperwork; retained essential safety and production controls in the directions.
+- Updated recipe standard, printable template, production guidance, template index, and AI retrieval reference. Archived the former recipe presentation and marked imported recipe-standardization references as historical evidence.
+- Confirmed Prototype E (October 3 adoption / October 26 comprehension revision) as the sole active weekly presentation. Aligned overview requirements and quick-reference guidance on Culinary Understanding This Week, recipe-to-action checks, individual evidence, Core/Flexible Learning, clean stops, and continuation.
+- Required current-standard retrieval, instructor-decision precedence, live lesson verification, content/layout checks, rendering and visual inspection, explicit gaps, and rejection of archives/prior AI outputs as authority. Replaced stale AI upload guidance with current sources and concise Project instructions.
+- Validation: one-page Sliders recipe and complete four-day Prototype E guide (overview plus four daily pages); rendered and visually inspected all pages, verified source/formula consistency and document structure, and checked affected Markdown links and conflicts. Generated files remain local/ignored. Arial is specified in DOCX; cloud rendering uses Liberation Sans substitution.
+- Project Knowledge replacements and Project instruction update remain manual; no classroom schedule, recipe formula, safety authority, or student record was changed.
+
 ## 2026-10-25 — Reconcile Assessment, Readiness, and Bistro Practice
 
 ### Program Decision and Related Quick Edits

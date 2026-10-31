@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: October 25, 2026
+Last updated: October 31, 2026
 
 ## Purpose
 
@@ -215,11 +215,15 @@ Use **Released from Duties** when a student entered practical work but continued
 
 Instructor retains final authority over safety, allergens, equipment, grades, discipline, district/legal compliance, food release, student-specific judgments, and unconfirmed financial controls.
 
+## Before Generating a Standardized Artifact
+
+Follow the [artifact reliability requirements](../00_Core/WACOS_AI_Reference.md#standardized-artifact-reliability--october-31-2026): retrieve the current governing document/template first, apply current instructor decisions, verify live instructional state, check content and formatting, render and visually inspect every page, and identify missing information without invention. Archives and prior AI outputs never govern. This quick reference does not replace retrieval.
+
 ## Lesson Planning
 
-Use the adopted **Prototype E** format for Culinary 1 and Culinary 2: one weekly overview page followed by one separate full page per instructional day (normally six pages). The overview contains the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles. Use week/day labels without calendar dates; consult the current calendar separately.
+Use the adopted **Prototype E** format for Culinary 1 and Culinary 2: one weekly overview page followed by one separate full page per instructional day (normally six pages). The overview contains the Weekly Anchor, Week at a Glance, **Culinary Understanding This Week**, new professional language, shared fundamentals, and shared adult roles. Prototype E was adopted October 3 and revised October 26, 2026; it is the sole active format. Use week/day labels without calendar dates; consult the current calendar separately.
 
-Daily pages show Learning Target; Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Clean Stop with exit reflection; useful supporting notes; and Notes for Next Time. Embed essential checks and Core/Flexible Learning/time-lost adjustments. Separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks are removed; whiteboard retrieval is optional. Instructor and Teaching Assistant share the guide.
+Daily pages show Learning Target; Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Clean Stop with exit reflection; useful supporting notes; and Notes for Next Time. Include a brief recipe-to-action comprehension check in Teach / Show: interpret a recipe verb, name the required action, and identify sensory/measured completion cues. Observe individual explanation, execution, evaluation, and transfer within Students Do. Embed essential checks and identifiable Core/Flexible Learning/time-lost adjustments, clean stopping points, and section continuation notes. Separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks are removed; whiteboard retrieval is optional. Instructor and Teaching Assistant share the guide.
 
 Use Arial, US Letter portrait, 0.5-inch margins, 20 pt titles, 13 pt blue headings (`#366091`), 12 pt body/subtitle, and 11 pt supporting notes. Balance spacing/type to fill the printable area; keep each day on its own page with explicit page breaks and verify the rendered layout. Preserve Core/Flexible Learning, supporting systems, safety/authorization gates, individual evidence, and section continuation. Do not turn every micro-skill into paperwork. Follow the current DTG standard, template, and design guidance.
 
@@ -248,7 +252,7 @@ Update this retrieval aid whenever a permanent change affects a high-frequency f
 
 ## Bistro and Student Recipe Printables
 
-Use the [current recipe printable standard](../04_Recipes/Standard_Recipe_Format.md#bistro--student-printable-format) and [reusable template](../06_Templates/Bistro_Recipe_Printable_Template.md). The instructor approved the Chicken Bog layout on October 5, 2026: small Bistro identifier, prominent title, compact yield/portion/oven/cook line, one ingredient per line with bold quantity and unit, numbered directions with bold action labels, and a short quality check. Use Arial and black text on US Letter portrait; aim for one readable page for a short recipe. Ingredient tables are no longer the default. Keep timing sheets separate unless an integrated version is requested. Preserve verified formula details and essential safety controls; permanent Recipe Bank documentation remains required.
+Retrieve the [current recipe printable standard](../04_Recipes/Standard_Recipe_Format.md#bistro--student-printable-format) and [template](../06_Templates/Bistro_Recipe_Printable_Template.md) before generation. The instructor-approved Cheeseburger Sliders one-page format, adopted October 31, supersedes previous printed presentations. Use a prominent bold title, yield/useful cooking information directly below, simple ingredients with bold measurements, and numbered directions with bold action headers and embedded essential controls. No routine course labels or extra sections/paperwork. Keep the complete source record separate from print presentation; verify details and render/inspect the result.
 
 ## October 25 Catch-Up — Current Implementation
 

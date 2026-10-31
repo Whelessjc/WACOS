@@ -3,6 +3,16 @@
 ## Purpose
 Centralize unresolved conflicts, instructor-review decisions, and source tensions so current WACOS documents stay aligned.
 
+## October 31, 2026 — Approved Reliability Corrections
+
+- **Recipe presentation:** adopt the instructor-approved Cheeseburger Sliders one-page design for all new/revised printed student and Bistro recipes. Source: instructor approval in the implementation request and supplied `Cheeseburger_Sliders_Bistro_Special (1).docx`, inspected as the visual reference. Use a bold title, immediately adjacent yield/useful cooking information, simple ingredients with bold measurements, and numbered directions with bold action headers. Embed essential temperatures, timing, doneness, safety, and applicable production controls in the directions.
+- Retire earlier printed presentations and any routine 13-field printed recipe requirement. Do not routinely add course/class labels, separate allergens, skill focus, equipment lists, scaling notes, commentary, or planning paperwork. Complete Recipe Bank source records and production/purchasing workflows remain separate. Preserve prior presentation evidence in the [retired recipe archive](../99_Archive/2026-10-31_Retired_Recipe_Presentation/README.md).
+- **Teaching guides:** Prototype E, adopted October 3 and revised October 26, is the sole active weekly format: overview plus separate daily working pages; Knowledge, Skill, Professional Thinking; Culinary Understanding This Week; recipe-to-action checks; identifiable Core/Flexible Learning; clean stops and continuation notes; approved typography/layout. Older prototypes and previous AI outputs cannot govern new guides.
+- **AI reliability:** require retrieval of current governing documents before artifact generation, current instructor-decision precedence, live instructional-state verification, content/format checks, rendering and visual inspection, and explicit identification of missing information. Keep Project instructions concise and retrieve full standards when needed.
+- Governing detail: [Recipe Standard](../04_Recipes/Standard_Recipe_Format.md), [Weekly Guide Standard](../09_Workflows/Daily_Teaching_Guide_Standard.md), and [AI Reference](WACOS_AI_Reference.md#standardized-artifact-reliability--october-31-2026).
+- Validation: generated a one-page Sliders test recipe from the supplied Bistro formula (1⅓ lb beef / 16 rolls) and a complete four-day Prototype E Week 1 guide (five pages including overview). Visually inspected all six generated pages and the reference. Checked formula/method preservation, required headings, typography, page breaks, source consistency, affected-document conflicts, and internal links. These are local validation artifacts, not new lesson approvals or published Drive materials. DOCX specifies Arial; the cloud PDF renderer uses its installed Liberation Sans substitute.
+- Manual implementation after GitHub publication: replace Project Knowledge copies and concise Project instructions using [AI setup guidance](../05_AI/README.md#chatgpt-project-knowledge). GitHub does not synchronize those uploads automatically.
+
 ## Open Decisions
 
 | ID | Area | Current Standard | Open Question |

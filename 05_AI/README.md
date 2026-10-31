@@ -31,6 +31,12 @@ When a permanent decision changes a high-frequency fact in the quick reference, 
 
 After publishing an updated quick reference, replace the copy in ChatGPT Project Knowledge and confirm its displayed update date matches the repository file. A GitHub update is not complete for Project Knowledge use until the Project copy has been refreshed. For lesson planning, direct ChatGPT to use the current `09_Workflows/Daily_Teaching_Guide_Standard.md` and relevant course guide even when the quick reference is present.
 
+### Concise Project Instructions — Replace Older Instructions
+
+> Retrieve the current WACOS governing standard and template before generating an artifact. Current instructor-confirmed decisions take precedence. For active lessons, verify Current Instructional State. Validate required content and layout, then render and visually inspect every page. Identify missing information; never invent it. Archived templates and prior AI outputs are not standards. Follow the WACOS AI Reference reliability requirements; keep detailed specifications in their governing documents.
+
+Manually replace the Project Knowledge quick reference with the October 31 version after the GitHub push. Refresh any uploaded recipe standard/template, AI Reference, AI Workflows, weekly guide standard/template, or Document Design Standard with the current repository version; remove superseded presentation copies from active knowledge. Replace older Project instructions with the short paragraph above. GitHub publication does not update Project settings or uploaded files automatically.
+
 ## Caution
 
 AI-generated recipes, assessments, safety instructions, parent/admin communications, and student-facing tools require instructor review.

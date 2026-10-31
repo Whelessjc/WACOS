@@ -699,7 +699,7 @@ For questions about what a course is doing now, what was completed, what is next
 
 ### Human Review
 
-Instructor review is required before using AI-generated assessments, recipes, safety instructions, public communications, family communications, administrative communications, or student-facing policy statements.
+Instructor review is required before using AI-generated assessments, recipes, safety instructions, public communications, family communications, administrative communications, or student-facing policy statements. Before generating standardized artifacts, follow the [AI reliability requirements](WACOS_AI_Reference.md#standardized-artifact-reliability--october-31-2026), including current-standard retrieval, content/layout validation, rendering and visual inspection, and explicit unresolved information.
 
 ---
 
@@ -770,6 +770,8 @@ Partners, guest speakers, field trips, and Hospitality Scholars experiences are 
 The Markdown category files in `04_Recipes/Recipe_Bank/` are WACOS's provisional working Recipe Bank and the factual starting point for recipe retrieval. Provisional does not mean production-approved: entries marked **Needs confirmation** and items in `_OPEN_QUESTIONS.md` require instructor review. Missing yields, portions, safety controls, storage, reheating, sources, equipment permissions, quantities, or procedures must never be silently filled.
 
 Student production recipes normally represent one student group unless clearly labeled otherwise. Teacher production and purchasing calculations remain separate and use the actual scheduled group count and usable inventory rather than a permanent multiplier.
+
+Printed recipes follow the instructor-approved Cheeseburger Sliders presentation in the [current Recipe Standard](../04_Recipes/Standard_Recipe_Format.md#bistro--student-printable-format), adopted October 31, 2026. Complete Recipe Bank source records do not impose a routine 13-field printed worksheet; preserve essential safety and production controls in concise directions.
 
 ### Equipment and Facility SOPs
 
@@ -922,6 +924,7 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.5 | 2026-10-17 | Adopted Culinary 1 practical/Bistro sequence, Week 1 prerequisite measuring, useful repetition and balanced team-building clarification; retained safety and external-requirement boundaries. |
 | 1.6 | 2026-10-17 | Adopted the Culinary 2 full-year Bistro redesign, West Ashley 25, event flexibility, and supported ownership progression. |
 | 1.7 | 2026-10-25 | Reconciled current assessment records, pending numeric implementation, footwear escalation, and related Bistro/guide updates. |
+| 1.8 | 2026-10-31 | Adopted Cheeseburger Sliders printed presentation and standardized-artifact reliability checks; preserved source records and safety authority. |
 
 
 ## Bistro Job-Placement Model — Approved September 25, 2026

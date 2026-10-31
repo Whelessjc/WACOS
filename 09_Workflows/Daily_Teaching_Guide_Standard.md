@@ -2,7 +2,7 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
-**Last revised:** October 26, 2026
+**Last revised:** October 31, 2026 (reliability alignment; comprehension revision approved October 26)
 
 ## Current-state preflight — adopted October 28, 2026
 
@@ -10,7 +10,7 @@ Before preparing or answering questions about a **current** lesson, next week, c
 
 ## Adopted Format — Prototype E
 
-**Adopted:** October 3, 2026. Prototype E replaces the Prototype D pilot as the current DTG presentation format for Culinary 1 and Culinary 2.
+**Adopted:** October 3, 2026. Prototype E is the sole active weekly teaching-guide presentation for Culinary 1 and Culinary 2, with the October 26 comprehension revision. Earlier prototypes and older generated guides are historical/supporting sources, not alternative presentation standards.
 
 ### Culinary Comprehension Addition — Approved October 26, 2026
 
@@ -18,7 +18,7 @@ Applies to Culinary 1 and Culinary 2 within Prototype E; no additional grading c
 
 ### Weekly Overview — Page 1
 
-Begin each weekly guide with one overview page containing course, unit, week, Weekly Anchor, Week at a Glance, New Vocabulary / Professional Language, shared program fundamentals, shared instructor/Teaching Assistant roles, and compact governing-source or instructor-preparation notes when useful. State the Weekly Anchor here rather than repeating it on every daily page.
+Begin each weekly guide with one overview page containing course, unit, week, Weekly Anchor, Week at a Glance, Culinary Understanding This Week, New Vocabulary / Professional Language, shared program fundamentals, shared instructor/Teaching Assistant roles, and compact governing-source or instructor-preparation notes when useful. State the Weekly Anchor here rather than repeating it on every daily page.
 
 ### Daily Working Pages
 

@@ -21,13 +21,11 @@ Document safe and useful AI workflows for culinary instruction, Bistro operation
 | Assessment drafting | Draft rubrics or practical checks for instructor approval |
 | Knowledge base maintenance | Compare new notes against WACOS and propose updates |
 
-## Custom GPT / ChatGPT Edu Package
-Recommended upload order:
-1. [00_README.md](00_README.md), [INDEX.md](INDEX.md), and [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md).
-2. Core documents [01_Program_Philosophy.md](01_Program_Philosophy.md) through [16_Future_Development.md](16_Future_Development.md).
-3. [GLOSSARY.md](GLOSSARY.md), [DECISION_REGISTER.md](DECISION_REGISTER.md), [SOURCE_MANIFEST.md](SOURCE_MANIFEST.md), and [TODO.md](TODO.md).
-4. Templates and prompts.
-5. Selected archive/source packets only after human review.
+## Artifact Reliability and Project Setup
+
+Follow the [Standardized Artifact Reliability requirements](../00_Core/WACOS_AI_Reference.md#standardized-artifact-reliability--october-31-2026): retrieve current standards before generation, honor instructor-confirmed decisions, verify live instructional state, validate content/layout, render and visually inspect, expose missing information, and reject archived templates/prior AI outputs as authority.
+
+Use the [Project setup and replacement instructions](README.md#chatgpt-project-knowledge). Upload only current, relevant sources; historical intake packages are evidence, not active standards. Keep Project instructions short and retrieve detailed standards when needed.
 
 ## Guardrails
 - Do not give students unreviewed food safety instructions.
