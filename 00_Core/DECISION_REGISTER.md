@@ -3,6 +3,13 @@
 ## Purpose
 Centralize unresolved conflicts, instructor-review decisions, and source tensions so current WACOS documents stay aligned.
 
+## November 1, 2026 — Prototype E Overview Simplification
+
+- For Culinary 1 and Culinary 2, remove routine **Shared Adult Roles** and **Supporting Preparation / Governing Sources** sections from the weekly overview. Do not replace them with new sections or filler; improve readability with the available space.
+- Keep source verification and artifact validation in the AI workflow, outside the printed teaching guide. Retain necessary day-specific materials, preparation, safety checks, and unusual adult assignments in the relevant daily working sections.
+- All other approved Prototype E requirements remain in force, including the October 26 comprehension revision, overview/daily page structure, Core/Flexible Learning, clean stops, continuation notes, typography, and layout. This supersedes earlier overview adult-role/source-note requirements; earlier dated decisions remain historical evidence.
+- Governing detail: [Weekly Teaching Guide Standard](../09_Workflows/Daily_Teaching_Guide_Standard.md), [template](../06_Templates/Daily_Teaching_Guide_Template.md), [design standard](../09_Workflows/Document_Design_Standard.md), and [AI Workflows](../05_AI/11_AI_Workflows.md).
+
 ## October 31, 2026 — Approved Reliability Corrections
 
 - **Recipe presentation:** adopt the instructor-approved Cheeseburger Sliders one-page design for all new/revised printed student and Bistro recipes. Source: instructor approval in the implementation request and supplied `Cheeseburger_Sliders_Bistro_Special (1).docx`, inspected as the visual reference. Use a bold title, immediately adjacent yield/useful cooking information, simple ingredients with bold measurements, and numbered directions with bold action headers. Embed essential temperatures, timing, doneness, safety, and applicable production controls in the directions.
@@ -60,7 +67,7 @@ Centralize unresolved conflicts, instructor-review decisions, and source tension
 ### October 3, 2026 — Adopt Prototype E Teaching-Guide Format
 
 - Instructor adopted **Prototype E** for Culinary 1 and Culinary 2, replacing the Prototype D pilot presentation.
-- Each weekly guide begins with one overview page containing the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles. Each instructional day has its own full working page; a normal five-day week has six pages.
+- Each weekly guide begins with one overview page containing the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles (the overview adult-role requirement was superseded November 1, 2026). Each instructional day has its own full working page; a normal five-day week has six pages.
 - Use week/day labels without calendar dates, explicit page breaks, and one shared instructor/Teaching Assistant guide.
 - Use US Letter portrait, 0.5-inch margins, Arial, 20 pt titles, 13 pt blue headings (`#366091`), 12 pt body/subtitle, and 11 pt supporting notes. Balance spacing/type to fill the printable area while preserving scanning and writing space.
 - The daily structure preserves Learning Target, Knowledge/Skill/Professional Thinking, Key Terms, preparation, demonstration, student work, micro-skills, checks, flexible learning/time-lost adjustments, clean stop/exit, useful supporting notes, and revision/continuation notes.

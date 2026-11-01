@@ -1,6 +1,6 @@
 # WACOS ChatGPT Quick Reference
 
-Last updated: October 31, 2026
+Last updated: November 1, 2026
 
 ## Purpose
 
@@ -221,7 +221,7 @@ Follow the [artifact reliability requirements](../00_Core/WACOS_AI_Reference.md#
 
 ## Lesson Planning
 
-Use the adopted **Prototype E** format for Culinary 1 and Culinary 2: one weekly overview page followed by one separate full page per instructional day (normally six pages). The overview contains the Weekly Anchor, Week at a Glance, **Culinary Understanding This Week**, new professional language, shared fundamentals, and shared adult roles. Prototype E was adopted October 3 and revised October 26, 2026; it is the sole active format. Use week/day labels without calendar dates; consult the current calendar separately.
+Use the adopted **Prototype E** format for Culinary 1 and Culinary 2: one weekly overview page followed by one separate full page per instructional day (normally six pages). The overview contains the Weekly Anchor, Week at a Glance, **Culinary Understanding This Week**, new professional language, and shared fundamentals. The November 1 simplification removes routine Shared Adult Roles and Supporting Preparation / Governing Sources overview sections for both courses. Do not add replacement sections or filler; use the space for readability. Keep source verification and artifact validation outside the printed guide, and necessary day-specific materials, preparation, safety checks, and unusual adult assignments in the relevant daily sections. Prototype E was adopted October 3 and revised October 26, 2026; it is the sole active format. Use week/day labels without calendar dates; consult the current calendar separately.
 
 Daily pages show Learning Target; Knowledge / Skill / Professional Thinking; Key Terms; Before Class — Set Up; Teach / Show; Students Do; Micro-Skills / If They Come Up; Clean Stop with exit reflection; useful supporting notes; and Notes for Next Time. Include a brief recipe-to-action comprehension check in Teach / Show: interpret a recipe verb, name the required action, and identify sensory/measured completion cues. Observe individual explanation, execution, evaluation, and transfer within Students Do. Embed essential checks and identifiable Core/Flexible Learning/time-lost adjustments, clean stopping points, and section continuation notes. Separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks are removed; whiteboard retrieval is optional. Instructor and Teaching Assistant share the guide.
 

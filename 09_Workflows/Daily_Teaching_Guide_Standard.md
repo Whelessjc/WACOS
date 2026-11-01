@@ -2,7 +2,7 @@
 
 **Status:** Instructor-facing WACOS operating standard
 **Adopted:** July 24, 2026
-**Last revised:** October 31, 2026 (reliability alignment; comprehension revision approved October 26)
+**Last revised:** November 1, 2026 (overview simplification; comprehension revision approved October 26)
 
 ## Current-state preflight — adopted October 28, 2026
 
@@ -18,7 +18,9 @@ Applies to Culinary 1 and Culinary 2 within Prototype E; no additional grading c
 
 ### Weekly Overview — Page 1
 
-Begin each weekly guide with one overview page containing course, unit, week, Weekly Anchor, Week at a Glance, Culinary Understanding This Week, New Vocabulary / Professional Language, shared program fundamentals, shared instructor/Teaching Assistant roles, and compact governing-source or instructor-preparation notes when useful. State the Weekly Anchor here rather than repeating it on every daily page.
+Begin each weekly guide with one overview page containing course, unit, week, Weekly Anchor, Week at a Glance, Culinary Understanding This Week, New Vocabulary / Professional Language, and shared program fundamentals. State the Weekly Anchor here rather than repeating it on every daily page.
+
+For both Culinary 1 and Culinary 2, omit the routine Shared Adult Roles and Supporting Preparation / Governing Sources sections. Do not replace them with new sections or filler; use the space for readable type and balanced spacing. Source verification and artifact validation remain in the AI workflow and are not printed as administrative information in the guide. Keep necessary day-specific materials, preparation, safety checks, and unusual adult assignments within the relevant daily working sections.
 
 ### Daily Working Pages
 
@@ -34,12 +36,12 @@ Use these daily elements in order:
 6. **Students Do** — opening/readiness, Core Learning, individual evidence, and a compact Flexible Learning/time-lost adjustment within the same section.
 7. **Micro-Skills / If They Come Up**
 8. **Clean Stop** — finish/secure/reset requirements and an exit reflection.
-9. Compact **Supporting Note** only when useful; day-specific adult roles only when different from the overview.
+9. Compact **Supporting Note** only when useful; unusual day-specific adult assignments only when needed for the work.
 10. **Notes for Next Time** — writing space for adjustments, section stop/next move, and micro-skills revealed.
 
 The October 25 catch-up removes the separate Watch For, If There Is Extra Time, and Whiteboard Retrieve blocks. Required checks remain embedded in Teach / Show and Students Do. Core Learning and Flexible Learning remain identifiable within Students Do, with a safe stopping point and section continuation. Do not restore removed blocks merely to reproduce an older template.
 
-Essential questions, predictable student questions, materials/adult roles, and instructor context remain available in the overview, setup, or compact supporting notes when useful; use N/A with a short explanation when required content does not apply. The reduced visual structure does not remove the learning or safety requirements.
+Essential questions, predictable student questions, and instructional context remain available in the relevant daily sections when useful. Put necessary materials, preparation, safety checks, and unusual adult assignments in Before Class — Set Up, Teach / Show, Students Do, or an existing compact Supporting Note as appropriate. Use N/A with a short explanation only when required daily content does not apply; do not add placeholders for removed overview sections. The reduced visual structure does not remove the learning or safety requirements.
 
 ### Print and Readability
 
@@ -73,7 +75,7 @@ Every active weekly guide makes these items immediately visible:
 8. **Clean stopping points:** where a section may pause and what must be secured before leaving.
 9. **Section continuation:** a compact record of where each section stopped and what comes next.
 
-The weekly guide also identifies Knowledge, Skill, Professional Thinking, materials/preparation, and adult roles. Essential questions, predictable student questions, detailed instructor context, and extended notes belong in compact supporting notes when they materially help instruction; they do not receive equal visual priority by default.
+The weekly guide also identifies Knowledge, Skill, and Professional Thinking, with necessary day-specific materials/preparation, safety checks, and unusual adult assignments in the relevant daily working sections. Essential questions, predictable student questions, detailed instructor context, and extended notes belong in compact supporting notes when they materially help instruction; they do not receive equal visual priority by default.
 
 ## New Vocabulary / Professional Language
 

@@ -4,7 +4,7 @@
 
 ## Print Setup
 
-US Letter portrait; 0.5-inch margins; Arial; black text; blue headings (`#366091`). Use 20 pt bold centered titles, 13 pt bold section headings, 12 pt body/subtitle, and 11 pt supporting notes. Single line spacing; balance paragraph/section spacing to fill the printable area. Increase spacing or type on shorter pages as useful. Use an explicit page break before each daily title. Keep headings with their content; retain usable note-writing space. Render and inspect every page.
+US Letter portrait; 0.5-inch margins; Arial; black text; blue headings (`#366091`). Use 20 pt bold centered titles, 13 pt bold section headings, 12 pt body/subtitle, and 11 pt supporting notes. Single line spacing; balance paragraph/section spacing to fill the printable area. Increase spacing or type on shorter pages as useful. For both courses, leave out routine adult-role and source/preparation administration on the overview; do not add replacement sections or filler. Perform source verification and artifact validation outside the printed guide. Use an explicit page break before each daily title. Keep headings with their content; retain usable note-writing space. Render and inspect every page.
 
 Dense pages require concise wording and references to governing recipes/SOPs, while preserving essential learning, safety, and authorization. Do not shrink body text to force a fit.
 
@@ -43,15 +43,6 @@ List only the limited set of new terms needed for the work, communication, or la
 
 State shared systems once: Notebook. Pen. Plan., current readiness, communication, sanitation, safe stop, and reset. Use retrieval only when useful; no mandatory daily whiteboard block.
 
-### Shared Adult Roles
-
-- **Instructor:**
-- **Teaching Assistant, when available:**
-
-### Supporting Preparation / Governing Sources — When Useful
-
-Reference current governing sources and clearly identify any actual planning decisions. Put routine readiness and safety checks in Before Class rather than presenting them as unresolved program policy.
-
 ## Daily Working Page — Repeat for Each Instructional Day
 
 **Insert an explicit page break before this title.**
@@ -70,7 +61,7 @@ Reference current governing sources and clearly identify any actual planning dec
 
 ### Before Class — Set Up
 
-Materials, instructor preparation, and required verification/authorization.
+Necessary day-specific materials, preparation, safety checks, and required authorization. Include unusual adult assignments here when needed, or within the relevant daily working section.
 
 ### Teach / Show
 
@@ -95,7 +86,7 @@ Expected just-in-time micro-skills and useful refinements. Keep these compact ra
 
 ### Supporting Note — Only When Useful
 
-Predictable student question/confirmed answer, essential question, instructor context, or day-specific adult roles that differ from the overview.
+Predictable student question/confirmed answer, essential question, instructor context, or an unusual day-specific adult assignment necessary for instruction. Keep source-verification and artifact-validation administration outside the printed guide.
 
 ### Notes for Next Time
 

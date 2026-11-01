@@ -27,6 +27,8 @@ Follow the [Standardized Artifact Reliability requirements](../00_Core/WACOS_AI_
 
 Use the [Project setup and replacement instructions](README.md#chatgpt-project-knowledge). Upload only current, relevant sources; historical intake packages are evidence, not active standards. Keep Project instructions short and retrieve detailed standards when needed.
 
+For Prototype E teaching guides in both courses, complete source verification and artifact validation within the AI workflow; do not print that administrative information in the guide. Omit routine Shared Adult Roles and Supporting Preparation / Governing Sources overview sections without replacement sections or filler. Preserve necessary day-specific materials, preparation, safety checks, and unusual adult assignments in the relevant daily working sections.
+
 ## Guardrails
 - Do not give students unreviewed food safety instructions.
 - Do not let AI replace instructor scoring of live performance.

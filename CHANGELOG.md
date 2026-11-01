@@ -1,3 +1,11 @@
+## 2026-11-01 — Simplify Prototype E Weekly Overview
+
+### Quick Edit
+
+- Removed routine Shared Adult Roles and Supporting Preparation / Governing Sources overview sections for Culinary 1 and Culinary 2, without replacement sections or filler.
+- Aligned the Weekly Teaching Guide Standard, Prototype E template, Document Design Standard, AI quick reference/workflows, and decision record. Kept source verification and artifact validation outside the printed guide and retained necessary day-specific materials, preparation, safety checks, and unusual adult assignments within daily working sections.
+- Preserved all other approved Prototype E requirements. Validated affected references, template structure, links, whitespace, and a rendered overview/daily-page example; delivery files remain local and ignored.
+
 ## 2026-10-31 — Recipe, Teaching Guide, and AI Reliability Corrections
 
 ### Approved Program Decision

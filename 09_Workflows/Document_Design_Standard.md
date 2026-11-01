@@ -112,7 +112,7 @@ Choose the structure that fits the work while applying the same typography, colo
 
 ### Daily Teaching Guide / Instructor Lesson
 
-Prototype E, adopted October 3 and revised October 26, 2026, is the sole active weekly teaching-guide format. Begin with one weekly overview page, followed by one separate full page for each instructional day. Put the Weekly Anchor, Week at a Glance, new professional language, shared fundamentals, and shared adult roles on the overview. Daily pages use this working family:
+Prototype E, adopted October 3 and revised October 26, 2026, is the sole active weekly teaching-guide format. Begin with one weekly overview page, followed by one separate full page for each instructional day. Put the Weekly Anchor, Week at a Glance, Culinary Understanding This Week, new professional language, and shared fundamentals on the overview. For Culinary 1 and Culinary 2, omit routine Shared Adult Roles and Supporting Preparation / Governing Sources sections. Do not add replacement sections or filler; use the available space to improve readability. Source verification and artifact validation stay in the AI workflow, outside the printed guide. Daily pages use this working family:
 
 - Learning Target in student-friendly "I can..." language
 - compact Knowledge / Skill / Professional Thinking
@@ -126,7 +126,7 @@ Prototype E, adopted October 3 and revised October 26, 2026, is the sole active 
 - Clean Stop
 - Notes for Next Time
 
-Use a centered day/lesson title and course/week subtitle, without calendar dates. The instructor and Teaching Assistant share the same guide. Include compact supporting notes or day-specific adult roles only when useful.
+Use a centered day/lesson title and course/week subtitle, without calendar dates. The instructor and Teaching Assistant share the same guide. Keep necessary day-specific materials, preparation, safety checks, and unusual adult assignments within the relevant daily working sections. Include compact instructional supporting notes only when useful.
 
 For Prototype E, the teaching-guide hierarchy overrides the general default sizes above: **20 pt title, 13 pt blue section headings, 12 pt body/subtitle, and 11 pt supporting notes**. Use Arial, US Letter portrait, and 0.5-inch margins. Fill each page's printable area with balanced spacing and readable type; increase spacing or type on shorter pages as useful. Keep every day on its own page using explicit page breaks, retain note-writing space, and inspect the rendered pages for overflow or accidental blank pages. Tighten wording and reference governing sources for detail instead of shrinking body text or dropping essential instruction/safety.
 
