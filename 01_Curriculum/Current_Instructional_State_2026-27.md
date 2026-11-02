@@ -1,5 +1,5 @@
 # Current Instructional State — 2026–27
-**Last reconciled:** October 30, 2026 | **Status:** Live instructor-confirmed operations record
+**Last reconciled:** November 2, 2026 | **Status:** Live instructor-confirmed operations record
 **Read with:** [Current-State Verification Protocol](../09_Workflows/Current_State_Verification_Protocol.md)
 **Authority:** Current instructor confirmation outranks older plans, generated DTGs, and Library copies. This file records instructional reality, not governing safety policy.
 
@@ -10,7 +10,7 @@
 | Oct 26–30 | Culinary 2 | **Confirmed event week** | Pie practice and production, with Explore Charleston professional development Wednesday Oct 28, Bistro prep Thursday, Bistro service Friday | Pie work exposed recipe literacy, workflow, timing and safety gaps. Do not assume all pies completed. |
 | Wed Oct 28 | Program | **Confirmed** | Explore Charleston professional development with guests | Replaces ordinary instructional expectations as applicable. |
 | Thu Oct 29 / Fri Oct 30 | Bistro | **Confirmed rhythm** | Prep Thursday / service Friday | Current menu, specials and staffing require current operational confirmation. |
-| Mon Nov 2 | All Culinary classes | **Lesson selection pending** | One-day lesson; instructor requesting a recommendation | Prior Monday pie-production allocation superseded. No Monday lesson approved yet. |
+| Mon Nov 2 | All Culinary classes | **Instructor-approved plan; completion not yet verified** | Bistro refresher and kitchen ownership reset: affirm strengths, explicitly reteach punctuality/uniform/locker-room and professional conduct, then practice station opening, individual job knowledge, one-table mock service, productive pauses, and complete reset | No Monday pie work. Culinary 1 receives more modeling; Culinary 2 demonstrates greater independence. Instructor determines readiness for Friday service. |
 | Wed Nov 4 | All Culinary classes | **Instructor-confirmed production plan** | Assemble, bake, and chill pies for Thursday Nov 5 delivery | All classes dedicated to pies. Classic Apple, Pecan, Sweet Potato, Chocolate Cream, and Key Lime; specific team assignments and recipe controls remain instructor-directed. |
 | Thu Nov 5 | Program / Bistro | **Instructor-confirmed plan** | Cut, package, and deliver pies; Bistro prep | Friday Nov 6 remains Bistro service. |
 | Tue Nov 3 | School | **Confirmed closure** | Election Day — no school | |
@@ -33,7 +33,7 @@ The instructor has reported prior work on chicken fabrication/stock, chicken bog
 ## Decision log (latest wins)
 | Date | Scope | Prior state | New confirmed state | Disposition |
 |---|---|---|---|---|
-| Oct 30 | Nov 2–6, all classes | Pie production split between Monday Nov 2 and Wednesday Nov 4; allocation unresolved | All classes dedicated to pies Wednesday Nov 4; Thursday delivery/Bistro prep; Friday Bistro. Monday lesson remains undecided. Source: instructor confirmation in current planning conversation. | **Supersedes split production proposal**; no enduring policy change. Next action: select Monday lesson and finalize Wednesday assignments under existing recipe/safety approvals. |
+| Oct 30 | Nov 2–6, all classes | Pie production split between Monday Nov 2 and Wednesday Nov 4; allocation unresolved | All classes dedicated to pies Wednesday Nov 4; Thursday delivery/Bistro prep; Friday Bistro. Monday lesson was subsequently approved November 2 as Bistro refresher/ownership reset. Source: instructor confirmation in current planning conversation. | **Supersedes split production proposal**; no enduring policy change. Next action: select Monday lesson and finalize Wednesday assignments under existing recipe/safety approvals. |
 | Oct 27 | Culinary 1 Tuesday | Light dredged chicken -> stir-fry proposal | Beef and cheese sliders, donated Hawaiian rolls | **Superseded prior plans** |
 | Oct 27 | Culinary 2 week of Nov 9 | Suggested perloo/bog, red rice, Hoppin' John as reset dishes | Recipe selection reopened because dishes already taught | **Previous reset menu withdrawn** |
 | Oct 27 | Culinary 2 | Restart three-week boot camp discussed | Consider a shorter ownership intervention without replacing this year's whole curriculum | **Proposed; not a permanent redesign** |
@@ -43,6 +43,8 @@ The instructor has reported prior work on chicken fabrication/stock, chicken bog
 
 ## Update checklist for next session
 - Verify actual outcome of Oct 27 slider lab and Oct 28–Nov 4 pie production.
-- All classes produce pies Wednesday Nov 4 (confirmed Oct 30); select Monday Nov 2 lesson and finalize production assignments.
+- All classes produce pies Wednesday Nov 4 (confirmed Oct 30); Monday Nov 2 Bistro refresher approved, with completion still to verify. Finalize Wednesday production assignments.
 - Select new Culinary 2 recipes for Nov 9–11 only after reviewing this completed-work list.
 - On every instructor pivot, append the new decision **during that same session**, verify GitHub commit, and stop treating the older DTG as current.
+
+| Nov 2 | All classes, Monday lesson | Selection pending as of Oct 30 | Instructor approved Bistro refresher / ownership reset: opening, job knowledge, simulated service, productive pause, closing, locker-room correction; no pie production Monday | **Approved plan; actual delivery not yet verified** |
