@@ -2,6 +2,11 @@
 
 **Adopted redesign:** October 17, 2026. Instructor-facing semester planning source.
 
+
+## Spring 2027 implementation
+
+For the new spring cohort, use the [adopted spring semester map](Spring_2027_Semester_Map.md) and [November 3 decision](../../00_Core/2026-11-03_Culinary_1_Spring_2027_Decision.md). Calendar-specific overrides include Week 9 Wednesday deep clean, C1 Chopped in Week 14, April 29 Teacher Appreciation meal in Week 16, and expected final student attendance by May 21 with the following week reserved for uncommon makeup. Generic week themes below remain a framework; do not apply fall dates or the default Week 16 Chopped placement over the spring map.
+
 ## Purpose and Authority
 
 Develop students who can complete useful work in this kitchen and Bistro: arrive ready, read and plan, set up, produce, maintain, store/reset, and improve. Culinary 1 remains a one-semester foundation and exploration course. The Bistro provides an authentic purpose for transferable practical skills and Professional Thinking.
@@ -130,3 +135,4 @@ Teams receive a mystery basket of approximately **4–5 ingredients** each round
 **Scheduling rule:** This three-day event replaces the ordinary Monday–Wednesday Week 16 technical sequence; displaced technique applications may be integrated into earlier/later authentic work rather than automatically crammed into Thursday/Friday. Week 16 is a preferred recurring placement, not permission to bypass required safety or student readiness.
 
 **Judging-sheet update needed:** The existing judge's calculation sheet ranks every team across all three rounds and does not reflect progressive elimination. Adapt scoring to the teams still competing each day; confirm the ranking/tie-break procedure before publishing a revised judging sheet. Existing house-rules and calculation-sheet Word documents remain source references until updated.
+

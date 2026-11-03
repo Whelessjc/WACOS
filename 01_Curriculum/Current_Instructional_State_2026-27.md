@@ -48,3 +48,7 @@ The instructor has reported prior work on chicken fabrication/stock, chicken bog
 - On every instructor pivot, append the new decision **during that same session**, verify GitHub commit, and stop treating the older DTG as current.
 
 | Nov 2 | All classes, Monday lesson | Selection pending as of Oct 30 | Instructor approved Bistro refresher / ownership reset: opening, job knowledge, simulated service, productive pause, closing, locker-room correction; no pie production Monday | **Approved plan; actual delivery not yet verified** |
+
+## Future cohort plan confirmed November 3 — Spring Culinary 1
+
+Instructor approved the [spring semester sequence](Culinary_1/Spring_2027_Semester_Map.md) and 18 current-format guides, then confirmed Week 9 Wednesday quarter-end deep clean, April 29 Teacher Appreciation meal using the fall large-meal operating model with a different menu/count to be confirmed, and expected final student attendance by May 21. May 17–21 is reflection/breakdown/cleaning/next-year planning; May 24–27 is rare makeup. Spring C1 Chopped moves to April 12–14, Week 14. These are approved future plans, not completed teaching. Current fall instructional history remains unchanged.

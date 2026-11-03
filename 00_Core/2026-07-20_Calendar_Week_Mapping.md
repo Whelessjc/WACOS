@@ -65,3 +65,14 @@ Week 4 is the confirmed Bistro systems, training, and mock-service window. The p
 ## Source
 
 CCSD 2026-2027 Academic Calendar, updated May 19, 2026, Office of Communications. Instructor-supplied PDF reviewed and adopted July 20, 2026.
+
+## November 3 spring Culinary 1 implementation overlay
+
+The [adopted spring C1 map](../01_Curriculum/Culinary_1/Spring_2027_Semester_Map.md) applies the following instructor-confirmed program decisions without amending the district calendar:
+
+- Course Week 9 / Program Week 27, March 1–5: Wednesday quarter-end deep clean, inspection and correction; Thursday Prep/Friday Service retained.
+- Course Week 14 / Program Week 32: Culinary 1 Chopped April 12–14. This is the spring C1 exception to the default Week 16 placement; C2 plans remain separately governed.
+- Course Week 16 / Program Week 34: Thursday April 29 Teacher Appreciation meal; Tuesday plan/rehearse, Wednesday approved production, Friday close/review. This is scheduled C1 work, separate from the C2 capstone’s emergency-only alternate execution. April 26 remains closed unless weather makeup is activated.
+- May 17–21 is the expected final student-attendance week, used for reflection, breakdown, cleaning, inventory, missing demonstrations and next-year planning. May 24–27 is uncommon makeup; no required new learning depends on attendance. May 27 remains the published last student day, and May 28 remains a teacher workday.
+
+Menu, count, service and safe food-handling capacity for April 29 remain operational decisions before production.

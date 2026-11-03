@@ -173,3 +173,7 @@ Older decision entries and archives remain historical evidence. They do not over
 - A pause in tickets is productive recovery time: **Reset → Wipe → Sweep → Check Mise/Product → Restock → Look Ahead.**
 - Students remain engaged until released. The work is not finished merely because an individual task or food item is finished.
 - Governing detail: `00_Core/2026-10-02_Independence_Station_Readiness_and_Released_from_Duties_Decision.md`.
+
+## November 3, 2026 — Spring Culinary 1 sequence and supporting resources
+
+**Status: instructor approved for adoption and implementation.** See [decision](2026-11-03_Culinary_1_Spring_2027_Decision.md) and [spring map](../01_Curriculum/Culinary_1/Spring_2027_Semester_Map.md). Retain foundational opening/Bistro readiness and repeated useful work; add Week 9 Wednesday quarter-end deep clean; move spring C1 Chopped to Week 14; schedule April 29 Teacher Appreciation meal from the fall large-meal operating model with a different menu and unconfirmed count; plan around May 21 expected final attendance and a rare-makeup final calendar week. Build 18 Prototype E guides plus reusable references and full recipe support. Recipe candidates, event/live-menu dependencies and instructor review remain explicit; no new grading, safety or equipment permissions.

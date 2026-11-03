@@ -262,3 +262,7 @@ Retrieve the [current recipe printable standard](../04_Recipes/Standard_Recipe_F
 - Repeated footwear noncompliance: first warning, second parent communication, third administrative referral; proper footwear remains a kitchen-access gate.
 - Thursday hot-line/barista setup requires visible ownership/completion and Friday verification. Three line cooks/stronger barista staffing is a current adjustable arrangement. Build references remain available; drink memorization is not required.
 - Use the [October 25 decision](../00_Core/2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md) and current Assessment System/SOPs. Older uploaded copies of this Quick Reference do not override GitHub.
+
+## Spring 2027 Culinary 1
+
+Use the [adopted spring map](../01_Curriculum/Culinary_1/Spring_2027_Semester_Map.md) and [November 3 decision](../00_Core/2026-11-03_Culinary_1_Spring_2027_Decision.md). Spring C1 overrides: Week 9 Wednesday quarter-end deep clean; Chopped Week 14, April 12–14; Teacher Appreciation meal Thursday April 29, Week 16, with new menu/count to confirm; expected final student attendance May 21, then uncommon makeup May 24–27. May 17–21 supports reflection, breakdown, cleaning, inventory and next-year planning. These are future plans, not completed teaching; published district dates remain unchanged. Eighteen Prototype E guide drafts and supporting references/recipe sheets are delivery artifacts requiring instructor review.

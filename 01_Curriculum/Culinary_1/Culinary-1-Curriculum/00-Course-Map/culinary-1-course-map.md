@@ -35,3 +35,7 @@ The numbered folders retain useful teaching resources; numbers do not prescribe 
 ## Scope Boundary
 
 The adopted sequence prioritizes practical kitchen/Bistro work and embeds measuring, scaling, yield and portions. It does not add standalone history/brigade, sustainability, business management, formal menu analysis or nutrition units. This is an instructional scope decision, not a full standards-alignment certification.
+
+## Spring 2027 implementation
+
+The [adopted semester map](../../Spring_2027_Semester_Map.md) governs spring dated implementation, with [resource inventory](../../Spring_2027_Resource_Inventory.md). Retain the October fundamentals redesign; apply its spring calendar overrides rather than treating technical resource folders as consecutive units.

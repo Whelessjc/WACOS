@@ -151,3 +151,7 @@ Applications inform instructor placement; the instructor builds a balanced team.
 - Reflection/self-grade after service when assigned.
 
 Current grade weights and assessment rules are governed by `../../03_Assessment/06_Assessment_System.md` and the Core Manual.
+
+## Spring 2027 calendar implementation
+
+Use the [spring semester map](Spring_2027_Semester_Map.md) and [resource inventory](Spring_2027_Resource_Inventory.md) for this cohort. The November 3 decision retains course scope and fundamentals while adjusting quarter-end cleaning, Chopped, April 29 event production and year-end attendance/closeout. It is not evidence of future teaching completion.

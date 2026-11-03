@@ -268,3 +268,11 @@
 
 - Updated the Core Manual, Decision Register, Culinary 1 curriculum, Unit 2 lesson sequence, Culinary 1 assessment guide, ServSafe Food Handler guide, current assessment system, Quick Reference, TODO, and AI guardrails.
 - Retired the prior 50-question local practice-test requirement from current guidance; retained it only in archives/history.
+
+## 2026-11-03 — Adopt spring Culinary 1 implementation and resource scope
+
+- Added approved 18-week spring semester map, decision and resource inventory; connected pacing/curriculum/course-map navigation.
+- Recorded Week 9 Wednesday quarter-end deep clean, spring C1 Chopped April 12–14, April 29 Teacher Appreciation meal planning sequence and expected last student attendance by May 21 with rare makeup May 24–27.
+- Reconciled the calendar overlay and future instructional-state record without claiming future teaching occurred or changing published district dates.
+- Recorded 18 Prototype E delivery guides, six reusable references, week-local recipe support and teacher event/year-end tools as instructor-review artifacts outside GitHub; preserved candidate/approved recipe distinctions and unresolved event/frying/live-menu dependencies.
+- Updated decision/source/traceability records. No new Core policy, grading rule or equipment permission.

@@ -38,3 +38,7 @@ Detailed source packets, topic packets, and ranked extraction reports are preser
 - Record new source additions before changing core documents.
 - For current curriculum structure, teacher/student packets where available, unit-level materials, and future day-by-day lesson development, treat S013 as the current source of record.
 - If copied project documents and the S013 repository conflict, flag the conflict in `DECISION_REGISTER.md` rather than resolving it silently.
+
+## November 3, 2026 spring Culinary 1 implementation source
+
+Instructor-approved spring proposal and same-session corrections: Week 9 quarter-end deep clean; April 29 Teacher Appreciation meal modeled operationally on the fall large meal, without inheriting its menu/count; May 21 expected final student attendance, reflection/breakdown/cleaning/next-year planning and a rare makeup final week; reusable measurements, knife, technique and cookware resources requested. Current main source snapshot 975b26e475e30cde1713db37f4fb60964c70fbc8 and calendar checked before integration. Prior fall semester resource packet supplies formula derivatives only, not current template authority. Governing record: [spring decision](2026-11-03_Culinary_1_Spring_2027_Decision.md).

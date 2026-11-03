@@ -92,3 +92,7 @@ The [approved catch-up decision](2026-10-25_Assessment_Readiness_and_Bistro_Catc
 ## October 31, 2026 — Reliability Correction Trace
 
 The [approved reliability decision](DECISION_REGISTER.md#october-31-2026--approved-reliability-corrections) replaces the earlier printed recipe presentation with the Cheeseburger Sliders reference while retaining complete source records and essential safety controls. The current [Recipe Standard](../04_Recipes/Standard_Recipe_Format.md), sole-active [Prototype E standard](../09_Workflows/Daily_Teaching_Guide_Standard.md), and [AI reliability requirements](WACOS_AI_Reference.md#standardized-artifact-reliability--october-31-2026) govern new/revised artifacts. Historical presentation and imported reference files remain evidence only. The supplied visual reference was `Cheeseburger_Sliders_Bistro_Special (1).docx`; generated validation copies were not added to GitHub.
+
+## November 3, 2026 spring implementation
+
+[Spring Culinary 1 decision](2026-11-03_Culinary_1_Spring_2027_Decision.md) applies the current Core philosophy to the new cohort with calendar-specific event/cleaning/end-of-year decisions. [Semester map](../01_Curriculum/Culinary_1/Spring_2027_Semester_Map.md), pacing navigation, calendar overlay and instructional-state future-plan record agree. No Core principle, course scope, grade weight, safety or credential change is made.
