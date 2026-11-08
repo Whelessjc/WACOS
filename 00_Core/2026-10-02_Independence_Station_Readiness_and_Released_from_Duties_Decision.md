@@ -1,5 +1,7 @@
 # October 2, 2026 — Independence, Station Readiness, and Released from Duties
 
+> Updated process: the instructor-approved [November 8 clarification](2026-11-08_Released_from_Duties_and_Return_to_Work.md) governs repeated noncontribution, removal without automatic reassignment, and demonstrated readiness before return. The October 2 record remains the historical basis.
+
 ## Classification
 
 **Program Decision**

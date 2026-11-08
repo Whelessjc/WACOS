@@ -3,6 +3,10 @@
 ## Purpose
 Centralize unresolved conflicts, instructor-review decisions, and source tensions so current WACOS documents stay aligned.
 
+## November 8, 2026 — Released from Duties and Return to Work
+
+**Instructor approved.** Applies across daily practical work, labs, prep, service, and reset. Repeated noncontribution after clear direction and an opportunity for help is a conduct concern; learning needs receive instruction and approved supports. Removal does not automatically lead to another station or easier assignment. While released, students complete assigned alternate learning. Return requires reflection, a student request, specific corrective actions, demonstrated readiness, and instructor approval. Form completion and the next day alone are insufficient. Kitchen Readiness must actually be met. Instructor authority, accommodations, school procedures, equipment authorization, and separate assessment/discipline decisions remain in force. Governing [decision](2026-11-08_Released_from_Duties_and_Return_to_Work.md) and [reflection source](../03_Assessment/Tools/Released_from_Duties_Reflection_and_Request_to_Return.md). Supersedes any earlier wording suggesting form completion alone or an automatic daily reset restores participation.
+
 ## November 1, 2026 — Prototype E Overview Simplification
 
 - For Culinary 1 and Culinary 2, remove routine **Shared Adult Roles** and **Supporting Preparation / Governing Sources** sections from the weekly overview. Do not replace them with new sections or filler; improve readability with the available space.

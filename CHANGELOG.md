@@ -1,3 +1,12 @@
+## 2026-11-08 — Clarify Released from Duties and Return to Work
+
+### Approved Program Decision
+
+- Applied the process across daily practical work, labs, prep, service, and reset; included repeated noncontribution after clear direction and an opportunity for help while retaining coaching and approved supports for learning needs.
+- Clarified no automatic station reassignment or easier duties. Required reflection, a student request, specific corrective actions, demonstrated readiness, and instructor approval before return; form completion or the next day alone is insufficient.
+- Added the current blank reflection source and aligned Core Manual v1.9, Assessment System, Bistro Operations, AI quick reference, decision/source/traceability records, and assessment navigation.
+- Updated the existing one-page Word delivery outside GitHub and verified its rendered layout. Kept grading, discipline, accommodations, school procedures, and equipment authorization separate and unchanged. No student records or generated delivery files included.
+
 ## 2026-11-01 — Simplify Prototype E Weekly Overview
 
 ### Quick Edit

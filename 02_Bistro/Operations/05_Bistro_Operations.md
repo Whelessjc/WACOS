@@ -166,6 +166,10 @@ For third block:
 
 **Calling the next number is the throttle.** Do not release orders faster than Line Cooks, Barista/Pastry, Expo, and Service can execute safely and well.
 
+## Individual Contribution and Release from Duties
+
+Contribution applies in every practical class, including prep, service, and reset. Repeated noncontribution after clear direction and an opportunity for help may result in instructor-directed Released from Duties. Provide coaching and approved supports for learning needs. Removal does not automatically mean another station or easier duties. Students complete alternate learning while released; return requires reflection, a student request, demonstrated readiness, and instructor approval. Form completion or the next day alone is insufficient. Instructor-approved placement/transfer rules still apply. Use the [governing process](../../00_Core/2026-11-08_Released_from_Duties_and_Return_to_Work.md) and [current reflection](../../03_Assessment/Tools/Released_from_Duties_Reflection_and_Request_to_Return.md).
+
 ## Bistro Job Placement
 
 The current Bistro operating functions are **Service, Barista, Line Cooks, Support, and Expo / Floaters**. **KP refers to the Teaching Assistant/supporting adult, not a student Bistro job.**

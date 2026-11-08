@@ -13,6 +13,8 @@ This folder contains grading, rubric, checklist, reflection, and assessment docu
 - [`Culinary_1_Line_Check_Cards.md`](Culinary_1_Line_Check_Cards.md) provides oral, demonstration, and scenario prompts for reinforcing Culinary 1 fundamentals.
 - [`Culinary_2_Line_Check_Cards.md`](Culinary_2_Line_Check_Cards.md) provides oral recall and scenario prompts for Culinary 2.
 
+- [`Tools/Released_from_Duties_Reflection_and_Request_to_Return.md`](Tools/Released_from_Duties_Reflection_and_Request_to_Return.md) is the current student reflection and instructor return-decision source, updated November 8, 2026.
+
 ## Belongs Here
 
 - Employability rubrics.

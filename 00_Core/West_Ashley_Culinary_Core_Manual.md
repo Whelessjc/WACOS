@@ -1,10 +1,10 @@
 # West Ashley Culinary Core Manual
 
-Version 1.7
+Version 1.9
 
 West Ashley High School Culinary Arts Program
 
-Current as of October 25, 2026
+Current as of November 8, 2026
 
 ---
 
@@ -308,7 +308,9 @@ For repeated footwear noncompliance, use the instructor-approved progression: fi
 
 A student may enter class Kitchen Ready and later be **Released from Duties** by the instructor when continued practical participation is inappropriate because of behavior during class or lab. This is different from **Not Kitchen Ready**, which is an entry/readiness gate before practical work begins.
 
-Released from Duties may be used for behavior such as leaving the assigned class/kitchen area without permission, refusal to follow a direct instruction, or unsafe conduct. The response is tied to the behavior, not the student's identity. The student completes the current Released from Duties form/reflection before returning to the privilege of kitchen-lab participation. Instructor judgment governs release and return; discipline, parent contact, Employability evidence, missed-lab documentation, and other school responses remain separate decisions.
+Released from Duties applies across daily practical work, labs, prep, service, and reset. Reasons include unauthorized departure, refusal of directions or cleanup, abandoned responsibilities, unsafe conduct, and repeated failure to begin or continue assigned work after clear direction and an opportunity for help. Provide instruction and approved supports for skill or comprehension needs; tie the response to observable behavior, not student identity. Removal does not automatically lead to another station or an easier assignment.
+
+The student completes assigned alternate learning while released. Return requires the [current reflection and request](../03_Assessment/Tools/Released_from_Duties_Reflection_and_Request_to_Return.md), specific corrective actions, demonstrated readiness, and instructor approval. Neither completing the form nor arriving the next day automatically restores participation. The instructor records readiness or required conditions and determines the assignment; Kitchen Readiness and equipment authorization still apply. Discipline, parent contact, Employability evidence, missed-lab documentation, and other school responses remain separate decisions. Apply approved accommodations and school procedures. See the [November 8 decision](2026-11-08_Released_from_Duties_and_Return_to_Work.md).
 
 Allergen response is operationally **STOP → COMMUNICATE CLEARLY → DO NOT GUESS → PREVENT CROSS-CONTACT → INVOLVE THE INSTRUCTOR**. Students do not receive independent allergen authority.
 
@@ -925,6 +927,7 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.6 | 2026-10-17 | Adopted the Culinary 2 full-year Bistro redesign, West Ashley 25, event flexibility, and supported ownership progression. |
 | 1.7 | 2026-10-25 | Reconciled current assessment records, pending numeric implementation, footwear escalation, and related Bistro/guide updates. |
 | 1.8 | 2026-10-31 | Adopted Cheeseburger Sliders printed presentation and standardized-artifact reliability checks; preserved source records and safety authority. |
+| 1.9 | 2026-11-08 | Clarified Released from Duties across practical work; repeated noncontribution, no automatic reassignment, and reflection/request plus demonstrated readiness and instructor approval before return. |
 
 
 ## Bistro Job-Placement Model — Approved September 25, 2026

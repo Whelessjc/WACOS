@@ -96,3 +96,7 @@ The [approved reliability decision](DECISION_REGISTER.md#october-31-2026--approv
 ## November 3, 2026 spring implementation
 
 [Spring Culinary 1 decision](2026-11-03_Culinary_1_Spring_2027_Decision.md) applies the current Core philosophy to the new cohort with calendar-specific event/cleaning/end-of-year decisions. [Semester map](../01_Curriculum/Culinary_1/Spring_2027_Semester_Map.md), pacing navigation, calendar overlay and instructional-state future-plan record agree. No Core principle, course scope, grade weight, safety or credential change is made.
+
+## November 8, 2026 — Released from Duties (S022)
+
+Instructor-approved [clarification](2026-11-08_Released_from_Duties_and_Return_to_Work.md) updates Core Manual Readiness and the [reflection source](../03_Assessment/Tools/Released_from_Duties_Reflection_and_Request_to_Return.md): all practical work, repeated noncontribution after clear direction/help, no automatic reassignment, and reflection/request plus demonstrated readiness and instructor approval before return. The actual September 23 blank Word form was inspected and is updated outside GitHub. Assessment, Bistro Operations, AI quick reference, decision records, and source manifest agree. Prior form wording about next-day readiness reset is replaced; existing grading, accommodations, equipment authorization, and school procedures remain in force.
