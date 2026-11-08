@@ -1,3 +1,11 @@
+## 2026-11-08 — Specify Required Learning and Same Day Return
+
+### Instructor Approved Clarification
+
+- Added standing Required Learning directions to page two of the existing Released from Duties document, preserving the reflection page and its writing space. Students use existing recipes, prep lists, station checklists, or SOPs and answer five prompts on notebook paper; no custom adult-prepared work or daily task selection.
+- Confirmed that return may occur the same day after completed reflection/learning, a student request, demonstrated readiness, and instructor approval. No minimum time out; students continue existing assigned coursework while waiting for review. Missed-lab documentation does not replace reinstatement work.
+- Aligned the governing decision, Core Manual, Assessment System, Bistro Operations, AI quick reference, and decision/source/traceability records. Preserved grades, accommodations, school procedures, and equipment authority. Word delivery remains outside GitHub.
+
 ## 2026-11-08 — Clarify Released from Duties and Return to Work
 
 ### Approved Program Decision
