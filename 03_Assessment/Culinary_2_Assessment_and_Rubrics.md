@@ -33,37 +33,15 @@ Use a mix of:
 - short scaling tasks
 - brief reflections after service or practicals
 
-## Simple Performance Scale
+## Current Working Scores
 
-Use this scale for most practical work.
+Use the [Assessment System](06_Assessment_System.md) for current records. Monday–Thursday labs, including Bistro Prep, use one overall 0–5 score per student per day. Do not revive the former four-level or separately scored daily lab categories.
 
-| Score | Meaning | Description |
-| ---: | --- | --- |
-| 4 | Reliable | Works cleanly, communicates, adjusts, and needs little prompting |
-| 3 | Functional | Completes the task safely with some reminders or uneven timing |
-| 2 | Developing | Needs repeated prompting; process breaks down under pressure |
-| 1 | Not yet safe or useful | Does not follow directions, ignores safety, or leaves work incomplete |
+Friday Bistro uses one overall 0–5 performance score, including reset, and separate self-reflection out of 10. Use the [Bistro rubric and calculator](Tools/Bistro_Service_Performance_Rubric.md) for adopted levels, conversion, and individual-service calculation. The Bistro mapping does not establish a lab conversion.
 
-## Daily Lab Rubric
+## Bistro Observation
 
-| Category | 4 | 3 | 2 | 1 |
-| --- | --- | --- | --- | --- |
-| Preparation | Recipe read, station set, plan clear | Mostly ready | Starts without full plan | Unprepared |
-| Technique | Controlled and purposeful | Mostly correct | Inconsistent | Unsafe or careless |
-| Cleanliness | Cleans throughout | Cleans at major points | Waits until end | Leaves mess or ignores sanitation |
-| Communication | Clear and timely | Communicates when prompted | Late or unclear | Silent, defensive, or disruptive |
-| Follow-through | Food, station, and reset complete | Minor misses | Incomplete pieces | Does not finish |
-
-## Bistro Service Rubric
-
-| Category | Reliable | Functional | Developing | Not Yet |
-| --- | --- | --- | --- | --- |
-| Station readiness | Set before service, product checked | Mostly ready | Needs teacher push | Not ready |
-| Communication | Short, clear, useful | Responds when called | Delayed or unclear | No useful communication |
-| Timing | Keeps pace and communicates delays | Usually on pace | Falls behind often | Breaks service flow |
-| Product quality | Taste, temp, portion, presentation controlled | Minor inconsistency | Frequent quality issues | Unsafe or unusable |
-| Recovery | Names problems and keeps moving | Recovers with help | Shuts down or hides errors | Makes problem worse |
-| Reset | Station fully reset | Small misses | Incomplete reset | Leaves station for others |
+Observe readiness, communication, timing, product quality, recovery, and complete reset within the single performance score. A meaningful contribution, response to coaching, and participation in reset can meet the minimum with substantial support. Repeated disengagement and significant responsibilities left for others after directions, support, and an opportunity to improve are below that minimum. Needing help alone is not failure.
 
 ## Practical Check Options
 

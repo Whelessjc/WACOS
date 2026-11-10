@@ -4,11 +4,13 @@
 
 Program Decision and related Quick Edits approved by the instructor on October 25, 2026 after review of the catch-up recommendation. This record reconciles recent instructor directions with current WACOS; it does not establish new course-category weights, recipe formulas, equipment permissions, or district policy. Existing safety authority, accommodations, and approved supports remain in force.
 
+> **November 10 update:** Bistro score structure, level descriptions, percentage conversion, and individual-service calculation below are superseded by the [November 10 decision](2026-11-10_Bistro_Performance_and_Self_Reflection.md). Remaining October 25 directions continue where not superseded.
+
 ## Assessment
 
 - Course categories remain 45% Summative Assessments: Projects, Tests, and Bistro; 35% Formative Assessments and Labs; 20% Employability Skills.
 - Monday–Thursday labs, including Thursday Bistro Prep, use one overall performance score of 0–5 per student per day. Readiness, safe process, technique, teamwork, product when relevant, and reset inform that score; they are not separate daily score columns.
-- Friday Bistro uses Performance 45%, Reset 45%, and Reflection 10%, each recorded on a 0–5 scale. Opening remains an operating gate and informs performance; it is not a separate scoring column.
+- Historical Bistro structure, superseded November 10: Performance 45%, Reset 45%, and Reflection 10%, each recorded on a 0–5 scale. Opening remains an operating gate and informs performance; it is not a separate scoring column.
 - Keep the rubric/scale reference separate from the working score sheet. Do not invent descriptions for the unconfirmed levels.
 - The instructor has directed a baseline-four approach for Employability and Bistro. The complete 0–5-to-percentage mapping, which blank entries may mean four, and safeguards distinguishing verified normal performance from absent or unobserved work remain implementation decisions. Do not automatically fill blanks or equate four with 80 percent.
 - The instructor stated that an adult failure to record observations should not disadvantage students and identified 90 as the fallback. Distinguish that adult recording failure from student absence or noncompletion; the precise verification workflow remains open.
@@ -40,7 +42,7 @@ Culinary 1 successfully transferred blanching/shocking and sauté skills across 
 
 ## Implementation Still Open
 
-See D001 in the Decision Register for scale conversion, blank-entry verification, missing-work reconciliation, gradebook aggregation, and feedback scheduling. No unresolved numeric conversion is authorized for automatic use by this update.
+See D001 in the Decision Register for scale conversion, blank-entry verification, missing-work reconciliation, gradebook aggregation, and feedback scheduling. This October 25 record did not authorize unresolved numeric conversions. The November 10 decision later adopts Bistro-only conversions and an individual-service calculation; other unresolved implementation items remain open.
 
 ## Affected Documents and Review
 

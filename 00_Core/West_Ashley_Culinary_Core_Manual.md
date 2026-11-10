@@ -1,10 +1,10 @@
 # West Ashley Culinary Core Manual
 
-Version 1.9
+Version 1.10
 
 West Ashley High School Culinary Arts Program
 
-Current as of November 8, 2026
+Current as of November 10, 2026
 
 ---
 
@@ -531,7 +531,7 @@ Summative work should test readiness, not trivia. Students should be able to sho
 
 ### Observation Evidence
 
-Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception notes, individual evidence, and instructor judgment. Monday–Thursday labs, including Bistro Prep, use one overall 0–5 performance score per day. Friday Bistro uses Performance 45%, Reset 45%, and Reflection 10%, each on a 0–5 scale; opening readiness remains required without a separate score column. The former Bistro letter-code/four-band conversion and separately scored lab areas are superseded. Full percentage conversion, blank-entry verification, and gradebook aggregation remain open in D001; do not invent a formula. A missing-work one is a placeholder, not an earned performance level. Not observed is not failure. Group performance does not automatically become an individual grade; do not double-penalize the same behavior. Serious safety, sanitation, or conduct concerns require immediate intervention and instructor review.
+Bistro, lab, and Employability assessment use concise observation records, natural checkpoints, exception notes, individual evidence, and instructor judgment. Monday–Thursday labs, including Bistro Prep, use one overall 0–5 performance score per day. Friday Bistro uses one overall 0–5 performance score, including reset, plus a separate self-reflection worth 10 points; opening readiness remains required without a separate score column. The [November 10 decision](2026-11-10_Bistro_Performance_and_Self_Reflection.md) and [Bistro rubric](../03_Assessment/Tools/Bistro_Service_Performance_Rubric.md) adopt conversions of 5 = 100%, 4 = 90%, 3 = 75%, 2 = 50%, 1 = 25%, 0 = 0%, and each service grade = (conversion × 0.90) + reflection points. Minimum passing performance is meaningful assigned work, response to coaching, and contribution to complete reset with appropriate support. After clear directions, appropriate support, and an opportunity to improve, repeated disengagement with significant responsibilities left for others is below that standard. Needing help alone does not establish failure. The former Bistro letter-code/four-band conversion and separately scored lab areas are superseded. Lab and Employability conversions, blank-entry verification, and aggregation across services remain open in D001; do not extend the Bistro formula to other contexts. A missing-work one is a placeholder, not an earned performance level. Not observed is not failure. Group performance does not automatically become an individual grade; do not double-penalize the same behavior. Serious safety, sanitation, or conduct concerns require immediate intervention and instructor review.
 
 Existing Bistro entry cadence remains 1–2 accumulated Summative grades per 4.5-week progress-report period (2–4 per nine weeks), with new-score aggregation pending confirmation.
 
@@ -568,7 +568,7 @@ Live evidence should focus on:
 
 ### Working Score References
 
-Use the current 0–5 working records and keep the rubric reference separate from the score sheet. The complete level descriptions and percentage conversion require instructor confirmation. Earlier four-level practical-scale descriptions no longer govern the daily lab or Friday Bistro record.
+Use the current 0–5 working records and keep the rubric reference separate from the score sheet. The [Bistro rubric](../03_Assessment/Tools/Bistro_Service_Performance_Rubric.md) supplies adopted Bistro levels, conversion, and individual-service calculation. Lab and Employability percentage conversions remain unconfirmed. Earlier four-level practical-scale descriptions no longer govern the daily lab or Friday Bistro record.
 
 ---
 
@@ -927,6 +927,7 @@ Hospitality Scholars, Explore Charleston, guest speakers, competitions, and fiel
 | 1.6 | 2026-10-17 | Adopted the Culinary 2 full-year Bistro redesign, West Ashley 25, event flexibility, and supported ownership progression. |
 | 1.7 | 2026-10-25 | Reconciled current assessment records, pending numeric implementation, footwear escalation, and related Bistro/guide updates. |
 | 1.8 | 2026-10-31 | Adopted Cheeseburger Sliders printed presentation and standardized-artifact reliability checks; preserved source records and safety authority. |
+| 1.10 | 2026-11-10 | Adopted one Bistro performance score plus 10-point self-reflection, revised conversion/calculator, meaningful-contribution passing threshold, and repeated-disengagement failing boundary. |
 | 1.9 | 2026-11-08 | Clarified Released from Duties across practical work; repeated noncontribution, no automatic reassignment, and reflection and standing learning plus demonstrated readiness and instructor approval; same-day return allowed. |
 
 

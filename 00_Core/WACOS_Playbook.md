@@ -126,7 +126,7 @@ Avoid grading personality. Grade visible professional habits.
 
 Fast evidence method:
 
-Use the current 0–5 lab/Bistro records and concise exception notes. Follow the Assessment System for pending conversion and blank-entry rules; do not restore the retired four-level conversion.
+Use the current 0–5 lab/Bistro records and concise exception notes. Use the adopted [Bistro rubric and calculator](../03_Assessment/Tools/Bistro_Service_Performance_Rubric.md) for Friday performance plus self-reflection. Follow the Assessment System for remaining lab/Employability conversion and blank-entry rules; do not restore the retired four-level conversion.
 
 ## Lab Grading in Practice
 

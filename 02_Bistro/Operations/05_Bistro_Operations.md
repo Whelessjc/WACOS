@@ -249,6 +249,8 @@ Once a practice has been taught, students are expected to apply it during authen
 
 ## Bistro Assessment
 
+Use the [Bistro rubric and calculator](../../03_Assessment/Tools/Bistro_Service_Performance_Rubric.md): one overall 0–5 performance score, including reset, plus self-reflection out of 10. Minimum performance is meaningful assigned work, response to coaching, and contribution to complete reset with appropriate support. Repeated disengagement and significant responsibilities left for others after directions, support, and an opportunity to improve are below that minimum; needing help alone is not failure. Keep the rubric separate from the live working record.
+
 Bistro performance remains in Summative Assessments: Projects, Tests, and Bistro. During live service, the instructor and Teaching Assistant may divide observation coverage by named student, current team, station, or service area. Evidence is gathered during opening/readiness, active service, and reset/closing using the current Bistro observation system.
 
 Observers record evidence. The instructor assigns the final grade. A serious safety, sanitation, or conduct concern requires immediate intervention and separate instructor review when needed.

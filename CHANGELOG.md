@@ -1,3 +1,12 @@
+## 2026-11-10 — Adopt Bistro Performance Rubric and Grading Calculator
+
+### Approved Program Decision
+
+- Replaced the former three-component Bistro score with one overall 0–5 performance score, including reset, plus separate self-reflection out of 10.
+- Defined passing performance as meaningful assigned work, response to coaching, and contribution to complete reset with appropriate support. Repeated disengagement and significant responsibilities left for others after directions, support, and an opportunity to improve are below that standard; needing help alone does not establish failure.
+- Adopted Bistro conversions 5 = 100%, 4 = 90%, 3 = 75%, 2 = 50%, 1 = 25%, 0 = 0%; each service grade = (conversion × 0.90) + reflection points. Added canonical rubric, 10-point reflection criteria, and lookup calculator; revised editable Word delivery remains outside GitHub.
+- Aligned the Core Manual, assessment records and calibration, student guide, Culinary 2 assessment navigation, Bistro Operations, AI quick reference, playbook, and decision/source/traceability/TODO records. Retired conflicting four-level C2 working-score tables. Lab/Employability conversion and remaining D001 implementation decisions remain open.
+
 ## 2026-11-08 — Specify Required Learning and Same Day Return
 
 ### Instructor Approved Clarification

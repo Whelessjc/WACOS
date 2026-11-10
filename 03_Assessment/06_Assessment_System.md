@@ -12,35 +12,39 @@ The current quarter grade structure remains:
 
 Bistro evidence stays in Summative Assessments: Projects, Tests, and Bistro. Lab evidence stays in Formative Assessments and Labs. Employability evidence stays in Employability Skills.
 
-## Current Working Scores — October 25, 2026
+## Current Working Scores — November 10, 2026
 
-Use the [approved catch-up decision](../00_Core/2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md). Course-category weights above are unchanged. Keep rubric references separate from working score sheets.
+Use the [November 10 Bistro decision](../00_Core/2026-11-10_Bistro_Performance_and_Self_Reflection.md), which supersedes the Bistro scoring structure in the [October 25 catch-up decision](../00_Core/2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md). Course-category weights above are unchanged. Keep rubric references separate from working score sheets.
 
 | Context | Working record |
 |---|---|
 | Monday–Thursday lab, including Bistro Prep | One overall performance score, 0–5, per student per day |
-| Friday Bistro | Performance 45%, Reset 45%, Reflection 10%; each on a 0–5 scale |
+| Friday Bistro | One overall performance score, 0–5, including reset; separate self-reflection out of 10 |
 | Employability | One weekly grade supported by readiness and exception evidence; baseline-four direction with conversion/blank-entry implementation pending |
 
-Opening readiness remains required but has no separate Bistro score column. Overall lab performance includes safe and sanitary work, recipe execution, technique, communication, appropriate product quality, and reset. Observe those behaviors without creating five separately scored areas.
+Opening readiness remains required but has no separate Bistro score column. Bistro reset and closing inform overall performance, without a separate Reset score. Use the [Bistro rubric and calculator](Tools/Bistro_Service_Performance_Rubric.md): 5 = 100%, 4 = 90%, 3 = 75%, 2 = 50%, 1 = 25%, 0 = 0%. Each observed service grade is (performance conversion × 0.90) + reflection points out of 10.
 
-The prior Bistro letter-code/band conversion and four-level lab scale are superseded. Do not substitute the old conversion or a linear percentage formula for the unconfirmed 0–5 mapping.
+Minimum passing Bistro performance: The student completes a meaningful share of assigned work, responds to coaching, and contributes to a complete reset, with appropriate support. **Failing boundary:** After clear directions, appropriate support, and an opportunity to improve, the student repeatedly disengages and leaves significant assigned responsibilities for others to complete. Needing substantial help alone does not establish failure.
+
+Overall lab performance includes safe and sanitary work, recipe execution, technique, communication, appropriate product quality, and reset. Observe those behaviors without creating five separately scored areas.
+
+The prior Bistro letter-code/band conversion and four-level lab scale are superseded. Use the adopted Bistro conversion above. Lab and Employability percentage conversions remain unresolved; do not substitute a linear formula or extend the Bistro mapping to them.
 
 ### Recording and Adult Coverage
 
 1. Name the lab target or Bistro assignment and expected standard.
 2. Instructor and Teaching Assistant identify observation coverage before work begins.
 3. Observe natural checkpoints; record meaningful evidence and concise exceptions.
-4. Record the daily lab score or the three Friday Bistro components. Keep reassignment, partial attendance, and missing-work context distinct.
+4. Record the daily lab score or the one Friday Bistro performance score and separate 10-point self-reflection. Keep reassignment, partial attendance, and missing-work context distinct.
 5. Combine adult evidence; the instructor resolves differences and assigns final grades.
 
 Use the [Lab Observation Record](Tools/Lab_Observation_Record.md), [Bistro Manager Observation Record](Tools/Bistro_Manager_Observation_Record.md), and [Bistro Observer Calibration Guide](Tools/Bistro_Observer_Calibration_Guide.md). Reflection supports direct evidence; it does not replace observed physical skill.
 
-The existing entry cadence remains 1–2 accumulated Bistro Summative grades per 4.5-week progress-report period (2–4 per nine weeks). The calculation used to aggregate the new components still requires confirmation.
+The existing entry cadence remains 1–2 accumulated Bistro Summative grades per 4.5-week progress-report period (2–4 per nine weeks). The individual-service calculation is confirmed above; aggregation across services still requires confirmation.
 
 ### Baseline, Conversion, and Missing Entries
 
-The instructor has directed a baseline of four for Employability and Bistro. **INSTRUCTOR DECISION REQUIRED:** confirm the full 0–5-to-percentage mapping, eligible blank entries, verification safeguards, and weekly/accumulated gradebook calculations before automating them. Four must not automatically become 80 percent. Absence, noncompletion, and insufficient observation must not silently become baseline performance.
+The instructor has directed a baseline of four for Employability and Bistro. Bistro level 4 now converts to 90% before the service weighting and reflection calculation. **INSTRUCTOR DECISION REQUIRED:** confirm lab and Employability conversions, eligible blank entries, verification safeguards, and weekly/accumulated calculations before automating them. Absence, noncompletion, and insufficient observation must not silently become baseline performance.
 
 If an adult failed to record observations, the instructor has identified 90 as the fallback so students are not disadvantaged by adult recording failure. Confirm the occurrence and distinguish it from student missing work; the repeatable verification procedure remains open.
 
@@ -127,7 +131,7 @@ The [Student Assessment Quick Guide](Tools/Student_Assessment_Quick_Guide.md) ex
 
 ## Decisions Still Requiring Instructor Confirmation
 
-- Full 0–5 conversion, eligible blank entries and verification, adult-recording-failure procedure, gradebook aggregation, and feedback/conference schedule.
+- Lab and Employability percentage conversions; eligible blank entries and verification; adult-recording-failure procedure; aggregation across Bistro services; feedback/conference schedule. Bistro level descriptions, conversion, and individual-service calculation are confirmed in the November 10 decision.
 - Reconcile newer missing-work directions with the older absence provisions below; finalize Canvas implementation.
 - Whether adults use identical or area-specific records while collecting the same evidence.
 

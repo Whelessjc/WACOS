@@ -2,7 +2,7 @@
 
 ## Highest Priority Instructor / Administrative Decisions
 - Implement the approved footwear sequence (warning → parent communication → administrative referral) with school procedures/supports. Broader readiness and placement escalation remain D013; no automatic removal threshold.
-- Resolve D001: complete 0–5 conversion, verified blank-entry rules, adult recording-failure workflow, gradebook aggregation, newer absence/older makeup-rule reconciliation, and feedback conference schedule.
+- Resolve remaining D001 items: lab and Employability percentage conversions, verified blank-entry rules, adult recording-failure workflow, aggregation across Bistro services, newer absence/older makeup-rule reconciliation, and feedback conference schedule. Bistro level descriptions, conversion, and individual-service formula were adopted November 10; do not reopen them as unresolved.
 - Resolve the approved OnTime/Kiosk fallback for Bistro guest ILT check-in when the system fails. The first public service showed that an improvised paper fallback weakens attendance verification. See GitHub Issue #3.
 - Define a reliable workflow for accepted phone/email/other remote Bistro orders to enter Square promptly without creating a loose parallel paper production stream. Preserve current financial controls until confirmed. See GitHub Issue #3.
 - Decide whether/when to develop a separate Service/FOH appearance standard. Do not treat this as required current policy until approved.

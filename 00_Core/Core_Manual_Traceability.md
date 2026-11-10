@@ -1,8 +1,8 @@
 # Core Manual Traceability
 
-West Ashley Culinary Core Manual, Version 1.7
+West Ashley Culinary Core Manual, Version 1.10
 
-Current as of October 25, 2026
+Current as of November 10, 2026
 
 This document maps each major section of `West_Ashley_Culinary_Core_Manual.md` to the source documents and decisions used to synthesize it. It is intended to support future maintenance, audit, and revision.
 
@@ -87,7 +87,7 @@ The [approved decision](2026-10-17_Culinary_2_Bistro_Fundamentals_Redesign.md) u
 
 ## October 25, 2026 — Catch-Up Reconciliation (S021)
 
-The [approved catch-up decision](2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md) supersedes older assessment conversion/deduction descriptions in historical traceability rows. The Core Manual and Assessment System now describe one daily 0–5 lab score, Friday Bistro Performance/Reset/Reflection at 45/45/10, and baseline-four direction with unresolved implementation in D001. Footwear escalation, explicit station setup checks, adjustable staffing, and the simplified Prototype E presentation are aligned in current operating documents. Course-category weights, safety authority, accommodations, and student privacy remain unchanged.
+The [approved catch-up decision](2026-10-25_Assessment_Readiness_and_Bistro_Catch_Up.md) supersedes older assessment conversion/deduction descriptions in historical traceability rows. At adoption, the Core Manual and Assessment System described one daily 0–5 lab score, Friday Bistro Performance/Reset/Reflection at 45/45/10, and baseline-four direction with unresolved implementation in D001. The Bistro structure and conversion status are superseded by the November 10 decision below. Footwear escalation, explicit station setup checks, adjustable staffing, and the simplified Prototype E presentation are aligned in current operating documents. Course-category weights, safety authority, accommodations, and student privacy remain unchanged.
 
 ## October 31, 2026 — Reliability Correction Trace
 
@@ -100,3 +100,7 @@ The [approved reliability decision](DECISION_REGISTER.md#october-31-2026--approv
 ## November 8, 2026 — Released from Duties (S022)
 
 Instructor-approved [clarification](2026-11-08_Released_from_Duties_and_Return_to_Work.md) updates Core Manual Readiness and the [reflection source](../03_Assessment/Tools/Released_from_Duties_Reflection_and_Request_to_Return.md): all practical work, repeated noncontribution after clear direction/help, no automatic reassignment, and reflection/request plus demonstrated readiness and instructor approval before return. The actual September 23 blank Word form was inspected and is updated outside GitHub. The later November 8 clarification permits same-day return after all requirements are met and adds page-two standing learning directions using existing materials and notebook paper, without custom adult-prepared work; students continue existing coursework while awaiting review. Assessment, Bistro Operations, AI quick reference, decision records, and source manifest agree. Prior form wording about next-day readiness reset is replaced; existing grading, accommodations, equipment authorization, and school procedures remain in force.
+
+## November 10, 2026 — Bistro Performance and Self Reflection (S023)
+
+Instructor direction to revise the rubric/calculator and update WACOS adopts the [decision](2026-11-10_Bistro_Performance_and_Self_Reflection.md) and [canonical rubric](../03_Assessment/Tools/Bistro_Service_Performance_Rubric.md). The Core Manual assessment section now uses one 0–5 overall performance score including reset, reflection /10, revised conversions 100/90/75/50/25/0 for levels 5/4/3/2/1/0, and service grade = (conversion × 0.90) + reflection points. Minimum meaningful contribution may be demonstrated with substantial support. Repeated disengagement and significant responsibilities left for others after directions, support, and an opportunity to improve define the failing boundary. Current assessment tools, C2 assessment navigation, AI reference, decision register, and TODO align. Earlier three-component and generated numeric mappings are superseded. Lab/Employability conversions and other D001 items remain open. The revised editable Word delivery stays outside GitHub.

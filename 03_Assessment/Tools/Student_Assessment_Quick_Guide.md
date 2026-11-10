@@ -8,7 +8,11 @@ West Ashley Culinary grades what you can show through real work. Observation rec
 
 ## Bistro
 
-Friday Bistro records Performance 45%, Reset 45%, and Reflection 10%, each on a 0–5 scale. Opening readiness is required and informs performance. Work safely, use current references, communicate clearly, respond to coaching, and leave the station reset. Reflection supports your performance evidence. Bistro remains in Summative Assessments: Projects, Tests, and Bistro.
+Friday Bistro records one overall 0–5 performance score, including reset, and a separate self-reflection worth 10 points. Use the [Bistro rubric and calculator](Bistro_Service_Performance_Rubric.md): levels 5, 4, 3, 2, 1, 0 convert to 100%, 90%, 75%, 50%, 25%, 0%. The service grade is (conversion × 0.90) + reflection points.
+
+To meet the minimum performance standard, complete a meaningful share of assigned work, respond to coaching, and contribute to complete reset with appropriate support. You can struggle and need help while meeting that standard. After directions, support, and an opportunity to improve, repeatedly disengaging and leaving significant responsibilities for others is below the passing performance standard.
+
+Opening readiness is required and informs performance. Work safely, use current references, communicate clearly, respond to coaching, and leave the station reset. Reflection supports your performance evidence. Bistro remains in Summative Assessments: Projects, Tests, and Bistro.
 
 ## Labs
 
