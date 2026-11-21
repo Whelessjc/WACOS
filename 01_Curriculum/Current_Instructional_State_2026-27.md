@@ -52,3 +52,17 @@ The instructor has reported prior work on chicken fabrication/stock, chicken bog
 ## Future cohort plan confirmed November 3 — Spring Culinary 1
 
 Instructor approved the [spring semester sequence](Culinary_1/Spring_2027_Semester_Map.md) and 18 current-format guides, then confirmed Week 9 Wednesday quarter-end deep clean, April 29 Teacher Appreciation meal using the fall large-meal operating model with a different menu/count to be confirmed, and expected final student attendance by May 21. May 17–21 is reflection/breakdown/cleaning/next-year planning; May 24–27 is rare makeup. Spring C1 Chopped moves to April 12–14, Week 14. These are approved future plans, not completed teaching. Current fall instructional history remains unchanged.
+
+
+## Fall Weeks 16–18 correction — November 21, 2026
+
+**Source:** Instructor confirmation in current planning conversation November 21, plus recovered instructor-confirmed November 19 scheduling decisions. These commitments supersede a Week 16 guide that omitted cookie production. Older fall teaching history is not newly verified.
+
+| When | Scope | Status | Required work |
+|---|---|---|---|
+| Week 16 Monday–Wednesday, Nov 30–Dec 2 | Culinary program | Confirmed event sequence | Chopped appetizer, entrée and dessert rounds. Eliminated teams move to cookie prep and cleaning; they are not restricted to cleaning alone. Active teams remain responsible for their stations. Cookie production must be scheduled alongside the event. |
+| Ready Thursday Dec 3 | Program production | Instructor-confirmed commitment | 1,000 tree-lighting sugar cookies must be baked and ready. Count accepted cookies separately from damaged/rejected product. Recipe trial status, program/class production allocation, oven throughput, packaging and transport still require operational verification; do not convert earlier assistant estimates into approved facts. |
+| Wednesday Dec 2; ready Thursday morning Dec 3 | Guest-speaker preparation | Instructor-confirmed commitment | Bake approximately 60 flat Santa Claus head sugar cookies, fully cool and protect them for Thursday morning. This is a different variety from the tree-lighting cookies and is not part of the 1,000 count. Guest-speaker cookie formula remains unconfirmed in the retrieved sources. |
+| Thursday Dec 3 | Culinary 2 only | Confirmed visit | Instructor's sister leads cookie decorating. Make icing Thursday. Do not assign Culinary 1 to attend this visit. Icing formula and speaker preparation requirements remain operational details to settle. |
+
+**Planning correction:** Daily Culinary 1 plans must name the actual dish/product, student work sequence and finished result; generic instructions such as “select a familiar task” do not constitute an executable lesson. Current confirmed commitments outrank generic pacing. Grilled cheese was accepted in the November 19 discussion; Bodega was rejected. A Week 17 cheese/tomato-soup/basil-oil instructional sequence and a Week 18 soup-and-sandwich practical are revised assistant proposals, not instructor-approved or completed teaching.
