@@ -1,5 +1,5 @@
 # Current Instructional State — 2026–27
-**Last reconciled:** November 2, 2026 | **Status:** Live instructor-confirmed operations record
+**Last reconciled:** November 21, 2026 | **Status:** Live instructor-confirmed operations record
 **Read with:** [Current-State Verification Protocol](../09_Workflows/Current_State_Verification_Protocol.md)
 **Authority:** Current instructor confirmation outranks older plans, generated DTGs, and Library copies. This file records instructional reality, not governing safety policy.
 
@@ -65,4 +65,26 @@ Instructor approved the [spring semester sequence](Culinary_1/Spring_2027_Semest
 | Wednesday Dec 2; ready Thursday morning Dec 3 | Guest-speaker preparation | Instructor-confirmed commitment | Bake approximately 60 flat Santa Claus head sugar cookies, fully cool and protect them for Thursday morning. This is a different variety from the tree-lighting cookies and is not part of the 1,000 count. Guest-speaker cookie formula remains unconfirmed in the retrieved sources. |
 | Thursday Dec 3 | Culinary 2 only | Confirmed visit | Instructor's sister leads cookie decorating. Make icing Thursday. Do not assign Culinary 1 to attend this visit. Icing formula and speaker preparation requirements remain operational details to settle. |
 
-**Planning correction:** Daily Culinary 1 plans must name the actual dish/product, student work sequence and finished result; generic instructions such as “select a familiar task” do not constitute an executable lesson. Current confirmed commitments outrank generic pacing. Grilled cheese was accepted in the November 19 discussion; Bodega was rejected. A Week 17 cheese/tomato-soup/basil-oil instructional sequence and a Week 18 soup-and-sandwich practical are revised assistant proposals, not instructor-approved or completed teaching.
+**Planning correction:** Daily Culinary 1 plans must name the actual dish/product, student work sequence and finished result; generic instructions such as “select a familiar task” do not constitute an executable lesson. Current confirmed commitments outrank generic pacing. Grilled cheese was accepted in the November 19 discussion; Bodega was rejected. The earlier Week 17 cheese/tomato-soup/basil-oil sequence and Week 18 soup-and-sandwich practical were assistant proposals and are superseded by the confirmed sequence below.
+
+
+## Confirmed fall finish — Week 17 and Week 18, November 21, 2026
+
+**Source:** Instructor supplied/confirmed the updated Week 17 Finish Strong guide in the current conversation; the recovered November 1 instructor plan supplies the faculty-meal and Week 18 commitments. These are approved plans, not completed teaching. Current recipes, safety controls, accommodations and instructor grading authority continue to govern.
+
+| Week/day | Confirmed work |
+|---|---|
+| Week 17 Monday | Small-batch Korean Beef Bowl practice for the faculty-meal final. Use the existing Bistro recipe. Path 3/4 may complete limited advance mise for Tuesday, with proper storage/labels. This is not production for 200. |
+| Week 17 Tuesday | Chicken Alfredo with penne: actual composed-plate cooking lab. Read/plan, coordinate chicken, pasta and sauce, verify chicken doneness and raw/clean separation, plate, evaluate and reset. The source file’s leftover scenario/discussion text is an editing error and is corrected in the delivery. |
+| Week 17 Wednesday | Independent original Week 1 pancake lab: students retrieve, measure, mix, cook, plate and reset using the original recipe and established supports. |
+| Week 17 Thursday | Normal Bistro Prep; do not convert this day to faculty-meal rehearsal. |
+| Week 17 Friday | Final regular Bistro Service, closing and reflection. |
+| Week 18 Monday | Assessed deep clean as a final component; inspect, correct and reinspect individual work under existing assessment rules. |
+| Week 18 Tuesday | Faculty Korean bowl meal prep. |
+| Week 18 Wednesday, Dec 16 | Faculty-meal practical final during PACK: accepted working target 200 bowls, 180 Korean Beef and 20 Korean Broccoli; kitchen plating and student runners; two approximately 20-minute waves. Confirm actual count and authorized staffing before execution. |
+| Week 18 Thursday | Reflection, program survey and class party under instructor direction. |
+| Week 18 Friday | Shortened, low-attendance flexible close; no essential new learning depends on attendance. |
+
+**Week 17 Mon–Wed block lengths:** Path 1/2: 95 / 105 / 70 minutes. Path 3/4: 95 / 70 / 105 minutes. Tuesday Path 3/4 uses verified Monday mise where needed; Wednesday Path 1/2 protects one complete smaller pancake cycle. Both sections protect safe work and full reset.
+
+**Faculty meal build:** two designated 4-oz rice scoops and one designated 4-oz beef scoop for beef bowls, with cucumber/carrot components, scallions, sesame and gochujang. Scoop designations are tool sizes, not verified food weights. Use the approved broccoli recipe/build for vegetarian bowls; do not invent a broccoli portion. No student release, volunteer roster, ingredient order, safe cooling capacity or new grading weights are authorized by this planning record.
